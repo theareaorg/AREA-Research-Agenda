@@ -1,0 +1,8 @@
+[[ra_usage_section]]
+== How To Use This Resource
+
+The AREA Research Agenda is not intended to be read from start to finish.
+
+Rather, it is a resource structured to provide [fill in this sentence].
+
+Continue with more instructions about the use of this document.

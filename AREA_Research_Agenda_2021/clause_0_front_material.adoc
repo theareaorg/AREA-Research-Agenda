@@ -1,0 +1,30 @@
+[big]*i.     Abstract*
+
+<Insert Abstract Text here>
+
+[big]*ii.    Keywords*
+
+The following are keywords to be used by search engines and document catalogues.
+
+the AR for Enterprise Alliance, the AREA, AREA Research Committee, AREA Research Agenda, Research Agenda 2021,  <tags separated by commas>
+
+[big]*iii.   Preface*
+
+[NOTE]
+====
+Insert Preface Text here. Describe the technical content, reason for document, history of the document and precursors, and plans for future work.
+Attention is drawn to the fact that this document is a work in progress. The AR for Enterprise Alliance shall not be held responsible for risks taken as a result of the information contained in this document.
+
+Recipients of this document are requested to submit, with their comments, notification of any relevant corrections, additions and feedback which they recommend be made in future editions of this document, and to provide supporting documentation.
+====
+[big]*iv.    Attribution (copyright?)*
+
+This document is the property of the AR for Enterprise Alliance (AREA).
+
+[big]*v.     Submitters*
+
+The following organizations submitted this document to the AREA as part of the fulfilment of deliverables for the 8th AREA-directed Research Project:
+
+Affiliation
+
+All questions regarding this submission should be directed to the editor or the submitters.
