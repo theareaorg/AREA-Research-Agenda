@@ -1,0 +1,4 @@
+[[ra-placeholder-section]]
+== AREA Placeholder Section
+
+The AREA Research Agenda is described in text and in tables.

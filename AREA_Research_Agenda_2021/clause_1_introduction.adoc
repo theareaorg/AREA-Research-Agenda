@@ -1,0 +1,6 @@
+[[ra_introduction_section]]
+== Introduction
+
+The AR for Enterprise Alliance Research Agenda is described in this document.
+
+Here provide a sentence about each section.

@@ -1,4 +1,4 @@
-[[ug_scope_section]]
+[[ra_scope_section]]
 == Scope
 [NOTE]
 ====

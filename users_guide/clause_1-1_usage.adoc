@@ -1,8 +1,0 @@
-[[ug_usage_section]]
-== How To Use This Resource
-
-The GeoPose Users Guide is not intended to be read from start to finish. Rather, it is a resource structured to provide quick answers to questions which an implementer may have about the GeoPose standard.
-
-The GeoPose User Guide includes hyperlinks which can be used to navigate directly to relevant sections of the Users Guide.
-
-NOTE: This is a rough draft. A more refined writeup will be available at a later date.
