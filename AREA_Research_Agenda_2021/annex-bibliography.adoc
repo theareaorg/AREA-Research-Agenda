@@ -6,7 +6,7 @@
 [NOTE]
 .Example Bibliography (Delete this note).
 ===============================================
-The TC has approved Springer LNCS as the official document citation type.
+The AREA has approved Springer LNCS as the official document citation type.
 
 Springer LNCS is widely used in technical and computer science journals and other publications
 
