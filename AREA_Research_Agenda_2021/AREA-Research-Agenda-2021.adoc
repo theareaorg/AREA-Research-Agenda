@@ -95,7 +95,7 @@ Foundation concepts are basic concepts which are important for the use of the st
 ////
 
 [[ra-research-agenda-foundations-section]]
-== GeoPOS Foundations
+== AREA Research Agenda Foundations
 
 include::clause_6_foundations.adoc[]
 
