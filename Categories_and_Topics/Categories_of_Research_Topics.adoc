@@ -1,0 +1,34 @@
+# AREA Research Agenda - Categories of Research
+
+Introduction text
+
+1. End Users
+  a. Requirements
+  b. Inputs
+  c. Acceptance
+2. Experience Content
+  a. Development
+  b. Human Computer Interactions
+  c. Inputs
+  d. Distribution and delivery
+3. Displays
+  a. Optics
+  b. Sensors
+  c.
+4. Developers
+  a. Authoring processes
+  b. Frameworks and tools
+  c. ...
+5. Industries
+  a. Adoption
+  b. Use Cases
+  c. Case Studies
+6. Policies and Regulations
+  a. ...
+7. Business
+  a. Return on Investment
+  b. ...
+8. Standards
+  a. ..
+9. Communications
+  a. Networks
