@@ -6,7 +6,7 @@
 |C. Perey - first draft
 |===
 
-NOTE: in this example this module is first divided into multiple sections. This is done to make the concept more accessible.
+NOTE: in this example this module is first divided into multiple sections. This is done to make the concepts more accessible.
 
 The AREA Research Agenda.
 
@@ -26,17 +26,19 @@ The AREA Research Agenda.
 [[ra-key-concepts-section]]
 ==== Key Concepts
 
-The following is a summary of the key concepts described by the Core Module. This is not an exaustive listing of all of the Core concepts. Rather, it is an introduction those concepts which are essentiall for understanding the role of the Core Module in the CityGML Conceptual Model.
+The following is a summary of the key concepts described by the Core Module. This is not an exhaustive listing of all of the Core concepts. Rather, it is an introduction those concepts which are essential for understanding the role of the Core Module in the CityGML Conceptual Model.
 
 [[city-model-concept]]
 <<CityModel-section,*CityModel*>>: (<<ug-city-model-section,Discussion>>) The CityModel class is the root class of every CityGML conceptual model. It's primary purpose is to aggregate CityModelMembers.
 
-NOTE: Each entry includes a link to the corresponding data dictionary (click on the name) and a link to further discussion of the concept (discussion). Furthermore, each concept has an anchor which makes it a potential target of an interal link.
+NOTE: Each entry includes a link to the corresponding data dictionary (click on the name) and a link to further discussion of the concept (discussion). Furthermore, each concept has an anchor which makes it a potential target of an internal link.
+
+There are many anchors in this file that begin with the letters "ug". Those are from the CityGML Users Guide and will all be modified/removed when the Research Agenda is published.
 
 [[ra-iso-dependencies-section]]
 ==== ISO Dependencies
 
-NOTE: these classes are commonly used in OGC standards. I left the content in case you have a use for it.
+NOTE: these classes are commonly used in OGC standards. They were left in the template in case we have a use for them.
 
 CityGML builds on the ISO 19100 family of standards. The applicable standards are identified in <<ISO-in-CityGML-diagram>>. A <<ISO-classes-dd,Data dictionary>> is also included for all of the ISO-defined classes explicitly referenced in the CityGML UML model. These data dictionaries are provided for the convenience of the user. The ISO standards are the normative source.
 
