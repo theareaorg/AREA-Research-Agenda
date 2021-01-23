@@ -3,6 +3,8 @@
 
 For the purposes of this document, the following additional terms and definitions apply.
 
+NOTE: This clause currently contains some placeholders that remain from the template on which this document is based (OGC CityGML Users Guide). As part of the development of the Research Agenda, we will remove the placeholders and define all the mid-level and high-level terms created for the FindAR tool and used as the basis for analyses generating the thought leadership in the AREA Research Agenda.
+
 [[d2d-data-definition]]
 *2D data* +
 geometry of features is represented in a two-dimensional space +
@@ -48,4 +50,4 @@ Specified on the OGC Document Types Register at link:http://www.opengis.net/def/
 
 
 
-NOTE: Notice that each definition has an anchor. Anchor text would also be a good idea which we may include latter. Terms used within a definition should be cross-linked to their definition if it is included in this document (see <<application-schema-definition,Application Schema>> for an example.
+NOTE: Notice that each definition has an anchor. Anchor text would also be a good idea which we may include later. Terms used within a definition should be cross-linked to their definition if it is included in this document (see <<application-schema-definition,Application Schema>> for an example.

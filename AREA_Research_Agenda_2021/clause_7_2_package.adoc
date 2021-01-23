@@ -20,8 +20,6 @@ NOTE: This is a smaller package so a separate "discussion" link is not necessary
 
 This is the informative text that most users will be looking for. Remember that hyperlinks are important. For example, each time a class name is used you can include a link back to the definition of that class (ex. <<abstract-city-object-concept,City Object>>)
 
-The beauty of hypermedia is that users can quickly get the additional data they may need to understand your writing.
-
 [[ra-first-package-uml-section]]
 ==== UML Model
 
