@@ -26,54 +26,54 @@ Mid-level terms are
 - Construction
 - Consumer products -
 - Cultural Heritage - includes hospitality, travel, tourism, sports,
-Data
-Developers
-Device energy management
-Display technology
-Education
-Emergency responders
-Engineering
-Food, agriculture, and natural sciences
-Geospatial
-Government
-Graphics
-Human-Computer Interaction
-Human Factors
-Industrial equipment
-Input
-Inspection, safety and quality
-Integration
-IoT
-Liberal arts
-Logistics
-Manufacturing
-Maintenance
-Marine
-Medical
-Metals and mining
-Navigation
-Network, networking and network architectures
-Oil and gas
-Optics
-Policy
-Power and Energy
-Presence
-Robotics
-Security
-Semiconductors
-Sensors
-Simulation
-Smart Cities
-Standards
-Telecommunication(s)
-Training
-Transportation
-Users
-Utilities
-Video
-Wearables
-Web Services
-Other/Not categorized
+- Data
+- Developers
+- Device energy management
+- Display technology
+- Education
+- Emergency responders
+- Engineering
+- Food, agriculture, and natural sciences
+- Geospatial
+- Government
+- Graphics
+- Human-Computer Interaction
+- Human Factors
+- Industrial equipment
+- Input
+- Inspection, safety and quality
+- Integration
+- IoT
+- Liberal arts
+- Logistics
+- Manufacturing
+- Maintenance
+- Marine
+- Medical
+- Metals and mining
+- Navigation
+- Network, networking and network architectures
+- Oil and gas
+- Optics
+- Policy
+- Power and Energy
+- Presence
+- Robotics
+- Security
+- Semiconductors
+- Sensors
+- Simulation
+- Smart Cities
+- Standards
+- Telecommunication(s)
+- Training
+- Transportation
+- Users
+- Utilities
+- Video
+- Wearables
+- Web Services
+- Other/Not categorized
 
 [[ra-research-category-table,Table {counter:table-num}]]
 .Research Categories of the AREA Research Agenda 2021
