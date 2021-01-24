@@ -52,23 +52,25 @@ The highest levels are the categories. The team needs to discuss if and how the 
 
   This is a table in which we can organize text
 
-  [[ra-research-category-table,Table {counter:table-num}]]
-  .Research Categories of the AREA Research Agenda 2021
-  [cols="2,6",options="headers"]
-  |===
-  ^|*Category Name* ^|*Description*
-  |<<AnyFeature-section,AnyFeature>> |[[anyfeature-concept]] A generalization of all feature types
-  |<<CV_DiscreteGridPointCoverage-section,CV_DiscreteGridPointCoverage>> |[[cv_discrete-grid-point-coverage-concept]]A coverage that returns the same feature attribute values for every direct position within any object in its domain.
-  |<<DirectPosition-section,DirectPosition>> |[[direct-position-concept]]The coordinates for a position within some coordinate reference system.
-  |<<GM_Object-section,GM_Object>> |[[gm_object-concept]]The root class of the geometric object taxonomy.
-  |<<GM_MultiCurve-section,GM_MultiCurve>> |[[gm_curve-concept]]An aggregate class containing only instances of GM_OrientableCurve.
-  |<<GM_MultiPoint-section,GM_MultiPoint>> |[[gm_multipoint-concept]]An aggregate class containing only points.
-  |<<GM_MultiSurface-section,GM_MultiSurface>> |[[gm_multisurface-concept]]An aggregate class containing only instances of GM_OrientableSurface.
-  |<<GM_Point-section,GM_Point>> |[[gm_point-concept]]The basic data type for a geometric object consisting of one and only one point.
-  |<<GM_Solid-section,GM_Solid>> |[[gm_solid-concept]]The basis for 3-dimensional geometry. The extent of a solid is defined by the boundary surfaces.
-  |<<GM_Surface-section,GM_Surface>> |[[gm_surface-concept]]The basis for 2-dimensional geometry.
-  |<<GM_Tin-section,GM_Tin>> |[[gm_tin-concept]]A GM_TriangulatedSurface which uses the Delaunay or similar algorithm.
-  |<<GM_TriangulatedSurface-section,GM_TriangulatedSurface>> [[gm_triangulated-surface-concept]]|A GM_PolyhedralSurface that is composed only of triangles
-  |<<SC_CRS-section,SC_CRS>> |[[sc_crs-concept]]Coordinate reference system which is usually single but may be compound.
-  |<<TM_Position-section,TM_Position>> |[[tm_position-concept]]A union class that consists of one of the data types listed as its attributes.
-  |===
+  
+[[ra-research-category-table,Table {counter:table-num}]]
+.Research Categories of the AREA Research Agenda 2021
+[cols="2,6",options="headers"]
+|===
+^|*Category Name* ^|*Description*
+|<<AnyFeature-section,AnyFeature>> |[[anyfeature-concept]] A generalization of all feature types
+|<<CV_DiscreteGridPointCoverage-section,CV_DiscreteGridPointCoverage>> |[[cv_discrete-grid-point-coverage-concept]]A coverage that returns the same feature attribute values for every direct position within any object in its domain.
+|<<DirectPosition-section,DirectPosition>> |[[direct-position-concept]]The coordinates for a position within some coordinate reference system.
+|<<GM_Object-section,GM_Object>> |[[gm_object-concept]]The root class of the geometric object taxonomy.
+|<<GM_MultiCurve-section,GM_MultiCurve>> |[[gm_curve-concept]]An aggregate class containing only instances of GM_OrientableCurve.
+|<<GM_MultiPoint-section,GM_MultiPoint>> |[[gm_multipoint-concept]]An aggregate class containing only points.
+|<<GM_MultiSurface-section,GM_MultiSurface>> |[[gm_multisurface-concept]]An aggregate class containing only instances of GM_OrientableSurface.
+|<<GM_Point-section,GM_Point>> |[[gm_point-concept]]The basic data type for a geometric object consisting of one and only one point.
+|<<GM_Solid-section,GM_Solid>> |[[gm_solid-concept]]The basis for 3-dimensional geometry. The extent of a solid is defined by the boundary surfaces.
+|<<GM_Surface-section,GM_Surface>> |[[gm_surface-concept]]The basis for 2-dimensional geometry.
+|<<GM_Tin-section,GM_Tin>> |[[gm_tin-concept]]A GM_TriangulatedSurface which uses the Delaunay or similar algorithm.
+|<<GM_TriangulatedSurface-section,GM_TriangulatedSurface>> [[gm_triangulated-surface-concept]]|A GM_PolyhedralSurface that is composed only of triangles
+|<<SC_CRS-section,SC_CRS>> |[[sc_crs-concept]]Coordinate reference system which is usually single but may be compound.
+|<<TM_Position-section,TM_Position>> |[[tm_position-concept]]A union class that consists of one of the data types listed as its attributes.
+|===
+
