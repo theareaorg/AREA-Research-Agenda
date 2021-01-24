@@ -4,4 +4,6 @@ The terms used in the AREA Research Agendas will be listed and definitions provi
 
 The terms and definitions contained in this file will be used in the terms and definitions clause of each edition of the Research Agenda issued by the AREA.
 
-This is text
+*this is a term* +
+This is the definition+
+{blank}[source]

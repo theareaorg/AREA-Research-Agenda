@@ -1,4 +1,4 @@
-:Title: AREA Research Agenda 2021
+:Title: AREA Research Agenda Documentation
 :titletext: {Title}
 :doctype: book
 :encoding: utf-8
@@ -42,7 +42,7 @@
 |*Warning*
 |===
 
-This document provides guidance about topics for future research. It is based on insights and opinions of the members of the AR for Enterprise. T
+This document provides guidance about topics for future research. It is based on insights and opinions of the members of the AR for Enterprise. 
 
 [width = "50%", grid = "none"]
 |===

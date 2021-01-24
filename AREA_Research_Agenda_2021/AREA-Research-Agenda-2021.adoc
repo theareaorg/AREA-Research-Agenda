@@ -15,11 +15,9 @@
 |===
 |{set:cellbgcolor:#FFFFFF}
 |[big]*AR for Enterprise Alliance*
-|Submission Date: <yyyy-mm-dd>
-|Approval Date:   <yyyy-mm-dd>
-|Publication Date:   <2021-01-15>
-|External identifier of this AREA(R) document: http://www.opengis.net/doc/EG/{standard}/{m.n}
-|Internal reference number of this AREA(R) document:    YY-nnnrx
+|Approval Date:   <2021-mm-dd>
+|Publication Date:   <2021-mm-dd>
+|External identifier of this AREA(R) document: http://www.theAREA.org/{researchagenda}/{m.n}
 |Version: n.n
 |Category: AREA(R) Research Agenda
 |Editor:   <Name(s) of Editor or Editors>
@@ -55,7 +53,7 @@ This document provides guidance about topics for future research. It is based on
 <<<
 License Agreement
 
-[small]#Permission is hereby granted by the AR for Enterprise Alliance, ("Licensor"), free of charge and subject to the terms set forth below, to any person obtaining a copy of this Intellectual Property and any associated documentation, to deal in the Intellectual Property without restriction (except as set forth below), including without limitation the rights to implement, use, copy, modify, merge, publish, distribute, and/or sublicense copies of the Intellectual Property, and to permit persons to whom the Intellectual Property is furnished to do so, provided that all copyright notices on the intellectual property are retained intact and that each person to whom the Intellectual Property is furnished agrees to the terms of this Agreement.#
+[small]#Permission is hereby granted by the AR for Enterprise Alliance (ask Mark if we should have the correct legal name of the AREA appear here), ("Licensor"), free of charge and subject to the terms set forth below, to any person obtaining a copy of this Intellectual Property and any associated documentation, to deal in the Intellectual Property without restriction (except as set forth below), including without limitation the rights to implement, use, copy, modify, merge, publish, distribute, and/or sublicense copies of the Intellectual Property, and to permit persons to whom the Intellectual Property is furnished to do so, provided that all copyright notices on the intellectual property are retained intact and that each person to whom the Intellectual Property is furnished agrees to the terms of this Agreement.#
 
 [small]#If you modify the Intellectual Property, all copies of the modified Intellectual Property must include, in addition to the above copyright notice, a notice that the Intellectual Property includes modifications that have not been approved or adopted by LICENSOR.#
 
@@ -91,7 +89,7 @@ include::clause_4_terms_and_definitions.adoc[]
 include::clause_5_conventions.adoc[]
 
 ////
-Foundation concepts are basic concepts which are important for the use of the standard. The contents of this section are referrenced from within this Users Guide. Exterior links should not resolve in this section.
+Foundation concepts are basic concepts which are important for the use of the standard. The contents of this section are referenced from within this Users Guide. Exterior links should not resolve in this section.
 ////
 
 [[ra-research-agenda-foundations-section]]
@@ -107,8 +105,8 @@ include::clause_6_2_foundation-concept.adoc[]
 This section should mirror the normative sections of the standard. External links should resolve here. The goal is to provide a landing zone with access to incrementally more detail as the user navigates deeper into the Users Guide.
 ////
 
-[[ra-model-core-section]]
-== Research Agenda Categories
+[[ra-categories-section]]
+== AREA Research Agenda 2021 Categories
 
 include::clause_7_1_package.adoc[]
 

@@ -1,9 +1,9 @@
-[[ra-model-core-section]]
-=== Core
+[[ra-Name-of-category-section]]
+=== Name of Category
 
 |===
-^|*Contributors*
-|C. Perey - first draft
+^|*Title*
+|first row in the table
 |===
 
 NOTE: in this example this module is first divided into multiple sections. This is done to make the concepts more accessible.

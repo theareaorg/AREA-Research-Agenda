@@ -1,23 +1,31 @@
 # Processes for Developing and Maintaining AREA Research Agendas
 
-1. Generate (and after the first edition, review and update) categories of research topics with clear definitions/scope
+1. Generate (and, after the first edition, review and update) categories of research topics with clear definitions/scope
   a. Based on high level concepts generated from literature analyses scatter diagrams
   b. Based on topics submitted by AREA members in response to calls for topics
-  c. Based on inputs from leadership of AREA committees
+  c. Based on inputs from leadership and members of AREA committees
   d. Topics identified during discussions among AREA Research Agenda team members
 
-2. For each topic defined within each category follow these steps
-  a. Give topic a title with at least 3 words (preferably an adjective, noun and a verb) no longer than 25 characters
+2. Scope of each category will be defined
+
+3. For each topic defined within each category follow these steps
+  a. Give topic a title with at least three words (preferably an adjective, noun and a verb) no longer than 25 characters
   b. For each topic, write in 20 words or less the short description
   c. Designate a value between 1 and 5 (where 1 is none and 5 is a lot) to capture prior work about the topic identified in the FindAR tool
-  d. Assign from a pre-defined set at least one stakeholder group that will benefit from the topic being studied (Target Audiences)
-  e. Place the topic on a plot of difficulty-to-address and, on the X axis, potential-for-impact
-  f. Choose from a pre-defined set of reasons at least one reason (the "Why") this topic is important for AREA members
-  g. Choose from a pre-defined set of methods at least one methodology (the "How") to approach this topic
-  h. Choose from a pre-defined set of time frames (in years) the expected time when the research would impact AREA members
-  i. Fill an optional field with any miscellaneous notes or leave empty
-  j. Assign an author to the topic
+  d. Choose one to five key words (preferably from the low-level or mid-level terms)
+  e. Assign from a pre-defined set at least one stakeholder group that will benefit from the topic being studied (Target Audiences)
+  f. Place the topic on a plot of difficulty-to-address and, on the X axis, potential-for-impact
+  g. Choose from a pre-defined set of reasons at least one reason (the "Why") this topic is important for AREA members
+  h. Choose from a pre-defined set of methods at least one methodology (the "How") to approach this topic
+  i. Choose from a pre-defined set of time frames (in years) the expected time when the research would impact AREA members
+  j. Choose one to many other topics which may be closely related and when combined could create a research program
+  k. Fill an optional field with any miscellaneous notes or leave empty
+  l. Assign an author to the topic
 
-3. When reviewing/maintaining the Research Agenda the following tasks should be performed on each topic
-  a. in FindAR tool search to find new publications on the topic
-  b. if there are new publications, assess their fit and put keywords in notes field
+4. When reviewing/maintaining the Research Agenda the following tasks should be performed on each topic:
+  a. In FindAR tool search to find new publications on the topic
+  b. Generate scatter diagram for the term/topic and compare to prior edition
+  c. If there are new publications, assess their fit and put keywords in notes field
+  d. Update author field/data
+
+NOTE: Should there be/need to create connections between the Topics and Key Principles and Best Practices?

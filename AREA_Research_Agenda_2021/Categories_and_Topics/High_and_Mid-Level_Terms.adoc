@@ -1,0 +1,95 @@
+# High and Mid-Level Terms
+
+In this section, terms used in the literature classification for the FindAR tool, are organized in tables.
+
+High-level terms may include:
+Technology other display
+Displays
+People (does this include developers?)
+Business
+Industries
+
+Should we merge all the low-level terms in "data" and "developers" and find other patterns to make more logical or fine grain mid-level terms?
+
+Mid-level terms are
+Artificial intelligence
+Audio
+Automotive
+Aviation and aerospace
+Business - includes everything having to do with measuring business metrics and performance, human resources, process planning, business planning, marketing and sales use cases,
+Chemical - includes all materials, compounds, elastic deformation (this might not be a good fit), cosmetics,
+Collaboration -
+Computer Human Interfaces
+Computer Vision
+Construction
+Consumer products -
+Cultural Heritage - includes hospitality, travel, tourism, sports,
+Data
+Developers
+Device energy management
+Display technology
+Education
+Emergency responders
+Engineering
+Food, agriculture, and natural sciences
+Geospatial
+Government
+Graphics
+Human-Computer Interaction
+Human Factors
+Industrial equipment
+Input
+Inspection, safety and quality
+Integration
+IoT
+Liberal arts
+Logistics
+Manufacturing
+Maintenance
+Marine
+Medical
+Metals and mining
+Navigation
+Network, networking and network architectures
+Oil and gas
+Optics
+Policy
+Power and Energy
+Presence
+Robotics
+Security
+Semiconductors
+Sensors
+Simulation
+Smart Cities
+Standards
+Telecommunication(s)
+Training
+Transportation
+Users
+Utilities
+Video
+Wearables
+Web Services
+Other/Not categorized
+
+[[ra-research-category-table,Table {counter:table-num}]]
+.Research Categories of the AREA Research Agenda 2021
+[cols="2,6",options="headers"]
+|===
+^|*Category Name* ^|*Description*
+|<<AnyFeature-section,AnyFeature>> |[[anyfeature-concept]] A generalization of all feature types
+|<<CV_DiscreteGridPointCoverage-section,CV_DiscreteGridPointCoverage>> |[[cv_discrete-grid-point-coverage-concept]]A coverage that returns the same feature attribute values for every direct position within any object in its domain.
+|<<DirectPosition-section,DirectPosition>> |[[direct-position-concept]]The coordinates for a position within some coordinate reference system.
+|<<GM_Object-section,GM_Object>> |[[gm_object-concept]]The root class of the geometric object taxonomy.
+|<<GM_MultiCurve-section,GM_MultiCurve>> |[[gm_curve-concept]]An aggregate class containing only instances of GM_OrientableCurve.
+|<<GM_MultiPoint-section,GM_MultiPoint>> |[[gm_multipoint-concept]]An aggregate class containing only points.
+|<<GM_MultiSurface-section,GM_MultiSurface>> |[[gm_multisurface-concept]]An aggregate class containing only instances of GM_OrientableSurface.
+|<<GM_Point-section,GM_Point>> |[[gm_point-concept]]The basic data type for a geometric object consisting of one and only one point.
+|<<GM_Solid-section,GM_Solid>> |[[gm_solid-concept]]The basis for 3-dimensional geometry. The extent of a solid is defined by the boundary surfaces.
+|<<GM_Surface-section,GM_Surface>> |[[gm_surface-concept]]The basis for 2-dimensional geometry.
+|<<GM_Tin-section,GM_Tin>> |[[gm_tin-concept]]A GM_TriangulatedSurface which uses the Delaunay or similar algorithm.
+|<<GM_TriangulatedSurface-section,GM_TriangulatedSurface>> [[gm_triangulated-surface-concept]]|A GM_PolyhedralSurface that is composed only of triangles
+|<<SC_CRS-section,SC_CRS>> |[[sc_crs-concept]]Coordinate reference system which is usually single but may be compound.
+|<<TM_Position-section,TM_Position>> |[[tm_position-concept]]A union class that consists of one of the data types listed as its attributes.
+|===
