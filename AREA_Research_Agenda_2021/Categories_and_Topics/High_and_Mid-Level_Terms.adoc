@@ -13,18 +13,19 @@ High-level terms may include
 Should we merge all the low-level terms in "data" and "developers" and find other patterns to make more logical or fine grain mid-level terms?
 
 Mid-level terms are
+
 - Artificial intelligence
-*Audio
-Automotive
-Aviation and aerospace
-Business - includes everything having to do with measuring business metrics and performance, human resources, process planning, business planning, marketing and sales use cases,
-Chemical - includes all materials, compounds, elastic deformation (this might not be a good fit), cosmetics,
-Collaboration -
-Computer Human Interfaces
-Computer Vision
-Construction
-Consumer products -
-Cultural Heritage - includes hospitality, travel, tourism, sports,
+- Audio
+- Automotive
+- Aviation and aerospace
+- Business - includes everything having to do with measuring business metrics and performance, human resources, process planning, business planning, marketing and sales use cases,
+- Chemical - includes all materials, compounds, elastic deformation (this might not be a good fit), cosmetics,
+- Collaboration -
+- Computer Human Interfaces
+- Computer Vision
+- Construction
+- Consumer products -
+- Cultural Heritage - includes hospitality, travel, tourism, sports,
 Data
 Developers
 Device energy management
