@@ -2,17 +2,18 @@
 
 In this section, terms used in the literature classification for the FindAR tool, are organized in tables.
 
-High-level terms may include:
-Technology other display
-Displays
-People (does this include developers?)
-Business
-Industries
+High-level terms may include
+
+- Technology other display
+- Displays
+- People (does this include developers?)
+- Business
+- Industries
 
 Should we merge all the low-level terms in "data" and "developers" and find other patterns to make more logical or fine grain mid-level terms?
 
 Mid-level terms are
-*Artificial intelligence
+- Artificial intelligence
 *Audio
 Automotive
 Aviation and aerospace
