@@ -10,14 +10,14 @@ High-level terms may include
 - Business
 - Industries
 
-Should we merge all the low-level terms in "data" and "developers" and find other patterns to make more logical or fine grain mid-level terms?
+Should we merge all the low-level terms in "data" and "developers" and find other patterns to make more logical or fine grain mid-level terms? Same case could be made for "artificial intelligence" and "data" mid-level terms.
 
 Mid-level terms are
 
-- Artificial intelligence
+- Artificial intelligence - this group of terms is closely related to the Data mid-level term and there is "contamination" (terms that could be assigned to either group) between these
 - Audio
-- Automotive
-- Aviation and aerospace
+- Automotive - this group of terms has some concepts that are shared with robotics (terms that could be assigned to either group) and with transportation
+- Aviation and aerospace - this group of terms includes some natural sciences (having to do with atmospheric conditions/sciences and meteorology) as well as drones
 - Business - includes everything having to do with measuring business metrics and performance, human resources, process planning, business planning, marketing and sales use cases,
 - Chemical - includes all materials, compounds, elastic deformation (this might not be a good fit), cosmetics,
 - Collaboration -
@@ -35,7 +35,7 @@ Mid-level terms are
 - Engineering
 - Food, agriculture, and natural sciences
 - Geospatial
-- Government
+- Government - includes military
 - Graphics
 - Human-Computer Interaction
 - Human Factors
