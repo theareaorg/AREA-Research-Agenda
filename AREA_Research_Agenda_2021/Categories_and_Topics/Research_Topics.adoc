@@ -6,48 +6,30 @@ The topic anchor (between double brackets in the list below) will be used to lin
 
 
 [[ra-topic-1]]
+
 Title:
+
 Description:
+
 Prior Research (1-5):
+
 Key Words:
+
 Stakeholders:
+
 Position on X and Y axes (1-5):
+
 Reasons this topic is important for AREA members:
+
 Possible methodologies:
+
 Expected time frame when the research would impact AREA members:
-Could be combined with to create research program:
+
+Could be combined with these topics to create research program:
+
 Miscellaneous notes:
+
 Author:
-
-[[ra-topic-2]]
-Title:
-Description:
-Prior Research (1-5):
-Key Words:
-Stakeholders:
-Position on X and Y axes (1-5):
-Reasons this topic is important for AREA members:
-Possible methodologies:
-Expected time frame when the research would impact AREA members:
-Could be combined with to create research program:
-Miscellaneous notes:
-Author:
-
-
-[[ra-topic-3]]
-Title:
-Description:
-Prior Research (1-5):
-Key Words:
-Stakeholders:
-Position on X and Y axes (1-5):
-Reasons this topic is important for AREA members:
-Possible methodologies:
-Expected time frame when the research would impact AREA members:
-Could be combined with to create research program:
-Miscellaneous notes:
-Author:
-
 
 [[ra-research-topics-table,Table {counter:table-num}]]
 .AREA Research Agenda 2021 Research Topics
