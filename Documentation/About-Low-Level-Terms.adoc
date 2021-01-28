@@ -1,6 +1,8 @@
 # About Low-Level Terms
 
 ## What are Low-Level Terms?
+Just checking if my push works well...
+
 Bill to write up. When entered into something, terms are automatically (by what? how?) attributed (assigned) to journal and conference articles by (what part? who?).
 Is Low-Level terms what they are called by the system that assigned them? If not, we should use their technical (originally assigned) name.
 
