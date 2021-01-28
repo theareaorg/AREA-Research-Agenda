@@ -23,5 +23,3 @@ In the process of attributing low-level terms to groups, the research team disco
 . Some terms are in the list, however, lack specificity and richness. For example, drones are an important source of real world data and there are many subtleties which could be detected, however, the term "drones" and "autonomous aerial vehicles" each appear once. Another example is the term "metadata" which, although can be used in many ways in the research literature, appears once.
 . Also, terms with which one could search for features of Augmented Reality display technologies are also lacking.
 . Finally, there are many terms that are also absent at the time of this research, but would be valuable for FindAR users and the preparation of the AREA Research Agenda. They include terms about geographies (e.g., regional or nation state names), the business aspects of introducing or deploying AR, standardization (for example, the names of standards development organizations like Khronos Group, and NIST) and about the users of Augmented Reality systems.
-
-NOTE: Should we propose to work towards improvements in these labels/terms to increase relevance of search results?
