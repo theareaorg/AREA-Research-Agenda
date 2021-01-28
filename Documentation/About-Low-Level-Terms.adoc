@@ -17,29 +17,11 @@ Low-level terms were grouped into mid-level terms (do we want to give this anoth
 ## Feedback/Drawbacks
 In the process of attributing low-level terms to groups, the research team discovered (is that the best word?) significant shortcomings:
 
-[number] Many of the terms are not in common use in the field of computer science (in general) or in the specific computing segments of concern to this project.
-
-For example, locks (fasteners), multimedia computing, microcomputers, groupware, and computer mediated communication. One of the terms is "earth."
-
-Meanwhile, the term "technology," which lacks all specificity and applies to many aspects of computing, is also one of the low-level terms. "Information technology" is also a low-level term.
-
-[number] Some terms currently in use by those working in the field of Augmented Reality (and Mixed Reality, more generally) do not exist in the list of terms generated or used by the system.
-
-For example, "anchor" (or the plural "anchors"), "trackable" (or the plural "trackables"), "trigger" (or the plural "triggers") are widely used for describing real world conditions in relation to Augmented Reality authoring and delivery systems.
-
-Meanwhile, despite there being hundreds of relevant entries, the terms "rendering (computer graphics)," "ios (operating system)," "android (operating system)," "tracking (position)" and "slam (robots)" were not assigned to any of the articles in the database.
-
-Other terms that are widely used in computing that are not found in the low-level list include "point clouds" (which could also have dense point clouds, sparse point clouds), and, even more basic, "file format" (or the plural "file formats"). At the intersection of these, there could be included the names of point cloud file formats (for example, E57).
-
-[number] For searching for articles pertaining to spatial computing research or concepts, commonly used terms such as "Cartesian coordinates" and "Euler angles" are entirely absent in the low-level list.
-
-[number] Some terms are in the list, however, lack specificity and richness. For example, drones are an important source of real world data and there are many subtleties which could be detected, however, the term "drones" and "autonomous aerial vehicles" each appear once.
-
-Another example is the term "metadata" which, although can be used in many ways in the research literature, appears once.
-
-[number] Also, terms with which one could search for features of Augmented Reality display technologies are also lacking.
-
-[number] Finally, there are many terms pertaining to geographies (e.g., regional or nation state names), the business aspects of introducing or deploying AR, to standardization (for example, the names of standards development organizations like Khronos Group, and NIST) and to the users of Augmented Reality systems that are also absent at the time of this research, but would be valuable for FindAR users and the preparation of the AREA Research Agenda.
-
+. Many of the terms are not in common use in the field of computer science (in general) or in the specific computing segments of concern to this project. For example, locks (fasteners), multimedia computing, microcomputers, groupware, and computer mediated communication. One of the terms is "earth." Meanwhile, the term "technology," which lacks all specificity and applies to many aspects of computing, is also one of the low-level terms. "Information technology" is also a low-level term.
+. Some terms currently in use by those working in the field of Augmented Reality (and Mixed Reality, more generally) do not exist in the list of terms generated or used by the system. For example, "anchor" (or the plural "anchors"), "trackable" (or the plural "trackables"), "trigger" (or the plural "triggers") are widely used for describing real world conditions in relation to Augmented Reality authoring and delivery systems. Other terms that are widely used in computing that are not found in the low-level list include "point clouds" (which could also have dense point clouds, sparse point clouds), and, even more basic, "file format" (or the plural "file formats"). At the intersection of these, there could be included the names of point cloud file formats (for example, E57).
+. For searching for articles pertaining to spatial computing research or concepts, commonly used terms such as "Cartesian coordinates" and "Euler angles" are entirely absent in the low-level list.
+. Some terms are in the list, however, lack specificity and richness. For example, drones are an important source of real world data and there are many subtleties which could be detected, however, the term "drones" and "autonomous aerial vehicles" each appear once. Another example is the term "metadata" which, although can be used in many ways in the research literature, appears once.
+. Also, terms with which one could search for features of Augmented Reality display technologies are also lacking.
+. Finally, there are many terms that are also absent at the time of this research, but would be valuable for FindAR users and the preparation of the AREA Research Agenda. They include terms about geographies (e.g., regional or nation state names), the business aspects of introducing or deploying AR, standardization (for example, the names of standards development organizations like Khronos Group, and NIST) and about the users of Augmented Reality systems.
 
 NOTE: Should we propose to work towards improvements in these labels/terms to increase relevance of search results?
