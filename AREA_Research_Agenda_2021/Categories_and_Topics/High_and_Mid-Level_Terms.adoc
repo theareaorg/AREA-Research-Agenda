@@ -1,17 +1,19 @@
-# High and Mid-Level Terms
+# Categories and Mid-Level Terms
 
 In this section, terms used in the literature classification for the FindAR tool, are organized in tables.
 
-## Research topic categories
+## Research Categories
 
-The AREA Research Agenda groups research topics in the following categories:
+The AREA Research Agenda 2021 edition groups research topics in five categories.
+
 - Technology (other than displays)
 - Displays
-- People 
+- End Users and User Experience 
 - Business
 - Industries
 
-##Mid-level terms 
+## Mid-level Terms 
+
 The explanation of what is included in each mid-level term is documented here.
 
 - Artificial intelligence - this group of terms covers diverse machine learning and artificial intelligence concepts and methods to treat and extract value from data prior to and during AR experienes
