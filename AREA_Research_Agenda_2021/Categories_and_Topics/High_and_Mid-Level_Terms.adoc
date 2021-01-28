@@ -2,19 +2,19 @@
 
 In this section, terms used in the literature classification for the FindAR tool, are organized in tables.
 
-High-level terms may include
+## Research topic categories
 
-- Technology other display
+The AREA Research Agenda groups research topics in the following categories:
+- Technology (other than displays)
 - Displays
-- People (does this include developers?)
+- People 
 - Business
 - Industries
 
-Should we merge all the low-level terms in "data" and "developers" and find other patterns to make more logical or fine grain mid-level terms? Same case could be made for "artificial intelligence" and "data" mid-level terms.
+##Mid-level terms 
+The explanation of what is included in each mid-level term is documented here.
 
-Mid-level terms are explained here.
-
-- Artificial intelligence - this group of terms is closely related to the Data mid-level term and there is "contamination" (terms that could be assigned to either group) between these
+- Artificial intelligence - this group of terms covers diverse machine learning and artificial intelligence concepts and methods to treat and extract value from data prior to and during AR experienes
 - Audio - all terms pertaining to sounds, sound perception and measurements
 - Automotive - this group of terms has some concepts that are shared with robotics (terms that could be assigned to either group) and with transportation
 - Aviation and aerospace - this group of terms includes some natural sciences (having to do with atmospheric conditions/sciences and meteorology) as well as drones
@@ -24,12 +24,12 @@ Mid-level terms are explained here.
 - Computer Human Interfaces - at the time of this writing, contains only four terms. They are "program assemblers," "software tools," "technology," and "online front-ends."
 - Computer Vision - this group or terms includes a broad range of concepts, some of which overlap noticeably with artificial intelligence. Two anomaly noted are the terms "printing press" and "newsprint" which are included because the articles pertain to using printed markers for AR tracking. Many modern principles and practices in computer vision for AR do not have low-level terms in this group.
 - Construction - this group includes materials for construction, types of buildings and building trades.
-- Consumer products - As the focus of the AREA and FindAR is on enterprise AR use cases and technologies, this is a small group of terms. It includes home computing, domestic appliances, personal computers and consumer products. WHY DID WE DECIDE TO KEEP THESE?
+- Consumer products - As the focus of the AREA and FindAR is on enterprise AR use cases and technologies, this is a small group of terms. It includes home computing, domestic appliances, personal computers and consumer products. 
 - Cultural Heritage - This group of terms is used to catch an array of low-level concepts that include hospitality, travel, tourism, sports, cooking, recreational facilities and museums.
 - Data - this is a relatively large group of terms that includes concepts with high degree of overlap with artificial intelligence and developers. Notably, it includes "information technology," "big data," "jitter" and "open data"
 - Developers - this is a large group of terms that could be or are relevant to AR developers. It includes high level concepts such as computer science, computer hardware and software libraries. The terms operating systems (computers), ios (operating system) and android (operating system) are in this group and, surprisingly, there are no articles to which these terms have been automatically assigned in the FindAR database. There are also medium and low-level concepts such as object-oriented methods, combinatorial optimization and shift registers.
 - Device energy management - there are nine terms that are the basis of a group because the topic is highly relevant for Augmented Reality technology.
-- Display technology - this is a group of terms includes televisions and screens but also heads up displays (interpreted to mean those that can be integrated into automobiles) but not wearable technologies, including displays which have another group. NEED TO MOVE HELMET DISPLAYS TO WEARABLE.
+- Display technology - this is a group of terms includes televisions and screens but also heads up displays (interpreted to mean those that can be integrated into automobiles) but not wearable technologies, including displays which have another group. 
 - Education - this group of terms includes concepts that are frequently taught in schools such as calculus, literature and paleontology. It also includes terms pertaining to teaching (e.g., accreditation) and writing reviews of literature or performing research. It is distinct from the mid-level topic "training" with which there is considerable overlap, in order for training to emphasize on-the-job learning of employees.
 - Emergency responders - covers professional activities that include fire, medical and maintenance of civil order. Also includes "floods," "disasters" and "flames.""
 - Engineering - this group of terms covers wide range of engineering other than software development. Includes "physics,"" research and development," and environmental sciences engineering which could also fit in Food, agriculture and natural sciences.
@@ -52,7 +52,7 @@ Mid-level terms are explained here.
 - Medical - a large group of terms describing the human body, its measurement, wellness and processes or tools that can be used for its study, repair and interventions for wide variety of objectives.
 - Metals and mining - includes all terms having to do with the processes of extracting and refining raw materials from the earth.
 - Navigation - this group of terms has high overlap with geospatial group. It includes specific navigational tools and processes such as "maps," radionavigation, and indoor settings.
-- Network, networking and network architectures - a very large group of terms describing technologies that connect machines and computers to humans and one another. Includes "cloud computing"
+- Networking - a very large group of terms describing technologies that connect machines and computers to humans and one another. Includes "cloud computing"
 - Oil and gas - five terms about the oil and gas industry
 - Optics - this group of terms covers all types of optics, their design, manufacturing and usage
 - Policy - terms in this group describe the decision making processes and results that governments and companies use and with which products, services and other offerings must comply. It includes developing countries, population statistics and global warming
@@ -64,16 +64,15 @@ Mid-level terms are explained here.
 - Sensors - this group of terms covers a wide range of devices, concepts and processes for detecting conditions
 - Simulation - this group of terms that cover simulation processes, virtualization and serious games
 - Smart Cities - terms in this relatively small group overlap with navigation and transportation but are united by having to do with the built environment and its connections with data and machines for automatic process monitoring and management. The term "digital twin" is in this group
-- Standards - the terms in this group pertain to development of standards and interoperability. It mentions only one standards organization (ISO) and one standard (HTTP)
-- Telecommunication(s) - this large group of terms pertain to the design, development, management and use of telecommunications technologies for transmission of voice, video and data. It includes 5G
+- Standards - the terms in this group pertain to development of standards and could include other approaches to increase interoperability. It mentions only one standards organization (ISO) and one standard (HTTP).
+- Telecommunication(s) - this large group of terms pertains to the design, development, management and use of telecommunications technologies for transmission of voice, video and data. It includes 5G and mobile phones.
 - Training - this group of terms emphasizes tasks and tools for on-the-job learning of employees.
-- Transportation - this group of terms spans a range of infrastructures for the distribution of people and goods. It includes roads, railroads, bridges, pedestrians and related objects and concepts. Many terms overlap with smart city concepts
+- Transportation - this group of terms spans a range of infrastructures for the distribution of people and goods. It includes roads, railroads, bridges, pedestrians and related objects and concepts. Many terms overlap with smart city concepts.
 - Users - this is a very small group of terms that identify or describe users: students, engineers, studios, stars, snow
 - Utilities - terms in this small group pertain to the distribution and delivery of water and waste.
-- Video - this large group of terms includes concepts and components for the creation and distribution of video signals
-- Wearables - this small group of terms includes headphones, helmets and wearable computers and robots
-- Web Services - a large group of terms spanning the concepts for design, use and management of web-based data, servers and software
-- Other/Not categorized - terms that are not assigned to a group 
+- Video - this large group of terms includes concepts and components for the creation and distribution of video content.
+- Wearables - this small group of terms includes headphones, helmets and wearable computers and robots.
+- Web Services - a large group of terms spanning the concepts for design, use and management of web-based data, servers and software.
 
 [[ra-research-category-table,Table {counter:table-num}]]
 .Research Categories of the AREA Research Agenda 2021
