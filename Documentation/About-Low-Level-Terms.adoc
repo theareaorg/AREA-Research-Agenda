@@ -3,7 +3,7 @@
 ## What are Low-Level Terms?
 In this work, we define *low-level terms* as controlled keywords from two literature databases, namely Inspec and Compandex.  Note that Inspec and Compandex have different taxonomies to define their controlled keywords.  Hence, the first step to derive these terms is to first alias the terms so that we can compare them.  Simple examples of aliasing include overcoming British and American spelling (e.g., "visualisation" vs. "visualization") and merging singular and plural instances of the same concept (e.g., "sport" vs. "sports").
 
-Just checking if my push works well...
+All alias-making is reported within [a CSV file](https://github.com/theareaorg/AREA-Research-Agenda/blob/main/FindAR/Data/replacements-new.csv).
 
 Bill to write up. When entered into something, terms are automatically (by what? how?) attributed (assigned) to journal and conference articles by (what part? who?).
 Is Low-Level terms what they are called by the system that assigned them? If not, we should use their technical (originally assigned) name.
