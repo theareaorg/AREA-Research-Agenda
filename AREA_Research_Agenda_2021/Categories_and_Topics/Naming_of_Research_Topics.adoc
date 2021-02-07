@@ -17,6 +17,4 @@ Following the category, there will be 3 lower case letters signifying the group 
 
 These letters will be followed by a number between 1 and 5, where 1=lowest urgency and 5=highest urgency/potential for impact as assigned by the 8th Research Project team.
 
-Finally, the topic's title will appear
-
-The topic anchor (between double brackets in the list below) will be used to link the title of the topic to a page or a box (in PDF) on or in which additional details compiled in the manner below will appear. The topic titles will be grouped in figures.
+Finally, the most important word of the topic's title will be part of the topic name.  
