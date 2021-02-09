@@ -1,0 +1,26 @@
+
+[[ra-Salert5-dangerosity]]
+
+Title: Automated alert to dangerous settings
+
+Description: Many industries require that employees work in high risk environments. For this reason, employees are certified in advance of performing tasks and follow very strict protocols. When sensors on a device or during a work flow detect that a high risk or dangerous setting or task is imminent, there needs to be an automatically-displayed alert. Research that increases the reliability of automatic risk assessment based on situational awareness from employee-worn sensors, regardless of the technology provider, and produces a consistent and clear response regardless of the AR device model, mode or connection state would provide value to those working in high risk industries.
+
+Prior Research available in FindAR (1-5): 1
+
+Key Words: safety, risk, automated alert, standards, situational awareness, sensors for risk detection
+
+Stakeholders: Safety officers, employees working in high risk jobs
+
+Position on X and Y axes (1-5):
+
+Reasons this topic is important for AREA members: Saving lives and reducing risk to which employees are exposed is a high priority and represents a significant cost to operations. Reducing the risk through technology use brings immediate return on investments, in many industries. The specification of AI systems connected to AR displays for risk detection, and the sequence of triggers leading to an alert being provided to the user, is valuable regardless of the manufacturer of the sensors or AR display.
+
+Possible methodologies: this topic requires consensus building by working with safety officers, and new approaches to create and codify use of AI (and train the AI) to detect high risk context and circumstances, and to immediately alert the AR user. The research could also study different types of alerts for different industries, their effectiveness and recommend protocols that all devices and AR-based systems could adopt.
+
+Expected time frame when the research would impact AREA members: Near
+
+Could be combined with these topics to create research program: Any topics pertaining to safety, Human Factors,
+
+Miscellaneous notes: Could be an offshoot of UL8400 or BSI IST/31
+
+Author: Christine Perey
