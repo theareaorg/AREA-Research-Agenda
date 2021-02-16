@@ -1,0 +1,25 @@
+
+List of standards development organizations (SDOs) that the AREA is monitoring for development of relevant standards.
+
+OPC
+OMG
+ISA
+ASME
+ASTM
+MTConnect
+OAGi
+DMSC
+IPC
+Khronos Group
+MIPI Alliance
+ISO/IEC JTC1
+ISO/IEC
+BSI
+Underwriters Lab
+IEEE
+ETSI
+3GPP
+OGC
+W3C
+SAE
+ASTM
