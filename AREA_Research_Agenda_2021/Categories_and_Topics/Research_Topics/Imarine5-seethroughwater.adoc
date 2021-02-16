@@ -2,23 +2,23 @@
 
 Title: Visualization of anything of interest below water surface
 
-Description:
+Description: When conditions prevent scanning environments and providing situational awareness using vision-based technologies, there need to be alternatives. The goal of this research is to provide users (decision makers such as operators of any boat or underwater craft) an accurate visualization of the real-time conditions of an operating (moving) machine (e.g., boat, submarine) when the visibility prevents reliable use of vision-based sensors. Although identified/scored as a marine industry specific project, the scope of this topic is very broad and results could be applied in many industries. The topic spans everything from the use of non-visual sensors (e.g., sonar) for depth to the development of new computer-human interfaces for 3D data visualization.
 
-Prior Research (1-5):
+Prior Research (1-5): 3
 
-Key Words:
+Key Words: Situational awareness, night vision, non-visual scanning in real time, marine
 
-Stakeholders:
+Stakeholders: Developers, operators and owners/users of commercial, private or military water craft
 
 Position on X and Y axes (1-5):
 
-Reasons this topic is important for AREA members:
+Reasons this topic is important for AREA members: Almost all existing products for situational awareness rely on RGB or RGBD cameras for real time environment acquisition yet the visualization of obstacles or other salient features of the physical world are important and would serve as the basis for decision making for users when operating equipment in conditions unsuitable to vision-based sensors.
 
-Possible methodologies:
+Possible methodologies: Acquisition and/or development of lightweight and power efficient sensors that are effective as alternatives to cameras and existing vision-based environmental capture. Testing and development of 3D interaction modes when user's natural vision is impaired.
 
-Expected time frame when the research would impact AREA members:
+Expected time frame when the research would impact AREA members: Medium
 
-Could be combined with these topics to create research program:
+Could be combined with these topics to create research program: This topic or theme of research overlap with the topic of visualizing conditions in the direction or on the path of any moving object. The outcomes of this research could also be applied in non-industrial use cases (e.g., scuba diving or other sports in low visibility conditions). The same research topic could be combined with study of user interfaces and interaction paradigms for the visually-impaired community.
 
 Miscellaneous notes:
 
