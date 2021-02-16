@@ -1,7 +1,6 @@
 [[ra-Imarine5-seethroughwater]]
 
-# Title
-Visualization of anything of interest below water surface
+# Visualization of anything of interest below water surface
 
 # Description
 When conditions prevent scanning environments and providing situational awareness using vision-based technologies, there need to be alternatives. The goal of this research is to provide users (decision makers such as operators of any boat or underwater craft) an accurate visualization of the real-time conditions of an operating (moving) machine (e.g., boat, submarine) when the visibility prevents reliable use of vision-based sensors. Although identified/scored as a marine industry specific project, the scope of this topic is very broad and results could be applied in many industries. The topic spans everything from the use of non-visual sensors (e.g., sonar) for depth to the development of new computer-human interfaces for 3D data visualization.

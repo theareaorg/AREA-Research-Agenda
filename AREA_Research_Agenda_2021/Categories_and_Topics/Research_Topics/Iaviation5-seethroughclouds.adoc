@@ -1,7 +1,6 @@
 [[ra-Iaviation5-seethroughclouds]]
 
-# Title
-Visualization of anything of interest that is not visible due to atmospheric conditions
+# Visualization of anything of interest that is not visible due to atmospheric conditions
 
 # Description
 When conditions prevent scanning environments and providing situational awareness using vision-based technologies, there need to be alternatives. The goal of this research is to provide users (decision makers such as pilots, operators of any equipment at night or in blizzard conditions) an accurate visualization of the real-time conditions of an operating (moving) machine (e.g., aircraft, tank, truck) when the surrounding atmosphere is entirely or nearly opaque or the light conditions not favorable for use of vision-based sensors. Although identified/scored as an aviation industry specific project, the scope of this topic is very broad and results could be applied in many industries. The topic spans everything from the use of non-visual sensors (e.g., sonar) for depth to the development of new computer-human interfaces for 3D data visualization.

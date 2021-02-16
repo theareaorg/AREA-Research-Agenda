@@ -1,8 +1,7 @@
 
 [[ra-Bintegration5-cybersecurity]]
 
-# Title
-Cybersecurity Risk Assessment and Reduction
+# Cybersecurity Risk Assessment and Reduction
 
 # Description
 Sensitive enterprise or customer data could be exposed to threats from hostile actors when in field of view of AR-enabled cameras, and/or when sent to users' AR device in order to support their task performance.  Cybersecurity threat identification and assessment and mitigation measures are critical to integration of AR in mission critical environments and need to be studied. Approaches to reducing risk and increasing resilience of AR display devices can be tested and industry guidelines and best practices published for cybersecurity experts.
@@ -30,6 +29,7 @@ Near
 # Research Program
 This topic or theme of research can be combined with assessments of geofencing, biomarkers for user authentication and other methods to reduce risks to enterprise data.
 
-Miscellaneous notes:
+#Miscellaneous notes
 
-Author: Christine Perey
+# Author
+Christine Perey
