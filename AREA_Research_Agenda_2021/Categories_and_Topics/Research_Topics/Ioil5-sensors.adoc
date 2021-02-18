@@ -6,27 +6,30 @@
 # Description
 Existing AR displays do not have sensors to detect gases, radiation or other elements in the user's environment. In Oil and Gas industry as well as chemical industry, there needs to be research into the types and integration of existing chemical sensing technologies with the AR display or wearable computing system or to develop standard interfaces with IoT sensors to display readings in real time. This is a concrete example of a more fundamental research topic: the detection of an AR system user's context beyond what can be done with existing sensors (cameras, microphone, IMU, etc).
 
-# Prior Research (1-5)
+# Prior Research
 1
 
 # Key Words
 Sensors, Human Factors, Environment, Oil and Gas, Chemical, Power and Energy
 
+## FindAR Terms
+volatile organic compounds, hazardous materials, aromatic compounds, gases, hydrocarbons, indicators (chemical), radioactivity, chemical hazards, chemical detection, gas sensors
+
 # Stakeholders
-Developers, operators and employees working in places where invisible gases may pose a risk, Regulatory agencies, compliance officers
+Developers, operators and employees working in places where invisible gases may pose a risk, regulatory agencies, compliance officers
 
 # Position on X and Y axes (1-5)
 
 # Reasons this topic is important for AREA members
 Real time display of IoT sensor readings provide user context, beyond those that rely on RGB or RGBD cameras for real time environment acquisition. The lack of connection with sensors represents a gap which can be addressed through research and could contribute to the development of standards. The visualization of gases and other salient chemical or radioactive features of the physical world are important and would serve as the basis for decision making for users when operating equipment in conditions unsuitable to vision-based sensors.
 
-# Possible methodologies
+# Possible Methodologies
 Acquisition of off-the-shelf and/or development of lightweight and power efficient sensors that are effective as alternatives to cameras and existing vision-based environmental capture. Testing and development of 3D interaction modes when user's environmental sensors detect unsafe conditions.
 
-# Expected time frame when the research would impact AREA members
+# Expected Impact Timeframe
 medium
 
-# Research program
+# Research Program
 This topic or theme of research overlap with the topic of visualizing conditions in the direction or on the path of any moving object in atmosphere that is opaque or under water. The outcomes of this research could also be applied in non-industrial use cases (e.g., pollution sensing). The same research topic could be combined with study of user interfaces and interaction paradigms for the visually-impaired community.
 
 # Miscellaneous Notes
