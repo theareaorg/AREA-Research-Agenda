@@ -31,7 +31,8 @@ Near
 # Research Program
 This topic could be combined with other topics to increase efficiencies in AR authoring, management and delivery to reduce time and costs of integration with existing authoring and data management systems and platforms.
 
-# Miscellaneous notes
+# Miscellaneous Notes
+This topic was submitted for 8th and 9th AREA research projects and received high support.
 
 # Author
 Christine Perey

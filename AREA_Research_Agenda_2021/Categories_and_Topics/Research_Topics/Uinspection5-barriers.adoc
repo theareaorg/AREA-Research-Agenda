@@ -32,6 +32,7 @@ Medium
 This topic or theme of research overlap with the topic of using AR for automatically detecting workplace safety compliance. Automatic assessments of the workplace could also provide alerts when supplies are needed or maintenance scheduled. The same research topic could be combined with study of user interfaces and interaction paradigms for emergency response use cases.
 
 # Miscellaneous Notes
+This topic was submitted for 9th AREA research projects and received high support.
 
 # Author
 Christine Perey

@@ -21,7 +21,7 @@ Data security officers, employees working in highly sensitive disciplines, custo
 # Position on X and Y axes (1-5)
 
 # Reasons this topic is important for AREA members
-Enterprises cannot integrate and deploy technologies that introduce risk to their intellectual property or customer data. As long as their data is at risk of exposure, security experts will prevent AR adoption in domains or workplaces where there is uncertainty or risk of exposure. In 2017, the AREA published the first report on the topic of security for wearable AR displays but very little is known or documented about possible impacts of the issues it raised. Studies of enterprise implementations of cybersecurity programs or software in conjunction with AR will increase awareness of issues and reduce risks.
+Enterprises cannot integrate and deploy technologies that introduce risk to their intellectual property or customer data. As long as their data is at risk of exposure, security experts will prevent AR adoption in domains or workplaces where there is uncertainty or risk of exposure. Very little is known or documented about possible impacts of the issues around this topic. Studies of enterprise implementations of cybersecurity programs or software in conjunction with AR will increase awareness of issues and reduce risks.
 
 # Possible Methodologies
 Laboratory or bench studies with cybersecurity hacks into commercial wearable AR displays will highlight vulnerabilities. Tests of commercial or experimental software to manage sensitive data can be conducted in simulated environments.
@@ -32,7 +32,8 @@ Near
 # Research Program
 This topic or theme of research can be combined with assessments of geofencing, biomarkers for user authentication and other methods to reduce risks to enterprise data.
 
-# Miscellaneous notes
+# Miscellaneous Notes
+In 2017, this topic was the focus of the first AREA-directed research project. The AREA published the first report on the topic of security for wearable AR displays to members in June 2017 and released the report and assessment protocol to the ecosystem in mid-2019.
 
 # Author
 Christine Perey
