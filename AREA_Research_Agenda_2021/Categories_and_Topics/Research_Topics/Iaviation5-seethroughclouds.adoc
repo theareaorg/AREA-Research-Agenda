@@ -1,16 +1,18 @@
 [[ra-Iaviation5-seethroughclouds]]
 
-# Title
-Visualization of anything of interest that is not visible due to atmospheric conditions
+# Visualization of anything of interest that is not visible due to atmospheric conditions
 
 # Description
 When conditions prevent scanning environments and providing situational awareness using vision-based technologies, there need to be alternatives. The goal of this research is to provide users (decision makers such as pilots, operators of any equipment at night or in blizzard conditions) an accurate visualization of the real-time conditions of an operating (moving) machine (e.g., aircraft, tank, truck) when the surrounding atmosphere is entirely or nearly opaque or the light conditions not favorable for use of vision-based sensors. Although identified/scored as an aviation industry specific project, the scope of this topic is very broad and results could be applied in many industries. The topic spans everything from the use of non-visual sensors (e.g., sonar) for depth to the development of new computer-human interfaces for 3D data visualization.
 
-# Prior Research (1-5)
+# Prior Research
 3
 
 # Key Words
 Situational awareness, night vision, non-visual scanning in real time, aviation and aerospace
+
+## FindAR Terms
+aircraft navigation, avionics, aircraft displays, air navigation, aircraft detection
 
 # Stakeholders
 Developers, operators and owners/users of commercial, private or military aircraft
@@ -20,10 +22,10 @@ Developers, operators and owners/users of commercial, private or military aircra
 # Reasons this topic is important for AREA members
 Almost all existing products for outdoor situational awareness rely on RGB or RGBD cameras for real time environment acquisition yet the visualization of obstacles or other salient features of the physical world are important and would serve as the basis for decision making for users when operating equipment in atmospheric conditions unsuitable to vision-based sensors.
 
-# Possible methodologies
+# Possible Methodologies
 Acquisition and/or development of lightweight and power efficient sensors that are effective as alternatives to cameras and existing vision-based environmental capture. Testing and development of 3D interaction modes when user's natural vision is impaired.
 
-# Expected time frame when the research would impact AREA members
+# Expected Impact Timeframe
 Medium
 
 # Research Theme

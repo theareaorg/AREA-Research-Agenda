@@ -1,0 +1,38 @@
+[[ra-Uinspection5-barriers]]
+
+# Barriers to Adoption of AR-assisted Inspection for Quality and Compliance
+
+# Description
+Real world conditions must be compared with the agreed or defined compliance targets in many industries. In the future, any discrepancies detected through machine learning or artificial intelligence algorithms trained on compliant  samples, could automatically show those to the user in AR view. Inspection use cases are not as widely implemented as step-by-step instruction delivery (task guidance) remote assistance and training. Companies with AR deployments in other use case categories could increase their ROI on AR if they were to expand their support for AR-assisted inspections. Providers of technologies need greater insights into inspections and industries that perform inspections before work continues or, for compliance purposes, require inspections to be documented.
+
+# Prior Research
+1
+
+# Key Words
+Inspection, quality, safety, compliance, policy, use cases
+
+## FindAR Terms
+quality control, quality management, inspection, defects, fault detection, measurement, nondestructive examination, nondestructive testing, process monitoring, product quality, quality assurance, testing
+
+# Stakeholders
+Business and production managers in any industry where inspections are performed for review and confirmation of meeting any quality and/or safety policies, Safety managers, compliance managers, quality managers
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+Research in this area wold permit effectively transferring or adapting existing AR procedures and technologies from existing use cases to AR-assisted inspection. This would leverage existing infrastructure investments and knowledge about AR implementation (increase AR ROI) and reduce time and costs of existing inspection processes to increase compliance and ability to document compliance in the workplace
+
+# Possible Methodologies
+Interviews with business and production managers in any industry where inspections are performed for review and confirmation of meeting any quality and/or safety policies, safety managers, compliance managers, quality managers will need to be conducted and their KPIs documented. In parallel, existing ML or AI techniques could be extended or new data sets for training created for use with AR technologies for capture and vision-based objective analysis of real world conditions. When real world conditions diverge from the compliance goal, any discrepancies will automatically be presented to the user in AR view.
+
+# Expected Impact Timeframe
+Medium
+
+# Research Program
+This topic or theme of research overlap with the topic of using AR for automatically detecting workplace safety compliance. Automatic assessments of the workplace could also provide alerts when supplies are needed or maintenance scheduled. The same research topic could be combined with study of user interfaces and interaction paradigms for emergency response use cases.
+
+# Miscellaneous Notes
+This topic was submitted for 9th AREA research projects and received high support.
+
+# Author
+Christine Perey
