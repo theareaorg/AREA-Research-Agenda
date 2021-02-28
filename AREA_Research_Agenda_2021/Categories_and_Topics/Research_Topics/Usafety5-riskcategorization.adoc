@@ -21,13 +21,13 @@ Business and production managers, operational excellence personnel, and HSE prof
 # Position on X and Y axes (1-5)
 
 # Reasons this topic is important for AREA members
-As these numbers are recorded and reported to OSHA each year (in US), it is essential to maintain these statistics so as to ensure a balanced scorecard. These metrics are carefully scrutinized at the C-Suite level and substantial budget is provided to help sustain/improve these metrics. Identification of operational contexts with the lowest risk appetite subsequently identifies specific opportunities for tangible outcomes that may be delivered via AR intervention. This, in turn, should result in tangible ROI and scalability that should stimulate further investment in the use of AR, and potentially even AR as a PPE mandate, in some operational processes and contexts worldwide.
+As LTIR and TRIR are recorded and reported to OSHA each year (in US), it is essential to maintain these statistics so as to ensure a balanced scorecard. These metrics are carefully scrutinized at the C-Suite level and substantial budget is provided to help sustain/improve these metrics. Identification of operational contexts with the lowest risk appetite subsequently identifies specific opportunities for tangible outcomes that may be delivered via AR intervention. This, in turn, should result in tangible ROI and scalability that should stimulate further investment in the use of AR, and potentially even AR as a PPE mandate, in some operational processes and contexts worldwide.
 
 # Possible Methodologies
-Utilize existing organizational and/or industry risk appetite matrix to identify operational processes for which intervention is most likely to impact organizational scorecard (medium to significant). If possible, target across multiple industries, focusing on one specific type of operational risk (financial, safety, health, environmental, legal or regulatory, social, or reputational).
-Decide upon an operational process/context for which pre-intervention metrics (LTIR, TRIR) data is available and introduce AR intervention via A/B trial scenario. Observe post-intervention data.
-Translate observable LTIR, TRIR decreases into Cost Benefit Analysis for AR implementation for different risk ratings of different types.
-Subsequent projects could adapt existing AI algorithms to scrape Standard Operating Procedures to identify recommended processes for AR supplementation.
+Utilize existing organizational and/or industry risk appetite matrix to identify operational processes for which intervention is most likely to impact organizational scorecard (medium to significant). If possible, target across multiple industries, focusing on one specific type of operational risk (financial, safety, health, environmental, legal or regulatory, social, or reputational). +
+Decide upon an operational process/context for which pre-intervention metrics (LTIR, TRIR) data is available and introduce AR intervention via A/B trial scenario. Observe post-intervention data. +
+Translate observable LTIR, TRIR decreases into Cost Benefit Analysis for AR implementation for different risk ratings of different types. +
+Subsequent projects could adapt existing AI algorithms to scrape Standard Operating Procedures to identify recommended processes for AR supplementation. +
 
 # Expected Impact Timeframe
 Near
