@@ -30,7 +30,7 @@ This research can include studying appropriate definitions of proximity and risk
 Near
 
 # Research Program
-The scope of this research can span many industries and workplaces. It could be tailored to any industry in which AR is introduced and demonstrated with many workplace use cases. It is closely related to another proposed topic concerned with Automated Alert to Dangerous Settings. It could be combined with research on visualization of IoT data streams, 3D maps of known risk and other safety management programs. Further, it also can include or be an extension of numerous 3D user interface and user experience topics. 
+The scope of this research can span many industries and workplaces. It could be tailored to any industry in which AR is introduced and demonstrated with many workplace use cases. It is closely related to other proposed topic concerned with Automated Alert to Dangerous Settings, and a topic focusing on dangers due to chemical or radiation in employee vicinity. It could be combined with research on visualization of IoT data streams, 3D maps of known risk and other safety management programs. Further, it also can include or be an extension of numerous 3D user interface and user experience topics. 
 
 # Miscellaneous Notes
 None
