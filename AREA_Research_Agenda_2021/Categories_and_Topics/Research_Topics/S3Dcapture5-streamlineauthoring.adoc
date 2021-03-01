@@ -1,4 +1,4 @@
-[[ra-Sbenefits5-streamlineauthoring]]
+[[ra-S3Dcapture5-streamlineauthoring]]
 
 # Using 3D Standards to Streamline AR Experience Production
 
@@ -15,7 +15,7 @@ Creating AR experiences is a time-consuming process even for highly-trained deve
 object-oriented programming, open systems, authoring systems, shape recognition, feature extraction, 3d modeling
 
 # Stakeholders
-Developers
+Developers, AR managers, AR authoring platform publishing entities
 
 # Position on X and Y axes (1-5)
 
