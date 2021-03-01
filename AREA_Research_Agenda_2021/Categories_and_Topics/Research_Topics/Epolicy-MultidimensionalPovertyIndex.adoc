@@ -30,8 +30,8 @@ The Multidimensional Poverty Index (MPI) "measures the complexities of poor peop
 Because AR is a unique delivery format that is highly conducive to providing increased accessibility to skill acquisition, learning, and even remote healthcare, and given the challenges that COVID has brought into the mix in 2020, UN Nations will increasingly be looking to ways to sustain growth/minimize regression with regards to 2030 UN SDG targets. Because education accounts for 1/3 of the Multi-dimensional Poverty Index and this index is measured annually and can be applied flexibly to individuals, this is an ideal opportunity in time to investigate the impacts of AR with regards to reducing world poverty. There is likely to be substantial interest within local governments as well as amongst corporate entities supporting the UN 2030 Sustainable Development Goals.
 
 # Possible Methodologies
-Decide upon flexible scoring mechanism for individual MPI (see https://mppn.org/multidimensional-poverty/how-is-calculated/).+
-Partner with a host corporation and community.+
+Decide upon flexible scoring mechanism for individual MPI (see https://mppn.org/multidimensional-poverty/how-is-calculated/). +
+Partner with a host corporation and community. +
 Calculate pre-study MPIs and introduce AR intervention via A/B trial scenarios, potentially with a few different levels of AR intervention. Observe post-intervention data. +
 Calculate post-study MPIs. +
 
