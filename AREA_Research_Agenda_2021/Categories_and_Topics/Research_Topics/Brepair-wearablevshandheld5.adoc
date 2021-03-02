@@ -1,39 +1,40 @@
 
-[[ra-Bintegration5-cybersecurity]]
+[[ra-Brepair-wearablevshandheld5]]
 
 # Cybersecurity Risk Assessment and Reduction
 
 # Description
-Sensitive enterprise or customer data could be exposed to threats from hostile actors when in field of view of AR-enabled cameras, and/or when sent to users' AR device in order to support their task performance. Cybersecurity threat identification and assessment, and mitigation measures are critical to integration of AR in mission critical environments and need to be studied. Approaches to reducing risk and increasing resilience of AR display devices can be tested and industry guidelines and best practices published by and for cybersecurity experts.
+Tablets, mobile phones and other handheld devices have been widely deployed in the Enterprise, including frontline workers, who use these devices to access contextually relevant information while executing work procedures.  Although hugely useful, their interaction paradigm forces said workers to choose between carrying out the actual steps of a work procedure or interacting with the device. 
+Commercially available Wearable (Headmounted) Displays enable frontline workers to consume context relevant information while executing work procedures using both hands thereby – theoretically – speeding up work. However, there is no independent assessment of the potential economic benefit of this new modality.
+This research topics include comparative studies measuring the exact impact of Wearable modality vs the Handheld baseline across industry verticals, use cases and horizontal use case categories. Measurement results should be projectable with 95% Confidence Interval
 
 # Prior Research
-1
+To be generated via FindAR
 
 # Key Words
-Cybersecurity, risk, encryption, distributed ledger technologies, integration
+Efficiency, lean, HMD, Handheld, Wearable,
 
 ## FindAR Terms
-network security, security of data, computer crime, computer network security, computer privacy, cryptographic protocols, fraud, intrusion detection, data protection, blockchain, access control
+using machine-assigned terms list
 
 # Stakeholders
-Data security officers, employees working in highly sensitive disciplines, customer data protection
+Operations leaders, financial management, OEM manufacturers, ISVs
 
 # Position on X and Y axes (1-5)
 
 # Reasons this topic is important for AREA members
-Enterprises cannot integrate and deploy technologies that introduce risk to their intellectual property or customer data. As long as their data is at risk of exposure, security experts will prevent AR adoption in domains or workplaces where there is uncertainty or risk of exposure. Very little is known or documented about possible impacts of the issues around this topic. Studies of enterprise implementations of cybersecurity programs or software in conjunction with AR will increase awareness of issues and reduce risks.
+HMDs make instinctive sense for frontline workers. However, deploying a new class of device, appropriate software, integration and training presents additional expenses – particularly if handhelds have been well integrated in the current procedures. Calculating the benefits of one vs other requires accurately, impartially measuring the difference  between the two modalities using sample sizes that allow projection across various attributes (e.g. time saved, quality improved, error eliminated, etc)
 
 # Possible Methodologies
-Laboratory or bench studies with cybersecurity hacks into commercial wearable AR displays will highlight vulnerabilities. Tests of commercial or experimental software to manage sensitive data can be conducted in simulated environments.
+Time-motion studies using standardized, public and well documented processes typical of industry verticals, use cases and horizontal use case categories.
 
 # Expected Impact Timeframe
 Near
 
 # Research Program
-This topic or theme of research can be combined with assessments of geofencing, biomarkers for user authentication and other methods to reduce risks to enterprise data.
 
 # Miscellaneous Notes
-In 2017, this topic was the focus of the first AREA-directed research project. The AREA published the first report on the topic of security for wearable AR displays to members in June 2017 and released the report and assessment protocol to the ecosystem in mid-2019.
+
 
 # Author
-Christine Perey
+Peter Orban
