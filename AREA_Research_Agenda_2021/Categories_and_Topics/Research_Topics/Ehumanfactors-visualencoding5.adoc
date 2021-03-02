@@ -1,5 +1,5 @@
 
-[[ra-Bhumanfactors-visualencoding5]]
+[[ra-Ehumanfactors-visualencoding5]]
 
 # Quantifying the impact of spatial (stereoscopic view) on visual encoding and memory anchoring
 
