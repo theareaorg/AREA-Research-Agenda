@@ -2,8 +2,6 @@
 
 Each research topic is assigned an anchor (enclosed in double brackets). The topic anchor (between double brackets in the list below) will be used to link the title of the topic to a page or a box (in PDF) on or in which additional details compiled in the manner below will appear. The topic titles will be grouped in figures.
 
-In this document the anchors are in numeric order, but the text "topic #" will be replaced using the following naming convention.
-
 The first letter of the topic's code will be a capital letter (based on the category in which the topic will contribute):
 T= Technology
 D= Displays
@@ -13,7 +11,7 @@ B= Business
 S= Standards
 U= Use Cases
 
-Following the category, there will be 3 lower case letters signifying the group to which the topic belongs.
+Following the category, there will be lower case letters signifying the group to which the topic belongs.
 
 These letters will be followed by a number between 1 and 5, where 1=lowest urgency and 5=highest urgency/potential for impact as assigned by the 8th Research Project team.
 
