@@ -1,39 +1,40 @@
 
-[[ra-Bintegration5-cybersecurity]]
+[[ra-EAudio-spatialaudio3]]
 
-# Cybersecurity Risk Assessment and Reduction
+# Trade-off and Substitution: Stereoscopic Vision for Spatial Audio
 
 # Description
-Sensitive enterprise or customer data could be exposed to threats from hostile actors when in field of view of AR-enabled cameras, and/or when sent to users' AR device in order to support their task performance. Cybersecurity threat identification and assessment, and mitigation measures are critical to integration of AR in mission critical environments and need to be studied. Approaches to reducing risk and increasing resilience of AR display devices can be tested and industry guidelines and best practices published by and for cybersecurity experts.
+Stereoscopic Vision has long been considered the ultimate in matching physical and simulated realities. But accomplishing the perfect 3D view is still some ways away, particularly at a price point that helps lower the barriers to adoption in the Enterprise.
+Due to advancements in DSP and audiology, a new class of devices are emerging: spatially aware audio transducers that not only can help determine the exact position of posture/pose of the wearer but can also alter the simulated sound field accordingly. Moreover, the resource needs of these devices compare favorably to vision transducers: battery life, bandwidth requirements, processor performance, wearer comfort and pricing. 
+This research topics includes comparative studies of human performance aided by varying blends spatial technology ranging from “audio-only” to “video-only” and various combinations of both
+
 
 # Prior Research
-1
+To be generated via FindAR
 
 # Key Words
-Cybersecurity, risk, encryption, distributed ledger technologies, integration
+Spatial Audio, effectiveness, spatial vision, 
 
 ## FindAR Terms
-network security, security of data, computer crime, computer network security, computer privacy, cryptographic protocols, fraud, intrusion detection, data protection, blockchain, access control
+using machine-assigned terms list
 
 # Stakeholders
-Data security officers, employees working in highly sensitive disciplines, customer data protection
+Operations leaders, IT managers, OEM manufacturers, ISVs
 
 # Position on X and Y axes (1-5)
 
 # Reasons this topic is important for AREA members
-Enterprises cannot integrate and deploy technologies that introduce risk to their intellectual property or customer data. As long as their data is at risk of exposure, security experts will prevent AR adoption in domains or workplaces where there is uncertainty or risk of exposure. Very little is known or documented about possible impacts of the issues around this topic. Studies of enterprise implementations of cybersecurity programs or software in conjunction with AR will increase awareness of issues and reduce risks.
+Spatial vision makes instinctive sense in a number of situations but it is not always as practical, comfortable or affordable as the situation requires. If performance requirements on spatial vision can be lowered if the right spatial audio solution is present it could lower total resourcing needs removing the barriers of enterprise adoption
 
 # Possible Methodologies
-Laboratory or bench studies with cybersecurity hacks into commercial wearable AR displays will highlight vulnerabilities. Tests of commercial or experimental software to manage sensitive data can be conducted in simulated environments.
+Series of experiments potentially scaled up to  time-motion studies using standardized, public and well documented processes typical of industry verticals, use cases and horizontal use case categories.
 
 # Expected Impact Timeframe
-Near
+Medium
 
 # Research Program
-This topic or theme of research can be combined with assessments of geofencing, biomarkers for user authentication and other methods to reduce risks to enterprise data.
 
 # Miscellaneous Notes
-In 2017, this topic was the focus of the first AREA-directed research project. The AREA published the first report on the topic of security for wearable AR displays to members in June 2017 and released the report and assessment protocol to the ecosystem in mid-2019.
 
 # Author
-Christine Perey
+Peter Orban
