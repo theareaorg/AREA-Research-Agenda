@@ -1,11 +1,11 @@
 
-[[ra-EAudio-spatialaudio3]]
+[[ra-Taudio5-spatialaudio]]
 
 # Trade-off and Substitution: Stereoscopic Vision for Spatial Audio
 
 # Description
 Stereoscopic Vision has long been considered the ultimate in matching physical and simulated realities. But accomplishing the perfect 3D view is still some ways away, particularly at a price point that helps lower the barriers to adoption in the Enterprise.
-Due to advancements in DSP and audiology, a new class of devices are emerging: spatially aware audio transducers that not only can help determine the exact position of posture/pose of the wearer but can also alter the simulated sound field accordingly. Moreover, the resource needs of these devices compare favorably to vision transducers: battery life, bandwidth requirements, processor performance, wearer comfort and pricing. 
+Due to advancements in DSP and audiology, a new class of devices are emerging: spatially aware audio transducers that not only can help determine the exact position of posture/pose of the wearer but can also alter the simulated sound field accordingly. Moreover, the resource needs of these devices compare favorably to vision transducers: battery life, bandwidth requirements, processor performance, wearer comfort and pricing.
 This research topics includes comparative studies of human performance aided by varying blends spatial technology ranging from “audio-only” to “video-only” and various combinations of both
 
 
@@ -13,7 +13,7 @@ This research topics includes comparative studies of human performance aided by 
 To be generated via FindAR
 
 # Key Words
-Spatial Audio, effectiveness, spatial vision, 
+Spatial Audio, effectiveness, spatial vision,
 
 ## FindAR Terms
 using machine-assigned terms list
