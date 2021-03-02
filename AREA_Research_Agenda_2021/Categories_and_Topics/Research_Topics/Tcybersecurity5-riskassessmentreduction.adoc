@@ -1,5 +1,5 @@
 
-[[ra-Bintegration5-cybersecurity]]
+[[ra-Tcybersecurity5-riskassessmentreduction]]
 
 # Cybersecurity Risk Assessment and Reduction
 

@@ -1,0 +1,40 @@
+[[ra-Sdataintegration5-hazardreporting]]
+
+# Capture and Reporting of Hazardous Incidents
+
+# Description
+In many industries, corporate, public or industry policies require documenting the circumstances of a hazardous incident and steps taken by an individual or group to reduce or eliminate risks to equipment, employees or others. In order to comply with such policies, it is valuable to have user-worn (user perspective) recording systems automatically triggered and the observations of all sensors encrypted for secure reporting. This research topic contributes technical requirements and potential solutions to be submitted for standardization in one or more bodies for the purpose of reducing the complexity of integrating AR-assisted automatic incident capture into the IT infrastructure of appropriate authorities.
+
+The topic includes definition of automatic AR-assisted or enabled capture technology types suitable for hazardous incident reporting, resolutions of and compression rates for video and audio, data types to be captured (e.g., location data, temporal parameters, identities of nearby people and other), local and remote security to comply with anti-tampering precautions, and other relevant parameters, regardless of the maker of the AR display devices used.
+
+# Prior Research
+1
+
+# Key Words
+Standards requirements, standard specifications, hazard management, risk management, safety management, data capture, data integration, data encryption, cybersecurity
+
+## FindAR Terms
+TBD
+
+# Stakeholders
+Standards bodies, risk managers, safety managers, policy managers, AR developers, IT developers, designers and manufacturers of enterprise AR displays
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+Some companies and risk sensitive industries require capturing and reporting any incidents that occur in the workplace. Having AR-assisted capture and reporting would reduce cost of compliance. AREA members are deploying many different models of AR display devices from numerous display manufacturers. The complexity and cost of integrating hazardous incident capture and reporting technologies with each device in the workplace is prohibitively high. A standard with which all devices must comply to be used in workplace settings will increase adoption of AR-assisted capture and reporting of hazardous incidents, increase compliance to policy and reduce cost of implementation of software and integration of AR with enterprise-defined or industry regulated norms.
+
+# Possible Methodologies
+The topic requires definition of requirements for automatic, real time, user-perspective, tamper-resistant capture technology that documents situations, user actions and other relevant parameters for compliance purposes. Requirements must then be codified into specifications following industry norms and consensus of group members.
+
+# Expected Impact Timeframe
+Medium
+
+# Research Program
+This research topic can be combined with industry-specific research projects such as the development of body-worn cameras by law enforcement officers. It can also be an extension to cybersecurity research, research about media encryption and standards pertaining to other methods of incident reporting.
+
+# Miscellaneous Notes
+None
+
+# Author
+Christine Perey

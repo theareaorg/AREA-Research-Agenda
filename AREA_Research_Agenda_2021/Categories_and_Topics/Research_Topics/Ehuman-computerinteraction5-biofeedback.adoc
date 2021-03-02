@@ -1,0 +1,40 @@
+[[ra-Ehuman-computerinteraction5-biofeedback]]
+
+# AR Visualization of Body Sensors for Worker Biofeedback
+
+# Description
+During the performance of tasks or fulfilment of roles, an employee may be unaware of changes in their involuntary bodily functions such as blood pressure and heart rate. Visual and/or auditory information captured in real time by body-worn sensors can be provided through a body-area network to the AR display. When aware of any unusual metrics, the user can choose or be prompted to take appropriate actions. This topic focuses on the low-latency transmission of observations from body-worn sensors to the user's AR display and the presentation of data and recommendations in compact and actionable manner.
+
+The system design will specify both an automated mode which is triggered upon the user's functions reaching a threshold as well as a manually-controlled mode, enabled by a user seeking to obtain vital statistics.  There must also be exploration to ensure that any system upholds all relevant user data privacy protection policies.
+
+# Prior Research
+To be generated via FindAR
+
+# Key Words
+Biometrics, body sensors, blood pressure, heart rate, body temperature, body-area network, biofeedback, user data privacy protection
+
+## FindAR Terms
+from machine-assigned terms list
+
+# Stakeholders
+Employee health and wellness advocates, human resources managers, user data privacy policy analysts,
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+Some employees of AREA members work in conditions that produce high stress. Others must concentrate while working in environmental conditions that are known or anticipated to produce risks to employee well-being. Body-worn sensors can detect abnormal behaviors in the workers' involuntary systems. The use of body-worn sensors can be controversial where the systems fail to protect user data privacy. By, using a body-area network, permitting an employee to control and to see any anomalies in their real time and historical biometrics without releasing that data, the AREA employee can modify their behaviors to reduce stress and manage their body's response to the environment.
+
+# Possible Methodologies
+Research on this topic includes testing and studying the features of body-worn biometric devices. It will be necessary to design and build a body-area network supporting existing standards in order to interface with radios and technologies on AR display devices. The research will also require designing and studying the efficacy and performance of user interfaces for providing a user with only pertinent biometric data via an AR display.
+
+# Expected Impact Timeframe
+Middle
+
+# Research Program
+This research topic can be combined with other topics pertaining to automated alerting of users to risk conditions using the AR display.
+
+# Miscellaneous Notes
+None
+
+# Author
+Christine Perey

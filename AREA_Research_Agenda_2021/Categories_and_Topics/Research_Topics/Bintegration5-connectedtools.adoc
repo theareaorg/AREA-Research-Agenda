@@ -1,0 +1,43 @@
+[[ra-Bintegration5-connectedtools]]
+
+BIG QUESTION: This is a use case proposed by Greg Garrett. Are we going to have use cases as research topics?
+Not all that happy with the proposed code: is this a business integration issue? maybe better to make it an End user/UX topic.
+
+# Visualization of Live Sensor Data from Connected Tools in AR Display
+
+# Description
+Combining live sensor data with AR displays enables many use cases. This topic studies how to meet requirements of Industrial Internet of Things (IIoT) use cases in new and intuitive ways. In the IIoT, machines and tools are enabled with sensors, running software and connected with cables or radios to corporate infrastructure. Data from the tools may be sent to work order management systems, asset tracing and management systems (e.g., the torque on a screw needs to be increased or decreased), and frequently there are consoles on which a user receives/sees tool status and diagnostics.
+
+When an AR-assisted user is controlling connected tools to perform a task, they do not need to turn their attention away from the main task to receive tool data. In addition, there is the potential for back-end IIoT systems to contribute to the user's productivity by providing clear indicators of status.
+
+# Prior Research
+To be generated via FindAR
+
+# Key Words
+Text
+
+## FindAR Terms
+using machine-assigned terms list
+
+# Stakeholders
+Text
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+text
+
+# Possible Methodologies
+Text
+
+# Expected Impact Timeframe
+Text
+
+# Research Program
+Text
+
+# Miscellaneous Notes
+Text
+
+# Author
+Text
