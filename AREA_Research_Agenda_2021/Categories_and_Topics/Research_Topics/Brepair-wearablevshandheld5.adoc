@@ -1,7 +1,7 @@
 
 [[ra-Brepair-wearablevshandheld5]]
 
-# Cybersecurity Risk Assessment and Reduction
+# Wearable vs Handheld: Quantifying the Impact of HMDs on manual Procedures
 
 # Description
 Tablets, mobile phones and other handheld devices have been widely deployed in the Enterprise, including frontline workers, who use these devices to access contextually relevant information while executing work procedures.  Although hugely useful, their interaction paradigm forces said workers to choose between carrying out the actual steps of a work procedure or interacting with the device. 
