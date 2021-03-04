@@ -3,8 +3,9 @@
 # Informing Users About Hazards in Proximity
 
 # Description
-In many industries, workplaces contain a plethora of hazards. When known or anticipated, hazard management protocols reduce the risks associated with a user's encountering a hazard when performing tasks or fulfilling a work order. However, there are also hazards which the user is untrained to treat or has insufficient time to avoid or deescalate. Alerts can provide the user time to react. On the other hand, there may be hazards that do not require any specific user actions. Through data collected by user location sensing technologies on devices, and potentially on users' PPE, as well as maps of known hazards, sensor data generated from stationary or moving machines, and other methods, artificial intelligence algorithms can continuously maintain and monitor a map of hazards in a user proximity. The user may request to visualize hazards in proximity. When the user reaches conditions with respect to the hazard that suggests appropriate actions are needed, an alert on an AR device can spatially anchor the source of risk in the user's perception (see Automated Alert to Dangerous Settings [[ra-Salert5-dangerosity]]). If and when needed, guidance for risk mitigation can be provided.
+In many industries, workplaces contain a plethora of hazards. When known or anticipated, hazard management protocols reduce the risks associated with a user's encountering a hazard when performing tasks or fulfilling a work order. However, there are also hazards which, even if made aware of them, the user is untrained to treat or has insufficient time to avoid or deescalate. Alerts can provide the user time to react. On the other hand, there may be hazards that do not require any specific user actions.
 
+Through data collected by user location sensing technologies on devices, and potentially on users' PPE, as well as maps of known hazards, data generated from sensors on stationary or moving machines, and other methods, artificial intelligence algorithms could be used to continuously maintain and monitor a dynamic 3D map of hazards in a user's proximity. The user may be provided the hazard proximity map at intervals or request to visualize hazards in proximity. When the user reaches conditions with respect to the hazard that suggests appropriate actions are needed, an alert on an AR device can spatially anchor the source of risk or hazard in the user's perception (see Automated Alert to Dangerous Settings [[ra-Salert5-dangerosity]]). If and when needed, guidance for risk mitigation can be provided.
 
 # Prior Research
 1
@@ -30,10 +31,10 @@ This research can include studying appropriate definitions of proximity and risk
 Near
 
 # Research Program
-The scope of this research can span many industries and workplaces. It could be tailored to any industry in which AR is introduced and demonstrated with many workplace use cases. It is closely related to other proposed topic concerned with Automated Alert to Dangerous Settings, and a topic focusing on dangers due to chemical or radiation in employee vicinity. It could be combined with research on visualization of IoT data streams, 3D maps of known risk and other safety management programs. Further, it also can include or be an extension of numerous 3D user interface and user experience topics. 
+The scope of this research can span many industries and workplaces. It could be tailored to any industry in which AR is introduced and demonstrated with many workplace use cases. It is closely related to other proposed topic concerned with Automated Alert to Dangerous Settings, and a topic focusing on dangers due to chemical or radiation in employee vicinity. It could be combined with research on visualization of IoT data streams, 3D maps of known risk and other safety management programs. Further, it also can include or be an extension of numerous 3D user interface and user experience topics.
 
 # Miscellaneous Notes
-None
+This peer-reviewed article published in December 2015 entitled https://www.sciencedirect.com/science/article/abs/pii/S092658051500196X["Proximity hazard indicator for workers-on-foot near miss interactions with construction equipment and geo-referenced hazard areas"] pertains to the topic of this research.
 
 # Author
 Christine Perey

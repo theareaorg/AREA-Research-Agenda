@@ -3,7 +3,7 @@
 # Integration of Data in AR Display about Material Management and/or Supply Chain Flow with Work Orders
 
 # Description
-Text
+This topic is a STUB of a use case very similar to the Connected Tools one
 
 # Prior Research
 To be generated via FindAR

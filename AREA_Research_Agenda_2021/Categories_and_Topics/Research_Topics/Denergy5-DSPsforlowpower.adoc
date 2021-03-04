@@ -1,0 +1,40 @@
+[[ra-Denergy5-dspsforlowpower]]
+
+# Low Power DSPs for Use in AR Display Devices
+
+# Description
+Digital Signal Processors (DSPs) in AR displays accelerate the computational tasks required for AR. They can be configured and optimized to specific parameters, matching the sensors that capture the real world. Similarly, while the data about the user's context is captured, vision processing units (VPU) analyze individual and fused data signals to detect key features of the real world. Further, there are DSPs that solely compute and manage the scene that is rendered for the individual user's AR experiences.
+
+While enterprise AR display power storage capacities have, in recent years, significantly increased with head-worn computers (e.g., HoloLens2) having greater size and being balanced on the user's head in a more distributed form factor, there remains a great deal of room for improvement.
+
+# Prior Research
+To be generated via FindAR
+
+# Key Words
+Text
+
+## FindAR Terms
+using machine-assigned terms list
+
+# Stakeholders
+Text
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+text
+
+# Possible Methodologies
+Text
+
+# Expected Impact Timeframe
+Text
+
+# Research Program
+Text
+
+# Miscellaneous Notes
+This is a https://community.arm.com/innovation/b/blog/posts/maximizing-the-system-efficiency-of-augmented-reality-devices[blog post] published June 2020 on the ARM community web site about this research topic.
+
+# Author
+Christine Perey
