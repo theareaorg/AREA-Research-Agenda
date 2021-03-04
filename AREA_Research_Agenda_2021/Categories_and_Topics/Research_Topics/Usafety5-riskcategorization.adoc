@@ -1,0 +1,50 @@
+
+[[ra-Usafety5-riskcategorization]]
+
+# Operational Risk Categorization/Matrices as an Indicator of AR Impact Potential/ROI OR AR as a Mechanism to Effectively Mitigate Operational Risk
+
+# Description
+While it is widely believed that the use of AR has vast potential in operational contexts, particularly those in which large amounts of risk are present, it is thus far difficult for senior stakeholders to narrow down operational processes and scenarios that stand to receive the largest benefit from the introduction of AR technology. Being able to clearly define and target specific opportunities for not only significant process improvement, but also tangible reductions in Lost Time Incident Rate (LTIR) and Total Recordable Incident Rate (TRIR), due to safe and effective operations.  It is quite standard in high-risk, high-compliance industries to operate under what is typically called a Risk Appetite Matrix, which considers risk type, projected impact, and projected likelihood to determine risk appetite and inform specific mitigation strategies. Because this determination is a human one and involves a series of factors, AR may even prove helpful around remote collaboration/guidance to operators as they make these decisions. Furthermore, the assignment of AR as PPE to particular workplace operations prone to higher risk should clearly demonstrate ROI that would warrant scalable and wide-spread adoption worldwide.
+
+# Prior Research
+1
+
+# Key Words
+Operational risk, operational risk management, Lost Time Incident Rate, LTIR, Total Recordable Incident Rate, TRIR, safety, compliance, hazard identification
+
+## FindAR Terms
+TBD
+
+# Stakeholders
+Business and production managers, operational excellence personnel, and HSE professionals in high-risk, high-compliance industries and/or industries where risk tolerance must be low (e.g. aviation and aerospace, healthcare, oil and gas, metals and mining, manufacturing, etc.). It may be helpful to consider individuals in a position to expose the organization to financial, safety, health, environmental, legal or regulatory, social, or reputational risk.
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+As LTIR and TRIR are recorded and reported to OSHA each year (in US), it is essential to maintain these statistics so as to ensure a balanced scorecard. These metrics are carefully scrutinized at the C-Suite level and substantial budget is provided to help sustain/improve these metrics. Identification of operational contexts with the lowest risk appetite subsequently identifies specific opportunities for tangible outcomes that may be delivered via AR intervention. This, in turn, should result in tangible ROI and scalability that should stimulate further investment in the use of AR, and potentially even AR as a PPE mandate, in some operational processes and contexts worldwide.
+
+# Possible Methodologies
+Utilize existing organizational and/or industry risk appetite matrix to identify operational processes for which intervention is most likely to impact organizational scorecard (medium to significant). If possible, target across multiple industries, focusing on one specific type of operational risk (financial, safety, health, environmental, legal or regulatory, social, or reputational). +
+Decide upon an operational process/context for which pre-intervention metrics (LTIR, TRIR) data is available and introduce AR intervention via A/B trial scenario. Observe post-intervention data. +
+Translate observable LTIR, TRIR decreases into Cost Benefit Analysis for AR implementation for different risk ratings of different types. +
+Subsequent projects could adapt existing AI algorithms to scrape Standard Operating Procedures to identify recommended processes for AR supplementation. +
+
+# Expected Impact Timeframe
+Near
+
+# Research Program
+This study could link closely with existing research programs associated with remote operations support and decision-making, as well as any programs around business impact and measures. Additionally, it is a fantastic candidate for studies looking at the utilization of Artificial Intelligence/Machine Learning and AI.
+
+# Miscellaneous Notes
+References related to risk appetite matrices:
+https://www.good-governance.org.uk/services/risk-appetite-for-nhs-organisations-a-matrix-to-support-better-risk-sensitivity-in-decision-taking/ +
+http://broadleaf.com.au/resource-material/risk-appetite-is-using-this-concept-worth-the-risk/ +
+https://ppl.app.uq.edu.au/content/1.80.01-enterprise-risk-management +
+https://www.ior-institute.org/wp-content/uploads/2018/11/20180905-Developing-and-Implementing-Effective-OpRisk-Appetite-Framework.pdf +
+References related to HSE scorecard metrics:
+http://www.csb.gov/userfiles/file/mackenzie%20presentation.pdf +
+https://bscdesigner.com/safety-kpis.htm +
+https://www.levitt-safety.com/blog/trif-trir-and-dart-whats-the-difference-and-why-do-they-matter/#:~:text=TRIR%20stands%20for%20Total%20Recordable,effectiveness%20of%20safety%20programs%2C%20and +
+
+# Author
+Jennifer Rogers

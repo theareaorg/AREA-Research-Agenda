@@ -1,0 +1,38 @@
+[[ra-Sxxxxx5-xxxxxx]]
+
+# Title
+
+# Description
+Text
+
+# Prior Research
+To be generated via FindAR
+
+# Key Words
+Text
+
+## FindAR Terms
+using machine-assigned terms list
+
+# Stakeholders
+Text
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+text
+
+# Possible Methodologies
+Text
+
+# Expected Impact Timeframe
+Text
+
+# Research Program
+Text
+
+# Miscellaneous Notes
+Text
+
+# Author
+Text

@@ -1,0 +1,41 @@
+
+[[ra-Ehumanfactors-visualencoding5]]
+
+# Quantifying the impact of spatial (stereoscopic view) on visual encoding and memory anchoring
+
+# Description
+Spatial vision enabled by stereoscopy appears to greatly help comprehension and retention of spatially relevant concepts.  Although technology today enables spatial vision, frequently it requires some level of compromise around performance, wearability or resource requirements. 
+This research topic includes experiments and – possibly – studies of the impact of binocular (vs monocular) vision) on memory encoding: the process changing the sensory input into a form so it can be stored in the brain and memory anchoring which enables effective retrieval.
+
+# Prior Research
+To be generated via FindAR
+
+# Key Words
+using machine-assigned terms list
+
+## FindAR Terms
+network security, security of data, computer crime, computer network security, computer privacy, cryptographic protocols, fraud, intrusion detection, data protection, blockchain, access control
+
+# Stakeholders
+Operations leaders, IT managers, OEM manufacturers, ISVs
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+Stereoscopic vision’s contribution to spatial understanding appears to be significant but hasn’t been quantified yet. Determining its specific contribution will greatly fuel business cases validation across the  Enterprise , justifying investments and removing the barriers of enterprise adoption
+
+# Possible Methodologies
+A combination of neuro-analytical tool that measure neurological brain activity and biometric tools that infer neurological responses by proxy. The former includes EEG, fMRI, and Steady State Topography (SST), all of which directly measure brain activity related to specific brain functions. For instance, SST measures the speed of electrical activity on the surface of the brain, linking changes in certain areas to specific metrics like engagement and memory encoding.
+The latter includes eye tracking, facial coding, and biometric data like heart rate monitoring. These techniques, however, are not technically neuroscience and—since the data allows for broader interpretation—offer indeterminate insights compared to measurements made by technology like SST and fMRI.
+
+# Expected Impact Timeframe
+Near
+
+# Research Program
+
+
+# Miscellaneous Notes
+
+
+# Author
+Peter Orban
