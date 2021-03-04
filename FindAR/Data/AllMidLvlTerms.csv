@@ -1,60 +1,62 @@
-,names,freq
-0,artificial intelligence,768
-1,audio,72
-2,automotive,299
-3,aviation and aerospace,116
-4,business,520
-5,chemical,150
-6,collaboration,141
-7,computer human interfaces,41
-8,computer vision,958
-9,construction,105
-10,consumer products,18
-11,cultural heritage,111
-12,data,630
-13,developers,524
-14,device energy management,28
-15,display technology,246
-16,education,588
-17,emergency responders,28
-18,engineering,230
-19,"food, agriculture, and natural sciences",107
-20,geospatial,193
-21,government,27
-22,graphics,925
-23,human factors,417
-24,human-computer interaction,657
-25,industrial equipment,97
-26,input,1180
-27,"inspection, safety and quality",238
-28,integration,9
-29,iot,158
-30,liberal arts,301
-31,logistics,29
-32,maintenance,83
-33,manufacturing,504
-34,marine,14
-35,medical,728
-36,metals and mining,19
-37,navigation,177
-38,"network, networking and network architectures",509
-39,oil and gas,12
-40,optics,163
-41,policy,268
-42,power and energy,131
-43,presence,37
-44,robotics,393
-45,security,97
-46,semiconductors,227
-47,sensors,234
-48,simulation,133
-49,smart cities,60
-50,standards,59
-51,telecommunication,873
-52,training,590
-53,transportation,126
-54,users,78
-55,utilities,4
-56,video,147
-57,wearables,497
-58,web services,65
+,names,freq,freq_2017,freq_2018,freq_2019,freq_2020,freq_2021
+0,artificial intelligence,771.0,173.0,209.0,270.0,115.0,4.0
+1,audio,73.0,13.0,28.0,26.0,6.0,0.0
+2,automotive,149.0,35.0,47.0,49.0,18.0,0.0
+3,aviation and aerospace,121.0,23.0,29.0,43.0,25.0,1.0
+4,business performance metrics,242.0,66.0,57.0,83.0,34.0,2.0
+5,business planning and management,169.0,30.0,40.0,58.0,39.0,2.0
+6,chemical,152.0,27.0,41.0,44.0,39.0,1.0
+7,collaboration,146.0,28.0,43.0,46.0,26.0,3.0
+8,computer vision,1005.0,242.0,265.0,332.0,157.0,9.0
+9,construction,112.0,28.0,37.0,29.0,17.0,1.0
+10,consumer products,18.0,4.0,4.0,6.0,4.0,0.0
+11,cultural heritage,122.0,23.0,36.0,39.0,23.0,1.0
+12,data,657.0,143.0,166.0,200.0,141.0,7.0
+13,developers,541.0,136.0,143.0,164.0,93.0,5.0
+14,device energy management,29.0,6.0,8.0,11.0,4.0,0.0
+15,display technology,247.0,39.0,64.0,95.0,49.0,0.0
+16,education,627.0,120.0,157.0,179.0,160.0,11.0
+17,emergency response,34.0,5.0,7.0,12.0,10.0,0.0
+18,engineering,229.0,44.0,48.0,80.0,54.0,3.0
+19,farming and natural science,107.0,22.0,21.0,43.0,21.0,0.0
+20,geospatial,179.0,56.0,44.0,56.0,22.0,1.0
+21,government,31.0,5.0,3.0,12.0,11.0,0.0
+22,graphics,950.0,223.0,266.0,316.0,141.0,4.0
+23,human factors,441.0,76.0,96.0,136.0,131.0,2.0
+24,human resources,78.0,15.0,17.0,26.0,19.0,1.0
+25,human-computer interaction,998.0,224.0,260.0,329.0,182.0,3.0
+26,industrial equipment,98.0,19.0,23.0,32.0,22.0,2.0
+27,input,1224.0,295.0,348.0,395.0,180.0,6.0
+28,"inspection, safety and quality",246.0,44.0,56.0,75.0,67.0,4.0
+29,integration,10.0,2.0,1.0,4.0,3.0,0.0
+30,internet of things,163.0,37.0,50.0,52.0,23.0,1.0
+31,liberal arts,321.0,73.0,105.0,78.0,63.0,2.0
+32,logistics,32.0,4.0,7.0,10.0,11.0,0.0
+33,manufacturing,564.0,109.0,139.0,171.0,135.0,10.0
+34,marine,14.0,4.0,3.0,5.0,2.0,0.0
+35,medical,725.0,176.0,174.0,228.0,143.0,4.0
+36,metals and mining,19.0,3.0,6.0,6.0,4.0,0.0
+37,navigation,178.0,35.0,59.0,61.0,22.0,1.0
+38,networks,509.0,119.0,147.0,174.0,67.0,2.0
+39,oil and gas,13.0,1.0,4.0,4.0,4.0,0.0
+40,optics,167.0,39.0,37.0,56.0,34.0,1.0
+41,other,178.0,31.0,49.0,65.0,32.0,1.0
+42,policy,273.0,53.0,80.0,103.0,36.0,1.0
+43,power and energy,134.0,29.0,43.0,37.0,25.0,0.0
+44,presence,39.0,13.0,10.0,9.0,7.0,0.0
+45,robotics,398.0,94.0,96.0,139.0,68.0,1.0
+46,sales and marketing,114.0,27.0,27.0,33.0,26.0,1.0
+47,security,97.0,21.0,25.0,33.0,16.0,2.0
+48,semiconductors,234.0,63.0,65.0,68.0,36.0,2.0
+49,sensors,235.0,63.0,77.0,67.0,27.0,1.0
+50,simulation,138.0,37.0,38.0,45.0,15.0,3.0
+51,smart cities,61.0,12.0,20.0,18.0,10.0,1.0
+52,standards,52.0,11.0,13.0,13.0,15.0,0.0
+53,telecommunication,912.0,200.0,260.0,279.0,162.0,11.0
+54,training,633.0,112.0,159.0,179.0,172.0,11.0
+55,transportation,131.0,26.0,43.0,45.0,16.0,1.0
+56,users,83.0,17.0,19.0,24.0,23.0,0.0
+57,utilities,4.0,0.0,3.0,1.0,0.0,0.0
+58,video,142.0,40.0,35.0,52.0,12.0,3.0
+59,wearables,492.0,113.0,146.0,163.0,67.0,3.0
+60,web services,77.0,19.0,24.0,24.0,10.0,0.0

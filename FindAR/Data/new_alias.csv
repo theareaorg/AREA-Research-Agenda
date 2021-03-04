@@ -1,0 +1,2562 @@
+Id,Index,LowLevel,MidLevel,HighLevel,freq_low,freq_mid,freq_high
+3d modeling,0,3d modeling,manufacturing,industries,63,564,63
+3g mobile communication,1,3g mobile communication,telecommunication,industries,3,912,3
+4g mobile communication,2,4g mobile communication,telecommunication,industries,6,912,6
+5g mobile communication,3,5g mobile communication,telecommunication,industries,35,912,35
+5g mobile communication systems,4,5g mobile communication systems,telecommunication,industries,15,912,15
+aberrations,5,aberrations,optics,displays,2,167,2
+ability testing,6,ability testing,human factors,end users and user experience,2,441,2
+ablation,7,ablation,medical,industries,1,725,1
+absorption spectroscopy,8,absorption spectroscopy,chemical,industries,1,152,1
+abstracting,9,abstracting,video,technology,13,142,13
+academic libraries,10,academic libraries,education,industries,2,627,2
+acceleration measurement,11,acceleration measurement,sensors,technology,1,235,1
+accelerometers,12,accelerometers,sensors,technology,7,235,7
+acceptance tests,13,acceptance tests,developers,technology,2,541,2
+access control,14,access control,security,technology,3,97,3
+access protocols,15,access protocols,security,technology,2,97,2
+accident prevention,16,accident prevention,"inspection, safety and quality",use cases,6,246,6
+accidents,17,accidents,"inspection, safety and quality",use cases,3,246,3
+accreditation,18,accreditation,education,industries,1,627,1
+acoustic field measurement,19,acoustic field measurement,audio,technology,1,73,1
+acoustic fields,20,acoustic fields,audio,technology,2,73,2
+acoustic generators,21,acoustic generators,audio,technology,1,73,1
+acoustic imaging,22,acoustic imaging,audio,technology,1,73,1
+acoustic intensity,23,acoustic intensity,audio,technology,1,73,1
+acoustic measurement,24,acoustic measurement,audio,technology,1,73,1
+acoustic noise,25,acoustic noise,audio,technology,4,73,4
+acoustic radiators,26,acoustic radiators,audio,technology,1,73,1
+acoustic signal processing,27,acoustic signal processing,audio,technology,8,73,8
+acoustic streaming,28,acoustic streaming,audio,technology,2,73,2
+acoustic wave absorption,29,acoustic wave absorption,audio,technology,1,73,1
+acoustic wave reflection,30,acoustic wave reflection,audio,technology,1,73,1
+acoustic waves,31,acoustic waves,audio,technology,1,73,1
+acoustics,32,acoustics,audio,technology,2,73,2
+active noise control,33,active noise control,audio,technology,1,73,1
+actuators,34,actuators,semiconductors,technology,6,234,6
+ad hoc networks,35,ad hoc networks,networks,technology,3,509,3
+ada,36,ada,developers,technology,1,541,1
+adaptive algorithms,37,adaptive algorithms,artificial intelligence,technology,1,771,1
+adaptive control,38,adaptive control,human-computer interaction,end users and user experience,1,998,1
+adaptive control systems,39,adaptive control systems,human-computer interaction,end users and user experience,2,998,2
+adaptive estimation,40,adaptive estimation,artificial intelligence,technology,1,771,1
+adaptive filtering,41,adaptive filtering,data,technology,1,657,1
+adaptive filters,42,adaptive filters,data,technology,1,657,1
+adaptive optics,43,adaptive optics,optics,displays,2,167,2
+adaptive signal processing,44,adaptive signal processing,semiconductors,technology,1,234,1
+adaptive systems,45,adaptive systems,artificial intelligence,technology,1,771,1
+additives,46,additives,chemical,industries,3,152,3
+adhesive bonding,47,adhesive bonding,manufacturing,industries,1,564,1
+advanced driver assistance systems,48,advanced driver assistance systems,automotive,industries,2,149,2
+advertising,49,advertising,sales and marketing,business,2,114,2
+advertising data processing,50,advertising data processing,sales and marketing,business,6,114,6
+aerial photography,51,aerial photography,input,technology,1,1224,1
+aerospace computing,52,aerospace computing,aviation and aerospace,industries,10,121,10
+aerospace control,53,aerospace control,aviation and aerospace,industries,1,121,1
+aerospace engineering,54,aerospace engineering,aviation and aerospace,industries,1,121,1
+aerospace industry,55,aerospace industry,aviation and aerospace,industries,3,121,3
+aerospace propulsion,56,aerospace propulsion,aviation and aerospace,industries,1,121,1
+aerospace robotics,57,aerospace robotics,aviation and aerospace,industries,1,121,1
+aerospace safety,58,aerospace safety,aviation and aerospace,industries,2,121,2
+aerospace simulation,59,aerospace simulation,aviation and aerospace,industries,1,121,1
+affective computing,60,affective computing,human factors,end users and user experience,1,441,1
+affine transforms,61,affine transforms,graphics,technology,1,950,1
+age issues,62,age issues,medical,industries,12,725,12
+agents,63,agents,artificial intelligence,technology,6,771,6
+aggregates,64,aggregates,construction,industries,1,112,1
+aging of materials,65,aging of materials,manufacturing,industries,1,564,1
+agricultural engineering,66,agricultural engineering,farming and natural science,industries,2,107,2
+agricultural machinery,67,agricultural machinery,farming and natural science,industries,1,107,1
+agricultural products,68,agricultural products,farming and natural science,industries,3,107,3
+agricultural robots,69,agricultural robots,farming and natural science,industries,5,107,5
+agriculture,70,agriculture,farming and natural science,industries,7,107,7
+agrochemicals,71,agrochemicals,farming and natural science,industries,1,107,1
+air conditioning,72,air conditioning,construction,industries,2,112,2
+air navigation,73,air navigation,aviation and aerospace,industries,10,121,10
+air pollution,74,air pollution,data,technology,1,657,1
+air quality,75,air quality,data,technology,5,657,5
+air traffic control,76,air traffic control,aviation and aerospace,industries,7,121,7
+air transportation,77,air transportation,transportation,industries,2,131,2
+aircraft,78,aircraft,aviation and aerospace,industries,5,121,5
+aircraft cockpits,79,aircraft cockpits,aviation and aerospace,industries,1,121,1
+aircraft control,80,aircraft control,aviation and aerospace,industries,3,121,3
+aircraft detection,81,aircraft detection,aviation and aerospace,industries,3,121,3
+aircraft displays,82,aircraft displays,aviation and aerospace,industries,3,121,3
+aircraft engines,83,aircraft engines,aviation and aerospace,industries,1,121,1
+aircraft maintenance,84,aircraft maintenance,aviation and aerospace,industries,2,121,2
+aircraft manufacture,85,aircraft manufacture,aviation and aerospace,industries,3,121,3
+aircraft navigation,86,aircraft navigation,aviation and aerospace,industries,1,121,1
+aircraft plants,87,aircraft plants,aviation and aerospace,industries,1,121,1
+airport buildings,88,airport buildings,aviation and aerospace,industries,1,121,1
+airport security,89,airport security,aviation and aerospace,industries,1,121,1
+airports,90,airports,aviation and aerospace,industries,3,121,3
+aldehydes,91,aldehydes,chemical,industries,1,152,1
+alignment,92,alignment,"inspection, safety and quality",use cases,2,246,2
+aluminum alloys,93,aluminum alloys,chemical,industries,1,152,1
+ambient intelligence,94,ambient intelligence,internet of things,technology,3,163,3
+ambulances,95,ambulances,emergency response,industries,1,34,1
+amplitude modulation,96,amplitude modulation,display technology,displays,1,247,1
+analogue circuits,97,analogue circuits,semiconductors,technology,1,234,1
+analogue-digital conversion,98,analogue-digital conversion,engineering,technology,2,229,2
+analytic hierarchy process,99,analytic hierarchy process,data,technology,1,657,1
+analytical models,100,analytical models,data,technology,2,657,2
+android,101,android,developers,technology,39,541,39
+anechoic chambers,102,anechoic chambers,industrial equipment,industries,1,98,1
+angiocardiography,103,angiocardiography,medical,industries,1,725,1
+angular velocity,104,angular velocity,input,technology,1,1224,1
+animals,105,animals,education,industries,4,627,4
+animation,106,animation,graphics,technology,20,950,20
+anomaly detection,107,anomaly detection,artificial intelligence,technology,1,771,1
+ant colony optimization,108,ant colony optimization,artificial intelligence,technology,2,771,2
+antenna arrays,109,antenna arrays,telecommunication,industries,2,912,2
+antenna phased arrays,110,antenna phased arrays,networks,technology,2,509,2
+antennas,111,antennas,telecommunication,industries,26,912,26
+anthropometry,112,anthropometry,human factors,end users and user experience,1,441,1
+anthropomorphic robots,113,anthropomorphic robots,robotics,technology,2,398,2
+antialiasing,114,antialiasing,graphics,technology,1,950,1
+application program interfaces,115,application program interfaces,developers,technology,15,541,15
+application programming interfaces,116,application programming interfaces,developers,technology,3,541,3
+application programs,117,application programs,developers,technology,28,541,28
+application specific integrated circuits,118,application specific integrated circuits,semiconductors,technology,2,234,2
+applications,119,applications,developers,technology,3,541,3
+apprentices,120,apprentices,training,use cases,1,633,1
+approximation algorithms,121,approximation algorithms,artificial intelligence,technology,3,771,3
+approximation theory,122,approximation theory,artificial intelligence,technology,8,771,8
+aquaculture,123,aquaculture,farming and natural science,industries,2,107,2
+arc welding,124,arc welding,manufacturing,industries,1,564,1
+archaeology,125,archaeology,liberal arts,industries,9,321,9
+arches,126,arches,construction,industries,1,112,1
+architectural acoustics,127,architectural acoustics,construction,industries,6,112,6
+architectural cad,128,architectural cad,construction,industries,4,112,4
+architectural design,129,architectural design,construction,industries,5,112,5
+architecture,130,architecture,construction,industries,15,112,15
+argon,131,argon,developers,technology,36,541,36
+armored vehicles,132,armored vehicles,geospatial,technology,1,179,1
+aromatic compounds,133,aromatic compounds,chemical,industries,1,152,1
+array signal processing,134,array signal processing,semiconductors,technology,4,234,4
+art,135,art,liberal arts,industries,28,321,28
+artificial intelligence,136,artificial intelligence,artificial intelligence,technology,54,771,54
+artificial life,137,artificial life,simulation,use cases,1,138,1
+artificial limbs,138,artificial limbs,medical,industries,3,725,3
+artificial organs,139,artificial organs,medical,industries,1,725,1
+artificial satellites,140,artificial satellites,sensors,technology,1,235,1
+arts computing,141,arts computing,liberal arts,industries,13,321,13
+aspect ratio,142,aspect ratio,graphics,technology,2,950,2
+aspherical optics,143,aspherical optics,optics,displays,1,167,1
+assembling,144,assembling,manufacturing,industries,39,564,39
+assembly,145,assembly,manufacturing,industries,4,564,4
+assembly planning,146,assembly planning,business planning and management,business,4,169,4
+asset management,147,asset management,data,technology,3,657,3
+assisted living,148,assisted living,medical,industries,12,725,12
+astronomy,149,astronomy,aviation and aerospace,industries,1,121,1
+astronomy computing,150,astronomy computing,aviation and aerospace,industries,9,121,9
+atmospheric temperature,151,atmospheric temperature,engineering,technology,1,229,1
+atoms,152,atoms,chemical,industries,1,152,1
+attitude measurement,153,attitude measurement,human factors,end users and user experience,1,441,1
+audio acoustics,154,audio acoustics,audio,technology,6,73,6
+audio equipment,155,audio equipment,audio,technology,3,73,3
+audio signal processing,156,audio signal processing,audio,technology,11,73,11
+audio systems,157,audio systems,audio,technology,6,73,6
+audio user interfaces,158,audio user interfaces,audio,technology,4,73,4
+audio-visual systems,159,audio-visual systems,input,technology,4,1224,4
+audition,160,audition,medical,industries,15,725,15
+auditoriums,161,auditoriums,construction,industries,1,112,1
+auditory evoked potentials,162,auditory evoked potentials,audio,technology,2,73,2
+authentication,163,authentication,security,technology,4,97,4
+authoring languages,164,authoring languages,developers,technology,2,541,2
+authoring systems,165,authoring systems,developers,technology,7,541,7
+authorisation,166,authorisation,security,technology,8,97,8
+automatic guided vehicles,167,automatic guided vehicles,automotive,industries,2,149,2
+automatic optical inspection,168,automatic optical inspection,manufacturing,industries,4,564,4
+automatic testing,169,automatic testing,manufacturing,industries,1,564,1
+automation,170,automation,manufacturing,industries,24,564,24
+automobile drivers,171,automobile drivers,automotive,industries,12,149,12
+automobile industry,172,automobile industry,automotive,industries,7,149,7
+automobile manufacture,173,automobile manufacture,automotive,industries,1,149,1
+automobile simulators,174,automobile simulators,simulation,use cases,2,138,2
+automobiles,175,automobiles,automotive,industries,7,149,7
+automotive components,176,automotive components,automotive,industries,4,149,4
+automotive electric vehicles,177,automotive electric vehicles,automotive,industries,1,149,1
+automotive electronics,178,automotive electronics,automotive,industries,3,149,3
+automotive engineering,179,automotive engineering,automotive,industries,5,149,5
+automotive industry,180,automotive industry,automotive,industries,7,149,7
+autonomous aerial vehicles,181,autonomous aerial vehicles,aviation and aerospace,industries,23,121,23
+autonomous agents,182,autonomous agents,artificial intelligence,technology,11,771,11
+autonomous underwater vehicles,183,autonomous underwater vehicles,marine,industries,1,14,1
+autonomous vehicles,184,autonomous vehicles,automotive,industries,9,149,9
+avatars,185,avatars,presence,end users and user experience,35,39,35
+aviation,186,aviation,aviation and aerospace,industries,2,121,2
+avionics,187,avionics,aviation and aerospace,industries,2,121,2
+backpropagation,188,backpropagation,networks,technology,4,509,4
+ball milling,189,ball milling,manufacturing,industries,1,564,1
+ballistics,190,ballistics,government,industries,1,31,1
+balloons,191,balloons,aviation and aerospace,industries,1,121,1
+bandwidth,192,bandwidth,networks,technology,16,509,16
+bandwidth allocation,193,bandwidth allocation,networks,technology,2,509,2
+bank data processing,194,bank data processing,business planning and management,business,1,169,1
+bar codes,195,bar codes,input,technology,7,1224,7
+base stations,196,base stations,networks,technology,3,509,3
+batch processing,197,batch processing,manufacturing,industries,1,564,1
+bayes methods,198,bayes methods,artificial intelligence,technology,7,771,7
+bayesian networks,199,bayesian networks,artificial intelligence,technology,1,771,1
+beam forming networks,200,beam forming networks,telecommunication,industries,1,912,1
+beamforming,201,beamforming,optics,displays,3,167,3
+behavioral research,202,behavioral research,human factors,end users and user experience,26,441,26
+behavioural sciences,203,behavioural sciences,human factors,end users and user experience,2,441,2
+behavioural sciences computing,204,behavioural sciences computing,human factors,end users and user experience,12,441,12
+belief networks,205,belief networks,data,technology,1,657,1
+belt conveyors,206,belt conveyors,manufacturing,industries,1,564,1
+belts,207,belts,industrial equipment,industries,1,98,1
+benchmarking,208,benchmarking,data,technology,7,657,7
+berry phase,209,berry phase,optics,displays,1,167,1
+bicycles,210,bicycles,transportation,industries,4,131,4
+big data,211,big data,data,technology,25,657,25
+binary alloys,212,binary alloys,chemical,industries,1,152,1
+binary codes,213,binary codes,developers,technology,1,541,1
+binary sequences,214,binary sequences,developers,technology,1,541,1
+binoculars,215,binoculars,optics,displays,2,167,2
+bio-optics,216,bio-optics,optics,displays,1,167,1
+bioacoustics,217,bioacoustics,audio,technology,1,73,1
+biochemical engineering,218,biochemical engineering,engineering,technology,1,229,1
+biochemistry,219,biochemistry,chemical,industries,1,152,1
+bioelectric potentials,220,bioelectric potentials,medical,industries,2,725,2
+biofeedback,221,biofeedback,human-computer interaction,end users and user experience,2,998,2
+biographies,222,biographies,education,industries,2,627,2
+bioinformatics,223,bioinformatics,medical,industries,3,725,3
+biological effects of radiation,224,biological effects of radiation,medical,industries,1,725,1
+biological organs,225,biological organs,medical,industries,9,725,9
+biological tissues,226,biological tissues,medical,industries,6,725,6
+biology,227,biology,medical,industries,2,725,2
+biology computing,228,biology computing,medical,industries,20,725,20
+biomechanics,229,biomechanics,medical,industries,47,725,47
+biomedical communication,230,biomedical communication,medical,industries,2,725,2
+biomedical education,231,biomedical education,education,industries,39,627,39
+biomedical electrodes,232,biomedical electrodes,medical,industries,1,725,1
+biomedical engineering,233,biomedical engineering,medical,industries,6,725,6
+biomedical equipment,234,biomedical equipment,medical,industries,3,725,3
+biomedical measurement,235,biomedical measurement,medical,industries,7,725,7
+biomedical mri,236,biomedical mri,medical,industries,20,725,20
+biomedical optical imaging,237,biomedical optical imaging,medical,industries,14,725,14
+biomedical signal processing,238,biomedical signal processing,semiconductors,technology,1,234,1
+biomedical ultrasonics,239,biomedical ultrasonics,medical,industries,5,725,5
+biomembrane transport,240,biomembrane transport,medical,industries,1,725,1
+biomembranes,241,biomembranes,chemical,industries,1,152,1
+biomems,242,biomems,semiconductors,technology,1,234,1
+biometrics,243,biometrics,human-computer interaction,end users and user experience,6,998,6
+biophysics,244,biophysics,medical,industries,1,725,1
+biopsy,245,biopsy,medical,industries,1,725,1
+biosensors,246,biosensors,medical,industries,4,725,4
+biotechnology,247,biotechnology,education,industries,3,627,3
+biped locomotion,248,biped locomotion,robotics,technology,2,398,2
+bitcoin,249,bitcoin,sales and marketing,business,1,114,1
+black-box testing,250,black-box testing,data,technology,1,657,1
+blending,251,blending,education,industries,8,627,8
+blind source separation,252,blind source separation,input,technology,1,1224,1
+blockchain,253,blockchain,security,technology,3,97,3
+blood,254,blood,medical,industries,3,725,3
+blood pressure,255,blood pressure,medical,industries,1,725,1
+blood vessels,256,blood vessels,medical,industries,10,725,10
+bluetooth,257,bluetooth,networks,technology,10,509,10
+boats,258,boats,marine,industries,1,14,1
+body area networks,259,body area networks,networks,technology,3,509,3
+body sensor networks,260,body sensor networks,networks,technology,3,509,3
+bone,261,bone,medical,industries,12,725,12
+botany,262,botany,education,industries,3,627,3
+botnet,263,botnet,networks,technology,3,509,3
+bottling,264,bottling,manufacturing,industries,1,564,1
+brain,265,brain,medical,industries,26,725,26
+brain models,266,brain models,medical,industries,2,725,2
+brain-computer interfaces,267,brain-computer interfaces,human factors,end users and user experience,23,441,23
+braking,268,braking,automotive,industries,1,149,1
+bridges,269,bridges,transportation,industries,5,131,5
+brightness,270,brightness,graphics,technology,8,950,8
+broadband networks,271,broadband networks,networks,technology,3,509,3
+broadcast communication,272,broadcast communication,telecommunication,industries,2,912,2
+broadcasting,273,broadcasting,networks,technology,2,509,2
+bubbles,274,bubbles,human-computer interaction,end users and user experience,1,998,1
+budget control,275,budget control,business planning and management,business,7,169,7
+buffer storage,276,buffer storage,developers,technology,1,541,1
+building information modelling,277,building information modelling,construction,industries,7,112,7
+building interiors,278,building interiors,construction,industries,2,112,2
+building management systems,279,building management systems,construction,industries,7,112,7
+building materials,280,building materials,construction,industries,2,112,2
+buildings,281,buildings,construction,industries,18,112,18
+buoyancy,282,buoyancy,marine,industries,1,14,1
+buried object detection,283,buried object detection,geospatial,technology,1,179,1
+business data processing,284,business data processing,business performance metrics,business,8,242,8
+c# language,285,c# language,developers,technology,1,541,1
+c++,286,c++,developers,technology,2,541,2
+c++ language,287,c++ language,developers,technology,1,541,1
+cables,288,cables,networks,technology,3,509,3
+cache storage,289,cache storage,semiconductors,technology,11,234,11
+cad,290,cad,graphics,technology,28,950,28
+cad/cam,291,cad/cam,graphics,technology,2,950,2
+calcium,292,calcium,chemical,industries,1,152,1
+calculations,293,calculations,education,industries,1,627,1
+calculus,294,calculus,education,industries,1,627,1
+calibration,295,calibration,sensors,technology,64,235,64
+cameras,296,cameras,input,technology,361,1224,361
+cams,297,cams,industrial equipment,industries,2,98,2
+cancer,298,cancer,medical,industries,12,725,12
+capacitive sensors,299,capacitive sensors,sensors,technology,3,235,3
+capacitors,300,capacitors,semiconductors,technology,1,234,1
+carbohydrates,301,carbohydrates,medical,industries,1,725,1
+cardiology,302,cardiology,medical,industries,8,725,8
+cardiovascular surgery,303,cardiovascular surgery,medical,industries,1,725,1
+cardiovascular system,304,cardiovascular system,medical,industries,5,725,5
+carrier mobility,305,carrier mobility,telecommunication,industries,2,912,2
+cartography,306,cartography,navigation,use cases,3,178,3
+catering industry,307,catering industry,farming and natural science,industries,4,107,4
+catheters,308,catheters,medical,industries,1,725,1
+cathode ray oscilloscopes,309,cathode ray oscilloscopes,engineering,technology,4,229,4
+caves,310,caves,display technology,displays,1,247,1
+ccd cameras,311,ccd cameras,input,technology,2,1224,2
+ceilings,312,ceilings,construction,industries,1,112,1
+cell culture,313,cell culture,medical,industries,1,725,1
+cell proliferation,314,cell proliferation,medical,industries,6,725,6
+cellular automata,315,cellular automata,data,technology,2,657,2
+cellular biophysics,316,cellular biophysics,medical,industries,4,725,4
+cellular radio,317,cellular radio,telecommunication,industries,18,912,18
+cellular telephones,318,cellular telephones,telecommunication,industries,4,912,4
+cellulose,319,cellulose,chemical,industries,1,152,1
+cement industry,320,cement industry,construction,industries,1,112,1
+channel allocation,321,channel allocation,telecommunication,industries,1,912,1
+channel bank filters,322,channel bank filters,data,technology,1,657,1
+channel capacity,323,channel capacity,telecommunication,industries,2,912,2
+channel coding,324,channel coding,security,technology,4,97,4
+channel estimation,325,channel estimation,telecommunication,industries,2,912,2
+channel state information,326,channel state information,telecommunication,industries,1,912,1
+chaos,327,chaos,robotics,technology,2,398,2
+character recognition,328,character recognition,input,technology,3,1224,3
+character sets,329,character sets,developers,technology,1,541,1
+charge coupled devices,330,charge coupled devices,input,technology,1,1224,1
+charts,331,charts,input,technology,1,1224,1
+chemical activation,332,chemical activation,chemical,industries,2,152,2
+chemical analysis,333,chemical analysis,chemical,industries,1,152,1
+chemical attack,334,chemical attack,"inspection, safety and quality",use cases,1,246,1
+chemical bonds,335,chemical bonds,chemical,industries,2,152,2
+chemical detection,336,chemical detection,"inspection, safety and quality",use cases,1,246,1
+chemical elements,337,chemical elements,chemical,industries,1,152,1
+chemical hazards,338,chemical hazards,chemical,industries,1,152,1
+chemical indicators,339,chemical indicators,chemical,industries,1,152,1
+chemical industry,340,chemical industry,chemical,industries,1,152,1
+chemical reactions,341,chemical reactions,chemical,industries,1,152,1
+chemioception,342,chemioception,medical,industries,7,725,7
+chemistry computing,343,chemistry computing,chemical,industries,6,152,6
+cholesteric liquid crystals,344,cholesteric liquid crystals,chemical,industries,1,152,1
+chromium,345,chromium,chemical,industries,1,152,1
+cinematography,346,cinematography,liberal arts,industries,3,321,3
+circadian rhythms,347,circadian rhythms,medical,industries,1,725,1
+circuit diagrams,348,circuit diagrams,power and energy,industries,1,134,1
+circuit networks,349,circuit networks,networks,technology,2,509,2
+circuit simulation,350,circuit simulation,power and energy,industries,1,134,1
+circular polarization,351,circular polarization,chemical,industries,1,152,1
+citation analysis,352,citation analysis,education,industries,1,627,1
+civil engineering,353,civil engineering,engineering,technology,1,229,1
+civil engineering computing,354,civil engineering computing,construction,industries,7,112,7
+classifiers,355,classifiers,artificial intelligence,technology,1,771,1
+client server computer systems,356,client server computer systems,networks,technology,11,509,11
+climate change,357,climate change,policy,business,1,273,1
+climate control,358,climate control,"inspection, safety and quality",use cases,1,246,1
+climate mitigation,359,climate mitigation,policy,business,1,273,1
+climate models,360,climate models,geospatial,technology,1,179,1
+clinical research,361,clinical research,medical,industries,3,725,3
+clocks,362,clocks,human-computer interaction,end users and user experience,3,998,3
+clone cells,363,clone cells,medical,industries,1,725,1
+cloning,364,cloning,medical,industries,2,725,2
+closed circuit television,365,closed circuit television,video,technology,2,142,2
+closed loop systems,366,closed loop systems,manufacturing,industries,2,564,2
+clothing,367,clothing,manufacturing,industries,9,564,9
+clothing industry,368,clothing industry,manufacturing,industries,4,564,4
+cloud computing,369,cloud computing,networks,technology,117,509,117
+clouds,370,clouds,networks,technology,1,509,1
+cluster analysis,371,cluster analysis,artificial intelligence,technology,1,771,1
+clustering algorithms,372,clustering algorithms,artificial intelligence,technology,1,771,1
+clutches,373,clutches,automotive,industries,2,149,2
+clutter,374,clutter,artificial intelligence,technology,1,771,1
+cmos digital integrated circuits,375,cmos digital integrated circuits,semiconductors,technology,1,234,1
+cmos image sensors,376,cmos image sensors,semiconductors,technology,2,234,2
+cmos integrated circuits,377,cmos integrated circuits,semiconductors,technology,1,234,1
+cmos logic circuits,378,cmos logic circuits,semiconductors,technology,1,234,1
+code standards,379,code standards,standards,standards,1,52,1
+codes,380,codes,developers,technology,8,541,8
+coding errors,381,coding errors,developers,technology,1,541,1
+cognition,382,cognition,human factors,end users and user experience,61,441,61
+cognitive radio,383,cognitive radio,internet of things,technology,1,163,1
+cognitive systems,384,cognitive systems,human factors,end users and user experience,15,441,15
+coherent scattering,385,coherent scattering,chemical,industries,1,152,1
+coils,386,coils,power and energy,industries,1,134,1
+collaborative filtering,387,collaborative filtering,artificial intelligence,technology,1,771,1
+collector efficiency,388,collector efficiency,data,technology,2,657,2
+collision avoidance,389,collision avoidance,automotive,industries,17,149,17
+color,390,color,graphics,technology,15,950,15
+color codes,391,color codes,graphics,technology,1,950,1
+color computer graphics,392,color computer graphics,display technology,displays,1,247,1
+color matching,393,color matching,graphics,technology,1,950,1
+color printing,394,color printing,developers,technology,1,541,1
+color vision,395,color vision,input,technology,8,1224,8
+colorimetry,396,colorimetry,input,technology,1,1224,1
+colour displays,397,colour displays,display technology,displays,1,247,1
+combinatorial mathematics,398,combinatorial mathematics,medical,industries,1,725,1
+combinatorial optimization,399,combinatorial optimization,developers,technology,2,541,2
+combined source-channel coding,400,combined source-channel coding,networks,technology,1,509,1
+commerce,401,commerce,sales and marketing,business,12,114,12
+commercial off-the-shelf,402,commercial off-the-shelf,sales and marketing,business,1,114,1
+communication,403,communication,input,technology,2,1224,2
+communication channels,404,communication channels,human-computer interaction,end users and user experience,1,998,1
+communication satellites,405,communication satellites,telecommunication,industries,1,912,1
+compaction,406,compaction,manufacturing,industries,1,564,1
+comparators,407,comparators,semiconductors,technology,1,234,1
+compasses,408,compasses,input,technology,1,1224,1
+competition,409,competition,business performance metrics,business,5,242,5
+complex networks,410,complex networks,artificial intelligence,technology,4,771,4
+compliance control,411,compliance control,business performance metrics,business,2,242,2
+compressors,412,compressors,power and energy,industries,1,134,1
+computation theory,413,computation theory,artificial intelligence,technology,11,771,11
+computational complexity,414,computational complexity,artificial intelligence,technology,11,771,11
+computational efficiency,415,computational efficiency,device energy management,displays,5,29,5
+computational electromagnetics,416,computational electromagnetics,engineering,technology,3,229,3
+computational fluid dynamics,417,computational fluid dynamics,simulation,use cases,4,138,4
+computational geometry,418,computational geometry,artificial intelligence,technology,18,771,18
+computational grammars,419,computational grammars,developers,technology,1,541,1
+computational mechanics,420,computational mechanics,simulation,use cases,1,138,1
+computational methods,421,computational methods,developers,technology,6,541,6
+computer aided design,422,computer aided design,graphics,technology,9,950,9
+computer aided engineering,423,computer aided engineering,simulation,use cases,1,138,1
+computer aided instruction,424,computer aided instruction,training,use cases,528,633,528
+computer aided software engineering,425,computer aided software engineering,engineering,technology,1,229,1
+computer animation,426,computer animation,graphics,technology,60,950,60
+computer applications,427,computer applications,developers,technology,9,541,9
+computer architecture,428,computer architecture,developers,technology,10,541,10
+computer based training,429,computer based training,training,use cases,94,633,94
+computer centres,430,computer centres,networks,technology,9,509,9
+computer circuits,431,computer circuits,semiconductors,technology,1,234,1
+computer control systems,432,computer control systems,industrial equipment,industries,1,98,1
+computer crime,433,computer crime,security,technology,1,97,1
+computer debugging,434,computer debugging,developers,technology,1,541,1
+computer displays,435,computer displays,display technology,displays,10,247,10
+computer games,436,computer games,liberal arts,industries,172,321,172
+computer graphics,437,computer graphics,graphics,technology,49,950,49
+computer graphics equipment,438,computer graphics equipment,graphics,technology,1,950,1
+computer hardware,439,computer hardware,developers,technology,3,541,3
+computer keyboards,440,computer keyboards,input,technology,3,1224,3
+computer literacy,441,computer literacy,policy,business,2,273,2
+computer maintenance,442,computer maintenance,manufacturing,industries,1,564,1
+computer mediated communication,443,computer mediated communication,collaboration,use cases,1,146,1
+computer music,444,computer music,audio,technology,1,73,1
+computer network management,445,computer network management,networks,technology,3,509,3
+computer network security,446,computer network security,security,technology,1,97,1
+computer networks,447,computer networks,networks,technology,4,509,4
+computer operating systems,448,computer operating systems,developers,technology,2,541,2
+computer peripheral equipment,449,computer peripheral equipment,input,technology,1,1224,1
+computer privacy,450,computer privacy,security,technology,1,97,1
+computer programming,451,computer programming,developers,technology,19,541,19
+computer programming languages,452,computer programming languages,developers,technology,1,541,1
+computer science education,453,computer science education,education,industries,28,627,28
+computer simulation,454,computer simulation,simulation,use cases,17,138,17
+computer simulation languages,455,computer simulation languages,developers,technology,1,541,1
+computer software,456,computer software,developers,technology,8,541,8
+computer systems programming,457,computer systems programming,developers,technology,1,541,1
+computer vision,458,computer vision,computer vision,technology,174,1005,174
+computer workstations,459,computer workstations,developers,technology,1,541,1
+computer-generated holography,460,computer-generated holography,graphics,technology,6,950,6
+computerised instrumentation,461,computerised instrumentation,industrial equipment,industries,3,98,3
+computerised monitoring,462,computerised monitoring,manufacturing,industries,8,564,8
+computerised navigation,463,computerised navigation,navigation,use cases,2,178,2
+computerised numerical control,464,computerised numerical control,education,industries,4,627,4
+computerized tomography,465,computerized tomography,medical,industries,35,725,35
+computers,466,computers,developers,technology,1,541,1
+concave programming,467,concave programming,artificial intelligence,technology,6,771,6
+conceptual design,468,conceptual design,developers,technology,3,541,3
+concretes,469,concretes,construction,industries,1,112,1
+concurrent engineering,470,concurrent engineering,manufacturing,industries,1,564,1
+condition monitoring,471,condition monitoring,manufacturing,industries,13,564,13
+conductive materials,472,conductive materials,metals and mining,industries,2,19,2
+configuration management,473,configuration management,developers,technology,1,541,1
+conformal mapping,474,conformal mapping,computer vision,technology,2,1005,2
+conformations,475,conformations,education,industries,1,627,1
+conservation,476,conservation,farming and natural science,industries,1,107,1
+constrained optimization,477,constrained optimization,computer vision,technology,1,1005,1
+constraint theory,478,constraint theory,computer vision,technology,1,1005,1
+construction,479,construction,construction,industries,1,112,1
+construction equipment,480,construction equipment,construction,industries,2,112,2
+construction industry,481,construction industry,construction,industries,5,112,5
+consumer behaviour,482,consumer behaviour,sales and marketing,business,9,114,9
+consumer electronics,483,consumer electronics,human factors,end users and user experience,5,441,5
+consumer products,484,consumer products,consumer products,industries,3,18,3
+containers,485,containers,developers,technology,3,541,3
+content management,486,content management,developers,technology,3,541,3
+content-based retrieval,487,content-based retrieval,data,technology,1,657,1
+continuing professional development,488,continuing professional development,education,industries,2,627,2
+continuum mechanics,489,continuum mechanics,robotics,technology,1,398,1
+contractors,490,contractors,human resources,business,1,78,1
+contracts,491,contracts,policy,business,1,273,1
+contrast media,492,contrast media,networks,technology,1,509,1
+control engineering,493,control engineering,engineering,technology,1,229,1
+control engineering computing,494,control engineering computing,engineering,technology,88,229,88
+control engineering education,495,control engineering education,education,industries,4,627,4
+control system synthesis,496,control system synthesis,human-computer interaction,end users and user experience,3,998,3
+control systems,497,control systems,human-computer interaction,end users and user experience,2,998,2
+control towers,498,control towers,aviation and aerospace,industries,2,121,2
+controllers,499,controllers,input,technology,5,1224,5
+convergence of numerical methods,500,convergence of numerical methods,education,industries,1,627,1
+convex optimization,501,convex optimization,networks,technology,1,509,1
+convex programming,502,convex programming,developers,technology,3,541,3
+conveyors,503,conveyors,manufacturing,industries,2,564,2
+convolution,504,convolution,networks,technology,29,509,29
+convolutional codes,505,convolutional codes,artificial intelligence,technology,2,771,2
+convolutional neural nets,506,convolutional neural nets,artificial intelligence,technology,58,771,58
+convolutional neural networks,507,convolutional neural networks,artificial intelligence,technology,4,771,4
+cooking,508,cooking,cultural heritage,industries,1,122,1
+cooling,509,cooling,sensors,technology,2,235,2
+cooling systems,510,cooling systems,industrial equipment,industries,1,98,1
+cooperative communication,511,cooperative communication,collaboration,use cases,5,146,5
+cooperative systems,512,cooperative systems,collaboration,use cases,1,146,1
+coordination reactions,513,coordination reactions,chemical,industries,2,152,2
+coprocessors,514,coprocessors,semiconductors,technology,1,234,1
+correlation methods,515,correlation methods,artificial intelligence,technology,6,771,6
+cosmetics,516,cosmetics,chemical,industries,1,152,1
+cosmic dust,517,cosmic dust,aviation and aerospace,industries,1,121,1
+cosmic rays,518,cosmic rays,aviation and aerospace,industries,2,121,2
+cosmology,519,cosmology,aviation and aerospace,industries,1,121,1
+cost effectiveness,520,cost effectiveness,business performance metrics,business,10,242,10
+cost engineering,521,cost engineering,business performance metrics,business,1,242,1
+cost functions,522,cost functions,business performance metrics,business,1,242,1
+cost reduction,523,cost reduction,business performance metrics,business,4,242,4
+costing,524,costing,business performance metrics,business,3,242,3
+costs,525,costs,business performance metrics,business,20,242,20
+cotton,526,cotton,farming and natural science,industries,1,107,1
+courseware,527,courseware,education,industries,3,627,3
+cranes,528,cranes,construction,industries,1,112,1
+critical infrastructures,529,critical infrastructures,business performance metrics,business,1,242,1
+crops,530,crops,farming and natural science,industries,3,107,3
+crowdsourcing,531,crowdsourcing,data,technology,4,657,4
+cryptocurrencies,532,cryptocurrencies,sales and marketing,business,2,114,2
+cryptographic protocols,533,cryptographic protocols,security,technology,1,97,1
+cryptography,534,cryptography,security,technology,14,97,14
+cultural aspects,535,cultural aspects,policy,business,6,273,6
+curricula,536,curricula,education,industries,15,627,15
+curve fitting,537,curve fitting,graphics,technology,1,950,1
+customer relationship management,538,customer relationship management,sales and marketing,business,1,114,1
+customer satisfaction,539,customer satisfaction,sales and marketing,business,9,114,9
+customer services,540,customer services,sales and marketing,business,7,114,7
+cutting,541,cutting,manufacturing,industries,1,564,1
+cutting tools,542,cutting tools,industrial equipment,industries,3,98,3
+cyber physical systems,543,cyber physical systems,human-computer interaction,end users and user experience,6,998,6
+cyber-physical systems,544,cyber-physical systems,robotics,technology,10,398,10
+cybernetics,545,cybernetics,wearables,displays,2,492,2
+dairy products,546,dairy products,farming and natural science,industries,1,107,1
+damage detection,547,damage detection,manufacturing,industries,1,564,1
+damping,548,damping,chemical,industries,1,152,1
+data acquisition,549,data acquisition,input,technology,20,1224,20
+data aggregation,550,data aggregation,data,technology,2,657,2
+data analysis,551,data analysis,data,technology,34,657,34
+data analytics,552,data analytics,data,technology,4,657,4
+data communication,553,data communication,networks,technology,3,509,3
+data compression,554,data compression,data,technology,27,657,27
+data compression ratio,555,data compression ratio,data,technology,1,657,1
+data flow analysis,556,data flow analysis,data,technology,1,657,1
+data fusion,557,data fusion,data,technology,2,657,2
+data gloves,558,data gloves,input,technology,10,1224,10
+data handling,559,data handling,data,technology,17,657,17
+data integration,560,data integration,integration,business,2,10,2
+data integrity,561,data integrity,data,technology,2,657,2
+data loggers,562,data loggers,data,technology,2,657,2
+data mining,563,data mining,data,technology,10,657,10
+data models,564,data models,developers,technology,3,541,3
+data privacy,565,data privacy,policy,business,26,273,26
+data protection,566,data protection,security,technology,4,97,4
+data reduction,567,data reduction,data,technology,2,657,2
+data science,568,data science,data,technology,3,657,3
+data storage equipment,569,data storage equipment,data,technology,3,657,3
+data structures,570,data structures,data,technology,7,657,7
+data transfer,571,data transfer,networks,technology,5,509,5
+data visualization,572,data visualization,data,technology,285,657,285
+data warehouses,573,data warehouses,data,technology,1,657,1
+database management systems,574,database management systems,networks,technology,3,509,3
+database systems,575,database systems,data,technology,6,657,6
+dc machinery,576,dc machinery,industrial equipment,industries,1,98,1
+dc motors,577,dc motors,industrial equipment,industries,1,98,1
+decentralised control,578,decentralised control,robotics,technology,1,398,1
+decision making,579,decision making,human factors,end users and user experience,54,441,54
+decision support systems,580,decision support systems,business performance metrics,business,14,242,14
+decision trees,581,decision trees,artificial intelligence,technology,10,771,10
+decoding,582,decoding,input,technology,6,1224,6
+deconvolution,583,deconvolution,computer vision,technology,3,1005,3
+deep learning,584,deep learning,artificial intelligence,technology,32,771,32
+deep neural networks,585,deep neural networks,artificial intelligence,technology,18,771,18
+defects,586,defects,"inspection, safety and quality",use cases,1,246,1
+deformation,587,deformation,graphics,technology,14,950,14
+degrees of freedom,588,degrees of freedom,robotics,technology,21,398,21
+delays,589,delays,human-computer interaction,end users and user experience,2,998,2
+demodulation,590,demodulation,computer vision,technology,2,1005,2
+demonstrations,591,demonstrations,developers,technology,1,541,1
+demulsification,592,demulsification,manufacturing,industries,1,564,1
+dentistry,593,dentistry,medical,industries,8,725,8
+depth perception,594,depth perception,human factors,end users and user experience,15,441,15
+design,595,design,human-computer interaction,end users and user experience,27,998,27
+design engineering,596,design engineering,engineering,technology,8,229,8
+design for manufacturability,597,design for manufacturability,manufacturing,industries,1,564,1
+design of experiments,598,design of experiments,human factors,end users and user experience,1,441,1
+deterioration,599,deterioration,chemical,industries,1,152,1
+deterministic algorithms,600,deterministic algorithms,artificial intelligence,technology,1,771,1
+developing countries,601,developing countries,policy,business,2,273,2
+dexterous manipulators,602,dexterous manipulators,robotics,technology,6,398,6
+diagnosis,603,diagnosis,medical,industries,11,725,11
+diagnostic products,604,diagnostic products,medical,industries,1,725,1
+diagnostic radiography,605,diagnostic radiography,medical,industries,6,725,6
+die casting,606,die casting,manufacturing,industries,1,564,1
+dies,607,dies,manufacturing,industries,1,564,1
+differential phase shift keying,608,differential phase shift keying,audio,technology,1,73,1
+diffraction,609,diffraction,optics,displays,3,167,3
+diffraction gratings,610,diffraction gratings,optics,displays,1,167,1
+diffractive optics,611,diffractive optics,optics,displays,2,167,2
+digital arithmetic,612,digital arithmetic,data,technology,1,657,1
+digital devices,613,digital devices,education,industries,14,627,14
+digital elevation models,614,digital elevation models,geospatial,technology,2,179,2
+digital forensics,615,digital forensics,security,technology,2,97,2
+digital libraries,616,digital libraries,education,industries,9,627,9
+digital photography,617,digital photography,liberal arts,industries,4,321,4
+digital signal processing,618,digital signal processing,semiconductors,technology,1,234,1
+digital simulation,619,digital simulation,simulation,use cases,10,138,10
+digital storage,620,digital storage,networks,technology,21,509,21
+digital television,621,digital television,display technology,displays,3,247,3
+digital twin,622,digital twin,smart cities,use cases,2,61,2
+digital video broadcasting,623,digital video broadcasting,video,technology,2,142,2
+direct broadcasting by satellite,624,direct broadcasting by satellite,networks,technology,1,509,1
+directed graphs,625,directed graphs,developers,technology,3,541,3
+direction-of-arrival estimation,626,direction-of-arrival estimation,navigation,use cases,2,178,2
+directional patterns,627,directional patterns,telecommunication,industries,1,912,1
+disaster prevention,628,disaster prevention,"inspection, safety and quality",use cases,3,246,3
+disasters,629,disasters,emergency response,industries,12,34,12
+discrete event simulation,630,discrete event simulation,simulation,use cases,1,138,1
+discrete fourier transforms,631,discrete fourier transforms,artificial intelligence,technology,1,771,1
+diseases,632,diseases,medical,industries,57,725,57
+dispensers,633,dispensers,industrial equipment,industries,1,98,1
+display devices,634,display devices,display technology,displays,50,247,50
+display instrumentation,635,display instrumentation,display technology,displays,5,247,5
+display screens,636,display screens,display technology,displays,1,247,1
+distance education,637,distance education,education,industries,4,627,4
+distance learning,638,distance learning,education,industries,10,627,10
+distance measurement,639,distance measurement,navigation,use cases,19,178,19
+distributed computer systems,640,distributed computer systems,networks,technology,13,509,13
+distributed control,641,distributed control,data,technology,2,657,2
+distributed database systems,642,distributed database systems,developers,technology,3,541,3
+distributed databases,643,distributed databases,developers,technology,3,541,3
+distributed processing,644,distributed processing,networks,technology,15,509,15
+dna,645,dna,medical,industries,1,725,1
+document handling,646,document handling,business planning and management,business,2,169,2
+document image processing,647,document image processing,computer vision,technology,1,1005,1
+domes,648,domes,collaboration,use cases,1,146,1
+domestic appliances,649,domestic appliances,consumer products,industries,2,18,2
+domestic safety,650,domestic safety,"inspection, safety and quality",use cases,1,246,1
+doors,651,doors,construction,industries,2,112,2
+doppler effect,652,doppler effect,input,technology,1,1224,1
+dosimetry,653,dosimetry,medical,industries,2,725,2
+dram chips,654,dram chips,semiconductors,technology,1,234,1
+drilling platforms,655,drilling platforms,power and energy,industries,1,134,1
+driver circuits,656,driver circuits,semiconductors,technology,2,234,2
+driver information systems,657,driver information systems,automotive,industries,32,149,32
+drives,658,drives,human-computer interaction,end users and user experience,1,998,1
+drones,659,drones,aviation and aerospace,industries,13,121,13
+drops,660,drops,chemical,industries,1,152,1
+dynamic programming,661,dynamic programming,developers,technology,1,541,1
+dynamical systems,662,dynamical systems,simulation,use cases,1,138,1
+dynamics,663,dynamics,computer vision,technology,5,1005,5
+e-learning,664,e-learning,education,industries,41,627,41
+ear,665,ear,medical,industries,2,725,2
+earphones,666,earphones,audio,technology,1,73,1
+earth,667,earth,geospatial,technology,1,179,1
+earth atmosphere,668,earth atmosphere,geospatial,technology,1,179,1
+earthquakes,669,earthquakes,geospatial,technology,1,179,1
+echo suppression,670,echo suppression,audio,technology,1,73,1
+echocardiography,671,echocardiography,medical,industries,1,725,1
+ecology,672,ecology,farming and natural science,industries,7,107,7
+economic analysis,673,economic analysis,business performance metrics,business,1,242,1
+economic and social effects,674,economic and social effects,policy,business,26,273,26
+economics,675,economics,business performance metrics,business,5,242,5
+ecosystems,676,ecosystems,farming and natural science,industries,15,107,15
+eddy current testing,677,eddy current testing,power and energy,industries,1,134,1
+edge computing,678,edge computing,networks,technology,43,509,43
+edge detection,679,edge detection,computer vision,technology,16,1005,16
+education,680,education,education,industries,28,627,28
+education computing,681,education computing,education,industries,26,627,26
+educational administrative data processing,682,educational administrative data processing,education,industries,6,627,6
+educational aids,683,educational aids,education,industries,2,627,2
+educational computing,684,educational computing,education,industries,1,627,1
+educational courses,685,educational courses,education,industries,63,627,63
+educational institutions,686,educational institutions,education,industries,90,627,90
+educational robots,687,educational robots,education,industries,12,627,12
+educational technology,688,educational technology,education,industries,23,627,23
+efficiency,689,efficiency,human-computer interaction,end users and user experience,16,998,16
+eigenvalues and eigenfunctions,690,eigenvalues and eigenfunctions,engineering,technology,2,229,2
+elastic constants,691,elastic constants,chemical,industries,2,152,2
+elastic deformation,692,elastic deformation,chemical,industries,1,152,1
+elasticity,693,elasticity,engineering,technology,3,229,3
+electric arc welding,694,electric arc welding,construction,industries,1,112,1
+electric batteries,695,electric batteries,device energy management,displays,4,29,4
+electric breakdown,696,electric breakdown,power and energy,industries,1,134,1
+electric current,697,electric current,power and energy,industries,1,134,1
+electric distortion,698,electric distortion,power and energy,industries,1,134,1
+electric drives,699,electric drives,automotive,industries,3,149,3
+electric field measurement,700,electric field measurement,power and energy,industries,1,134,1
+electric fields,701,electric fields,power and energy,industries,1,134,1
+electric inverters,702,electric inverters,power and energy,industries,1,134,1
+electric lines,703,electric lines,power and energy,industries,1,134,1
+electric load management,704,electric load management,power and energy,industries,1,134,1
+electric machine analysis computing,705,electric machine analysis computing,industrial equipment,industries,1,98,1
+electric machinery,706,electric machinery,industrial equipment,industries,1,98,1
+electric machines,707,electric machines,industrial equipment,industries,1,98,1
+electric motors,708,electric motors,power and energy,industries,1,134,1
+electric network analysis,709,electric network analysis,power and energy,industries,1,134,1
+electric network parameters,710,electric network parameters,power and energy,industries,1,134,1
+electric oil well pumping,711,electric oil well pumping,power and energy,industries,1,134,1
+electric potential,712,electric potential,sensors,technology,1,235,1
+electric power transmission networks,713,electric power transmission networks,power and energy,industries,2,134,2
+electric power utilization,714,electric power utilization,power and energy,industries,1,134,1
+electric relays,715,electric relays,input,technology,1,1224,1
+electric sensing devices,716,electric sensing devices,power and energy,industries,1,134,1
+electric utilities,717,electric utilities,power and energy,industries,1,134,1
+electrical engineering,718,electrical engineering,engineering,technology,5,229,5
+electrical engineering computing,719,electrical engineering computing,engineering,technology,4,229,4
+electrical engineering education,720,electrical engineering education,education,industries,6,627,6
+electrical safety,721,electrical safety,"inspection, safety and quality",use cases,1,246,1
+electricity supply industry,722,electricity supply industry,power and energy,industries,2,134,2
+electro-optical devices,723,electro-optical devices,input,technology,1,1224,1
+electrocardiography,724,electrocardiography,medical,industries,4,725,4
+electroencephalography,725,electroencephalography,medical,industries,28,725,28
+electrolytes,726,electrolytes,farming and natural science,industries,2,107,2
+electromagnetic compatibility,727,electromagnetic compatibility,engineering,technology,1,229,1
+electromagnetic fields,728,electromagnetic fields,input,technology,3,1224,3
+electromagnetic forces,729,electromagnetic forces,input,technology,1,1224,1
+electromagnetic interference,730,electromagnetic interference,education,industries,2,627,2
+electromagnetic shielding,731,electromagnetic shielding,engineering,technology,1,229,1
+electromagnetic wave attenuation,732,electromagnetic wave attenuation,display technology,displays,2,247,2
+electromagnetic waves,733,electromagnetic waves,display technology,displays,1,247,1
+electromagnetism,734,electromagnetism,education,industries,2,627,2
+electromechanical devices,735,electromechanical devices,input,technology,1,1224,1
+electromyography,736,electromyography,medical,industries,12,725,12
+electron devices,737,electron devices,power and energy,industries,1,134,1
+electron holography,738,electron holography,input,technology,1,1224,1
+electronic commerce,739,electronic commerce,sales and marketing,business,20,114,20
+electronic data interchange,740,electronic data interchange,manufacturing,industries,2,564,2
+electronic document exchange,741,electronic document exchange,data,technology,3,657,3
+electronic engineering computing,742,electronic engineering computing,optics,displays,9,167,9
+electronic engineering education,743,electronic engineering education,education,industries,6,627,6
+electronic guidance systems,744,electronic guidance systems,navigation,use cases,3,178,3
+electronic health records,745,electronic health records,medical,industries,2,725,2
+electronic medical equipment,746,electronic medical equipment,medical,industries,1,725,1
+electronic money,747,electronic money,sales and marketing,business,5,114,5
+electronic musical instruments,748,electronic musical instruments,liberal arts,industries,1,321,1
+electronic noses,749,electronic noses,input,technology,1,1224,1
+electronic publishing,750,electronic publishing,developers,technology,7,541,7
+electronic waste,751,electronic waste,industrial equipment,industries,1,98,1
+electronics engineering,752,electronics engineering,engineering,technology,1,229,1
+electronics industry,753,electronics industry,power and energy,industries,2,134,2
+electrooculography,754,electrooculography,medical,industries,5,725,5
+electrophoresis,755,electrophoresis,medical,industries,1,725,1
+electrophysiology,756,electrophysiology,medical,industries,3,725,3
+electrotherapeutics,757,electrotherapeutics,medical,industries,1,725,1
+elemental semiconductors,758,elemental semiconductors,semiconductors,technology,2,234,2
+elementary particles,759,elementary particles,chemical,industries,1,152,1
+embedded systems,760,embedded systems,semiconductors,technology,36,234,36
+embeddings,761,embeddings,artificial intelligence,technology,3,771,3
+emergency management,762,emergency management,emergency response,industries,14,34,14
+emergency services,763,emergency services,emergency response,industries,10,34,10
+emergency traffic control,764,emergency traffic control,emergency response,industries,1,34,1
+emergency vehicles,765,emergency vehicles,emergency response,industries,1,34,1
+emotion recognition,766,emotion recognition,input,technology,16,1224,16
+employee welfare,767,employee welfare,human resources,business,1,78,1
+employment,768,employment,human resources,business,5,78,5
+encoding,769,encoding,input,technology,10,1224,10
+end effectors,770,end effectors,robotics,technology,7,398,7
+endoscopes,771,endoscopes,medical,industries,4,725,4
+endoscopy,772,endoscopy,medical,industries,4,725,4
+energy conservation,773,energy conservation,power and energy,industries,9,134,9
+energy consumption,774,energy consumption,power and energy,industries,6,134,6
+energy efficiency,775,energy efficiency,power and energy,industries,14,134,14
+energy harvesting,776,energy harvesting,power and energy,industries,2,134,2
+energy management,777,energy management,power and energy,industries,1,134,1
+energy management systems,778,energy management systems,power and energy,industries,2,134,2
+energy utilization,779,energy utilization,power and energy,industries,23,134,23
+engineering computing,780,engineering computing,engineering,technology,1,229,1
+engineering education,781,engineering education,education,industries,47,627,47
+engineering graphics,782,engineering graphics,graphics,technology,1,950,1
+engineering information systems,783,engineering information systems,engineering,technology,1,229,1
+engineering research,784,engineering research,engineering,technology,2,229,2
+engineers,785,engineers,users,end users and user experience,2,83,2
+engines,786,engines,power and energy,industries,3,134,3
+enterprise resource planning,787,enterprise resource planning,business planning and management,business,3,169,3
+entertainment,788,entertainment,liberal arts,industries,13,321,13
+entertainment industry,789,entertainment industry,cultural heritage,industries,2,122,2
+entropy,790,entropy,video,technology,1,142,1
+environmental engineering,791,environmental engineering,engineering,technology,1,229,1
+environmental factors,792,environmental factors,human factors,end users and user experience,5,441,5
+environmental impact,793,environmental impact,policy,business,1,273,1
+environmental impact assessments,794,environmental impact assessments,policy,business,1,273,1
+environmental management,795,environmental management,policy,business,1,273,1
+environmental monitoring,796,environmental monitoring,geospatial,technology,2,179,2
+environmental regulations,797,environmental regulations,policy,business,1,273,1
+environmental science computing,798,environmental science computing,engineering,technology,3,229,3
+environmental technology,799,environmental technology,farming and natural science,industries,3,107,3
+environmental testing,800,environmental testing,robotics,technology,1,398,1
+epidemics,801,epidemics,medical,industries,2,725,2
+equalisers,802,equalisers,audio,technology,1,73,1
+equipment testing,803,equipment testing,industrial equipment,industries,3,98,3
+ergonomics,804,ergonomics,human factors,end users and user experience,27,441,27
+error analysis,805,error analysis,artificial intelligence,technology,1,771,1
+error compensation,806,error compensation,artificial intelligence,technology,1,771,1
+error correction,807,error correction,artificial intelligence,technology,3,771,3
+error correction codes,808,error correction codes,developers,technology,3,541,3
+error detection,809,error detection,"inspection, safety and quality",use cases,2,246,2
+errors,810,errors,human factors,end users and user experience,20,441,20
+estimation theory,811,estimation theory,artificial intelligence,technology,2,771,2
+ethical aspects,812,ethical aspects,policy,business,2,273,2
+evolutionary computation,813,evolutionary computation,artificial intelligence,technology,1,771,1
+excavators,814,excavators,construction,industries,1,112,1
+exchange rates,815,exchange rates,business planning and management,business,1,169,1
+exhibitions,816,exhibitions,sales and marketing,business,21,114,21
+exoskeleton,817,exoskeleton,robotics,technology,1,398,1
+experiments,818,experiments,education,industries,1,627,1
+extended kalman filters,819,extended kalman filters,artificial intelligence,technology,3,771,3
+extraction,820,extraction,chemical,industries,5,152,5
+extrapolation,821,extrapolation,medical,industries,1,725,1
+extraterrestrial atmospheres,822,extraterrestrial atmospheres,aviation and aerospace,industries,1,121,1
+eye,823,eye,input,technology,23,1224,23
+eye movements,824,eye movements,input,technology,7,1224,7
+eye protection,825,eye protection,"inspection, safety and quality",use cases,3,246,3
+eye tracking,826,eye tracking,input,technology,18,1224,18
+eyeglasses,827,eyeglasses,medical,industries,1,725,1
+fabrication,828,fabrication,manufacturing,industries,5,564,5
+fabrics,829,fabrics,manufacturing,industries,4,564,4
+face recognition,830,face recognition,input,technology,49,1224,49
+facsimile,831,facsimile,education,industries,1,627,1
+factorization,832,factorization,developers,technology,1,541,1
+factory automation,833,factory automation,manufacturing,industries,11,564,11
+fading channels,834,fading channels,sensors,technology,3,235,3
+failure analysis,835,failure analysis,"inspection, safety and quality",use cases,9,246,9
+fans,836,fans,industrial equipment,industries,1,98,1
+fast fourier transforms,837,fast fourier transforms,data,technology,1,657,1
+fatigue,838,fatigue,human factors,end users and user experience,3,441,3
+fault detection,839,fault detection,"inspection, safety and quality",use cases,1,246,1
+fault diagnosis,840,fault diagnosis,"inspection, safety and quality",use cases,11,246,11
+fault tolerance,841,fault tolerance,"inspection, safety and quality",use cases,1,246,1
+fault tolerant computer systems,842,fault tolerant computer systems,"inspection, safety and quality",use cases,1,246,1
+feature extraction,843,feature extraction,computer vision,technology,118,1005,118
+feature selection,844,feature selection,input,technology,3,1224,3
+feedback,845,feedback,human-computer interaction,end users and user experience,34,998,34
+feedback amplifiers,846,feedback amplifiers,audio,technology,1,73,1
+feedback control,847,feedback control,manufacturing,industries,3,564,3
+feedforward,848,feedforward,sensors,technology,1,235,1
+feedforward neural nets,849,feedforward neural nets,artificial intelligence,technology,17,771,17
+felt,850,felt,audio,technology,1,73,1
+fences,851,fences,construction,industries,1,112,1
+fiber optic networks,852,fiber optic networks,networks,technology,1,509,1
+field emission displays,853,field emission displays,display technology,displays,4,247,4
+field programmable gate arrays,854,field programmable gate arrays,developers,technology,8,541,8
+file organisation,855,file organisation,data,technology,2,657,2
+file servers,856,file servers,networks,technology,1,509,1
+filling,857,filling,manufacturing,industries,1,564,1
+filtering theory,858,filtering theory,artificial intelligence,technology,5,771,5
+fingerprint identification,859,fingerprint identification,security,technology,1,97,1
+finite element analysis,860,finite element analysis,developers,technology,4,541,4
+finite element method,861,finite element method,simulation,use cases,1,138,1
+fire extinguishers,862,fire extinguishers,"inspection, safety and quality",use cases,2,246,2
+fire protection,863,fire protection,emergency response,industries,1,34,1
+fires,864,fires,emergency response,industries,6,34,6
+firewalls,865,firewalls,networks,technology,1,509,1
+fish,866,fish,farming and natural science,industries,1,107,1
+flames,867,flames,emergency response,industries,1,34,1
+flat panel displays,868,flat panel displays,display technology,displays,1,247,1
+flexible electronics,869,flexible electronics,display technology,displays,1,247,1
+flexible manipulators,870,flexible manipulators,robotics,technology,1,398,1
+flexible manufacturing systems,871,flexible manufacturing systems,manufacturing,industries,3,564,3
+flickering,872,flickering,graphics,technology,1,950,1
+flight simulators,873,flight simulators,simulation,use cases,1,138,1
+floods,874,floods,emergency response,industries,4,34,4
+floors,875,floors,construction,industries,13,112,13
+flow fields,876,flow fields,chemical,industries,1,152,1
+flow graphs,877,flow graphs,data,technology,1,657,1
+flow of fluids,878,flow of fluids,chemical,industries,1,152,1
+flow sensors,879,flow sensors,sensors,technology,1,235,1
+flow simulation,880,flow simulation,simulation,use cases,1,138,1
+flow visualization,881,flow visualization,graphics,technology,26,950,26
+fluidization,882,fluidization,chemical,industries,1,152,1
+fluorescence,883,fluorescence,input,technology,1,1224,1
+focusing,884,focusing,human factors,end users and user experience,1,441,1
+fog,885,fog,networks,technology,10,509,10
+fog computing,886,fog computing,networks,technology,3,509,3
+food packaging,887,food packaging,farming and natural science,industries,2,107,2
+food processing industry,888,food processing industry,farming and natural science,industries,3,107,3
+food products,889,food products,farming and natural science,industries,14,107,14
+food safety,890,food safety,farming and natural science,industries,2,107,2
+food supply,891,food supply,farming and natural science,industries,1,107,1
+food technology,892,food technology,farming and natural science,industries,1,107,1
+force feedback,893,force feedback,input,technology,15,1224,15
+force sensors,894,force sensors,sensors,technology,3,235,3
+forecasting,895,forecasting,business planning and management,business,10,169,10
+forensic science,896,forensic science,simulation,use cases,1,138,1
+forestry,897,forestry,farming and natural science,industries,5,107,5
+fork lift trucks,898,fork lift trucks,logistics,business,1,32,1
+formal logic,899,formal logic,data,technology,1,657,1
+formal specification,900,formal specification,standards,standards,6,52,6
+formal verification,901,formal verification,"inspection, safety and quality",use cases,1,246,1
+forward error correction,902,forward error correction,artificial intelligence,technology,3,771,3
+foundries,903,foundries,manufacturing,industries,1,564,1
+fountains,904,fountains,geospatial,technology,1,179,1
+fracture,905,fracture,medical,industries,1,725,1
+fraud,906,fraud,security,technology,1,97,1
+free-space optical communication,907,free-space optical communication,optics,displays,6,167,6
+frequency division multiple access,908,frequency division multiple access,telecommunication,industries,1,912,1
+frequency modulation,909,frequency modulation,power and energy,industries,1,134,1
+frequency response,910,frequency response,artificial intelligence,technology,1,771,1
+fresnel diffraction,911,fresnel diffraction,optics,displays,1,167,1
+friction,912,friction,input,technology,3,1224,3
+fruits,913,fruits,farming and natural science,industries,1,107,1
+function generators,914,function generators,artificial intelligence,technology,1,771,1
+functional electric stimulation,915,functional electric stimulation,medical,industries,1,725,1
+functional materials,916,functional materials,manufacturing,industries,1,564,1
+functional neuroimaging,917,functional neuroimaging,medical,industries,1,725,1
+functions,918,functions,data,technology,2,657,2
+furnaces,919,furnaces,power and energy,industries,1,134,1
+furniture,920,furniture,construction,industries,6,112,6
+further education,921,further education,education,industries,28,627,28
+fusion reactions,922,fusion reactions,construction,industries,1,112,1
+fuzzy control,923,fuzzy control,artificial intelligence,technology,2,771,2
+fuzzy inference,924,fuzzy inference,artificial intelligence,technology,1,771,1
+fuzzy logic,925,fuzzy logic,artificial intelligence,technology,3,771,3
+fuzzy set theory,926,fuzzy set theory,artificial intelligence,technology,8,771,8
+fuzzy systems,927,fuzzy systems,artificial intelligence,technology,1,771,1
+gait analysis,928,gait analysis,medical,industries,13,725,13
+gallium compounds,929,gallium compounds,chemical,industries,3,152,3
+game theory,930,game theory,human resources,business,5,78,5
+gamification,931,gamification,simulation,use cases,1,138,1
+gas industry,932,gas industry,oil and gas,industries,2,13,2
+gas sensors,933,gas sensors,chemical,industries,1,152,1
+gases,934,gases,chemical,industries,1,152,1
+gaussian distribution,935,gaussian distribution,computer vision,technology,3,1005,3
+gaussian noise,936,gaussian noise,data,technology,2,657,2
+gaussian processes,937,gaussian processes,artificial intelligence,technology,4,771,4
+gaze tracking,938,gaze tracking,input,technology,25,1224,25
+gears,939,gears,industrial equipment,industries,1,98,1
+gene expression,940,gene expression,medical,industries,1,725,1
+genes,941,genes,medical,industries,2,725,2
+genetic algorithms,942,genetic algorithms,artificial intelligence,technology,3,771,3
+genetics,943,genetics,medical,industries,2,725,2
+geographic information systems,944,geographic information systems,geospatial,technology,29,179,29
+geography,945,geography,geospatial,technology,4,179,4
+geological surveys,946,geological surveys,geospatial,technology,1,179,1
+geology,947,geology,geospatial,technology,3,179,3
+geomagnetic navigation,948,geomagnetic navigation,geospatial,technology,1,179,1
+geomagnetism,949,geomagnetism,geospatial,technology,1,179,1
+geometrical optics,950,geometrical optics,optics,displays,13,167,13
+geometry,951,geometry,graphics,technology,53,950,53
+geomorphology,952,geomorphology,geospatial,technology,2,179,2
+geophysical image processing,953,geophysical image processing,geospatial,technology,4,179,4
+geophysical prospecting,954,geophysical prospecting,geospatial,technology,1,179,1
+geophysical techniques,955,geophysical techniques,geospatial,technology,1,179,1
+geophysics computing,956,geophysics computing,geospatial,technology,9,179,9
+geotechnical structures,957,geotechnical structures,transportation,industries,1,131,1
+geriatrics,958,geriatrics,medical,industries,24,725,24
+germanium compounds,959,germanium compounds,chemical,industries,1,152,1
+gesture recognition,960,gesture recognition,input,technology,136,1224,136
+glass,961,glass,chemical,industries,36,152,36
+global optimization,962,global optimization,business performance metrics,business,4,242,4
+global positioning system,963,global positioning system,geospatial,technology,44,179,44
+global system for mobile communications,964,global system for mobile communications,telecommunication,industries,2,912,2
+global warming,965,global warming,policy,business,1,273,1
+glow discharges,966,glow discharges,education,industries,1,627,1
+glues,967,glues,chemical,industries,2,152,2
+gluing,968,gluing,manufacturing,industries,1,564,1
+government data processing,969,government data processing,data,technology,1,657,1
+government policies,970,government policies,policy,business,1,273,1
+gradient methods,971,gradient methods,artificial intelligence,technology,5,771,5
+grammars,972,grammars,standards,standards,2,52,2
+graph algorithms,973,graph algorithms,artificial intelligence,technology,1,771,1
+graph theory,974,graph theory,artificial intelligence,technology,16,771,16
+graphic methods,975,graphic methods,graphics,technology,4,950,4
+graphical user interfaces,976,graphical user interfaces,graphics,technology,35,950,35
+graphics processing units,977,graphics processing units,semiconductors,technology,28,234,28
+gravitation,978,gravitation,engineering,technology,1,229,1
+greedy algorithms,979,greedy algorithms,developers,technology,3,541,3
+green computing,980,green computing,policy,business,8,273,8
+greenhouses,981,greenhouses,farming and natural science,industries,2,107,2
+grinding,982,grinding,manufacturing,industries,1,564,1
+grippers,983,grippers,human factors,end users and user experience,2,441,2
+ground penetrating radar,984,ground penetrating radar,geospatial,technology,3,179,3
+groupware,985,groupware,collaboration,use cases,89,146,89
+gyroscopes,986,gyroscopes,input,technology,9,1224,9
+haar transforms,987,haar transforms,data,technology,1,657,1
+hand held computers,988,hand held computers,input,technology,1,1224,1
+handicapped aids,989,handicapped aids,medical,industries,90,725,90
+handwriting recognition,990,handwriting recognition,input,technology,1,1224,1
+handwritten character recognition,991,handwritten character recognition,input,technology,2,1224,2
+haptic interfaces,992,haptic interfaces,input,technology,86,1224,86
+harmonic analysis,993,harmonic analysis,data,technology,1,657,1
+hazardous materials,994,hazardous materials,chemical,industries,1,152,1
+hazards,995,hazards,"inspection, safety and quality",use cases,4,246,4
+head-up displays,996,head-up displays,display technology,displays,47,247,47
+headlights,997,headlights,automotive,industries,1,149,1
+headphones,998,headphones,wearables,displays,3,492,3
+health,999,health,medical,industries,7,725,7
+health and safety,1000,health and safety,"inspection, safety and quality",use cases,1,246,1
+health care,1001,health care,medical,industries,59,725,59
+health hazards,1002,health hazards,"inspection, safety and quality",use cases,1,246,1
+hearing,1003,hearing,human factors,end users and user experience,10,441,10
+heart,1004,heart,medical,industries,3,725,3
+heat conduction,1005,heat conduction,chemical,industries,1,152,1
+helicopters,1006,helicopters,aviation and aerospace,industries,1,121,1
+helmet mounted displays,1007,helmet mounted displays,wearables,displays,376,492,376
+hemodynamics,1008,hemodynamics,medical,industries,1,725,1
+heterogeneous networks,1009,heterogeneous networks,networks,technology,4,509,4
+heuristic algorithms,1010,heuristic algorithms,human factors,end users and user experience,2,441,2
+hidden feature removal,1011,hidden feature removal,artificial intelligence,technology,2,771,2
+hidden markov models,1012,hidden markov models,computer vision,technology,5,1005,5
+hierarchical systems,1013,hierarchical systems,data,technology,3,657,3
+high definition television,1014,high definition television,display technology,displays,2,247,2
+high definition video,1015,high definition video,display technology,displays,1,247,1
+high level languages,1016,high level languages,standards,standards,2,52,2
+high speed networks,1017,high speed networks,networks,technology,1,509,1
+high-voltage engineering,1018,high-voltage engineering,power and energy,industries,1,134,1
+highway accidents,1019,highway accidents,transportation,industries,1,131,1
+highway administration,1020,highway administration,transportation,industries,1,131,1
+highway planning,1021,highway planning,transportation,industries,1,131,1
+highway traffic control,1022,highway traffic control,transportation,industries,2,131,2
+histology,1023,histology,medical,industries,1,725,1
+historic preservation,1024,historic preservation,cultural heritage,industries,9,122,9
+history,1025,history,liberal arts,industries,90,321,90
+holograms,1026,holograms,graphics,technology,16,950,16
+holographic displays,1027,holographic displays,display technology,displays,29,247,29
+holographic optical elements,1028,holographic optical elements,optics,displays,17,167,17
+holographic storage,1029,holographic storage,data,technology,1,657,1
+holography,1030,holography,display technology,displays,32,247,32
+home automation,1031,home automation,smart cities,use cases,8,61,8
+home computing,1032,home computing,consumer products,industries,7,18,7
+hosiery manufacture,1033,hosiery manufacture,manufacturing,industries,1,564,1
+hospitals,1034,hospitals,medical,industries,7,725,7
+hot rolling,1035,hot rolling,manufacturing,industries,1,564,1
+hotel industry,1036,hotel industry,cultural heritage,industries,1,122,1
+hotels,1037,hotels,construction,industries,1,112,1
+hough transforms,1038,hough transforms,data,technology,2,657,2
+houses,1039,houses,construction,industries,1,112,1
+http,1040,http,standards,standards,1,52,1
+huffman codes,1041,huffman codes,data,technology,1,657,1
+human computer interaction,1042,human computer interaction,human-computer interaction,end users and user experience,414,998,414
+human engineering,1043,human engineering,policy,business,143,273,143
+human factors,1044,human factors,human factors,end users and user experience,93,441,93
+human resource management,1045,human resource management,human resources,business,4,78,4
+human-robot interaction,1046,human-robot interaction,robotics,technology,71,398,71
+humanities,1047,humanities,liberal arts,industries,13,321,13
+humanoid robots,1048,humanoid robots,robotics,technology,3,398,3
+hvdc power transmission,1049,hvdc power transmission,power and energy,industries,1,134,1
+hybrid electric vehicles,1050,hybrid electric vehicles,automotive,industries,2,149,2
+hybrid systems,1051,hybrid systems,human-computer interaction,end users and user experience,4,998,4
+hydraulic actuators,1052,hydraulic actuators,manufacturing,industries,1,564,1
+hydraulic systems,1053,hydraulic systems,industrial equipment,industries,1,98,1
+hydrocarbons,1054,hydrocarbons,chemical,industries,1,152,1
+hypermedia,1055,hypermedia,networks,technology,1,509,1
+hypermedia markup languages,1056,hypermedia markup languages,developers,technology,2,541,2
+hypertext systems,1057,hypertext systems,input,technology,3,1224,3
+hysteresis,1058,hysteresis,sensors,technology,1,235,1
+iec standards,1059,iec standards,standards,standards,2,52,2
+ieee standards,1060,ieee standards,standards,standards,3,52,3
+iii-v semiconductors,1061,iii-v semiconductors,semiconductors,technology,3,234,3
+image analysis,1062,image analysis,computer vision,technology,2,1005,2
+image annotation,1063,image annotation,human-computer interaction,end users and user experience,2,998,2
+image capture,1064,image capture,computer vision,technology,16,1005,16
+image classification,1065,image classification,computer vision,technology,47,1005,47
+image coding,1066,image coding,computer vision,technology,23,1005,23
+image colour analysis,1067,image colour analysis,graphics,technology,128,950,128
+image communication systems,1068,image communication systems,collaboration,use cases,1,146,1
+image compression,1069,image compression,computer vision,technology,1,1005,1
+image denoising,1070,image denoising,computer vision,technology,6,1005,6
+image enhancement,1071,image enhancement,computer vision,technology,33,1005,33
+image filtering,1072,image filtering,computer vision,technology,12,1005,12
+image fusion,1073,image fusion,computer vision,technology,30,1005,30
+image matching,1074,image matching,computer vision,technology,51,1005,51
+image morphing,1075,image morphing,graphics,technology,1,950,1
+image motion analysis,1076,image motion analysis,input,technology,77,1224,77
+image processing,1077,image processing,computer vision,technology,60,1005,60
+image quality,1078,image quality,graphics,technology,5,950,5
+image recognition,1079,image recognition,computer vision,technology,47,1005,47
+image reconstruction,1080,image reconstruction,computer vision,technology,132,1005,132
+image registration,1081,image registration,computer vision,technology,82,1005,82
+image representation,1082,image representation,computer vision,technology,33,1005,33
+image resolution,1083,image resolution,graphics,technology,30,950,30
+image restoration,1084,image restoration,computer vision,technology,7,1005,7
+image retrieval,1085,image retrieval,computer vision,technology,6,1005,6
+image sampling,1086,image sampling,computer vision,technology,2,1005,2
+image scanners,1087,image scanners,input,technology,1,1224,1
+image segmentation,1088,image segmentation,computer vision,technology,107,1005,107
+image sensors,1089,image sensors,input,technology,73,1224,73
+image sequences,1090,image sequences,computer vision,technology,42,1005,42
+image texture,1091,image texture,graphics,technology,43,950,43
+image understanding,1092,image understanding,computer vision,technology,5,1005,5
+imaging systems,1093,imaging systems,display technology,displays,3,247,3
+imaging techniques,1094,imaging techniques,display technology,displays,4,247,4
+importance sampling,1095,importance sampling,video,technology,1,142,1
+impulse response,1096,impulse response,sensors,technology,1,235,1
+in situ processing,1097,in situ processing,human factors,end users and user experience,1,441,1
+incandescent lamps,1098,incandescent lamps,internet of things,technology,1,163,1
+independent component analysis,1099,independent component analysis,artificial intelligence,technology,3,771,3
+indexing,1100,indexing,data,technology,2,657,2
+indium compounds,1101,indium compounds,chemical,industries,2,152,2
+indoor environment,1102,indoor environment,navigation,use cases,6,178,6
+indoor navigation,1103,indoor navigation,navigation,use cases,12,178,12
+indoor positioning systems,1104,indoor positioning systems,geospatial,technology,9,179,9
+indoor radio,1105,indoor radio,input,technology,8,1224,8
+induction motors,1106,induction motors,industrial equipment,industries,1,98,1
+inductive power transmission,1107,inductive power transmission,power and energy,industries,1,134,1
+industrial control,1108,industrial control,manufacturing,industries,1,564,1
+industrial electronics,1109,industrial electronics,semiconductors,technology,1,234,1
+industrial engineering,1110,industrial engineering,manufacturing,industries,5,564,5
+industrial hygiene,1111,industrial hygiene,"inspection, safety and quality",use cases,1,246,1
+industrial informatics,1112,industrial informatics,industrial equipment,industries,2,98,2
+industrial laboratories,1113,industrial laboratories,manufacturing,industries,1,564,1
+industrial management,1114,industrial management,business planning and management,business,3,169,3
+industrial manipulators,1115,industrial manipulators,robotics,technology,14,398,14
+industrial plants,1116,industrial plants,manufacturing,industries,6,564,6
+industrial psychology,1117,industrial psychology,policy,business,1,273,1
+industrial research,1118,industrial research,business performance metrics,business,8,242,8
+industrial robots,1119,industrial robots,robotics,technology,23,398,23
+industrial training,1120,industrial training,training,use cases,11,633,11
+industry 4.0,1121,industry 4.0,internet of things,technology,14,163,14
+inertial confinement fusion,1122,inertial confinement fusion,developers,technology,1,541,1
+inertial navigation,1123,inertial navigation,geospatial,technology,12,179,12
+inertial navigation systems,1124,inertial navigation systems,geospatial,technology,3,179,3
+inertial systems,1125,inertial systems,industrial equipment,industries,4,98,4
+inference engines,1126,inference engines,artificial intelligence,technology,1,771,1
+inference mechanisms,1127,inference mechanisms,artificial intelligence,technology,3,771,3
+informatics,1128,informatics,artificial intelligence,technology,2,771,2
+information analysis,1129,information analysis,artificial intelligence,technology,8,771,8
+information classification,1130,information classification,artificial intelligence,technology,16,771,16
+information clutter,1131,information clutter,artificial intelligence,technology,5,771,5
+information dissemination,1132,information dissemination,business planning and management,business,3,169,3
+information filtering,1133,information filtering,developers,technology,2,541,2
+information management,1134,information management,business planning and management,business,13,169,13
+information resources,1135,information resources,business planning and management,business,2,169,2
+information retrieval,1136,information retrieval,data,technology,7,657,7
+information retrieval systems,1137,information retrieval systems,developers,technology,2,541,2
+information services,1138,information services,business planning and management,business,5,169,5
+information systems,1139,information systems,developers,technology,19,541,19
+information technology,1140,information technology,data,technology,2,657,2
+information theory,1141,information theory,data,technology,5,657,5
+information use,1142,information use,business planning and management,business,6,169,6
+infrared detectors,1143,infrared detectors,sensors,technology,4,235,4
+infrared devices,1144,infrared devices,networks,technology,2,509,2
+infrared imaging,1145,infrared imaging,input,technology,10,1224,10
+injuries,1146,injuries,medical,industries,10,725,10
+innovation management,1147,innovation management,business performance metrics,business,17,242,17
+input output programs,1148,input output programs,developers,technology,1,541,1
+inspection,1149,inspection,"inspection, safety and quality",use cases,28,246,28
+installation,1150,installation,integration,business,1,10,1
+insulated gate bipolar transistors,1151,insulated gate bipolar transistors,semiconductors,technology,1,234,1
+insurance data processing,1152,insurance data processing,policy,business,1,273,1
+integer programming,1153,integer programming,developers,technology,15,541,15
+integrated circuit design,1154,integrated circuit design,semiconductors,technology,2,234,2
+integrated circuit reliability,1155,integrated circuit reliability,semiconductors,technology,1,234,1
+integrated optics,1156,integrated optics,optics,displays,3,167,3
+integrated optoelectronics,1157,integrated optoelectronics,optics,displays,2,167,2
+integration,1158,integration,integration,business,6,10,6
+integrodifferential equations,1159,integrodifferential equations,data,technology,2,657,2
+intellectual property,1160,intellectual property,policy,business,1,273,1
+intelligent agents,1161,intelligent agents,artificial intelligence,technology,9,771,9
+intelligent buildings,1162,intelligent buildings,smart cities,use cases,5,61,5
+intelligent computing,1163,intelligent computing,artificial intelligence,technology,2,771,2
+intelligent control,1164,intelligent control,manufacturing,industries,3,564,3
+intelligent manufacturing systems,1165,intelligent manufacturing systems,manufacturing,industries,5,564,5
+intelligent materials,1166,intelligent materials,chemical,industries,1,152,1
+intelligent robots,1167,intelligent robots,robotics,technology,9,398,9
+intelligent sensors,1168,intelligent sensors,sensors,technology,3,235,3
+intelligent systems,1169,intelligent systems,artificial intelligence,technology,9,771,9
+intelligent transportation systems,1170,intelligent transportation systems,transportation,industries,4,131,4
+intelligent tutoring systems,1171,intelligent tutoring systems,education,industries,2,627,2
+intelligent vehicle highway systems,1172,intelligent vehicle highway systems,transportation,industries,4,131,4
+intensity measurement,1173,intensity measurement,developers,technology,1,541,1
+interactive computer graphics,1174,interactive computer graphics,graphics,technology,162,950,162
+interactive computer systems,1175,interactive computer systems,human-computer interaction,end users and user experience,48,998,48
+interactive devices,1176,interactive devices,input,technology,50,1224,50
+interactive systems,1177,interactive systems,input,technology,83,1224,83
+interactive television,1178,interactive television,display technology,displays,4,247,4
+interactive video,1179,interactive video,video,technology,3,142,3
+interface states,1180,interface states,human-computer interaction,end users and user experience,3,998,3
+interference suppression,1181,interference suppression,engineering,technology,4,229,4
+internal combustion engines,1182,internal combustion engines,automotive,industries,1,149,1
+internet,1183,internet,networks,technology,100,509,100
+internet of things,1184,internet of things,internet of things,technology,144,163,144
+internet protocols,1185,internet protocols,standards,standards,3,52,3
+internet service providers,1186,internet service providers,networks,technology,2,509,2
+internetworking,1187,internetworking,networks,technology,4,509,4
+interoperability,1188,interoperability,standards,standards,4,52,4
+interplanetary flight,1189,interplanetary flight,aviation and aerospace,industries,1,121,1
+interpolation,1190,interpolation,data,technology,12,657,12
+interstellar matter,1191,interstellar matter,aviation and aerospace,industries,1,121,1
+intrusion detection,1192,intrusion detection,security,technology,1,97,1
+inventory control,1193,inventory control,human resources,business,1,78,1
+inverse problems,1194,inverse problems,power and energy,industries,1,134,1
+investments,1195,investments,business planning and management,business,9,169,9
+iodine compounds,1196,iodine compounds,chemical,industries,1,152,1
+ionic liquids,1197,ionic liquids,chemical,industries,1,152,1
+ionosphere,1198,ionosphere,geospatial,technology,1,179,1
+ios,1199,ios,developers,technology,8,541,8
+ip networks,1200,ip networks,networks,technology,4,509,4
+iron and steel industry,1201,iron and steel industry,metals and mining,industries,1,19,1
+iso standards,1202,iso standards,standards,standards,4,52,4
+iterative methods,1203,iterative methods,artificial intelligence,technology,34,771,34
+java,1204,java,developers,technology,7,541,7
+jitter,1205,jitter,data,technology,4,657,4
+job analysis,1206,job analysis,human resources,business,5,78,5
+journalism,1207,journalism,policy,business,1,273,1
+just-in-time,1208,just-in-time,manufacturing,industries,2,564,2
+kalman filters,1209,kalman filters,artificial intelligence,technology,9,771,9
+keyboards,1210,keyboards,input,technology,14,1224,14
+kidney,1211,kidney,medical,industries,2,725,2
+kinematics,1212,kinematics,human-computer interaction,end users and user experience,9,998,9
+kinetics,1213,kinetics,sensors,technology,1,235,1
+knobs,1214,knobs,input,technology,4,1224,4
+knowledge acquisition,1215,knowledge acquisition,human factors,end users and user experience,5,441,5
+knowledge based systems,1216,knowledge based systems,data,technology,11,657,11
+knowledge engineering,1217,knowledge engineering,business performance metrics,business,2,242,2
+knowledge management,1218,knowledge management,human resources,business,9,78,9
+knowledge representation,1219,knowledge representation,artificial intelligence,technology,2,771,2
+labeled data,1220,labeled data,data,technology,1,657,1
+labeling,1221,labeling,optics,displays,3,167,3
+laboratories,1222,laboratories,training,use cases,16,633,16
+labour resources,1223,labour resources,human resources,business,2,78,2
+lagrange multipliers,1224,lagrange multipliers,data,technology,1,657,1
+lakes,1225,lakes,geospatial,technology,1,179,1
+land use,1226,land use,policy,business,2,273,2
+landforms,1227,landforms,geospatial,technology,1,179,1
+language translation,1228,language translation,input,technology,3,1224,3
+laparoscopy,1229,laparoscopy,medical,industries,2,725,2
+laplace equations,1230,laplace equations,wearables,displays,1,492,1
+laptop computers,1231,laptop computers,input,technology,2,1224,2
+large dataset,1232,large dataset,data,technology,8,657,8
+laser ablation,1233,laser ablation,optics,displays,1,167,1
+laser applications,1234,laser applications,computer vision,technology,2,1005,2
+laser beams,1235,laser beams,optics,displays,3,167,3
+laser fusion,1236,laser fusion,engineering,technology,1,229,1
+laser ranging,1237,laser ranging,input,technology,1,1224,1
+laser surgery,1238,laser surgery,medical,industries,1,725,1
+lathes,1239,lathes,manufacturing,industries,3,564,3
+law administration,1240,law administration,policy,business,1,273,1
+laws and legislation,1241,laws and legislation,policy,business,1,273,1
+lc circuits,1242,lc circuits,semiconductors,technology,1,234,1
+learning algorithms,1243,learning algorithms,artificial intelligence,technology,195,771,195
+learning management systems,1244,learning management systems,education,industries,4,627,4
+learning systems,1245,learning systems,education,industries,53,627,53
+least mean squares methods,1246,least mean squares methods,networks,technology,2,509,2
+least squares approximations,1247,least squares approximations,data,technology,2,657,2
+led displays,1248,led displays,display technology,displays,1,247,1
+led lamps,1249,led lamps,internet of things,technology,1,163,1
+legged locomotion,1250,legged locomotion,robotics,technology,1,398,1
+legislation,1251,legislation,policy,business,2,273,2
+leisure industry,1252,leisure industry,cultural heritage,industries,4,122,4
+lenses,1253,lenses,display technology,displays,23,247,23
+libraries,1254,libraries,education,industries,2,627,2
+library automation,1255,library automation,education,industries,1,627,1
+lie algebras,1256,lie algebras,data,technology,1,657,1
+lie groups,1257,lie groups,data,technology,2,657,2
+life cycle,1258,life cycle,medical,industries,6,725,6
+life testing,1259,life testing,"inspection, safety and quality",use cases,1,246,1
+light,1260,light,input,technology,11,1224,11
+light emitting diodes,1261,light emitting diodes,display technology,displays,15,247,15
+light interference,1262,light interference,input,technology,1,1224,1
+light modulation,1263,light modulation,input,technology,4,1224,4
+light modulators,1264,light modulators,input,technology,6,1224,6
+light pens,1265,light pens,input,technology,1,1224,1
+light polarisation,1266,light polarisation,input,technology,1,1224,1
+light polarization,1267,light polarization,input,technology,1,1224,1
+light propagation,1268,light propagation,input,technology,1,1224,1
+light reflection,1269,light reflection,input,technology,2,1224,2
+light sources,1270,light sources,input,technology,19,1224,19
+light transmission,1271,light transmission,input,technology,1,1224,1
+lighthouses,1272,lighthouses,farming and natural science,industries,1,107,1
+lighting,1273,lighting,input,technology,33,1224,33
+lighting control,1274,lighting control,engineering,technology,1,229,1
+limiters,1275,limiters,power and energy,industries,1,134,1
+linear networks,1276,linear networks,networks,technology,1,509,1
+linear programming,1277,linear programming,developers,technology,6,541,6
+linear transformations,1278,linear transformations,data,technology,2,657,2
+linguistics,1279,linguistics,input,technology,16,1224,16
+linked data,1280,linked data,data,technology,1,657,1
+liquid crystal displays,1281,liquid crystal displays,display technology,displays,9,247,9
+liquid crystal on silicon,1282,liquid crystal on silicon,semiconductors,technology,4,234,4
+liquid crystals,1283,liquid crystals,chemical,industries,7,152,7
+liquid metals,1284,liquid metals,metals and mining,industries,1,19,1
+liquids,1285,liquids,chemical,industries,2,152,2
+literature,1286,literature,education,industries,2,627,2
+lithography,1287,lithography,chemical,industries,2,152,2
+liver,1288,liver,medical,industries,5,725,5
+load testing,1289,load testing,input,technology,1,1224,1
+local area networks,1290,local area networks,networks,technology,3,509,3
+location,1291,location,geospatial,technology,23,179,23
+location based services,1292,location based services,geospatial,technology,14,179,14
+locks,1293,locks,industrial equipment,industries,3,98,3
+logic design,1294,logic design,developers,technology,2,541,2
+logic programming,1295,logic programming,developers,technology,2,541,2
+logistics,1296,logistics,logistics,business,12,32,12
+logistics data processing,1297,logistics data processing,logistics,business,3,32,3
+long short-term memory,1298,long short-term memory,networks,technology,1,509,1
+long term evolution,1299,long term evolution,telecommunication,industries,5,912,5
+loudspeakers,1300,loudspeakers,audio,technology,2,73,2
+low power electronics,1301,low power electronics,device energy management,displays,1,29,1
+low-pass filters,1302,low-pass filters,sensors,technology,1,235,1
+low-power electronics,1303,low-power electronics,networks,technology,10,509,10
+luminance,1304,luminance,graphics,technology,8,950,8
+lung,1305,lung,medical,industries,1,725,1
+lyapunov functions,1306,lyapunov functions,data,technology,1,657,1
+lyapunov methods,1307,lyapunov methods,developers,technology,1,541,1
+machine design,1308,machine design,industrial equipment,industries,13,98,13
+machine learning,1309,machine learning,artificial intelligence,technology,22,771,22
+machine tools,1310,machine tools,industrial equipment,industries,1,98,1
+machinery,1311,machinery,industrial equipment,industries,12,98,12
+machining,1312,machining,manufacturing,industries,2,564,2
+magnetic actuators,1313,magnetic actuators,industrial equipment,industries,1,98,1
+magnetic disc storage,1314,magnetic disc storage,data,technology,1,657,1
+magnetic fields,1315,magnetic fields,education,industries,6,627,6
+magnetic fluids,1316,magnetic fluids,medical,industries,1,725,1
+magnetic flux,1317,magnetic flux,education,industries,2,627,2
+magnetic levitation,1318,magnetic levitation,engineering,technology,2,229,2
+magnetic resonance imaging,1319,magnetic resonance imaging,medical,industries,5,725,5
+magnetic sensors,1320,magnetic sensors,human-computer interaction,end users and user experience,3,998,3
+magnetic variables measurement,1321,magnetic variables measurement,sensors,technology,1,235,1
+magnetization,1322,magnetization,sensors,technology,1,235,1
+magneto-optical sensors,1323,magneto-optical sensors,sensors,technology,1,235,1
+magnetometers,1324,magnetometers,sensors,technology,3,235,3
+magnetorheology,1325,magnetorheology,human-computer interaction,end users and user experience,2,998,2
+maintenance,1326,maintenance,manufacturing,industries,19,564,19
+maintenance engineering,1327,maintenance engineering,manufacturing,industries,51,564,51
+mammals,1328,mammals,input,technology,9,1224,9
+man-machine systems,1329,man-machine systems,human-computer interaction,end users and user experience,26,998,26
+manipulator dynamics,1330,manipulator dynamics,robotics,technology,3,398,3
+manipulator kinematics,1331,manipulator kinematics,robotics,technology,1,398,1
+manipulators,1332,manipulators,industrial equipment,industries,20,98,20
+manned space flight,1333,manned space flight,aviation and aerospace,industries,1,121,1
+manufacture,1334,manufacture,manufacturing,industries,17,564,17
+manufacturing data processing,1335,manufacturing data processing,manufacturing,industries,1,564,1
+manufacturing industries,1336,manufacturing industries,manufacturing,industries,5,564,5
+manufacturing processes,1337,manufacturing processes,manufacturing,industries,5,564,5
+manufacturing systems,1338,manufacturing systems,manufacturing,industries,6,564,6
+mapping,1339,mapping,navigation,use cases,43,178,43
+maps,1340,maps,navigation,use cases,3,178,3
+marine communication,1341,marine communication,marine,industries,1,14,1
+marine education,1342,marine education,education,industries,1,627,1
+marine engineering,1343,marine engineering,marine,industries,5,14,5
+marine navigation,1344,marine navigation,marine,industries,3,14,3
+marine radar,1345,marine radar,marine,industries,1,14,1
+marketing,1346,marketing,sales and marketing,business,14,114,14
+marketing data processing,1347,marketing data processing,sales and marketing,business,3,114,3
+marking machines,1348,marking machines,industrial equipment,industries,1,98,1
+markov processes,1349,markov processes,artificial intelligence,technology,9,771,9
+mars,1350,mars,aviation and aerospace,industries,1,121,1
+martian surface analysis,1351,martian surface analysis,aviation and aerospace,industries,1,121,1
+mass production,1352,mass production,manufacturing,industries,1,564,1
+mastication,1353,mastication,medical,industries,1,725,1
+matched filters,1354,matched filters,input,technology,1,1224,1
+material interfaces,1355,material interfaces,manufacturing,industries,4,564,4
+material saturation,1356,material saturation,chemical,industries,1,152,1
+materials,1357,materials,metals and mining,industries,1,19,1
+materials handling,1358,materials handling,manufacturing,industries,1,564,1
+materials science computing,1359,materials science computing,metals and mining,industries,1,19,1
+mathematical models,1360,mathematical models,developers,technology,1,541,1
+mathematical programming,1361,mathematical programming,developers,technology,2,541,2
+mathematical techniques,1362,mathematical techniques,data,technology,1,657,1
+mathematical transformations,1363,mathematical transformations,data,technology,1,657,1
+mathematics computing,1364,mathematics computing,engineering,technology,21,229,21
+matlab,1365,matlab,developers,technology,2,541,2
+matrix algebra,1366,matrix algebra,artificial intelligence,technology,16,771,16
+matrix decomposition,1367,matrix decomposition,data,technology,2,657,2
+matrix multiplication,1368,matrix multiplication,data,technology,2,657,2
+maximum entropy methods,1369,maximum entropy methods,artificial intelligence,technology,1,771,1
+mean square error,1370,mean square error,data,technology,2,657,2
+mean square error methods,1371,mean square error methods,artificial intelligence,technology,4,771,4
+measurement,1372,measurement,"inspection, safety and quality",use cases,4,246,4
+measurement errors,1373,measurement errors,"inspection, safety and quality",use cases,1,246,1
+measurement uncertainty,1374,measurement uncertainty,"inspection, safety and quality",use cases,1,246,1
+mechanical engineering,1375,mechanical engineering,engineering,technology,1,229,1
+mechanical engineering computing,1376,mechanical engineering computing,manufacturing,industries,11,564,11
+mechanical failure,1377,mechanical failure,"inspection, safety and quality",use cases,1,246,1
+mechanoception,1378,mechanoception,human factors,end users and user experience,10,441,10
+mechatronics,1379,mechatronics,internet of things,technology,3,163,3
+media streaming,1380,media streaming,video,technology,2,142,2
+median filters,1381,median filters,computer vision,technology,1,1005,1
+medical administrative data processing,1382,medical administrative data processing,medical,industries,1,725,1
+medical applications,1383,medical applications,medical,industries,5,725,5
+medical computing,1384,medical computing,medical,industries,134,725,134
+medical control systems,1385,medical control systems,medical,industries,1,725,1
+medical diagnostic computing,1386,medical diagnostic computing,medical,industries,6,725,6
+medical disorders,1387,medical disorders,medical,industries,48,725,48
+medical education,1388,medical education,medical,industries,4,725,4
+medical image processing,1389,medical image processing,medical,industries,81,725,81
+medical imaging,1390,medical imaging,medical,industries,7,725,7
+medical informatics,1391,medical informatics,medical,industries,3,725,3
+medical information systems,1392,medical information systems,medical,industries,19,725,19
+medical problems,1393,medical problems,medical,industries,1,725,1
+medical robotics,1394,medical robotics,medical,industries,35,725,35
+medical signal detection,1395,medical signal detection,medical,industries,1,725,1
+medical signal processing,1396,medical signal processing,medical,industries,32,725,32
+medicine,1397,medicine,medical,industries,5,725,5
+memory architecture,1398,memory architecture,networks,technology,2,509,2
+mems,1399,mems,semiconductors,technology,2,234,2
+mergers and acquisitions,1400,mergers and acquisitions,business planning and management,business,1,169,1
+merging,1401,merging,graphics,technology,3,950,3
+mesh generation,1402,mesh generation,graphics,technology,13,950,13
+message authentication,1403,message authentication,security,technology,6,97,6
+message passing,1404,message passing,networks,technology,1,509,1
+metadata,1405,metadata,data,technology,12,657,12
+metal stamping,1406,metal stamping,metals and mining,industries,1,19,1
+metallurgy,1407,metallurgy,metals and mining,industries,1,19,1
+metals,1408,metals,metals and mining,industries,2,19,2
+metalworking,1409,metalworking,metals and mining,industries,1,19,1
+metalworking machines,1410,metalworking machines,industrial equipment,industries,1,98,1
+metamaterials,1411,metamaterials,metals and mining,industries,2,19,2
+meteorology,1412,meteorology,aviation and aerospace,industries,1,121,1
+mhealth,1413,mhealth,medical,industries,18,725,18
+michelson interferometers,1414,michelson interferometers,optics,displays,2,167,2
+micro satellites,1415,micro satellites,aviation and aerospace,industries,1,121,1
+micro-optics,1416,micro-optics,optics,displays,1,167,1
+micro-optomechanical devices,1417,micro-optomechanical devices,optics,displays,1,167,1
+microcomputers,1418,microcomputers,developers,technology,2,541,2
+microcontrollers,1419,microcontrollers,human-computer interaction,end users and user experience,5,998,5
+microdisplays,1420,microdisplays,display technology,displays,6,247,6
+microelectromechanical devices,1421,microelectromechanical devices,semiconductors,technology,2,234,2
+microelectronics,1422,microelectronics,semiconductors,technology,1,234,1
+microfabrication,1423,microfabrication,manufacturing,industries,1,564,1
+microlenses,1424,microlenses,optics,displays,3,167,3
+micromechanical devices,1425,micromechanical devices,display technology,displays,1,247,1
+micromirrors,1426,micromirrors,semiconductors,technology,3,234,3
+microorganisms,1427,microorganisms,education,industries,3,627,3
+microphone arrays,1428,microphone arrays,input,technology,1,1224,1
+microphones,1429,microphones,input,technology,4,1224,4
+microprocessor chips,1430,microprocessor chips,semiconductors,technology,7,234,7
+microrobots,1431,microrobots,robotics,technology,1,398,1
+microscopic examination,1432,microscopic examination,education,industries,1,627,1
+microsensors,1433,microsensors,sensors,technology,2,235,2
+microstrip antennas,1434,microstrip antennas,telecommunication,industries,1,912,1
+microwave propagation,1435,microwave propagation,telecommunication,industries,1,912,1
+microwaves,1436,microwaves,telecommunication,industries,1,912,1
+middleware,1437,middleware,developers,technology,9,541,9
+military aircraft,1438,military aircraft,government,industries,1,31,1
+military applications,1439,military applications,government,industries,2,31,2
+military communication,1440,military communication,government,industries,1,31,1
+military computing,1441,military computing,government,industries,17,31,17
+military equipment,1442,military equipment,government,industries,3,31,3
+military rockets,1443,military rockets,government,industries,1,31,1
+military vehicles,1444,military vehicles,automotive,industries,1,149,1
+millimeter wave devices,1445,millimeter wave devices,telecommunication,industries,1,912,1
+millimeter waves,1446,millimeter waves,telecommunication,industries,10,912,10
+millimetre wave communication,1447,millimetre wave communication,telecommunication,industries,5,912,5
+millimetre wave propagation,1448,millimetre wave propagation,networks,technology,2,509,2
+millimetre wave radar,1449,millimetre wave radar,sensors,technology,1,235,1
+milling,1450,milling,manufacturing,industries,2,564,2
+milling machines,1451,milling machines,manufacturing,industries,1,564,1
+mimo communication,1452,mimo communication,networks,technology,2,509,2
+mimo systems,1453,mimo systems,networks,technology,5,509,5
+mineral exploration,1454,mineral exploration,metals and mining,industries,1,19,1
+mineralogy,1455,mineralogy,metals and mining,industries,1,19,1
+minerals,1456,minerals,metals and mining,industries,1,19,1
+minimisation,1457,minimisation,device energy management,displays,4,29,4
+mining,1458,mining,metals and mining,industries,2,19,2
+mirrors,1459,mirrors,optics,displays,22,167,22
+mixing,1460,mixing,chemical,industries,2,152,2
+mobile ad hoc networks,1461,mobile ad hoc networks,networks,technology,2,509,2
+mobile agents,1462,mobile agents,artificial intelligence,technology,3,771,3
+mobile antennas,1463,mobile antennas,telecommunication,industries,1,912,1
+mobile cloud computing,1464,mobile cloud computing,networks,technology,3,509,3
+mobile commerce,1465,mobile commerce,sales and marketing,business,4,114,4
+mobile communication,1466,mobile communication,telecommunication,industries,4,912,4
+mobile computing,1467,mobile computing,telecommunication,industries,600,912,600
+mobile handsets,1468,mobile handsets,input,technology,12,1224,12
+mobile learning,1469,mobile learning,education,industries,42,627,42
+mobile radio,1470,mobile radio,telecommunication,industries,14,912,14
+mobile robots,1471,mobile robots,robotics,technology,128,398,128
+mobile telecommunication systems,1472,mobile telecommunication systems,telecommunication,industries,24,912,24
+mobility management,1473,mobility management,telecommunication,industries,8,912,8
+mocvd,1474,mocvd,display technology,displays,1,247,1
+modal analysis,1475,modal analysis,data,technology,1,657,1
+model predictive control,1476,model predictive control,medical,industries,1,725,1
+modeling languages,1477,modeling languages,developers,technology,1,541,1
+models,1478,models,data,technology,3,657,3
+modernization,1479,modernization,business performance metrics,business,1,242,1
+modular robots,1480,modular robots,robotics,technology,1,398,1
+modulation,1481,modulation,computer vision,technology,4,1005,4
+molecular biophysics,1482,molecular biophysics,medical,industries,3,725,3
+molecular configurations,1483,molecular configurations,chemical,industries,1,152,1
+molecular graphics,1484,molecular graphics,graphics,technology,1,950,1
+molecular orbitals,1485,molecular orbitals,chemical,industries,1,152,1
+molecular physics,1486,molecular physics,medical,industries,6,725,6
+molecular structure,1487,molecular structure,chemical,industries,1,152,1
+monitoring,1488,monitoring,"inspection, safety and quality",use cases,4,246,4
+monte carlo methods,1489,monte carlo methods,artificial intelligence,technology,7,771,7
+moon,1490,moon,aviation and aerospace,industries,1,121,1
+mos devices,1491,mos devices,semiconductors,technology,1,234,1
+mos integrated circuits,1492,mos integrated circuits,semiconductors,technology,1,234,1
+mosfet,1493,mosfet,semiconductors,technology,1,234,1
+mosfet devices,1494,mosfet devices,semiconductors,technology,1,234,1
+motion analysis,1495,motion analysis,input,technology,8,1224,8
+motion compensation,1496,motion compensation,artificial intelligence,technology,6,771,6
+motion control,1497,motion control,robotics,technology,12,398,12
+motion estimation,1498,motion estimation,computer vision,technology,31,1005,31
+motion measurement,1499,motion measurement,sensors,technology,2,235,2
+motion picture experts group standards,1500,motion picture experts group standards,standards,standards,4,52,4
+motion pictures,1501,motion pictures,video,technology,2,142,2
+motion planning,1502,motion planning,robotics,technology,5,398,5
+motion sensors,1503,motion sensors,sensors,technology,1,235,1
+motion tracking,1504,motion tracking,computer vision,technology,2,1005,2
+motivation,1505,motivation,business performance metrics,business,17,242,17
+motor transportation,1506,motor transportation,transportation,industries,3,131,3
+moulding,1507,moulding,manufacturing,industries,1,564,1
+mouse controllers,1508,mouse controllers,input,technology,2,1224,2
+multi-access systems,1509,multi-access systems,security,technology,1,97,1
+multi-agent systems,1510,multi-agent systems,artificial intelligence,technology,23,771,23
+multi-robot systems,1511,multi-robot systems,robotics,technology,8,398,8
+multi-threading,1512,multi-threading,semiconductors,technology,7,234,7
+multicast communication,1513,multicast communication,networks,technology,2,509,2
+multicasting,1514,multicasting,networks,technology,1,509,1
+multilayer neural networks,1515,multilayer neural networks,artificial intelligence,technology,1,771,1
+multilayer perceptrons,1516,multilayer perceptrons,artificial intelligence,technology,1,771,1
+multilayers,1517,multilayers,networks,technology,1,509,1
+multimedia communication,1518,multimedia communication,telecommunication,industries,8,912,8
+multimedia computing,1519,multimedia computing,education,industries,29,627,29
+multimedia services,1520,multimedia services,networks,technology,3,509,3
+multimedia signal processing,1521,multimedia signal processing,semiconductors,technology,4,234,4
+multimedia systems,1522,multimedia systems,developers,technology,32,541,32
+multipath channels,1523,multipath channels,telecommunication,industries,1,912,1
+multiple access interference,1524,multiple access interference,security,technology,2,97,2
+multiplying circuits,1525,multiplying circuits,semiconductors,technology,1,234,1
+multiprocessing systems,1526,multiprocessing systems,semiconductors,technology,2,234,2
+multiprotocol label switching,1527,multiprotocol label switching,networks,technology,1,509,1
+multipurpose robots,1528,multipurpose robots,robotics,technology,3,398,3
+multitasking,1529,multitasking,human factors,end users and user experience,3,441,3
+muscle,1530,muscle,medical,industries,13,725,13
+musculoskeletal system,1531,musculoskeletal system,medical,industries,2,725,2
+museums,1532,museums,cultural heritage,industries,71,122,71
+music,1533,music,audio,technology,13,73,13
+musical instruments,1534,musical instruments,audio,technology,5,73,5
+nasa,1535,nasa,aviation and aerospace,industries,6,121,6
+national security,1536,national security,government,industries,1,31,1
+natural language interfaces,1537,natural language interfaces,input,technology,1,1224,1
+natural language processing,1538,natural language processing,artificial intelligence,technology,18,771,18
+natural language processing systems,1539,natural language processing systems,input,technology,2,1224,2
+natural languages,1540,natural languages,developers,technology,2,541,2
+natural radioactivity hazards,1541,natural radioactivity hazards,"inspection, safety and quality",use cases,1,246,1
+natural resources,1542,natural resources,farming and natural science,industries,1,107,1
+natural resources exploration,1543,natural resources exploration,metals and mining,industries,3,19,3
+natural resources management,1544,natural resources management,farming and natural science,industries,2,107,2
+natural scenes,1545,natural scenes,farming and natural science,industries,2,107,2
+natural sciences,1546,natural sciences,farming and natural science,industries,2,107,2
+natural sciences computing,1547,natural sciences computing,farming and natural science,industries,2,107,2
+naval engineering computing,1548,naval engineering computing,government,industries,1,31,1
+navigation,1549,navigation,navigation,use cases,52,178,52
+navigation systems,1550,navigation systems,navigation,use cases,13,178,13
+near infrared spectroscopy,1551,near infrared spectroscopy,sensors,technology,1,235,1
+near-field communication,1552,near-field communication,telecommunication,industries,1,912,1
+nearest neighbor search,1553,nearest neighbor search,artificial intelligence,technology,2,771,2
+needles,1554,needles,medical,industries,10,725,10
+negative bias temperature instability,1555,negative bias temperature instability,"inspection, safety and quality",use cases,1,246,1
+nematic liquid crystals,1556,nematic liquid crystals,chemical,industries,2,152,2
+network architecture,1557,network architecture,networks,technology,13,509,13
+network function virtualization,1558,network function virtualization,networks,technology,5,509,5
+network interfaces,1559,network interfaces,networks,technology,1,509,1
+network layers,1560,network layers,networks,technology,5,509,5
+network management,1561,network management,networks,technology,1,509,1
+network performance,1562,network performance,networks,technology,2,509,2
+network protocols,1563,network protocols,networks,technology,2,509,2
+network security,1564,network security,security,technology,9,97,9
+network servers,1565,network servers,networks,technology,2,509,2
+network-on-chip,1566,network-on-chip,networks,technology,1,509,1
+neural net architecture,1567,neural net architecture,artificial intelligence,technology,2,771,2
+neural networks,1568,neural networks,artificial intelligence,technology,90,771,90
+neural prostheses,1569,neural prostheses,medical,industries,1,725,1
+neurocontrollers,1570,neurocontrollers,medical,industries,2,725,2
+neurodegenerative diseases,1571,neurodegenerative diseases,medical,industries,4,725,4
+neuromuscular rehabilitation,1572,neuromuscular rehabilitation,medical,industries,2,725,2
+neurons,1573,neurons,medical,industries,3,725,3
+neurophysiology,1574,neurophysiology,medical,industries,55,725,55
+neurosurgery,1575,neurosurgery,medical,industries,1,725,1
+newsprint,1576,newsprint,computer vision,technology,1,1005,1
+newton method,1577,newton method,data,technology,1,657,1
+next generation networks,1578,next generation networks,networks,technology,6,509,6
+noise abatement,1579,noise abatement,audio,technology,1,73,1
+noise pollution,1580,noise pollution,audio,technology,1,73,1
+nondestructive examination,1581,nondestructive examination,"inspection, safety and quality",use cases,2,246,2
+nondestructive testing,1582,nondestructive testing,"inspection, safety and quality",use cases,1,246,1
+nonlinear filters,1583,nonlinear filters,artificial intelligence,technology,4,771,4
+nonlinear optics,1584,nonlinear optics,optics,displays,1,167,1
+nonlinear programming,1585,nonlinear programming,developers,technology,9,541,9
+nonlinear systems,1586,nonlinear systems,sensors,technology,1,235,1
+not labeled,1587,not labeled,other,other,17,178,17
+notebook computers,1588,notebook computers,input,technology,2,1224,2
+np-hard,1589,np-hard,developers,technology,1,541,1
+nuclear energy,1590,nuclear energy,power and energy,industries,1,134,1
+nuclear engineering computing,1591,nuclear engineering computing,power and energy,industries,1,134,1
+nuclear fuels,1592,nuclear fuels,power and energy,industries,1,134,1
+nuclear power plants,1593,nuclear power plants,power and energy,industries,1,134,1
+nuclear power stations,1594,nuclear power stations,power and energy,industries,1,134,1
+numerical analysis,1595,numerical analysis,developers,technology,2,541,2
+numerical control,1596,numerical control,manufacturing,industries,2,564,2
+nursing,1597,nursing,medical,industries,1,725,1
+nutrients,1598,nutrients,farming and natural science,industries,1,107,1
+nutrition,1599,nutrition,farming and natural science,industries,1,107,1
+object detection,1600,object detection,computer vision,technology,137,1005,137
+object recognition,1601,object recognition,computer vision,technology,75,1005,75
+object tracking,1602,object tracking,computer vision,technology,82,1005,82
+object-oriented databases,1603,object-oriented databases,developers,technology,1,541,1
+object-oriented methods,1604,object-oriented methods,developers,technology,1,541,1
+object-oriented programming,1605,object-oriented programming,developers,technology,5,541,5
+obsolescence,1606,obsolescence,business performance metrics,business,1,242,1
+obstetrics,1607,obstetrics,medical,industries,1,725,1
+occupational health,1608,occupational health,"inspection, safety and quality",use cases,4,246,4
+occupational risks,1609,occupational risks,"inspection, safety and quality",use cases,2,246,2
+occupational safety,1610,occupational safety,"inspection, safety and quality",use cases,6,246,6
+occupational stress,1611,occupational stress,"inspection, safety and quality",use cases,2,246,2
+octrees,1612,octrees,artificial intelligence,technology,8,771,8
+ofdm modulation,1613,ofdm modulation,networks,technology,2,509,2
+office automation,1614,office automation,business performance metrics,business,1,242,1
+office buildings,1615,office buildings,construction,industries,4,112,4
+offshore installations,1616,offshore installations,power and energy,industries,1,134,1
+omnidirectional antennas,1617,omnidirectional antennas,telecommunication,industries,1,912,1
+on-the-job training,1618,on-the-job training,training,use cases,1,633,1
+online conferencing,1619,online conferencing,collaboration,use cases,1,146,1
+online front ends,1620,online front ends,human-computer interaction,end users and user experience,9,998,9
+online systems,1621,online systems,telecommunication,industries,4,912,4
+ontology,1622,ontology,web services,technology,17,77,17
+open circuit voltage,1623,open circuit voltage,power and energy,industries,1,134,1
+open data,1624,open data,data,technology,1,657,1
+open source software,1625,open source software,developers,technology,12,541,12
+open systems,1626,open systems,developers,technology,15,541,15
+operating systems,1627,operating systems,developers,technology,3,541,3
+operational amplifiers,1628,operational amplifiers,"inspection, safety and quality",use cases,2,246,2
+ophthalmic lenses,1629,ophthalmic lenses,medical,industries,1,725,1
+ophthalmology,1630,ophthalmology,medical,industries,4,725,4
+optical arrays,1631,optical arrays,optics,displays,6,167,6
+optical beam splitters,1632,optical beam splitters,optics,displays,2,167,2
+optical character recognition,1633,optical character recognition,input,technology,5,1224,5
+optical collimators,1634,optical collimators,optics,displays,2,167,2
+optical communication,1635,optical communication,telecommunication,industries,6,912,6
+optical communication equipment,1636,optical communication equipment,telecommunication,industries,1,912,1
+optical computing,1637,optical computing,optics,displays,1,167,1
+optical correlation,1638,optical correlation,optics,displays,1,167,1
+optical couplers,1639,optical couplers,optics,displays,2,167,2
+optical data processing,1640,optical data processing,optics,displays,4,167,4
+optical design,1641,optical design,optics,displays,6,167,6
+optical design techniques,1642,optical design techniques,optics,displays,4,167,4
+optical diffusers,1643,optical diffusers,optics,displays,1,167,1
+optical distortion,1644,optical distortion,optics,displays,2,167,2
+optical elements,1645,optical elements,optics,displays,2,167,2
+optical engineering computing,1646,optical engineering computing,optics,displays,2,167,2
+optical fiber fabrication,1647,optical fiber fabrication,telecommunication,industries,1,912,1
+optical fibers,1648,optical fibers,telecommunication,industries,1,912,1
+optical fibre networks,1649,optical fibre networks,networks,technology,1,509,1
+optical films,1650,optical films,chemical,industries,1,152,1
+optical flows,1651,optical flows,optics,displays,5,167,5
+optical glass,1652,optical glass,optics,displays,2,167,2
+optical images,1653,optical images,graphics,technology,3,950,3
+optical information processing,1654,optical information processing,optics,displays,1,167,1
+optical instrument lenses,1655,optical instrument lenses,optics,displays,2,167,2
+optical instruments,1656,optical instruments,optics,displays,1,167,1
+optical lattices,1657,optical lattices,optics,displays,1,167,1
+optical links,1658,optical links,optics,displays,1,167,1
+optical metamaterials,1659,optical metamaterials,chemical,industries,3,152,3
+optical microscopes,1660,optical microscopes,optics,displays,1,167,1
+optical microscopy,1661,optical microscopy,optics,displays,2,167,2
+optical modulation,1662,optical modulation,optics,displays,1,167,1
+optical multilayers,1663,optical multilayers,optics,displays,1,167,1
+optical projectors,1664,optical projectors,optics,displays,23,167,23
+optical properties,1665,optical properties,optics,displays,1,167,1
+optical radar,1666,optical radar,optics,displays,10,167,10
+optical receivers,1667,optical receivers,optics,displays,1,167,1
+optical resolving power,1668,optical resolving power,optics,displays,3,167,3
+optical retarders,1669,optical retarders,optics,displays,1,167,1
+optical scanners,1670,optical scanners,optics,displays,3,167,3
+optical sensors,1671,optical sensors,optics,displays,8,167,8
+optical signal processing,1672,optical signal processing,semiconductors,technology,2,234,2
+optical switches,1673,optical switches,optics,displays,3,167,3
+optical systems,1674,optical systems,optics,displays,6,167,6
+optical tomography,1675,optical tomography,chemical,industries,4,152,4
+optical tracking,1676,optical tracking,computer vision,technology,15,1005,15
+optical transceivers,1677,optical transceivers,semiconductors,technology,1,234,1
+optical transmitters,1678,optical transmitters,telecommunication,industries,1,912,1
+optical tweezers,1679,optical tweezers,optics,displays,1,167,1
+optical waveguides,1680,optical waveguides,optics,displays,4,167,4
+optics,1681,optics,optics,displays,1,167,1
+optimal control,1682,optimal control,device energy management,displays,1,29,1
+optimization,1683,optimization,business performance metrics,business,52,242,52
+order picking,1684,order picking,logistics,business,1,32,1
+order processing,1685,order processing,business planning and management,business,1,169,1
+ore treatment,1686,ore treatment,metals and mining,industries,1,19,1
+organic farming,1687,organic farming,farming and natural science,industries,1,107,1
+organic light emitting diodes,1688,organic light emitting diodes,semiconductors,technology,5,234,5
+organisational aspects,1689,organisational aspects,business planning and management,business,3,169,3
+orthogonal frequency division multiplexing,1690,orthogonal frequency division multiplexing,networks,technology,3,509,3
+orthopedics,1691,orthopedics,medical,industries,11,725,11
+orthotics,1692,orthotics,medical,industries,2,725,2
+oscilloscopes,1693,oscilloscopes,"inspection, safety and quality",use cases,1,246,1
+osmosis,1694,osmosis,chemical,industries,2,152,2
+other,1695,other,other,other,161,178,161
+outsourcing,1696,outsourcing,human resources,business,1,78,1
+oximetry,1697,oximetry,medical,industries,1,725,1
+p-i-n photodiodes,1698,p-i-n photodiodes,display technology,displays,1,247,1
+packaging,1699,packaging,logistics,business,1,32,1
+packet switching,1700,packet switching,networks,technology,2,509,2
+paediatrics,1701,paediatrics,medical,industries,15,725,15
+paint,1702,paint,liberal arts,industries,2,321,2
+painting,1703,painting,liberal arts,industries,2,321,2
+palaeontology,1704,palaeontology,education,industries,1,627,1
+pallets,1705,pallets,logistics,business,1,32,1
+palmprint recognition,1706,palmprint recognition,input,technology,10,1224,10
+paper,1707,paper,human factors,end users and user experience,3,441,3
+paper industry,1708,paper industry,manufacturing,industries,2,564,2
+paper making,1709,paper making,manufacturing,industries,1,564,1
+paper products,1710,paper products,chemical,industries,2,152,2
+paraffins,1711,paraffins,chemical,industries,1,152,1
+parallel algorithms,1712,parallel algorithms,artificial intelligence,technology,1,771,1
+parallel architectures,1713,parallel architectures,semiconductors,technology,4,234,4
+parallel processing,1714,parallel processing,developers,technology,4,541,4
+parallel programming,1715,parallel programming,developers,technology,1,541,1
+parameter estimation,1716,parameter estimation,video,technology,8,142,8
+parity check codes,1717,parity check codes,telecommunication,industries,1,912,1
+parking,1718,parking,transportation,industries,1,131,1
+partial differential equations,1719,partial differential equations,video,technology,1,142,1
+partial discharges,1720,partial discharges,chemical,industries,1,152,1
+particle filtering,1721,particle filtering,data,technology,3,657,3
+particle swarm optimization,1722,particle swarm optimization,artificial intelligence,technology,9,771,9
+passive optical networks,1723,passive optical networks,telecommunication,industries,1,912,1
+patents,1724,patents,policy,business,3,273,3
+patents and inventions,1725,patents and inventions,policy,business,1,273,1
+path planning,1726,path planning,manufacturing,industries,23,564,23
+patient care,1727,patient care,medical,industries,8,725,8
+patient diagnosis,1728,patient diagnosis,medical,industries,8,725,8
+patient monitoring,1729,patient monitoring,medical,industries,16,725,16
+patient rehabilitation,1730,patient rehabilitation,medical,industries,70,725,70
+patient treatment,1731,patient treatment,medical,industries,58,725,58
+pattern classification,1732,pattern classification,artificial intelligence,technology,6,771,6
+pattern clustering,1733,pattern clustering,computer vision,technology,10,1005,10
+pattern matching,1734,pattern matching,computer vision,technology,1,1005,1
+pattern recognition,1735,pattern recognition,computer vision,technology,8,1005,8
+pedestrian safety,1736,pedestrian safety,transportation,industries,3,131,3
+pedestrians,1737,pedestrians,transportation,industries,13,131,13
+pediatrics,1738,pediatrics,medical,industries,1,725,1
+peer-to-peer computing,1739,peer-to-peer computing,networks,technology,3,509,3
+performance evaluation,1740,performance evaluation,business performance metrics,business,3,242,3
+permanent magnets,1741,permanent magnets,sensors,technology,1,235,1
+personal area networks,1742,personal area networks,networks,technology,1,509,1
+personal communication systems,1743,personal communication systems,input,technology,1,1224,1
+personal computers,1744,personal computers,consumer products,industries,6,18,6
+personal computing,1745,personal computing,input,technology,3,1224,3
+personal digital assistants,1746,personal digital assistants,medical,industries,1,725,1
+personal information systems,1747,personal information systems,data,technology,1,657,1
+personnel,1748,personnel,human resources,business,26,78,26
+personnel training,1749,personnel training,human resources,business,19,78,19
+petrochemicals,1750,petrochemicals,power and energy,industries,1,134,1
+petroleum industry,1751,petroleum industry,power and energy,industries,2,134,2
+petroleum reservoir evaluation,1752,petroleum reservoir evaluation,power and energy,industries,11,134,11
+phantoms,1753,phantoms,medical,industries,14,725,14
+phase locked loops,1754,phase locked loops,device energy management,displays,1,29,1
+phase matching,1755,phase matching,data,technology,1,657,1
+phase modulation,1756,phase modulation,display technology,displays,2,247,2
+phase shift keying,1757,phase shift keying,sensors,technology,1,235,1
+philosophical aspects,1758,philosophical aspects,policy,business,5,273,5
+photochromism,1759,photochromism,graphics,technology,1,950,1
+photodetectors,1760,photodetectors,input,technology,1,1224,1
+photodiodes,1761,photodiodes,display technology,displays,1,247,1
+photogrammetry,1762,photogrammetry,artificial intelligence,technology,13,771,13
+photographic accessories,1763,photographic accessories,graphics,technology,1,950,1
+photography,1764,photography,computer vision,technology,9,1005,9
+photoluminescence,1765,photoluminescence,input,technology,1,1224,1
+photometry,1766,photometry,input,technology,1,1224,1
+photonics,1767,photonics,optics,displays,1,167,1
+photoresists,1768,photoresists,chemical,industries,2,152,2
+photosensitivity,1769,photosensitivity,sensors,technology,1,235,1
+photovoltaic cells,1770,photovoltaic cells,power and energy,industries,2,134,2
+physical therapy,1771,physical therapy,medical,industries,2,725,2
+physics,1772,physics,engineering,technology,1,229,1
+physics computing,1773,physics computing,engineering,technology,12,229,12
+physics education,1774,physics education,education,industries,16,627,16
+physiological models,1775,physiological models,human factors,end users and user experience,2,441,2
+physiology,1776,physiology,medical,industries,9,725,9
+pickups,1777,pickups,automotive,industries,1,149,1
+piezoelectric transducers,1778,piezoelectric transducers,power and energy,industries,1,134,1
+pipe linings,1779,pipe linings,oil and gas,industries,1,13,1
+pipeline processing,1780,pipeline processing,semiconductors,technology,1,234,1
+pipeline processing systems,1781,pipeline processing systems,computer vision,technology,1,1005,1
+pipelines,1782,pipelines,oil and gas,industries,10,13,10
+pipes,1783,pipes,manufacturing,industries,1,564,1
+pistons,1784,pistons,industrial equipment,industries,1,98,1
+pixels,1785,pixels,graphics,technology,22,950,22
+planar waveguides,1786,planar waveguides,optics,displays,2,167,2
+planetary rovers,1787,planetary rovers,aviation and aerospace,industries,1,121,1
+planning,1788,planning,business planning and management,business,5,169,5
+plant layout,1789,plant layout,manufacturing,industries,1,564,1
+plant shutdowns,1790,plant shutdowns,human resources,business,1,78,1
+plants,1791,plants,farming and natural science,industries,1,107,1
+plasma density,1792,plasma density,farming and natural science,industries,1,107,1
+plasma simulation,1793,plasma simulation,simulation,use cases,1,138,1
+plasma turbulence,1794,plasma turbulence,farming and natural science,industries,1,107,1
+plastic filaments,1795,plastic filaments,chemical,industries,2,152,2
+plates,1796,plates,manufacturing,industries,1,564,1
+pneumatic actuators,1797,pneumatic actuators,industrial equipment,industries,2,98,2
+pneumatic control,1798,pneumatic control,robotics,technology,1,398,1
+pneumatic control equipment,1799,pneumatic control equipment,industrial equipment,industries,1,98,1
+pneumatic equipment,1800,pneumatic equipment,industrial equipment,industries,1,98,1
+pneumodynamics,1801,pneumodynamics,medical,industries,3,725,3
+poisson equation,1802,poisson equation,data,technology,1,657,1
+poles,1803,poles,power and energy,industries,1,134,1
+poles and towers,1804,poles and towers,power and energy,industries,1,134,1
+police,1805,police,emergency response,industries,1,34,1
+police data processing,1806,police data processing,data,technology,4,657,4
+politics,1807,politics,policy,business,1,273,1
+polymers,1808,polymers,chemical,industries,1,152,1
+polynomial approximation,1809,polynomial approximation,video,technology,2,142,2
+polynomials,1810,polynomials,video,technology,2,142,2
+population statistics,1811,population statistics,policy,business,2,273,2
+portable instruments,1812,portable instruments,aviation and aerospace,industries,1,121,1
+portals,1813,portals,web services,technology,4,77,4
+pose estimation,1814,pose estimation,graphics,technology,125,950,125
+position control,1815,position control,human-computer interaction,end users and user experience,10,998,10
+position measurement,1816,position measurement,input,technology,5,1224,5
+positron emission tomography,1817,positron emission tomography,medical,industries,3,725,3
+postal services,1818,postal services,government,industries,1,31,1
+potable water,1819,potable water,geospatial,technology,1,179,1
+power aware computing,1820,power aware computing,device energy management,displays,11,29,11
+power consumption,1821,power consumption,device energy management,displays,7,29,7
+power control,1822,power control,power and energy,industries,5,134,5
+power conversion,1823,power conversion,device energy management,displays,1,29,1
+power convertors,1824,power convertors,engineering,technology,1,229,1
+power distribution,1825,power distribution,power and energy,industries,1,134,1
+power electronics,1826,power electronics,power and energy,industries,1,134,1
+power engineering,1827,power engineering,power and energy,industries,2,134,2
+power engineering computing,1828,power engineering computing,engineering,technology,14,229,14
+power engineering education,1829,power engineering education,power and energy,industries,4,134,4
+power grids,1830,power grids,power and energy,industries,1,134,1
+power meters,1831,power meters,power and energy,industries,1,134,1
+power overhead lines,1832,power overhead lines,power and energy,industries,1,134,1
+power plants,1833,power plants,power and energy,industries,3,134,3
+power supply quality,1834,power supply quality,power and energy,industries,1,134,1
+power transformer insulation,1835,power transformer insulation,power and energy,industries,1,134,1
+precision engineering,1836,precision engineering,engineering,technology,1,229,1
+predictive control,1837,predictive control,manufacturing,industries,1,564,1
+predictive control systems,1838,predictive control systems,medical,industries,1,725,1
+presses,1839,presses,industrial equipment,industries,1,98,1
+pressure measurement,1840,pressure measurement,sensors,technology,1,235,1
+pressure sensors,1841,pressure sensors,sensors,technology,3,235,3
+preventive maintenance,1842,preventive maintenance,manufacturing,industries,6,564,6
+pricing,1843,pricing,sales and marketing,business,1,114,1
+principal component analysis,1844,principal component analysis,artificial intelligence,technology,6,771,6
+printed circuit boards,1845,printed circuit boards,semiconductors,technology,1,234,1
+printed circuit manufacture,1846,printed circuit manufacture,semiconductors,technology,1,234,1
+printed circuits,1847,printed circuits,semiconductors,technology,3,234,3
+printers,1848,printers,display technology,displays,4,247,4
+printing,1849,printing,manufacturing,industries,1,564,1
+printing presses,1850,printing presses,computer vision,technology,5,1005,5
+prisons,1851,prisons,government,industries,1,31,1
+probability,1852,probability,video,technology,10,142,10
+probes,1853,probes,sensors,technology,3,235,3
+problem oriented languages,1854,problem oriented languages,developers,technology,1,541,1
+problem solving,1855,problem solving,education,industries,1,627,1
+process control,1856,process control,industrial equipment,industries,6,98,6
+process monitoring,1857,process monitoring,"inspection, safety and quality",use cases,1,246,1
+process planning,1858,process planning,business planning and management,business,1,169,1
+processing,1859,processing,data,technology,1,657,1
+procurement,1860,procurement,business planning and management,business,1,169,1
+product customisation,1861,product customisation,manufacturing,industries,2,564,2
+product design,1862,product design,manufacturing,industries,21,564,21
+product development,1863,product development,manufacturing,industries,3,564,3
+product life cycle management,1864,product life cycle management,manufacturing,industries,3,564,3
+product quality,1865,product quality,"inspection, safety and quality",use cases,3,246,3
+production control,1866,production control,manufacturing,industries,3,564,3
+production engineering computing,1867,production engineering computing,manufacturing,industries,136,564,136
+production equipment,1868,production equipment,manufacturing,industries,7,564,7
+production facilities,1869,production facilities,manufacturing,industries,8,564,8
+production management,1870,production management,manufacturing,industries,3,564,3
+production planning,1871,production planning,business planning and management,business,2,169,2
+productivity,1872,productivity,business performance metrics,business,12,242,12
+professional aspects,1873,professional aspects,business planning and management,business,3,169,3
+profitability,1874,profitability,business performance metrics,business,2,242,2
+program assemblers,1875,program assemblers,developers,end users and user experience,1,541,1
+program compilers,1876,program compilers,developers,technology,1,541,1
+program debugging,1877,program debugging,developers,technology,6,541,6
+program processors,1878,program processors,semiconductors,technology,9,234,9
+program testing,1879,program testing,developers,technology,8,541,8
+program visualisation,1880,program visualisation,developers,technology,2,541,2
+programmable controllers,1881,programmable controllers,semiconductors,technology,1,234,1
+programming,1882,programming,developers,technology,1,541,1
+programming environments,1883,programming environments,developers,technology,1,541,1
+programming language semantics,1884,programming language semantics,developers,technology,1,541,1
+programming languages,1885,programming languages,developers,technology,2,541,2
+project management,1886,project management,business planning and management,business,6,169,6
+projectiles,1887,projectiles,cultural heritage,industries,1,122,1
+projection systems,1888,projection systems,display technology,displays,4,247,4
+promotion,1889,promotion,sales and marketing,business,1,114,1
+propellers,1890,propellers,navigation,use cases,1,178,1
+property market,1891,property market,business planning and management,business,2,169,2
+proportional control systems,1892,proportional control systems,human-computer interaction,end users and user experience,1,998,1
+prosthetics,1893,prosthetics,medical,industries,11,725,11
+proteins,1894,proteins,medical,industries,2,725,2
+protocols,1895,protocols,standards,standards,9,52,9
+prototypes,1896,prototypes,manufacturing,industries,4,564,4
+psychology,1897,psychology,medical,industries,36,725,36
+psychophysiology,1898,psychophysiology,medical,industries,1,725,1
+public administration,1899,public administration,policy,business,4,273,4
+public domain software,1900,public domain software,business planning and management,business,21,169,21
+public health,1901,public health,policy,business,1,273,1
+public policy,1902,public policy,policy,business,1,273,1
+public transport,1903,public transport,transportation,industries,1,131,1
+public utilities,1904,public utilities,power and energy,industries,1,134,1
+publishing,1905,publishing,education,industries,1,627,1
+pumps,1906,pumps,oil and gas,industries,1,13,1
+purchasing,1907,purchasing,logistics,business,6,32,6
+qr codes,1908,qr codes,input,technology,10,1224,10
+qualifications,1909,qualifications,human resources,business,1,78,1
+quality assurance,1910,quality assurance,"inspection, safety and quality",use cases,5,246,5
+quality control,1911,quality control,"inspection, safety and quality",use cases,17,246,17
+quality function deployment,1912,quality function deployment,"inspection, safety and quality",use cases,1,246,1
+quality management,1913,quality management,"inspection, safety and quality",use cases,1,246,1
+quality of experience,1914,quality of experience,"inspection, safety and quality",use cases,20,246,20
+quality of service,1915,quality of service,business performance metrics,business,59,242,59
+query formulation,1916,query formulation,data,technology,1,657,1
+query processing,1917,query processing,data,technology,3,657,3
+question answering,1918,question answering,developers,technology,1,541,1
+queueing networks,1919,queueing networks,networks,technology,7,509,7
+queueing theory,1920,queueing theory,networks,technology,4,509,4
+racing automobiles,1921,racing automobiles,automotive,industries,1,149,1
+radar,1922,radar,geospatial,technology,6,179,6
+radar antennas,1923,radar antennas,telecommunication,industries,2,912,2
+radar clutter,1924,radar clutter,sensors,technology,1,235,1
+radar imaging,1925,radar imaging,geospatial,technology,3,179,3
+radar measurement,1926,radar measurement,sensors,technology,2,235,2
+radar tracking,1927,radar tracking,geospatial,technology,1,179,1
+radial basis function networks,1928,radial basis function networks,developers,technology,1,541,1
+radiation protection,1929,radiation protection,"inspection, safety and quality",use cases,1,246,1
+radiation shielding,1930,radiation shielding,"inspection, safety and quality",use cases,1,246,1
+radiation therapy,1931,radiation therapy,medical,industries,1,725,1
+radio,1932,radio,telecommunication,industries,3,912,3
+radio access networks,1933,radio access networks,telecommunication,industries,15,912,15
+radio astronomy,1934,radio astronomy,aviation and aerospace,industries,1,121,1
+radio broadcasting,1935,radio broadcasting,telecommunication,industries,2,912,2
+radio communication,1936,radio communication,telecommunication,industries,2,912,2
+radio frequency identification,1937,radio frequency identification,input,technology,1,1224,1
+radio links,1938,radio links,telecommunication,industries,1,912,1
+radio navigation,1939,radio navigation,navigation,use cases,1,178,1
+radio networks,1940,radio networks,telecommunication,industries,4,912,4
+radio receivers,1941,radio receivers,telecommunication,industries,2,912,2
+radio transceivers,1942,radio transceivers,telecommunication,industries,1,912,1
+radio waves,1943,radio waves,telecommunication,industries,1,912,1
+radioactivity,1944,radioactivity,chemical,industries,1,152,1
+radiofrequency identification,1945,radiofrequency identification,sensors,technology,5,235,5
+radiofrequency interconnections,1946,radiofrequency interconnections,telecommunication,industries,1,912,1
+radiofrequency interference,1947,radiofrequency interference,input,technology,2,1224,2
+radiofrequency power transmission,1948,radiofrequency power transmission,power and energy,industries,2,134,2
+radiology,1949,radiology,medical,industries,1,725,1
+radionavigation,1950,radionavigation,navigation,use cases,3,178,3
+railroad stations,1951,railroad stations,transportation,industries,1,131,1
+rails,1952,rails,transportation,industries,1,131,1
+railway communication,1953,railway communication,transportation,industries,1,131,1
+rain,1954,rain,farming and natural science,industries,1,107,1
+random errors,1955,random errors,navigation,use cases,1,178,1
+random forests,1956,random forests,artificial intelligence,technology,2,771,2
+random processes,1957,random processes,data,technology,9,657,9
+range finding,1958,range finding,navigation,use cases,1,178,1
+rapid prototyping,1959,rapid prototyping,manufacturing,industries,4,564,4
+rate distortion theory,1960,rate distortion theory,video,technology,2,142,2
+rational functions,1961,rational functions,data,technology,1,657,1
+ray tracing,1962,ray tracing,graphics,technology,11,950,11
+rayleigh fading,1963,rayleigh fading,telecommunication,industries,1,912,1
+rayon yarn,1964,rayon yarn,manufacturing,industries,1,564,1
+real-time systems,1965,real-time systems,human-computer interaction,end users and user experience,31,998,31
+realistic images,1966,realistic images,computer vision,technology,7,1005,7
+receivers,1967,receivers,telecommunication,industries,1,912,1
+recommender systems,1968,recommender systems,artificial intelligence,technology,14,771,14
+recovery,1969,recovery,data,technology,2,657,2
+recreational facilities,1970,recreational facilities,cultural heritage,industries,1,122,1
+recurrent neural nets,1971,recurrent neural nets,artificial intelligence,technology,9,771,9
+recurrent neural networks,1972,recurrent neural networks,artificial intelligence,technology,2,771,2
+recursive filters,1973,recursive filters,robotics,technology,1,398,1
+recycling,1974,recycling,industrial equipment,industries,2,98,2
+redundant manipulators,1975,redundant manipulators,robotics,technology,1,398,1
+reengineering,1976,reengineering,manufacturing,industries,1,564,1
+reflection,1977,reflection,presence,end users and user experience,4,39,4
+reflectivity,1978,reflectivity,chemical,industries,1,152,1
+refraction,1979,refraction,input,technology,2,1224,2
+refractive index,1980,refractive index,input,technology,1,1224,1
+regional planning,1981,regional planning,engineering,technology,2,229,2
+regression analysis,1982,regression analysis,artificial intelligence,technology,24,771,24
+regulatory compliance,1983,regulatory compliance,policy,business,1,273,1
+reinforcement learning,1984,reinforcement learning,artificial intelligence,technology,4,771,4
+relational databases,1985,relational databases,data,technology,1,657,1
+reliability,1986,reliability,data,technology,5,657,5
+reliability analysis,1987,reliability analysis,"inspection, safety and quality",use cases,2,246,2
+religion,1988,religion,policy,business,1,273,1
+religious buildings,1989,religious buildings,cultural heritage,industries,1,122,1
+remote control,1990,remote control,input,technology,20,1224,20
+remote sensing,1991,remote sensing,sensors,technology,11,235,11
+remote sensing by radar,1992,remote sensing by radar,sensors,technology,1,235,1
+remotely operated vehicles,1993,remotely operated vehicles,automotive,industries,14,149,14
+rendering,1994,rendering,graphics,technology,166,950,166
+repair,1995,repair,manufacturing,industries,7,564,7
+rescue robots,1996,rescue robots,robotics,technology,1,398,1
+research,1997,research,education,industries,1,627,1
+research and development,1998,research and development,engineering,technology,2,229,2
+research laboratories,1999,research laboratories,education,industries,1,627,1
+resistors,2000,resistors,education,industries,1,627,1
+resource allocation,2001,resource allocation,business planning and management,business,41,169,41
+respiratory mechanics,2002,respiratory mechanics,medical,industries,1,725,1
+response time,2003,response time,developers,technology,3,541,3
+restoration,2004,restoration,construction,industries,3,112,3
+resuscitation,2005,resuscitation,medical,industries,3,725,3
+retail data processing,2006,retail data processing,sales and marketing,business,22,114,22
+retailing,2007,retailing,sales and marketing,business,3,114,3
+retrofitting,2008,retrofitting,industrial equipment,industries,1,98,1
+retroreflectors,2009,retroreflectors,robotics,technology,1,398,1
+reusability,2010,reusability,input,technology,1,1224,1
+reverberation,2011,reverberation,audio,technology,3,73,3
+reverse engineering,2012,reverse engineering,sensors,technology,1,235,1
+reviews,2013,reviews,standards,standards,10,52,10
+rigid structures,2014,rigid structures,construction,industries,1,112,1
+risk analysis,2015,risk analysis,"inspection, safety and quality",use cases,4,246,4
+risk assessment,2016,risk assessment,"inspection, safety and quality",use cases,4,246,4
+risk management,2017,risk management,"inspection, safety and quality",use cases,8,246,8
+risk perception,2018,risk perception,"inspection, safety and quality",use cases,2,246,2
+road accidents,2019,road accidents,transportation,industries,6,131,6
+road construction,2020,road construction,construction,industries,1,112,1
+road safety,2021,road safety,transportation,industries,17,131,17
+road traffic,2022,road traffic,transportation,industries,12,131,12
+road traffic control,2023,road traffic control,transportation,industries,2,131,2
+road vehicles,2024,road vehicles,automotive,industries,21,149,21
+roads and streets,2025,roads and streets,transportation,industries,7,131,7
+robot applications,2026,robot applications,robotics,technology,4,398,4
+robot dynamics,2027,robot dynamics,robotics,technology,2,398,2
+robot kinematics,2028,robot kinematics,robotics,technology,2,398,2
+robot learning,2029,robot learning,robotics,technology,1,398,1
+robot programming,2030,robot programming,robotics,technology,33,398,33
+robot vision,2031,robot vision,robotics,technology,90,398,90
+robotic arms,2032,robotic arms,robotics,technology,7,398,7
+robotic assembly,2033,robotic assembly,manufacturing,industries,6,564,6
+robotic surgery,2034,robotic surgery,medical,industries,4,725,4
+robotics,2035,robotics,robotics,technology,81,398,81
+robust control,2036,robust control,developers,technology,3,541,3
+rock mechanics,2037,rock mechanics,engineering,technology,1,229,1
+rockets,2038,rockets,aviation and aerospace,industries,1,121,1
+roofs,2039,roofs,construction,industries,2,112,2
+rotation,2040,rotation,data,technology,2,657,2
+rotation measurement,2041,rotation measurement,sensors,technology,1,235,1
+rssi,2042,rssi,telecommunication,industries,1,912,1
+rubber,2043,rubber,manufacturing,industries,1,564,1
+rural areas,2044,rural areas,geospatial,technology,6,179,6
+safety,2045,safety,"inspection, safety and quality",use cases,4,246,4
+safety devices,2046,safety devices,"inspection, safety and quality",use cases,4,246,4
+safety engineering,2047,safety engineering,"inspection, safety and quality",use cases,2,246,2
+safety factor,2048,safety factor,"inspection, safety and quality",use cases,1,246,1
+safety systems,2049,safety systems,"inspection, safety and quality",use cases,1,246,1
+safety-critical software,2050,safety-critical software,"inspection, safety and quality",use cases,2,246,2
+sales,2051,sales,sales and marketing,business,5,114,5
+sales management,2052,sales management,sales and marketing,business,1,114,1
+sampling methods,2053,sampling methods,data,technology,3,657,3
+sand,2054,sand,input,technology,2,1224,2
+satellite antennas,2055,satellite antennas,aviation and aerospace,industries,1,121,1
+satellite communication,2056,satellite communication,aviation and aerospace,industries,1,121,1
+satellite imagery,2057,satellite imagery,aviation and aerospace,industries,1,121,1
+satellite navigation,2058,satellite navigation,aviation and aerospace,industries,4,121,4
+satellite telemetry,2059,satellite telemetry,aviation and aerospace,industries,1,121,1
+scada systems,2060,scada systems,manufacturing,industries,4,564,4
+scaffolds,2061,scaffolds,construction,industries,6,112,6
+scalability,2062,scalability,"inspection, safety and quality",use cases,3,246,3
+scanning,2063,scanning,input,technology,5,1224,5
+scanning antennas,2064,scanning antennas,telecommunication,industries,1,912,1
+scheduling,2065,scheduling,developers,technology,16,541,16
+scheduling algorithms,2066,scheduling algorithms,developers,technology,3,541,3
+screen printing,2067,screen printing,manufacturing,industries,1,564,1
+screws,2068,screws,medical,industries,1,725,1
+sea level,2069,sea level,marine,industries,1,14,1
+sea ports,2070,sea ports,marine,industries,1,14,1
+search engines,2071,search engines,data,technology,9,657,9
+search problems,2072,search problems,data,technology,7,657,7
+security of data,2073,security of data,security,technology,23,97,23
+security systems,2074,security systems,security,technology,9,97,9
+self organizing maps,2075,self organizing maps,computer vision,technology,1,1005,1
+self-healing materials,2076,self-healing materials,chemical,industries,2,152,2
+self-organising feature maps,2077,self-organising feature maps,artificial intelligence,technology,1,771,1
+semantic networks,2078,semantic networks,web services,technology,1,77,1
+semantic web,2079,semantic web,web services,technology,9,77,9
+semantics,2080,semantics,artificial intelligence,technology,33,771,33
+semiconductor device manufacture,2081,semiconductor device manufacture,semiconductors,technology,1,234,1
+semiconductor epitaxial layers,2082,semiconductor epitaxial layers,semiconductors,technology,1,234,1
+semiconductor growth,2083,semiconductor growth,semiconductors,technology,1,234,1
+semiconductor lasers,2084,semiconductor lasers,semiconductors,technology,1,234,1
+semiconductor quantum wells,2085,semiconductor quantum wells,semiconductors,technology,1,234,1
+sensor data fusion,2086,sensor data fusion,input,technology,1,1224,1
+sensor fusion,2087,sensor fusion,sensors,technology,26,235,26
+sensor networks,2088,sensor networks,sensors,technology,8,235,8
+sensor nodes,2089,sensor nodes,sensors,technology,3,235,3
+sensor placement,2090,sensor placement,sensors,technology,1,235,1
+sensors,2091,sensors,sensors,technology,20,235,20
+sensory feedback,2092,sensory feedback,sensors,technology,3,235,3
+sensory perception,2093,sensory perception,input,technology,14,1224,14
+sentiment analysis,2094,sentiment analysis,input,technology,1,1224,1
+serious games,2095,serious games,simulation,use cases,65,138,65
+servers,2096,servers,networks,technology,2,509,2
+service robots,2097,service robots,robotics,technology,6,398,6
+service-oriented architecture,2098,service-oriented architecture,networks,technology,3,509,3
+servomotors,2099,servomotors,industrial equipment,industries,1,98,1
+set theory,2100,set theory,artificial intelligence,technology,1,771,1
+sewage,2101,sewage,utilities,industries,1,4,1
+shape recognition,2102,shape recognition,computer vision,technology,5,1005,5
+shear deformation,2103,shear deformation,engineering,technology,1,229,1
+shift registers,2104,shift registers,developers,technology,1,541,1
+shipbuilding industry,2105,shipbuilding industry,marine,industries,2,14,2
+ships,2106,ships,government,industries,6,31,6
+sigma-delta modulation,2107,sigma-delta modulation,sensors,technology,1,235,1
+sign language recognition,2108,sign language recognition,input,technology,2,1224,2
+signal classification,2109,signal classification,sensors,technology,2,235,2
+signal denoising,2110,signal denoising,artificial intelligence,technology,1,771,1
+signal detection,2111,signal detection,sensors,technology,3,235,3
+signal distortion,2112,signal distortion,sensors,technology,1,235,1
+signal encoding,2113,signal encoding,input,technology,4,1224,4
+signal processing,2114,signal processing,sensors,technology,11,235,11
+signal reconstruction,2115,signal reconstruction,sensors,technology,1,235,1
+signaling,2116,signaling,sensors,technology,1,235,1
+signalling protocols,2117,signalling protocols,networks,technology,1,509,1
+silicon,2118,silicon,semiconductors,technology,3,234,3
+silicon compounds,2119,silicon compounds,chemical,industries,1,152,1
+silicon-on-insulator,2120,silicon-on-insulator,chemical,industries,2,152,2
+silk,2121,silk,farming and natural science,industries,1,107,1
+silver halides,2122,silver halides,chemical,industries,1,152,1
+simulated annealing,2123,simulated annealing,artificial intelligence,technology,2,771,2
+simulation platform,2124,simulation platform,simulation,use cases,10,138,10
+simulators,2125,simulators,simulation,use cases,5,138,5
+single photon emission computed tomography,2126,single photon emission computed tomography,medical,industries,1,725,1
+singular value decomposition,2127,singular value decomposition,data,technology,2,657,2
+sizing screens,2128,sizing screens,display technology,displays,1,247,1
+skin,2129,skin,medical,industries,12,725,12
+slam robotics,2130,slam robotics,robotics,technology,73,398,73
+small-to-medium enterprises,2131,small-to-medium enterprises,business planning and management,business,1,169,1
+smart antennas,2132,smart antennas,telecommunication,industries,1,912,1
+smart cities,2133,smart cities,smart cities,use cases,35,61,35
+smart power grids,2134,smart power grids,power and energy,industries,1,134,1
+smart sensors,2135,smart sensors,sensors,technology,1,235,1
+smartphones,2136,smartphones,telecommunication,industries,223,912,223
+smoke,2137,smoke,sensors,technology,1,235,1
+smoothed particle hydrodynamics,2138,smoothed particle hydrodynamics,chemical,industries,1,152,1
+smoothing methods,2139,smoothing methods,computer vision,technology,2,1005,2
+snow,2140,snow,users,end users and user experience,1,83,1
+social aspects,2141,social aspects,policy,business,6,273,6
+social aspects of automation,2142,social aspects of automation,policy,business,12,273,12
+social computing,2143,social computing,collaboration,use cases,1,146,1
+social networking,2144,social networking,collaboration,use cases,37,146,37
+social sciences,2145,social sciences,policy,business,1,273,1
+social sciences computing,2146,social sciences computing,human-computer interaction,end users and user experience,14,998,14
+socio-economic effects,2147,socio-economic effects,policy,business,4,273,4
+software agents,2148,software agents,artificial intelligence,technology,6,771,6
+software architecture,2149,software architecture,developers,technology,21,541,21
+software defined networking,2150,software defined networking,networks,technology,4,509,4
+software design,2151,software design,developers,technology,14,541,14
+software development management,2152,software development management,business planning and management,business,3,169,3
+software engineering,2153,software engineering,developers,technology,21,541,21
+software fault tolerance,2154,software fault tolerance,developers,technology,2,541,2
+software libraries,2155,software libraries,developers,technology,4,541,4
+software maintenance,2156,software maintenance,data,technology,5,657,5
+software packages,2157,software packages,developers,technology,2,541,2
+software performance evaluation,2158,software performance evaluation,"inspection, safety and quality",use cases,1,246,1
+software prototyping,2159,software prototyping,developers,technology,24,541,24
+software quality,2160,software quality,"inspection, safety and quality",use cases,3,246,3
+software radio,2161,software radio,telecommunication,industries,3,912,3
+software testing,2162,software testing,developers,technology,5,541,5
+software tools,2163,software tools,developers,technology,5,541,5
+soils,2164,soils,farming and natural science,industries,2,107,2
+solar buildings,2165,solar buildings,power and energy,industries,1,134,1
+solar cell arrays,2166,solar cell arrays,power and energy,industries,1,134,1
+solar cells,2167,solar cells,power and energy,industries,1,134,1
+solar concentrators,2168,solar concentrators,power and energy,industries,1,134,1
+solar energy,2169,solar energy,power and energy,industries,2,134,2
+solar power plants,2170,solar power plants,power and energy,industries,1,134,1
+solar system,2171,solar system,farming and natural science,industries,2,107,2
+solid modelling,2172,solid modelling,manufacturing,industries,132,564,132
+somatosensory phenomena,2173,somatosensory phenomena,human factors,end users and user experience,1,441,1
+sonar,2174,sonar,audio,technology,1,73,1
+sound recording,2175,sound recording,audio,technology,1,73,1
+sound reproduction,2176,sound reproduction,audio,technology,2,73,2
+source code,2177,source code,developers,technology,3,541,3
+source separation,2178,source separation,sensors,technology,4,235,4
+space optics,2179,space optics,aviation and aerospace,industries,1,121,1
+space research,2180,space research,aviation and aerospace,industries,2,121,2
+space vehicles,2181,space vehicles,aviation and aerospace,industries,2,121,2
+space-based radar,2182,space-based radar,aviation and aerospace,industries,3,121,3
+spacecraft power supplies,2183,spacecraft power supplies,aviation and aerospace,industries,1,121,1
+sparse matrices,2184,sparse matrices,data,technology,1,657,1
+spatial light modulators,2185,spatial light modulators,sensors,technology,6,235,6
+spatial reasoning,2186,spatial reasoning,human factors,end users and user experience,1,441,1
+spatial variables measurement,2187,spatial variables measurement,sensors,technology,4,235,4
+spatiotemporal phenomena,2188,spatiotemporal phenomena,geospatial,technology,3,179,3
+speaker recognition,2189,speaker recognition,input,technology,1,1224,1
+specification languages,2190,specification languages,standards,standards,1,52,1
+specifications,2191,specifications,standards,standards,3,52,3
+spectral analysis,2192,spectral analysis,computer vision,technology,1,1005,1
+spectrographs,2193,spectrographs,sensors,technology,1,235,1
+spectroscopy,2194,spectroscopy,input,technology,1,1224,1
+speech,2195,speech,input,technology,2,1224,2
+speech communication,2196,speech communication,input,technology,1,1224,1
+speech enhancement,2197,speech enhancement,input,technology,1,1224,1
+speech intelligibility,2198,speech intelligibility,input,technology,2,1224,2
+speech processing,2199,speech processing,input,technology,11,1224,11
+speech recognition,2200,speech recognition,input,technology,33,1224,33
+speech synthesis,2201,speech synthesis,input,technology,4,1224,4
+speech-based user interfaces,2202,speech-based user interfaces,input,technology,5,1224,5
+speed,2203,speed,computer vision,technology,2,1005,2
+spheres,2204,spheres,graphics,technology,3,950,3
+splines,2205,splines,graphics,technology,3,950,3
+sports,2206,sports,cultural heritage,industries,33,122,33
+spraying,2207,spraying,robotics,technology,1,398,1
+spreadsheet programs,2208,spreadsheet programs,developers,technology,1,541,1
+springs,2209,springs,industrial equipment,industries,3,98,3
+stability,2210,stability,"inspection, safety and quality",use cases,1,246,1
+stained glass,2211,stained glass,liberal arts,industries,1,321,1
+stairs,2212,stairs,navigation,use cases,2,178,2
+standardization,2213,standardization,standards,standards,1,52,1
+stars,2214,stars,users,end users and user experience,3,83,3
+state estimation,2215,state estimation,data,technology,2,657,2
+statistical analysis,2216,statistical analysis,data,technology,21,657,21
+statistical distributions,2217,statistical distributions,data,technology,1,657,1
+statistical testing,2218,statistical testing,data,technology,2,657,2
+statistical tests,2219,statistical tests,data,technology,1,657,1
+statistics,2220,statistics,business performance metrics,business,2,242,2
+steam,2221,steam,education,industries,1,627,1
+steel,2222,steel,metals and mining,industries,2,19,2
+steering,2223,steering,human-computer interaction,end users and user experience,1,998,1
+steganography,2224,steganography,security,technology,2,97,2
+stem,2225,stem,education,industries,10,627,10
+stereo image processing,2226,stereo image processing,computer vision,technology,130,1005,130
+stereochemistry,2227,stereochemistry,chemical,industries,1,152,1
+stereoselectivity,2228,stereoselectivity,chemical,industries,1,152,1
+stiffness,2229,stiffness,engineering,technology,2,229,2
+stochastic processes,2230,stochastic processes,artificial intelligence,technology,1,771,1
+stochastic systems,2231,stochastic systems,artificial intelligence,technology,3,771,3
+storage as a service,2232,storage as a service,integration,business,1,10,1
+storage management,2233,storage management,data,technology,7,657,7
+storms,2234,storms,farming and natural science,industries,3,107,3
+strain gauges,2235,strain gauges,sensors,technology,2,235,2
+strain sensors,2236,strain sensors,sensors,technology,1,235,1
+strategic planning,2237,strategic planning,business planning and management,business,2,169,2
+stray light,2238,stray light,input,technology,1,1224,1
+street lighting,2239,street lighting,smart cities,use cases,1,61,1
+street traffic control,2240,street traffic control,navigation,use cases,22,178,22
+stress-strain curves,2241,stress-strain curves,manufacturing,industries,1,564,1
+stresses,2242,stresses,wearables,displays,2,492,2
+structural engineering computing,2243,structural engineering computing,engineering,technology,12,229,12
+structures,2244,structures,construction,industries,1,112,1
+student experiments,2245,student experiments,education,industries,11,627,11
+students,2246,students,users,end users and user experience,64,83,64
+studios,2247,studios,users,end users and user experience,5,83,5
+subjective testing,2248,subjective testing,human factors,end users and user experience,1,441,1
+subscriber loops,2249,subscriber loops,security,technology,1,97,1
+substation automation,2250,substation automation,power and energy,industries,1,134,1
+substations,2251,substations,power and energy,industries,2,134,2
+substrates,2252,substrates,chemical,industries,2,152,2
+supercomputers,2253,supercomputers,artificial intelligence,technology,1,771,1
+superluminescent diodes,2254,superluminescent diodes,display technology,displays,1,247,1
+superpixels,2255,superpixels,graphics,technology,1,950,1
+supervised learning,2256,supervised learning,artificial intelligence,technology,2,771,2
+supply chain management,2257,supply chain management,logistics,business,5,32,5
+supply chains,2258,supply chains,business planning and management,business,4,169,4
+support vector machines,2259,support vector machines,artificial intelligence,technology,14,771,14
+supports,2260,supports,medical,industries,1,725,1
+surface charging,2261,surface charging,chemical,industries,1,152,1
+surface discharges,2262,surface discharges,chemical,industries,13,152,13
+surface properties,2263,surface properties,chemical,industries,1,152,1
+surface reconstruction,2264,surface reconstruction,graphics,technology,4,950,4
+surface roughness,2265,surface roughness,engineering,technology,1,229,1
+surface topography,2266,surface topography,geospatial,technology,1,179,1
+surfaces,2267,surfaces,simulation,use cases,1,138,1
+surgery,2268,surgery,medical,industries,111,725,111
+surgical equipment,2269,surgical equipment,medical,industries,10,725,10
+surveillance,2270,surveillance,security,technology,2,97,2
+surveying,2271,surveying,geospatial,technology,4,179,4
+surveys,2272,surveys,"inspection, safety and quality",use cases,44,246,44
+sustainable development,2273,sustainable development,policy,business,8,273,8
+swarm intelligence,2274,swarm intelligence,artificial intelligence,technology,1,771,1
+switches,2275,switches,human factors,end users and user experience,1,441,1
+switchgear insulation,2276,switchgear insulation,power and energy,industries,1,134,1
+switching substations,2277,switching substations,power and energy,industries,1,134,1
+synchronization,2278,synchronization,input,technology,13,1224,13
+synthetic aperture radar,2279,synthetic aperture radar,sensors,technology,1,235,1
+synthetic apertures,2280,synthetic apertures,video,technology,1,142,1
+system documentation,2281,system documentation,developers,technology,1,541,1
+system monitoring,2282,system monitoring,"inspection, safety and quality",use cases,1,246,1
+system stability,2283,system stability,"inspection, safety and quality",use cases,1,246,1
+system-on-chip,2284,system-on-chip,semiconductors,technology,4,234,4
+systematic errors,2285,systematic errors,"inspection, safety and quality",use cases,1,246,1
+systems analysis,2286,systems analysis,engineering,technology,3,229,3
+systems engineering,2287,systems engineering,engineering,technology,5,229,5
+table lookup,2288,table lookup,data,technology,2,657,2
+tactile sensors,2289,tactile sensors,input,technology,1,1224,1
+tall buildings,2290,tall buildings,construction,industries,1,112,1
+tantalum compounds,2291,tantalum compounds,chemical,industries,1,152,1
+tar,2292,tar,human-computer interaction,end users and user experience,4,998,4
+target tracking,2293,target tracking,computer vision,technology,17,1005,17
+task analysis,2294,task analysis,human factors,end users and user experience,1,441,1
+taxicabs,2295,taxicabs,automotive,industries,1,149,1
+taxonomies,2296,taxonomies,developers,technology,3,541,3
+taylor series,2297,taylor series,data,technology,1,657,1
+teacher training,2298,teacher training,training,use cases,2,633,2
+teaching,2299,teaching,education,industries,204,627,204
+team working,2300,team working,collaboration,use cases,6,146,6
+technical drawing,2301,technical drawing,engineering,technology,1,229,1
+technical presentation,2302,technical presentation,training,use cases,1,633,1
+technology,2303,technology,human-computer interaction,end users and user experience,1,998,1
+technology acceptance model,2304,technology acceptance model,human factors,end users and user experience,3,441,3
+technology management,2305,technology management,business planning and management,business,11,169,11
+technology transfer,2306,technology transfer,business performance metrics,business,4,242,4
+tectonics,2307,tectonics,geospatial,technology,1,179,1
+telecommunication computing,2308,telecommunication computing,telecommunication,industries,9,912,9
+telecommunication congestion control,2309,telecommunication congestion control,telecommunication,industries,1,912,1
+telecommunication control,2310,telecommunication control,telecommunication,industries,1,912,1
+telecommunication engineering education,2311,telecommunication engineering education,education,industries,1,627,1
+telecommunication equipment,2312,telecommunication equipment,telecommunication,industries,4,912,4
+telecommunication industry,2313,telecommunication industry,telecommunication,industries,1,912,1
+telecommunication network management,2314,telecommunication network management,networks,technology,1,509,1
+telecommunication network reliability,2315,telecommunication network reliability,telecommunication,industries,3,912,3
+telecommunication network routing,2316,telecommunication network routing,networks,technology,3,509,3
+telecommunication network topology,2317,telecommunication network topology,networks,technology,3,509,3
+telecommunication networks,2318,telecommunication networks,networks,technology,1,509,1
+telecommunication power management,2319,telecommunication power management,telecommunication,industries,5,912,5
+telecommunication repeaters,2320,telecommunication repeaters,telecommunication,industries,1,912,1
+telecommunication scheduling,2321,telecommunication scheduling,telecommunication,industries,6,912,6
+telecommunication services,2322,telecommunication services,telecommunication,industries,5,912,5
+telecommunication switching,2323,telecommunication switching,telecommunication,industries,1,912,1
+telecommunication traffic,2324,telecommunication traffic,telecommunication,industries,17,912,17
+teleconferencing,2325,teleconferencing,collaboration,use cases,6,146,6
+telecontrol,2326,telecontrol,human-computer interaction,end users and user experience,7,998,7
+telemedicine,2327,telemedicine,medical,industries,19,725,19
+telephone sets,2328,telephone sets,telecommunication,industries,6,912,6
+telerobotics,2329,telerobotics,robotics,technology,29,398,29
+television,2330,television,users,end users and user experience,5,83,5
+television broadcasting,2331,television broadcasting,users,end users and user experience,3,83,3
+television displays,2332,television displays,display technology,displays,2,247,2
+television production,2333,television production,video,technology,1,142,1
+teleworking,2334,teleworking,human resources,business,1,78,1
+tellurium compounds,2335,tellurium compounds,chemical,industries,1,152,1
+temperature indicating cameras,2336,temperature indicating cameras,input,technology,1,1224,1
+temperature sensors,2337,temperature sensors,sensors,technology,2,235,2
+tensile testing,2338,tensile testing,"inspection, safety and quality",use cases,1,246,1
+tensors,2339,tensors,computer vision,technology,3,1005,3
+terahertz waves,2340,terahertz waves,telecommunication,industries,1,912,1
+termination of employment,2341,termination of employment,human resources,business,1,78,1
+terrain mapping,2342,terrain mapping,geospatial,technology,3,179,3
+testbeds,2343,testbeds,developers,technology,6,541,6
+testing,2344,testing,"inspection, safety and quality",use cases,2,246,2
+text analysis,2345,text analysis,input,technology,16,1224,16
+text detection,2346,text detection,input,technology,3,1224,3
+text processing,2347,text processing,input,technology,1,1224,1
+textbooks,2348,textbooks,education,industries,3,627,3
+textures,2349,textures,input,technology,30,1224,30
+texturing,2350,texturing,graphics,technology,1,950,1
+thermal comfort,2351,thermal comfort,human factors,end users and user experience,1,441,1
+thermal conductivity,2352,thermal conductivity,power and energy,industries,1,134,1
+thermal engineering,2353,thermal engineering,engineering,technology,1,229,1
+thermal management,2354,thermal management,logistics,business,1,32,1
+thermocouples,2355,thermocouples,input,technology,1,1224,1
+thermography,2356,thermography,sensors,technology,4,235,4
+three dimensional computer graphics,2357,three dimensional computer graphics,graphics,technology,63,950,63
+three dimensional printing,2358,three dimensional printing,manufacturing,industries,13,564,13
+three term control systems,2359,three term control systems,industrial equipment,industries,2,98,2
+three-dimensional displays,2360,three-dimensional displays,display technology,displays,31,247,31
+three-dimensional printing,2361,three-dimensional printing,manufacturing,industries,9,564,9
+tile,2362,tile,construction,industries,1,112,1
+time difference of arrival,2363,time difference of arrival,logistics,business,1,32,1
+time division multiplexing,2364,time division multiplexing,telecommunication,industries,2,912,2
+time measurement,2365,time measurement,sensors,technology,2,235,2
+time series,2366,time series,data,technology,2,657,2
+time-domain analysis,2367,time-domain analysis,audio,technology,1,73,1
+time-of-arrival estimation,2368,time-of-arrival estimation,navigation,use cases,2,178,2
+timing circuits,2369,timing circuits,engineering,technology,7,229,7
+tissue,2370,tissue,medical,industries,3,725,3
+tissue regeneration,2371,tissue regeneration,medical,industries,1,725,1
+toeplitz matrices,2372,toeplitz matrices,engineering,technology,1,229,1
+tomography,2373,tomography,medical,industries,2,725,2
+tools,2374,tools,manufacturing,industries,3,564,3
+topography,2375,topography,geospatial,technology,1,179,1
+topology,2376,topology,geospatial,technology,3,179,3
+total quality management,2377,total quality management,"inspection, safety and quality",use cases,1,246,1
+touch,2378,touch,input,technology,3,1224,3
+touch screens,2379,touch screens,input,technology,29,1224,29
+tourism,2380,tourism,cultural heritage,industries,4,122,4
+town and country planning,2381,town and country planning,smart cities,use cases,10,61,10
+tracking,2382,tracking,computer vision,technology,21,1005,21
+traffic control,2383,traffic control,transportation,industries,1,131,1
+traffic engineering computing,2384,traffic engineering computing,transportation,industries,25,131,25
+traffic signs,2385,traffic signs,transportation,industries,1,131,1
+training,2386,training,training,use cases,4,633,4
+training aircraft,2387,training aircraft,aviation and aerospace,industries,2,121,2
+trajectories,2388,trajectories,navigation,use cases,3,178,3
+trajectory control,2389,trajectory control,robotics,technology,5,398,5
+transceivers,2390,transceivers,semiconductors,technology,2,234,2
+transcoding,2391,transcoding,data,technology,1,657,1
+transcranial magnetic stimulation,2392,transcranial magnetic stimulation,medical,industries,1,725,1
+transducers,2393,transducers,semiconductors,technology,1,234,1
+transfer functions,2394,transfer functions,engineering,technology,5,229,5
+transform coding,2395,transform coding,data,technology,1,657,1
+transformer substations,2396,transformer substations,power and energy,industries,1,134,1
+transforms,2397,transforms,graphics,technology,9,950,9
+transient response,2398,transient response,audio,technology,1,73,1
+transmission control protocol,2399,transmission control protocol,networks,technology,3,509,3
+transmissions,2400,transmissions,telecommunication,industries,2,912,2
+transmitters,2401,transmitters,telecommunication,industries,1,912,1
+transparency,2402,transparency,graphics,technology,4,950,4
+transplantation,2403,transplantation,medical,industries,13,725,13
+transport protocols,2404,transport protocols,networks,technology,10,509,10
+transportation,2405,transportation,transportation,industries,6,131,6
+travel industry,2406,travel industry,transportation,industries,38,131,38
+trees,2407,trees,artificial intelligence,technology,5,771,5
+triangulation,2408,triangulation,input,technology,1,1224,1
+trucks,2409,trucks,automotive,industries,1,149,1
+trusted computing,2410,trusted computing,security,technology,1,97,1
+tsunamis,2411,tsunamis,geospatial,technology,1,179,1
+tumors,2412,tumors,medical,industries,15,725,15
+tunnels,2413,tunnels,transportation,industries,1,131,1
+turbines,2414,turbines,power and energy,industries,1,134,1
+turning,2415,turning,manufacturing,industries,1,564,1
+two phase flow,2416,two phase flow,simulation,use cases,1,138,1
+two term control systems,2417,two term control systems,robotics,technology,1,398,1
+ubiquitous computing,2418,ubiquitous computing,human-computer interaction,end users and user experience,56,998,56
+uhf integrated circuits,2419,uhf integrated circuits,semiconductors,technology,1,234,1
+ultra wideband communication,2420,ultra wideband communication,telecommunication,industries,2,912,2
+ultra-wideband,2421,ultra-wideband,telecommunication,industries,2,912,2
+ultrasonic applications,2422,ultrasonic applications,sensors,technology,4,235,4
+ultrasonic arrays,2423,ultrasonic arrays,sensors,technology,1,235,1
+ultrasonic devices,2424,ultrasonic devices,input,technology,1,1224,1
+ultrasonic imaging,2425,ultrasonic imaging,input,technology,1,1224,1
+ultrasonic measurement,2426,ultrasonic measurement,sensors,technology,2,235,2
+ultrasonic transducers,2427,ultrasonic transducers,power and energy,industries,3,134,3
+ultrasonics,2428,ultrasonics,sensors,technology,4,235,4
+ultrasonography,2429,ultrasonography,medical,industries,1,725,1
+ultraviolet lamps,2430,ultraviolet lamps,input,technology,1,1224,1
+uncertainty analysis,2431,uncertainty analysis,navigation,use cases,2,178,2
+underwater acoustics,2432,underwater acoustics,audio,technology,1,73,1
+unemployment,2433,unemployment,human resources,business,1,78,1
+unmanned aerial vehicles,2434,unmanned aerial vehicles,automotive,industries,9,149,9
+unmanned vehicles,2435,unmanned vehicles,automotive,industries,1,149,1
+unsupervised learning,2436,unsupervised learning,artificial intelligence,technology,3,771,3
+urban growth,2437,urban growth,smart cities,use cases,3,61,3
+urban planning,2438,urban planning,smart cities,use cases,7,61,7
+urban transportation,2439,urban transportation,transportation,industries,2,131,2
+urology,2440,urology,medical,industries,3,725,3
+usability engineering,2441,usability engineering,human-computer interaction,end users and user experience,4,998,4
+user centered design,2442,user centered design,developers,technology,30,541,30
+user experience,2443,user experience,human factors,end users and user experience,57,441,57
+user interfaces,2444,user interfaces,human-computer interaction,end users and user experience,362,998,362
+user manuals,2445,user manuals,developers,technology,2,541,2
+user modelling,2446,user modelling,developers,technology,1,541,1
+value engineering,2447,value engineering,sales and marketing,business,1,114,1
+valves,2448,valves,industrial equipment,industries,2,98,2
+vapour phase epitaxial growth,2449,vapour phase epitaxial growth,display technology,displays,1,247,1
+vectors,2450,vectors,video,technology,3,142,3
+vegetation,2451,vegetation,farming and natural science,industries,1,107,1
+vehicle routing,2452,vehicle routing,automotive,industries,1,149,1
+vehicles,2453,vehicles,automotive,industries,13,149,13
+vehicular ad hoc networks,2454,vehicular ad hoc networks,automotive,industries,3,149,3
+velocity measurement,2455,velocity measurement,sensors,technology,1,235,1
+veterinary medicine,2456,veterinary medicine,farming and natural science,industries,1,107,1
+vibration measurement,2457,vibration measurement,sensors,technology,1,235,1
+vibrations,2458,vibrations,input,technology,5,1224,5
+video cameras,2459,video cameras,video,technology,7,142,7
+video codecs,2460,video codecs,video,technology,1,142,1
+video coding,2461,video coding,video,technology,20,142,20
+video communication,2462,video communication,video,technology,6,142,6
+video conferencing,2463,video conferencing,collaboration,use cases,3,146,3
+video on demand,2464,video on demand,video,technology,2,142,2
+video recording,2465,video recording,video,technology,11,142,11
+video retrieval,2466,video retrieval,video,technology,1,142,1
+video signal processing,2467,video signal processing,semiconductors,technology,90,234,90
+video streaming,2468,video streaming,video,technology,52,142,52
+video surveillance,2469,video surveillance,security,technology,3,97,3
+virtual addresses,2470,virtual addresses,networks,technology,4,509,4
+virtual instrumentation,2471,virtual instrumentation,human-computer interaction,end users and user experience,3,998,3
+virtual machines,2472,virtual machines,data,technology,7,657,7
+virtual manufacturing,2473,virtual manufacturing,manufacturing,industries,3,564,3
+virtual private networks,2474,virtual private networks,networks,technology,1,509,1
+virtual prototyping,2475,virtual prototyping,smart cities,use cases,1,61,1
+virtual reality languages,2476,virtual reality languages,developers,technology,1,541,1
+virtualization,2477,virtualization,simulation,use cases,17,138,17
+viruses,2478,viruses,medical,industries,1,725,1
+visibility,2479,visibility,computer vision,technology,2,1005,2
+visible light communication,2480,visible light communication,input,technology,7,1224,7
+visible spectra,2481,visible spectra,optics,displays,1,167,1
+vision,2482,vision,computer vision,technology,19,1005,19
+vision aids,2483,vision aids,medical,industries,3,725,3
+vision defects,2484,vision defects,human factors,end users and user experience,10,441,10
+visual communication,2485,visual communication,human-computer interaction,end users and user experience,37,998,37
+visual databases,2486,visual databases,data,technology,3,657,3
+visual evoked potentials,2487,visual evoked potentials,human-computer interaction,end users and user experience,17,998,17
+visual languages,2488,visual languages,developers,technology,5,541,5
+visual perception,2489,visual perception,input,technology,31,1224,31
+visual programming,2490,visual programming,developers,technology,6,541,6
+visual servoing,2491,visual servoing,robotics,technology,6,398,6
+visualization,2492,visualization,data,technology,74,657,74
+vlsi circuits,2493,vlsi circuits,semiconductors,technology,1,234,1
+vocabulary,2494,vocabulary,web services,technology,6,77,6
+vocational training,2495,vocational training,training,use cases,3,633,3
+voice activity detection,2496,voice activity detection,input,technology,1,1224,1
+voice communication,2497,voice communication,input,technology,1,1224,1
+volcanoes,2498,volcanoes,geospatial,technology,1,179,1
+volcanology,2499,volcanology,geospatial,technology,2,179,2
+voltage dividers,2500,voltage dividers,power and energy,industries,1,134,1
+voltage-controlled oscillators,2501,voltage-controlled oscillators,power and energy,industries,1,134,1
+volume measurement,2502,volume measurement,audio,technology,1,73,1
+volume rendering,2503,volume rendering,input,technology,1,1224,1
+vortices,2504,vortices,aviation and aerospace,industries,1,121,1
+walls,2505,walls,construction,industries,4,112,4
+warehouse automation,2506,warehouse automation,logistics,business,4,32,4
+warehouses,2507,warehouses,logistics,business,2,32,2
+warehousing,2508,warehousing,logistics,business,3,32,3
+watches,2509,watches,human-computer interaction,end users and user experience,2,998,2
+water levels,2510,water levels,"inspection, safety and quality",use cases,1,246,1
+water quality,2511,water quality,"inspection, safety and quality",use cases,2,246,2
+water resources,2512,water resources,policy,business,1,273,1
+water supply,2513,water supply,utilities,industries,1,4,1
+water treatment,2514,water treatment,utilities,industries,1,4,1
+watersheds,2515,watersheds,farming and natural science,industries,1,107,1
+wave distortion,2516,wave distortion,audio,technology,1,73,1
+wave functions,2517,wave functions,audio,technology,1,73,1
+waveform analysis,2518,waveform analysis,data,technology,2,657,2
+waveguides,2519,waveguides,optics,displays,2,167,2
+wavelet transforms,2520,wavelet transforms,artificial intelligence,technology,7,771,7
+weapons,2521,weapons,government,industries,4,31,4
+wear,2522,wear,"inspection, safety and quality",use cases,1,246,1
+wear of materials,2523,wear of materials,"inspection, safety and quality",use cases,3,246,3
+wearable computers,2524,wearable computers,wearables,displays,100,492,100
+wearable robots,2525,wearable robots,wearables,displays,3,492,3
+wearable sensors,2526,wearable sensors,wearables,displays,2,492,2
+wearable technology,2527,wearable technology,wearables,displays,28,492,28
+web browsers,2528,web browsers,web services,technology,2,77,2
+web design,2529,web design,web services,technology,1,77,1
+web services,2530,web services,web services,technology,26,77,26
+websites,2531,websites,web services,technology,22,77,22
+welding,2532,welding,manufacturing,industries,1,564,1
+welds,2533,welds,manufacturing,industries,1,564,1
+well stimulation,2534,well stimulation,utilities,industries,1,4,1
+well testing,2535,well testing,utilities,industries,1,4,1
+wheelchairs,2536,wheelchairs,medical,industries,10,725,10
+wheels,2537,wheels,automotive,industries,2,149,2
+white noise,2538,white noise,audio,technology,1,73,1
+wi-fi,2539,wi-fi,networks,technology,4,509,4
+wide area networks,2540,wide area networks,networks,technology,4,509,4
+wide band gap semiconductors,2541,wide band gap semiconductors,semiconductors,technology,1,234,1
+wiener filters,2542,wiener filters,artificial intelligence,technology,1,771,1
+wind,2543,wind,farming and natural science,industries,1,107,1
+wind power,2544,wind power,power and energy,industries,1,134,1
+wind power plants,2545,wind power plants,power and energy,industries,2,134,2
+wind turbines,2546,wind turbines,power and energy,industries,1,134,1
+windows,2547,windows,construction,industries,1,112,1
+windshields,2548,windshields,automotive,industries,4,149,4
+wire pointing,2549,wire pointing,manufacturing,industries,3,564,3
+wireless channels,2550,wireless channels,networks,technology,7,509,7
+wireless lan,2551,wireless lan,networks,technology,25,509,25
+wireless mesh networks,2552,wireless mesh networks,networks,technology,1,509,1
+wireless networks,2553,wireless networks,networks,technology,11,509,11
+wireless sensor networks,2554,wireless sensor networks,networks,technology,9,509,9
+wood,2555,wood,construction,industries,2,112,2
+workflow management software,2556,workflow management software,business planning and management,business,1,169,1
+x rays,2557,x rays,medical,industries,1,725,1
+xml,2558,xml,web services,technology,2,77,2
+zero gravity experiments,2559,zero gravity experiments,simulation,use cases,1,138,1
+zoology,2560,zoology,farming and natural science,industries,6,107,6

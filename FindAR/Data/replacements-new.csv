@@ -1,56 +1,139 @@
 FIND,REPLACE
-ant colony optimisation,ant colony optimization
-application program interfaces,application programming interfaces (api)
-augmented reality,DELETE
-colour vision,color vision
-computer generated holography,computer-generated holography
-computerised tomography,computerized tomography
-data visualisation,data visualization
-human robot interaction,human-robot interaction
-just in time,just-in-time
-man machine systems,man-machine systems
-meta data,metadata
-mixed / augmented reality,DELETE
-mixed reality,DELETE
-neural nets,neural networks
-object oriented programming,object-oriented programming
-ontology,ontologies (artificial intelligence)
-optimisation,optimization
-real time systems,real-time systems
-serious games (computing),serious games
-slam robotics,slam (robots)
-smart phones,smartphones
-sport,sports
-synchronisation,synchronization
-three dimensional displays,three-dimensional displays
-tracking,tracking (position)
-tumours,tumors
-user centred design,user centered design
-vibrations,vibrations (mechanical)
-virtual reality,DELETE
-web sites,websites
-wireless lan,wireless local area networks (wlan)
-just in time production,just-in-time
-"stem (science, technology, engineering and mathematics)",stem
 3d printers,three dimensional printing
-cyber physical system,cyber physical systems
-smart city,smart cities
+ada (programming language),ada
+android (operating system),android
+anechoic chambers (electromagnetic),anechoic chambers
+ant colony optimisation,ant colony optimization
+application program interfaces (api),application programming interfaces
+application programming interfaces (api),application programming interfaces
+augmented reality,DELETE
+augmented reality ,DELETE
+batch processing (industrial),batch processing
 biometrics (access control),biometrics
+bonds (chemical),chemical bonds
+brain computer interface,brain-computer interfaces
+bridges (structures),bridges
+buildings (structures),buildings
+c++ (programming language),c++
 cables (electric),cables
 cables (mechanical),cables
+classification (of information),information classification
+clutter (information theory),information clutter
+cockpits (aircraft),aircraft cockpits
+codes (symbols),codes
+colour vision,color vision
+communication channels (information theory),communication channels
+comparators (circuits),comparators
+compasses (magnetic),compasses
+computer generated holography,computer-generated holography
+computerised tomography,computerized tomography
+cyber physical system,cyber physical systems
+cyber physical systems,cyber-physical systems
+data visualisation,data visualization
+degrees of freedom (mechanics),degrees of freedom
+dies (machine tools),dies
+diffusers (optical),optical diffusers
+directional patterns (antenna),directional patterns
+distortion (waves),wave distortion
+earth (planet),earth
+electro-oculography,electrooculography
+encoding (symbols),encoding
+environmental monitoring (geophysics),environmental monitoring
+exoskeleton (robotics),exoskeleton
+failure (mechanical),mechanical failure
+gaussian noise (electronic),gaussian noise
+graphics processing unit,graphics processing units
+human robot interaction,human-robot interaction
+indexing (of information),indexing
+indicators (chemical),chemical indicators
+insulated gate bipolar transistors (igbt),insulated gate bipolar transistors
+interfaces (materials),material interfaces
+interiors (building),building interiors
+ios (operating system),ios
+just in time,just-in-time
+just in time production,just-in-time
+labelling (packaging),labeling
+learning (artificial intelligence),learning algorithms
+locks (fasteners),locks
+man machine systems,man-machine systems
+meta data,metadata
+milling (machining),milling
+mixed / augmented reality,DELETE
+mixed reality,DELETE
+mobile computing ,mobile computing
+mobility management (mobile radio),mobility management
+mouse controllers (computers),mouse controllers
 multi agent systems,multi-agent systems
-particle swarm optimisation,particle swarm optimization (pso)
+networks (circuits),circuit networks
+neural nets,neural networks
+object oriented programming,object-oriented programming
+ontologies (artificial intelligence),ontology
+operating systems (computers),operating systems
+optimisation,optimization
+organic light emitting diodes (oled),organic light emitting diodes
+orthopaedics,orthopedics
+particle filtering (numerical methods),particle filtering
+particle swarm optimisation,particle swarm optimization
+particle swarm optimization (pso),particle swarm optimization
+planning (artificial intelligence),planning
+plants (botany),plants
+plates (structural components),plates
 printers (computer),printers
+program testing ,program testing
+promotion (marketing),promotion
+question answering (information retrieval),question answering
+radio frequency identification (rfid),radio frequency identification
+rapid prototyping (industrial),rapid prototyping
+real time systems,real-time systems
+rendering (computer graphics),rendering
+response time (computer systems),response time
 robustness (control systems),robust control
+saturation (materials composition),material saturation
+screens (display),display screens
+screens (sizing),sizing screens
+serious games (computing),serious games
+slam (robots),slam robotics
+smart city,smart cities
+smart phones,smartphones
+social networking (online),social networking
+source code (software),source code
+splines (mathematics),splines
+sport,sports
+springs (components),springs
+springs (mechanical),springs
+"stem (science, technology, engineering and mathematics)",stem
+storage as a service (staas),storage as a service
 strain gages,strain gauges
+structures (built objects),structures
+synchronisation,synchronization
+thermal management (packaging),thermal management
+thermography (imaging),thermography
+thermography (temperature measurement),thermography
+three dimensional displays,three-dimensional displays
+topography (earth),topography
+touch (physiological),touch
 touch sensitive screens,touch screens
 tourism industry,tourism
+tracking (position),tracking
+transplantation (surgical),transplantation
+trees (mathematics),trees
+tumours,tumors
+turning (machining),turning
+ultra-wideband (uwb),ultra-wideband
+unmanned aerial vehicles (uav),unmanned aerial vehicles
+user centred design,user centered design
+vibrations (mechanical),vibrations
 virtual machine,virtual machines
+virtual reality,DELETE
+virtual reality ,DELETE
 virtualisation,virtualization
 walls (structural partitions),walls
-orthopaedics,orthopedics
-augmented reality ,DELETE
-mobile computing ,mobile computing
-program testing ,program testing
-virtual reality ,DELETE
-brain computer interface,brain-computer interfaces
+web sites,websites
+windows (construction),windows
+wireless local area networks (wlan),wireless lan
+online front-ends,online front ends
+closed loop control systems,closed loop systems
+client-server systems,client server computer systems
+investment,investments
+roads,roads and streets
+robots,robotics
