@@ -1,5 +1,5 @@
 
-[[ra-Epolicy5-MultidimensionalPovertyIndex]]
+[[ra-Bpolicy5-MultidimensionalPovertyIndex]]
 
 # Impact of AR Delivery on People Living in Multidimensional Poverty
 
@@ -14,7 +14,7 @@ This study would aim to specifically measure the access to AR delivery for educa
 1
 
 # Key Words
-United Nations, Sustainable Development Goals, Multidimensional Poverty Index, poverty, policy, education, skill development
+United Nations, Sustainable Development Goals, Multidimensional Poverty Index, poverty, policy, education, skill development, socio-economic effects
 
 ## FindAR Terms
 TBD
