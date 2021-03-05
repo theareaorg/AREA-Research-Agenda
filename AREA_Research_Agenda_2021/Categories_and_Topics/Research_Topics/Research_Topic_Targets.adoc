@@ -65,7 +65,7 @@ Christine will write up two topics fitting in the navigation use case group.
 
 # View of Assignments by Author
 
-## Christine Perey (14)
+## Christine Perey (14-2=12 remaining)
 
 * Four past member-proposed topics:
 
@@ -78,7 +78,7 @@ Christine will write up two topics fitting in the navigation use case group.
 . 3D maps and AR Cloud
 . Ask Marco Tillman
 
-* Finish preliminary Display Device Energy Management topic and write up one more in same group
+* Finish preliminary Display Device Energy Management topic [DONE] and write up one more in same group
 
 * Three topics in Emergency Response and Government, and one for Marine (Industries)
 
