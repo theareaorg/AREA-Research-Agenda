@@ -12,7 +12,7 @@ Two past member-proposed topics have been captured:
 
 In addition, Christine will write up at least the following past member-proposed topics:
 
-. Common interface to swap out AR tracking libraries (Standards)
+. Common interface to swap out AR tracking libraries (Standards) [DONE]
 . Secure Identity and Authentication Management for Shareable (Multi-User) Wearable AR Displays (Displays or Technology-security topic)
 . Facilitated User Interactions for Selecting and Manipulating Virtual Models in Augmented Reality (End User)
 . Standards for multi-user shared holograms (Standards)
@@ -27,7 +27,7 @@ Would be valuable to develop two research topics that target the "Logistics" Gro
 
 ## Displays Category
 
-Christine will complete one Display Device Energy Management topic and write up one more.
+Christine will complete one Display Device Energy Management topic [DONE] and write up one more.
 
 If he has time, Peter could write up another Display research topic.
 
