@@ -65,11 +65,11 @@ Christine will write up two topics fitting in the navigation use case group.
 
 # View of Assignments by Author
 
-## Christine Perey (14-2=12 remaining)
+## Christine Perey (14-2-2=10 remaining)
 
 * Four past member-proposed topics:
 
-. Common interface to swap out AR tracking libraries (Standards)
+. Common interface to swap out AR tracking libraries (Standards) [DONE]
 . Secure Identity and Authentication Management for Shareable (Multi-User) Wearable AR Displays (Displays or Technology-security topic)
 . Facilitated User Interactions for Selecting and Manipulating Virtual Models in Augmented Reality (End User)
 . Standards for multi-user shared holograms (Standards)
@@ -78,9 +78,9 @@ Christine will write up two topics fitting in the navigation use case group.
 . 3D maps and AR Cloud
 . Ask Marco Tillman
 
-* Finish preliminary Display Device Energy Management topic [DONE] and write up one more in same group
+* Finish preliminary Display Device Energy Management topic [DONE] and write up one more in same group [DONE]
 
-* Three topics in Emergency Response and Government, and one for Marine (Industries)
+* Three topics in Emergency Response and Government [ONE DONE], and one for Marine (Industries)
 
 * Two topics pertaining to Web services (chat with Trevor Flowers)
 
