@@ -41,4 +41,4 @@ The following articles, published in 2019 describe energy harvesting based on hu
 Measurement of the power produced, published in 2020 https://res.mdpi.com/d_attachment/energies/energies-13-03871/article_deploy/energies-13-03871-v2.pdf
 
 # Author
-Christine
+Christine Perey
