@@ -1,7 +1,7 @@
 [[ra-DDisplaytechnology5-passthrough]]
 
 # Title
-# Video passthrough vs. see-through optics: the impact of display technology on the peripheral vision
+Video passthrough vs. see-through optics: the impact of display technology on the peripheral vision
 
 # Description
 AR Head Mounted Displays have traditionally been based on various types of  see-through optics to blend simulated and physical realities. Unlike silicon based technologies however, optics don’t follow Moore’s Law. This – comparatively slower – pace of development allowed for the introduction of a new AR display technology. Commonly known as ‘video passthrough’ these devices use computational processing to blend and display both simulated and physical realities.
