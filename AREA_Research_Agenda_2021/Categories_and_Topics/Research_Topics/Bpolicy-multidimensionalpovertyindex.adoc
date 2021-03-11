@@ -1,0 +1,52 @@
+
+[[ra-Bpolicy5-MultidimensionalPovertyIndex]]
+
+# Impact of AR Delivery on People Living in Multidimensional Poverty
+
+# Description
+The Multidimensional Poverty Index (MPI) "measures the complexities of poor people's lives, individually and collectively, each year." The measure was co-developed between the Oxford Poverty and Human Development Initiative at the University of Oxford and the Human Development Report Office of the United Nations Development Programme in 2010. It is a key measure for developing countries with regards to progress toward eliminating world poverty. Importantly, this specific measure accounts for many elements of non-monetary poverty to calculate an overall score, comprised of three dimensions: Health, Education, and Standard of Living. According to 2020 report "Charting pathways out of multidimensional poverty: achieving the SDGs", "This is a key moment to study how nonmonetary poverty goes down. It is 10 years before 2030, the due date of the Sustainable Development Goals (SDGs), whose first goal is to end poverty in all its forms everywhere. And it is a year when a pandemic and economic slowdown are pushing many more into poverty, while the spectre of racism still haunts, and environmental threats such as locusts surge". +
+
+Because AR is a unique delivery format that is highly conducive to providing increased accessibility to skill acquisition, learning, and even remote healthcare, and given the challenges that COVID has brought into the mix in 2020, UN Nations will increasingly be looking to ways to sustain growth/minimize regression with regards to 2030 UN SDG targets. Because education accounts for 1/3 of the Multi-dimensional Poverty Index and this index is measured annually and can be applied flexibly to individuals, this is an ideal opportunity in time to investigate the impacts of AR with regards to reducing world poverty. There is likely to be substantial interest within local governments as well as amongst corporate entities supporting the UN 2030 Sustainable Development Goals.
+
+This study would aim to specifically measure the access to AR delivery for educational and healthcare purposes over the course of a year and the numerical impact upon individual MPI.
+
+# Prior Research
+1
+
+# Key Words
+United Nations, Sustainable Development Goals, Multidimensional Poverty Index, poverty, policy, education, skill development, socio-economic effects
+
+## FindAR Terms
+TBD
+
+# Stakeholders
+Government officials and policymakers in World Bank Group and UN nations, Social Performance/Impact executives in large, global organizations, particularly those with a large social license to operate - preference to industries in which corporations provide educational and healthcare services for many aspects of community life (e.g. metals and mining), Education policy makers/professionals
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+The Multidimensional Poverty Index (MPI) "measures the complexities of poor people's lives, individually and collectively, each year." The measure was co-developed between the Oxford Poverty and Human Development Initiative at the University of Oxford and the Human Development Report Office of the United Nations Development Programme in 2010. It is a key measure for developing countries with regards to progress toward eliminating world poverty. Importantly, this specific measure accounts for many elements of non-monetary poverty to calculate an overall score, comprised of three dimensions: Health, Education, and Standard of Living. According to 2020 report "Charting pathways out of multidimensional poverty: achieving the SDGs", "This is a key moment to study how nonmonetary poverty goes down. It is 10 years before 2030, the due date of the Sustainable Development Goals (SDGs), whose first goal is to end poverty in all its forms everywhere. And it is a year when a pandemic and economic slowdown are pushing many more into poverty, while the spectre of racism still haunts, and environmental threats such as locusts surge". +
+
+Because AR is a unique delivery format that is highly conducive to providing increased accessibility to skill acquisition, learning, and even remote healthcare, and given the challenges that COVID has brought into the mix in 2020, UN Nations will increasingly be looking to ways to sustain growth/minimize regression with regards to 2030 UN SDG targets. Because education accounts for 1/3 of the Multi-dimensional Poverty Index and this index is measured annually and can be applied flexibly to individuals, this is an ideal opportunity in time to investigate the impacts of AR with regards to reducing world poverty. There is likely to be substantial interest within local governments as well as amongst corporate entities supporting the UN 2030 Sustainable Development Goals.
+
+# Possible Methodologies
+Decide upon flexible scoring mechanism for individual MPI (see https://mppn.org/multidimensional-poverty/how-is-calculated/). +
+Partner with a host corporation and community. +
+Calculate pre-study MPIs and introduce AR intervention via A/B trial scenarios, potentially with a few different levels of AR intervention. Observe post-intervention data. +
+Calculate post-study MPIs. +
+
+
+# Expected Impact Timeframe
+Near
+
+# Research Program
+This study could link closely with existing research programs associated with metals and mining, education, policy, as well as potentially healthcare, depending upon the scope of the research project.
+
+# Miscellaneous Notes
+References related to risk appetite matrices:
+http://hdr.undp.org/sites/default/files/2020_mpi_report_en.pdf +
+https://mppn.org/multidimensional-poverty/how-is-calculated/ +
+
+
+# Author
+Jennifer Rogers

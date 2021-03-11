@@ -1,2576 +1,2562 @@
 ,names,freq
-1475,mobile computing,600
-427,computer aided instruction,528
-1049,human computer interaction,414
-1014,helmet mounted displays,376
-2459,user interfaces,362
-296,cameras,361
-575,data visualization,285
-2150,smartphones,223
-2313,teaching,204
-1253,learning (artificial intelligence),188
-1596,not labeled,178
-461,computer vision,174
-439,computer games,172
-2004,rendering (computer graphics),166
-1180,interactive computer graphics,162
-1192,internet of things,144
-1050,human engineering,143
-1609,object detection,137
-967,gesture recognition,136
-1876,production engineering computing,136
-1392,medical computing,134
-1087,image reconstruction,132
-2186,solid modelling,132
-2240,stereo image processing,130
-1074,image colour analysis,128
-1479,mobile robots,128
-1823,pose estimation,125
-849,feature extraction,118
-370,cloud computing,117
-2282,surgery,111
-1095,image segmentation,107
-2538,wearable computers,100
-1191,internet,100
-432,computer based training,94
-1051,human factors,93
-2482,video signal processing,90
-1577,neural networks,90
-996,handicapped aids,90
-690,educational institutions,90
-1032,history,90
-2042,robot vision,90
-992,groupware,89
-497,control engineering computing,88
-999,haptic interfaces,86
-1183,interactive systems,83
-1088,image registration,82
-1611,object tracking,82
-1397,medical image processing,81
-1083,image motion analysis,77
-1610,object recognition,75
-2507,visualization,74
-1096,image sensors,73
-2144,slam (robots),73
-1540,museums,71
-1053,human-robot interaction,71
-1738,patient rehabilitation,70
-2110,serious games,65
-295,calibration,64
-2260,students,64
 0,3d modeling,63
-2372,three dimensional computer graphics,63
-689,educational courses,63
-385,cognition,61
-1084,image processing,60
-429,computer animation,60
-1924,quality of service,59
-1008,health care,59
-1739,patient treatment,58
-509,convolutional neural nets,58
-2458,user experience,57
-636,diseases,57
-2433,ubiquitous computing,56
-1583,neurophysiology,55
-134,artificial intelligence,54
-582,decision making,54
-1256,learning systems,53
-958,geometry,53
-1557,navigation,52
-1691,optimization,52
-2483,video streaming,52
-2046,robotics,52
-1338,maintenance engineering,51
-1081,image matching,51
-638,display devices,50
-1182,interactive devices,50
-835,face recognition,49
-440,computer graphics,49
-1181,interactive computer systems,48
-1395,medical disorders,48
-786,engineering education,47
-1072,image classification,47
-227,biomechanics,47
-1003,head-up displays,47
-1086,image recognition,47
-970,global positioning system,44
-2286,surveys,44
-682,edge computing,43
-1098,image texture,43
-1350,mapping,43
-1097,image sequences,42
-1477,mobile learning,42
-668,e-learning,41
-2011,resource allocation,41
-100,android (operating system),39
-229,biomedical education,39
-142,assembling,39
-2421,travel industry,38
-2500,visual communication,37
-2158,social networking (online),37
-764,embedded systems,36
-129,argon,36
-968,glass,36
-1906,psychology,36
-2147,smart cities,35
-183,avatars,35
-983,graphical user interfaces,35
-1402,medical robotics,35
-468,computerized tomography,35
-3,5g mobile communication,35
-554,data analysis,34
-1212,iterative methods,34
-851,feedback,34
-1284,lighting,33
-2220,sports,33
-2214,speech recognition,33
-2095,semantics,33
-1078,image enhancement,33
-1089,image representation,33
-2041,robot programming,33
-1404,medical signal processing,32
-587,deep learning,32
-1530,multimedia systems,32
-1037,holography,32
-661,driver information systems,32
-2375,three-dimensional displays,31
-1506,motion estimation,31
-1975,real-time systems,31
-2504,visual perception,31
-2457,user centered design,30
-2363,textures,30
-1090,image resolution,30
-1080,image fusion,30
-951,geographic information systems,29
-2047,robots,29
-507,convolution,29
-2343,telerobotics,29
-1034,holographic displays,29
-1527,multimedia computing,29
-2394,touch screens,29
-984,graphics processing units,28
-115,application programs,28
-456,computer science education,28
-729,electroencephalography,28
-133,art,28
-2541,wearable technology,28
-927,further education,28
-1155,inspection,28
-684,education,28
-290,cad,28
-809,ergonomics,27
-598,design,27
-557,data compression,27
-678,economic and social effects,26
-200,behavioral research,26
-2102,sensor fusion,26
-1340,man-machine systems,26
-264,brain,26
-2544,web services,26
-1756,personnel,26
-568,data privacy,26
-110,antennas,26
-685,education computing,26
-887,flow visualization,26
-2399,traffic engineering computing,25
-209,big data,25
-2565,wireless local area networks (wlan),25
-945,gaze tracking,25
-1992,regression analysis,24
-2173,software prototyping,24
-1480,mobile telecommunication systems,24
-965,geriatrics,24
-168,automation,24
-1302,location,23
-1734,path planning,23
-179,autonomous aerial vehicles,23
-1518,multi-agent systems,23
-828,eye,23
-1127,industrial robots,23
-2088,security of data,23
-266,brain-computer interfaces,23
-1672,optical projectors,23
-692,educational technology,23
-1264,lenses,23
-1073,image coding,23
-784,energy utilization,23
-1467,mirrors,22
-2016,retail data processing,22
-1320,machine learning,22
-1793,pixels,22
-2545,websites,22
-2254,street traffic control,22
-1871,product design,21
-821,exhibitions,21
-2397,tracking (position),21
-2163,software architecture,21
-2167,software engineering,21
-591,degrees of freedom (mechanics),21
-1373,mathematics computing,21
-2034,road vehicles,21
-624,digital storage,21
-2230,statistical analysis,21
-1909,public domain software,21
-105,animation,20
-552,data acquisition,20
-528,costs,20
-1923,quality of experience,20
-815,errors,20
-2000,remote control,20
-2106,sensors,20
-234,biomedical mri,20
-226,biology computing,20
-743,electronic commerce,20
-2476,video coding,20
-1343,manipulators,20
-1281,light sources,19
-1757,personnel training,19
-2341,telemedicine,19
-1400,medical information systems,19
-454,computer programming,19
-2497,vision,19
-1337,maintenance,19
-642,distance measurement,19
-1145,information systems,19
-421,computational geometry,18
-831,eye tracking,18
-1421,mhealth,18
-1546,natural language processing,18
-114,application programming interfaces (api),18
-588,deep neural networks,18
-317,cellular radio,18
-1449,military computing,17
-1345,manufacture,17
-2307,target tracking,17
-1513,motivation,17
-1631,ontologies (artificial intelligence),17
-855,feedforward neural nets,17
-2492,virtualization,17
-2031,road safety,17
-1153,innovation management,17
-457,computer simulation,17
-2502,visual evoked potentials,17
-392,collision avoidance,17
-2338,telecommunication traffic,17
-1920,quality control,17
-562,data handling,17
-1035,holographic optical elements,17
-2359,text analysis,16
-770,emotion recognition,16
-1375,matrix algebra,16
-1737,patient monitoring,16
-1033,holograms,16
-693,efficiency,16
-683,edge detection,16
-190,bandwidth,16
-1071,image capture,16
-1782,physics education,16
-981,graph theory,16
-1232,laboratories,16
-2078,scheduling,16
-1290,linguistics,16
-353,classification (of information),16
-1635,open systems,15
-128,architecture,15
-387,cognitive systems,15
-4,5g mobile communication systems,15
-1684,optical tracking,15
-899,force feedback,15
-1272,light emitting diodes,15
-393,color,15
-1709,paediatrics,15
-2427,tumors,15
-539,curricula,15
-1942,radio access networks,15
-1159,integer programming,15
-597,depth perception,15
-680,ecosystems,15
-648,distributed processing,15
-158,audition,15
-1129,industry 4.0,14
-2273,support vector machines,14
-2165,software design,14
-1837,power engineering computing,14
-2160,social sciences computing,14
-1978,recommender systems,14
-590,deformation,14
-780,energy efficiency,14
-537,cryptography,14
-1761,phantoms,14
-2108,sensory perception,14
-1357,marketing,14
-583,decision support systems,14
-1123,industrial manipulators,14
-617,digital devices,14
-1303,location based services,14
-2003,remotely operated vehicles,14
-1478,mobile radio,14
-1219,keyboards,14
-895,food products,14
-235,biomedical optical imaging,14
-766,emergency management,14
-1565,network architecture,13
-474,condition monitoring,13
-1054,humanities,13
-1745,pedestrians,13
-2292,synchronization,13
-2418,transplantation (surgical),13
-957,geometrical optics,13
-1558,navigation systems,13
-9,abstracting,13
-1541,music,13
-1140,information management,13
-2468,vehicles,13
-1319,machine design,13
-139,arts computing,13
-934,gait analysis,13
-1538,muscle,13
-2373,three dimensional printing,13
-2276,surface discharges,13
-1410,mesh generation,13
-1770,photogrammetry,13
-663,drones,13
-881,floors,13
-793,entertainment,13
-644,distributed computer systems,13
-740,electromyography,12
-691,educational robots,12
-1505,motion control,12
-1413,metadata,12
-1111,indoor navigation,12
-202,behavioural sciences computing,12
-298,cancer,12
-1476,mobile handsets,12
-1881,productivity,12
-1781,physics computing,12
-2257,structural engineering computing,12
-62,age issues,12
-169,automobile drivers,12
-2143,skin,12
-2156,social aspects of automation,12
-1307,logistics,12
-1634,open source software,12
-1322,machinery,12
-1198,interpolation,12
-633,disasters,12
-146,assisted living,12
-404,commerce,12
-260,bone,12
-1131,inertial navigation,12
-2032,road traffic,12
-1079,image filtering,12
-846,fault diagnosis,11
-2001,remote sensing,11
-289,cache storage,11
-2129,signal processing,11
-1972,ray tracing,11
-1829,power aware computing,11
-417,computational complexity,11
-1128,industrial training,11
-606,diagnosis,11
-1385,mechanical engineering computing,11
-2480,video recording,11
-154,audio signal processing,11
-838,factory automation,11
-1700,orthopedics,11
-180,autonomous agents,11
-2567,wireless networks,11
-1760,petroleum reservoir evaluation,11
-2319,technology management,11
-1271,light,11
-1902,prosthetics,11
-2259,student experiments,11
-2213,speech processing,11
-416,computation theory,11
-1225,knowledge based systems,11
-1314,low-power electronics,10
-1741,pattern clustering,10
-1386,mechanoception,10
-2283,surgical equipment,10
-1714,palmprint recognition,10
-1674,optical radar,10
-73,air navigation,10
-1917,qr codes,10
-52,aerospace computing,10
-1824,position control,10
-1562,needles,10
-1861,probability,10
-1790,pipelines,10
-2550,wheelchairs,10
-281,buildings (structures),10
-2499,vision defects,10
-2419,transport protocols,10
-2139,simulation platform,10
-2239,stem,10
-891,fog,10
-2023,reviews,10
-1010,hearing,10
-255,bluetooth,10
-901,forecasting,10
-523,cost effectiveness,10
-431,computer architecture,10
-438,computer displays,10
-566,data mining,10
-1151,infrared imaging,10
-1152,injuries,10
-547,cyber-physical systems,10
-584,decision trees,10
-641,distance learning,10
-767,emergency services,10
-623,digital simulation,10
-254,blood vessels,10
-2396,town and country planning,10
-561,data gloves,10
-1454,millimeter waves,10
-1173,intelligent robots,9
-1339,mammals,9
-368,clothing,9
-2094,semantic web,9
-1167,intelligent agents,9
-2412,transforms,9
-1175,intelligent systems,9
-1292,liquid crystal displays,9
-485,consumer behaviour,9
-2322,telecommunication computing,9
-356,client-server systems,9
-1445,middleware,9
-425,computer aided design,9
-1360,markov processes,9
-430,computer applications,9
-746,electronic engineering computing,9
-433,computer centres,9
-778,energy conservation,9
-993,gyroscopes,9
-123,archaeology,9
-1629,online front-ends,9
-1227,knowledge management,9
-2449,unmanned aerial vehicles (uav),9
-148,astronomy computing,9
-1221,kinematics,9
-963,geophysics computing,9
-1031,historic preservation,9
-1112,indoor positioning systems,9
-841,failure analysis,9
-542,customer satisfaction,9
-1218,kalman filters,9
-1572,network security,9
-1772,photography,9
-1981,recurrent neural nets,9
-223,biological organs,9
-1784,physiology,9
-1966,random processes,9
-620,digital libraries,9
-182,autonomous vehicles,9
-2376,three-dimensional printing,9
-2089,security systems,9
-2086,search engines,9
-2568,wireless sensor networks,9
-1904,protocols,9
-1730,particle swarm optimization (pso),9
-1887,program processors,9
-1594,nonlinear programming,9
-1526,multimedia communication,8
-383,codes (symbols),8
-1503,motion analysis,8
-1113,indoor radio,8
-459,computer software,8
-1315,luminance,8
-284,business data processing,8
-465,computerised monitoring,8
-280,buildings,8
-1242,large dataset,8
-1481,mobility management (mobile radio),8
-1137,information analysis,8
-1126,industrial research,8
-1208,ios (operating system),8
-1724,parameter estimation,8
-1679,optical sensors,8
-302,cardiology,8
-1038,home automation,8
-270,brightness,8
-1621,octrees,8
-1519,multi-robot systems,8
-860,field programmable gate arrays,8
-249,blending,8
-1743,pattern recognition,8
-1736,patient diagnosis,8
-1735,patient care,8
-987,green computing,8
-1878,production facilities,8
-1888,program testing,8
-932,fuzzy set theory,8
-398,color vision,8
-164,authorisation,8
-2103,sensor networks,8
-120,approximation theory,8
-2287,sustainable development,8
-596,dentistry,8
-599,design engineering,8
-2027,risk management,8
-27,acoustic signal processing,8
-1006,health,7
-277,building information modelling,7
-1830,power consumption,7
-275,budget control,7
-2534,wavelet transforms,7
-2564,wireless channels,7
-233,biomedical measurement,7
-12,accelerometers,7
-1213,java,7
-1041,hospitals,7
-2495,visible light communication,7
-178,automotive industry,7
-1091,image restoration,7
-1877,production equipment,7
-206,benchmarking,7
-278,building management systems,7
-1142,information retrieval,7
-2474,video cameras,7
-2487,virtual machines,7
-196,bayes methods,7
-1928,queueing networks,7
-193,bar codes,7
-676,ecology,7
-2453,urban planning,7
-1254,learning algorithms,7
-543,customer services,7
-2247,storage management,7
-774,encoding (symbols),7
-754,electronic publishing,7
-70,agriculture,7
-1976,realistic images,7
-352,civil engineering computing,7
-1520,multi-threading,7
-170,automobile industry,7
-163,authoring systems,7
-1294,liquid crystals,7
-2340,telecontrol,7
-2005,repair,7
-341,chemioception,7
-173,automobiles,7
-1497,monte carlo methods,7
-76,air traffic control,7
-2087,search problems,7
-775,end effectors,7
-1039,home computing,7
-2043,robotic arms,7
-1398,medical imaging,7
-573,data structures,7
-2384,timing circuits,7
-1438,microprocessor chips,7
-829,eye movements,7
-224,biological tissues,6
-2044,robotic assembly,6
-2574,zoology,6
-1853,principal component analysis,6
-1504,motion compensation,6
-1110,indoor environment,6
-2029,road accidents,6
-2036,roads and streets,6
-1124,industrial plants,6
-779,energy consumption,6
-2074,scaffolds,6
-870,fires,6
-1411,message authentication,6
-2112,service robots,6
-2121,ships,6
-2155,social aspects,6
-2162,software agents,6
-463,computer-generated holography,6
-125,architectural acoustics,6
-605,dexterous manipulators,6
-155,audio systems,6
-1428,microdisplays,6
-314,cell proliferation,6
-342,chemistry computing,6
-63,agents,6
-16,accident prevention,6
-424,computational methods,6
-546,cyber physical systems,6
-518,correlation methods,6
-578,database systems,6
-241,biometrics,6
-585,decoding,6
-34,actuators,6
-231,biomedical engineering,6
-2,4g mobile communication,6
-50,advertising data processing,6
-608,diagnostic radiography,6
-152,audio acoustics,6
-470,concave programming,6
-538,cultural aspects,6
-2199,spatial light modulators,6
-1494,molecular physics,6
-1092,image retrieval,6
-2506,visual servoing,6
-2357,testbeds,6
-2477,video communication,6
-2342,telephone sets,6
-2505,visual programming,6
-2339,teleconferencing,6
-2335,telecommunication scheduling,6
-1326,magnetic fields,6
-2509,vocabulary,6
-2314,team working,6
-2056,rural areas,6
-1148,information use,6
-1269,life cycle,6
-1164,integration,6
-2420,transportation,6
-724,electrical engineering education,6
-1275,light modulators,6
-686,educational administrative data processing,6
-1931,radar,6
-1288,linear programming,6
-1349,manufacturing systems,6
-1394,medical diagnostic computing,6
-1851,preventive maintenance,6
-747,electronic engineering education,6
-1740,pattern classification,6
-1682,optical systems,6
-1650,optical design,6
-1752,personal computers,6
-1644,optical communication,6
-1077,image denoising,6
-1640,optical arrays,6
-1619,occupational safety,6
-1543,nasa,6
-1865,process control,6
-926,furniture,6
-906,formal specification,6
-913,free-space optical communication,6
-1916,purchasing,6
-1895,project management,6
-1587,next generation networks,6
-1886,program debugging,6
-864,filtering theory,5
-2344,television,5
-797,environmental factors,5
-486,consumer electronics,5
-2336,telecommunication services,5
-2333,telecommunication power management,5
-1859,printing presses,5
-484,construction industry,5
-127,architectural design,5
-639,display instrumentation,5
-679,economics,5
-1461,mimo systems,5
-69,agricultural robots,5
-1099,image understanding,5
-1831,power control,5
-2473,vibrations (mechanical),5
-1085,image quality,5
-1825,position measurement,5
-75,air quality,5
-2117,shape recognition,5
-1919,quality assurance,5
-978,gradient methods,5
-237,biomedical ultrasonics,5
-1348,manufacturing processes,5
-2301,systems engineering,5
-1427,microcontrollers,5
-1766,philosophical aspects,5
-1118,industrial engineering,5
-825,extraction,5
-514,cooperative communication,5
-78,aircraft,5
-667,dynamics,5
-1510,motion planning,5
-1954,radiofrequency identification,5
-2503,visual languages,5
-1405,medicine,5
-2076,scanning,5
-1144,information services,5
-1147,information theory,5
-376,clutter (information theory),5
-177,automotive engineering,5
-1455,millimetre wave communication,5
-772,employment,5
-502,controllers,5
-1614,object-oriented programming,5
-2216,speech-based user interfaces,5
-2422,trees (mathematics),5
-1299,liver,5
-1542,musical instruments,5
-1203,investment,5
-412,competition,5
-1168,intelligent buildings,5
-1171,intelligent manufacturing systems,5
-1391,medical applications,5
-2176,software testing,5
-936,game theory,5
-304,cardiovascular system,5
-751,electronic money,5
-2271,supply chain management,5
-2177,software tools,5
-1996,reliability,5
-1310,long term evolution,5
-833,fabrication,5
-574,data transfer,5
-1019,hidden markov models,5
-1568,network layers,5
-2170,software maintenance,5
-722,electrical engineering,5
-2140,simulators,5
-418,computational efficiency,5
-2404,trajectory control,5
-1330,magnetic resonance imaging,5
-2063,sales,5
-1347,manufacturing industries,5
-2409,transfer functions,5
-2261,studios,5
-1659,optical flows,5
-1566,network function virtualization,5
-1224,knowledge acquisition,5
-1354,marine engineering,5
-903,forestry,5
-1642,optical character recognition,5
-758,electrooculography,5
-1215,job analysis,5
-2562,windshields,4
-1815,police data processing,4
-2057,safety,4
-2058,safety devices,4
-156,audio user interfaces,4
-2553,wi-fi,4
-1908,public administration,4
-699,electric batteries,4
-1630,online systems,4
-1994,reinforcement learning,4
-1683,optical tomography,4
-2535,weapons,4
-174,automotive components,4
-1580,neurodegenerative diseases,4
-166,automatic optical inspection,4
-25,acoustic noise,4
-2026,risk assessment,4
-186,backpropagation,4
-1617,occupational health,4
-161,authentication,4
-621,digital photography,4
-324,channel coding,4
-1624,office buildings,4
-2025,risk analysis,4
-2554,wide area networks,4
-1949,radio networks,4
-1796,planning,4
-2037,robot applications,4
-144,assembly planning,4
-1987,reflection,4
-143,assembly,4
-1929,queueing theory,4
-2045,robotic surgery,4
-1721,parallel architectures,4
-309,cathode ray oscilloscopes,4
-1722,parallel processing,4
-776,endoscopes,4
-1184,interactive television,4
-318,cellular telephones,4
-1496,monitoring,4
-2073,scada systems,4
-1489,modulation,4
-777,endoscopy,4
-307,catering industry,4
-2521,warehouse automation,4
-2485,virtual addresses,4
-1529,multimedia signal processing,4
-1905,prototypes,4
-2070,satellite navigation,4
-569,data protection,4
-640,distance education,4
-132,array signal processing,4
-1897,projection systems,4
-316,cellular biophysics,4
-1508,motion picture experts group standards,4
-1857,printers,4
-1838,power engineering education,4
-1688,optical waveguides,4
-1592,nonlinear filters,4
-1822,portals,4
-728,electrocardiography,4
-157,audio-visual systems,4
-723,electrical engineering computing,4
-1639,ophthalmology,4
-244,biosensors,4
-1649,optical data processing,4
-1651,optical design techniques,4
-2520,walls,4
-1474,mobile communication,4
-126,architectural cad,4
-2395,tourism,4
-952,geography,4
-534,crowdsourcing,4
-413,complex networks,4
-944,gaussian processes,4
-2278,surface reconstruction,4
-420,computational fluid dynamics,4
-1149,infrared detectors,4
-2285,surveying,4
-866,finite element analysis,4
-960,geophysical image processing,4
-1133,inertial systems,4
-969,global optimization,4
-2298,system-on-chip,4
-2306,tar,4
-1101,imaging techniques,4
-1211,iso standards,4
-1473,mobile commerce,4
-982,graphic methods,4
-104,animals,4
-1187,interfaces (materials),4
-859,field emission displays,4
-2443,ultrasonics,4
-834,fabrics,4
-2169,software libraries,4
-2164,software defined networking,4
-2456,usability engineering,4
-1465,minimisation,4
-1380,mean square error methods,4
-1381,measurement,4
-1396,medical education,4
-2128,signal encoding,4
-1437,microphones,4
-555,data analytics,4
-510,convolutional neural networks,4
-2161,socio-economic effects,4
-450,computer networks,4
-1223,knobs,4
-1274,light modulation,4
-1263,leisure industry,4
-1255,learning management systems,4
-208,bicycles,4
-2417,transparency,4
-526,cost reduction,4
-1214,jitter,4
-1293,liquid crystal on silicon,4
-1209,ip networks,4
-1204,investments,4
-2401,training,4
-1195,internetworking,4
-467,computerised numerical control,4
-1188,interference suppression,4
-2215,speech synthesis,4
-1196,interoperability,4
-880,floods,4
-1016,heterogeneous networks,4
-2201,spatial variables measurement,4
-2326,telecommunication equipment,4
-2320,technology transfer,4
-1002,hazards,4
-1052,human resource management,4
-498,control engineering education,4
-1058,hybrid systems,4
-2272,supply chains,4
-1178,intelligent vehicle highway systems,4
-369,clothing industry,4
-2192,source separation,4
-2437,ultrasonic applications,4
-1176,intelligent transportation systems,4
-894,food processing industry,3
-530,courseware,3
-954,geology,3
-2523,warehousing,3
-853,feedback control,3
-2486,virtual instrumentation,3
-2484,video surveillance,3
-703,electric drives,3
-697,elasticity,3
-791,engines,3
-792,enterprise resource planning,3
-586,deconvolution,3
-55,aerospace industry,3
-2537,wear of materials,3
-986,greedy algorithms,3
-556,data communication,3
-2478,video conferencing,3
-46,additives,3
-892,fog computing,3
-804,environmental technology,3
-14,access control,3
-2539,wearable robots,3
-808,equipment testing,3
-2370,thermography (imaging),3
-812,error correction,3
-813,error correction codes,3
-1435,microorganisms,3
-2469,vehicular ad hoc networks,3
-1875,production control,3
-153,audio equipment,3
-2219,splines (mathematics),3
-145,asset management,3
-1676,optical resolving power,3
-949,genetic algorithms,3
-1678,optical scanners,3
-261,botany,3
-1681,optical switches,3
-1186,interface states,3
-258,body sensor networks,3
-1245,laser beams,3
-2228,stars,3
-1335,magnetometers,3
-1301,local area networks,3
-1331,magnetic sensors,3
-2191,source code (software),3
-2218,spheres,3
-2196,space-based radar,3
-1308,logistics data processing,3
-1304,locks (fasteners),3
-2202,spatiotemporal phenomena,3
-2021,reverberation,3
-2223,springs (mechanical),3
-2205,specifications,3
 1,3g mobile communication,3
-93,ambient intelligence,3
-2017,retailing,3
-271,broadband networks,3
-1636,operating systems (computers),3
-505,convex programming,3
-545,cutting tools,3
-900,force sensors,3
-533,crops,3
-2362,textbooks,3
-2353,tensors,3
-646,distributed database systems,3
-2360,text detection,3
-629,directed graphs,3
-1011,heart,3
-839,fading channels,3
-1020,hierarchical systems,3
-647,distributed databases,3
-2442,ultrasonic transducers,3
-632,disaster prevention,3
-830,eye protection,3
-2455,urology,3
-844,fatigue,3
-2452,urban growth,3
-2563,wire pointing,3
-2356,terrain mapping,3
-1005,headphones,3
-991,ground penetrating radar,3
-824,extended kalman filters,3
-625,digital television,3
-877,flexible manufacturing systems,3
-2465,vectors,3
-2451,unsupervised learning,3
-612,diffraction,3
-850,feature selection,3
-1249,lathes,3
-499,control system synthesis,3
-803,environmental science computing,3
-35,ad hoc networks,3
-572,data storage equipment,3
-2393,touch (physiological),3
-2498,vision aids,3
-918,friction,3
-2403,trajectories,3
-748,electronic guidance systems,3
-577,database management systems,3
-745,electronic document exchange,3
-760,electrophysiology,3
-2501,visual databases,3
-908,forward error correction,3
-931,fuzzy logic,3
-2414,transmission control protocol,3
-935,gallium compounds,3
-2385,tissue,3
-527,costing,3
-732,electromagnetic fields,3
-2391,topology,3
-17,accidents,3
-941,gaussian distribution,3
-765,embeddings,3
-2389,tools,3
-571,data science,3
-2510,vocational training,3
-2488,virtual manufacturing,3
-773,encoding,3
-567,data models,3
-262,botnet,3
-1193,internet protocols,3
-84,aircraft manufacture,3
-1138,information dissemination,3
-1064,hypertext systems,3
-2300,systems analysis,3
-448,computer network management,3
-1067,ieee standards,3
-1934,radar imaging,3
-1106,independent component analysis,3
-221,bioinformatics,3
-1100,imaging systems,3
-1926,query processing,3
-1068,iii-v semiconductors,3
-1810,pneumodynamics,3
-2318,technology acceptance model,3
-2310,taxonomies,3
-471,conceptual design,3
-464,computerised instrumentation,3
-1941,radio,3
-1842,power plants,3
-1055,humanoid robots,3
-2331,telecommunication network topology,3
-1135,inference mechanisms,3
-1748,performance evaluation,3
-1856,printed circuits,3
-1826,positron emission tomography,3
-1753,personal computing,3
-1132,inertial navigation systems,3
-232,biomedical equipment,3
-1122,industrial management,3
-1747,peer-to-peer computing,3
-194,base stations,3
-2330,telecommunication network routing,3
-1162,integrated optics,3
-1661,optical images,3
-252,blood,3
-245,biotechnology,3
-419,computational electromagnetics,3
-176,automotive electronics,3
-1729,particle filtering (numerical methods),3
-1732,patents,3
-1862,probes,3
-68,agricultural products,3
-1744,pedestrian safety,3
-1697,organic light emitting diodes (oled),3
-81,aircraft displays,3
-1874,product quality,3
-251,blockchain,3
-1698,organisational aspects,3
-1882,professional aspects,3
-1879,production management,3
-1174,intelligent sensors,3
-487,consumer products,3
-1699,orthogonal frequency division multiplexing,3
-1873,product life cycle management,3
-488,containers,3
-80,aircraft detection,3
-489,content management,3
-1170,intelligent control,3
-1715,paper,3
-1872,product development,3
-199,beamforming,3
-1959,radionavigation,3
-442,computer hardware,3
-1486,models,3
-1470,mobile agents,3
-2104,sensor nodes,3
-1490,molecular biophysics,3
-2107,sensory feedback,3
-328,character recognition,3
-119,approximation algorithms,3
-2113,service-oriented architecture,3
-2133,silicon,3
-117,applications,3
-2345,television broadcasting,3
-1434,micromirrors,3
-1432,microlenses,3
-1514,motor transportation,3
-2126,signal detection,3
-2079,scheduling algorithms,3
-136,artificial limbs,3
-1341,manipulator dynamics,3
-362,clocks,3
-1185,interactive video,3
-1667,optical metamaterials,3
-2015,resuscitation,3
-1238,language translation,3
-89,airports,3
-2014,restoration,3
-2245,stochastic systems,3
-443,computer keyboards,3
-2013,response time (computer systems),3
-1472,mobile cloud computing,3
-268,bridges,3
-1450,military equipment,3
-2065,sampling methods,3
-1850,pressure sensors,3
-361,clinical research,3
-2329,telecommunication network reliability,3
-79,aircraft control,3
-2248,storms,3
-1551,natural resources exploration,3
-1528,multimedia services,3
-345,cinematography,3
-1387,mechatronics,3
-306,cartography,3
-1536,multipurpose robots,3
-1537,multitasking,3
-257,body area networks,3
-1582,neurons,3
-2175,software radio,3
-2048,robust control,3
-2166,software development management,3
-1409,merging,3
-288,cables,3
-1351,maps,3
-1399,medical informatics,3
-2174,software quality,3
-1355,marine navigation,3
-1358,marketing data processing,3
-2075,scalability,3
-299,capacitive sensors,3
-1228,knowledge representation,2
-1230,labeling,2
-451,computer operating systems,2
-979,grammars,2
-2243,stiffness,2
-508,convolutional codes,2
-1233,labour resources,2
-1069,image analysis,2
-1236,land use,2
-355,client server computer systems,2
-1244,laser applications,2
-1239,laparoscopy,2
-1241,laptop computers,2
-391,collector efficiency,2
-2238,steganography,2
-2236,steel,2
-2234,statistics,2
-506,conveyors,2
-2232,statistical testing,2
-2249,strain gauges,2
-2415,transmissions,2
-1226,knowledge engineering,2
-1280,light reflection,2
-1220,kidney,2
-1107,indexing (of information),2
-1265,libraries,2
-279,building materials,2
-466,computerised navigation,2
-1268,lie groups,2
-988,greenhouses,2
-72,air conditioning,2
-990,grippers,2
-893,food packaging,2
-2217,speed,2
-43,adaptive optics,2
-475,conductive materials,2
-2212,speech intelligibility,2
-378,cmos image sensors,2
-477,conformal mapping,2
-2209,speech,2
-58,aerospace safety,2
-1070,image annotation,2
-1258,least squares approximations,2
-1257,least mean squares methods,2
-2229,state estimation,2
-91,alignment,2
-816,estimation theory,2
-1696,organic light emitting diodes,2
-1653,optical elements,2
-1579,neurocontrollers,2
-15,access protocols,2
-694,eigenvalues and eigenfunctions,2
-1989,refraction,2
-695,elastic constants,2
-1701,orthotics,2
-172,automobile simulators,2
-1605,numerical control,2
-265,brain models,2
-717,electric power transmission networks,2
-1581,neuromuscular rehabilitation,2
-1703,osmosis,2
-749,electronic health records,2
-140,aspect ratio,2
-1590,nondestructive examination,2
-286,c++ (programming language),2
-744,electronic data interchange,2
-1597,notebook computers,2
-2039,robot kinematics,2
-2038,robot dynamics,2
-2312,teacher training,2
-592,delays,2
-1652,optical distortion,2
-1654,optical engineering computing,2
-2526,water quality,2
-2008,research and development,2
-1660,optical glass,2
-2522,warehouses,2
-1663,optical instrument lenses,2
-160,auditory evoked potentials,2
-2524,watches,2
-162,authoring languages,2
-1669,optical microscopy,2
-165,automatic guided vehicles,2
-1997,reliability analysis,2
-1984,recycling,2
-1680,optical signal processing,2
-2532,waveform analysis,2
-2533,waveguides,2
-1991,regional planning,2
-1979,recovery,2
-1711,painting,2
-1710,paint,2
-1708,packet switching,2
-1982,recurrent neural networks,2
-896,food safety,2
-1311,loudspeakers,2
-2226,stairs,2
-1093,image sampling,2
-1305,logic design,2
-868,fire extinguishers,2
-483,construction equipment,2
-501,control towers,2
-2190,sound reproduction,2
-66,agricultural engineering,2
-491,continuing professional development,2
-1017,heuristic algorithms,2
-1336,magnetorheology,2
-2441,ultrasonic measurement,2
-2435,ultra wideband communication,2
-2183,solar energy,2
-2194,space research,2
-861,file organisation,2
-1063,hypermedia markup languages,2
-2185,solar system,2
-364,cloning,2
-1262,legislation,2
-1289,linear transformations,2
-2379,time division multiplexing,2
-929,fuzzy control,2
-1328,magnetic flux,2
-2351,temperature sensors,2
-1306,logic programming,2
-374,clutches,2
-1297,literature,2
-1029,highway traffic control,2
-998,handwritten character recognition,2
-2346,television displays,2
-1023,high level languages,2
-1045,hough transforms,2
-2436,ultra-wideband (uwb),2
-1296,liquids,2
-1323,machining,2
-365,closed circuit television,2
-1057,hybrid electric vehicles,2
-1298,lithography,2
-535,cryptocurrencies,2
-1066,iec standards,2
-2178,soils,2
-500,control systems,2
-2195,space vehicles,2
-1018,hidden feature removal,2
-1329,magnetic levitation,2
-2358,testing,2
-49,advertising,2
-48,advanced driver assistance systems,2
-1189,interiors (building),2
-414,compliance control,2
-1143,information retrieval systems,2
-1160,integrated circuit design,2
-1141,information resources,2
-2284,surveillance,2
-2388,tomography,2
-1163,integrated optoelectronics,2
-1165,integrodifferential equations,2
-1139,information filtering,2
-83,aircraft maintenance,2
-1169,intelligent computing,2
-1146,information technology,2
-2381,time series,2
-516,coordination reactions,2
-938,gas industry,2
-1136,informatics,2
-1177,intelligent tutoring systems,2
-959,geomorphology,2
-2302,table lookup,2
-1217,just-in-time,2
-2251,strategic planning,2
-2383,time-of-arrival estimation,2
-950,genetics,2
-2266,substrates,2
-2405,transceivers,2
-2265,substations,2
-406,communication,2
-924,functions,2
-1194,internet service providers,2
-2402,training aircraft,2
-444,computer literacy,2
-77,air transportation,2
-512,cooling,2
-1120,industrial informatics,2
-2374,three term control systems,2
-1150,infrared devices,2
-2256,stresses,2
-971,global system for mobile communications,2
-402,combinatorial optimization,2
-974,glues,2
-2380,time measurement,2
-1109,indium compounds,2
-2270,supervised learning,2
-521,cosmic rays,2
-948,genes,2
-1604,numerical analysis,2
-273,broadcasting,2
-2033,road traffic control,2
-323,channel capacity,2
-2123,sign language recognition,2
-1426,microcomputers,2
-2120,shipbuilding industry,2
-1441,microsensors,2
-817,ethical aspects,2
-1447,military applications,2
-553,data aggregation,2
-2111,servers,2
-814,error detection,2
-1422,michelson interferometers,2
-116,application specific integrated circuits,2
-1456,millimetre wave propagation,2
-121,aquaculture,2
-1458,milling (machining),2
-1419,metamaterials,2
-1460,mimo communication,2
-1416,metals,2
-806,epidemics,2
-1466,mining,2
-327,chaos,2
-2135,silicon-on-insulator,2
-2124,signal classification,2
-1469,mobile ad hoc networks,2
-1576,neural net architecture,2
-1507,motion measurement,2
-794,entertainment industry,2
-2142,singular value decomposition,2
-112,anthropomorphic robots,2
-2091,self-healing materials,2
-548,cybernetics,2
-2460,user manuals,2
-32,acoustics,2
-790,engineers,2
-315,cellular automata,2
-1509,motion pictures,2
-801,environmental monitoring (geophysics),2
-109,antenna phased arrays,2
-1512,motion tracking,2
-783,energy management systems,2
-1516,mouse controllers (computers),2
-28,acoustic streaming,2
-1429,microelectromechanical devices,2
-1388,media streaming,2
-311,ccd cameras,2
-789,engineering research,2
-2138,simulated annealing,2
-2463,valves,2
-1468,mixing,2
-1377,matrix multiplication,2
-2052,rotation,2
-2066,sand,2
-1370,mathematical programming,2
-332,chemical activation,2
-1379,mean square error,2
-565,data loggers,2
-564,data integrity,2
-1532,multiple access interference,2
-1534,multiprocessing systems,2
-570,data reduction,2
-1571,network protocols,2
-2153,smoothing methods,2
-305,carrier mobility,2
-1539,musculoskeletal system,2
-1374,matlab,2
-563,data integration,2
-560,data fusion,2
-1376,matrix decomposition,2
-107,ant colony optimization,2
-2446,uncertainty analysis,2
-1573,network servers,2
-1570,network performance,2
-781,energy harvesting,2
-39,adaptive control systems,2
-1521,multicast communication,2
-108,antenna arrays,2
-1547,natural language processing systems,2
-2454,urban transportation,2
-99,analytical models,2
-1548,natural languages,2
-2062,safety-critical software,2
-762,elemental semiconductors,2
-1552,natural resources management,2
-2168,software fault tolerance,2
-97,analogue-digital conversion,2
-1553,natural scenes,2
-1554,natural sciences,2
-1555,natural sciences computing,2
-297,cams,2
-1561,nearest neighbor search,2
-1564,nematic liquid crystals,2
-757,electronics industry,2
-2171,software packages,2
-2494,visibility,2
-2479,video on demand,2
-2059,safety engineering,2
-1406,memory architecture,2
-1903,proteins,2
-191,bandwidth allocation,2
-1818,polynomial approximation,2
-1819,polynomials,2
-1820,population statistics,2
-219,biofeedback,2
-218,bioelectric potentials,2
-645,distributed control,2
-6,ability testing,2
-614,diffractive optics,2
-1836,power engineering,2
-1806,pneumatic actuators,2
+2,4g mobile communication,6
+3,5g mobile communication,35
+4,5g mobile communication systems,15
 5,aberrations,2
-1900,property market,2
-619,digital forensics,2
-618,digital elevation models,2
-1870,product customisation,2
-626,digital twin,2
-1880,production planning,2
-627,digital video broadcasting,2
-653,domestic appliances,2
-650,document handling,2
-1804,plastic filaments,2
-630,direction-of-arrival estimation,2
-726,electricity supply industry,2
-2028,risk perception,2
-1407,mems,2
-738,electromagnetism,2
-20,acoustic fields,2
-1643,optical collimators,2
-2514,volcanology,2
-1641,optical beam splitters,2
-1637,operational amplifiers,2
-269,bridges (structures),2
-1648,optical couplers,2
-185,avionics,2
-272,broadcast communication,2
-1622,ofdm modulation,2
-1620,occupational stress,2
-734,electromagnetic interference,2
-736,electromagnetic wave attenuation,2
-730,electrolytes,2
-593,demodulation,2
-687,educational aids,2
-1716,paper industry,2
-1883,profitability,2
-1618,occupational risks,2
-2572,xml,2
-2542,web browsers,2
-1759,petroleum industry,2
-660,driver circuits,2
-184,aviation,2
-655,doors,2
-1932,radar antennas,2
-1935,radar measurement,2
-1783,physiological models,2
-657,dosimetry,2
-1950,radio receivers,2
-225,biology,2
-1778,photovoltaic cells,2
-1776,photoresists,2
-1944,radio broadcasting,2
-1945,radio communication,2
-1764,phase modulation,2
-1779,physical therapy,2
-291,cad/cam,2
-1021,high definition television,2
-1889,program visualisation,2
-1575,networks (circuits),2
-325,channel estimation,2
-2051,roofs,2
-228,biomedical communication,2
-1718,paper products,2
-10,academic libraries,2
-2569,wood,2
-1894,programming languages,2
-2540,wearable sensors,2
-213,binoculars,2
-201,behavioural sciences,2
-2559,wind power plants,2
-1794,planar waveguides,2
-669,ear,2
-1956,radiofrequency interference,2
-1957,radiofrequency power transmission,2
-220,biographies,2
-246,biped locomotion,2
-1969,rapid prototyping (industrial),2
-1965,random forests,2
-2551,wheels,2
-604,developing countries,2
-1970,rate distortion theory,2
-13,acceptance tests,2
-1968,rapid prototyping,2
-843,fast fourier transforms,1
-845,fault detection,1
-541,customer relationship management,1
-847,fault tolerance,1
-848,fault tolerant computer systems,1
-852,feedback amplifiers,1
-540,curve fitting,1
-827,extraterrestrial atmospheres,1
-854,feedforward,1
-536,cryptographic protocols,1
-823,experiments,1
-826,extrapolation,1
-544,cutting,1
-842,fans,1
-386,cognitive radio,1
-840,failure (mechanical),1
-1694,ore treatment,1
-1687,optical tweezers,1
-1689,optics,1
-785,engineering computing,1
-1690,optimal control,1
-1692,order picking,1
-1693,order processing,1
-259,bonds (chemical),1
-837,factorization,1
-1261,legged locomotion,1
-1260,led lamps,1
-550,damage detection,1
-549,dairy products,1
-832,eyeglasses,1
-836,facsimile,1
-822,exoskeleton (robotics),1
-862,file servers,1
-558,data compression ratio,1
-802,environmental regulations,1
-912,fraud,1
-1685,optical transceivers,1
-910,fountains,1
-531,cranes,1
-909,foundries,1
-907,formal verification,1
-905,formal logic,1
-904,fork lift trucks,1
-902,forensic science,1
-529,cotton,1
-898,food technology,1
-897,food supply,1
-858,fiber optic networks,1
-857,fences,1
-551,damping,1
-787,engineering graphics,1
-820,exchange rates,1
-819,excavators,1
-818,evolutionary computation,1
-811,error compensation,1
-810,error analysis,1
-807,equalisers,1
-805,environmental testing,1
-800,environmental management,1
-856,felt,1
-799,environmental impact assessments,1
-798,environmental impact,1
-796,environmental engineering,1
-795,entropy,1
-788,engineering information systems,1
-1686,optical transmitters,1
-282,buoyancy,1
-1677,optical retarders,1
-287,c++ language,1
-1608,nutrition,1
-1607,nutrients,1
-1606,nursing,1
-1603,nuclear power stations,1
-1602,nuclear power plants,1
-1601,nuclear fuels,1
-1600,nuclear engineering computing,1
-1599,nuclear energy,1
-285,c# language,1
-1595,nonlinear systems,1
-1593,nonlinear optics,1
-1591,nondestructive testing,1
-1589,noise pollution,1
-1588,noise abatement,1
-1586,newton method,1
-1266,library automation,1
-1585,newsprint,1
-283,buried object detection,1
-1612,object-oriented databases,1
-1657,optical fibre networks,1
-1632,open circuit voltage,1
-1656,optical fibers,1
-1655,optical fiber fabrication,1
-1647,optical correlation,1
-1646,optical computing,1
-1645,optical communication equipment,1
-267,braking,1
-1638,ophthalmic lenses,1
-1633,open data,1
-914,frequency division multiple access,1
-622,digital signal processing,1
-1658,optical films,1
-256,boats,1
-1731,passive optical networks,1
-1675,optical receivers,1
-1673,optical properties,1
-263,bottling,1
-1671,optical multilayers,1
-1670,optical modulation,1
-1668,optical microscopes,1
-1666,optical links,1
-1665,optical lattices,1
-1695,organic farming,1
-1702,oscilloscopes,1
-1662,optical information processing,1
-1723,parallel programming,1
-248,black-box testing,1
-1733,patents and inventions,1
-250,blind source separation,1
-1664,optical instruments,1
-1728,partial discharges,1
-1727,partial differential equations,1
-1726,parking,1
-1725,parity check codes,1
-1720,parallel algorithms,1
-1704,outsourcing,1
-1719,paraffins,1
-1717,paper making,1
-1713,pallets,1
-1712,palaeontology,1
-253,blood pressure,1
-1707,packaging,1
-1706,p-i-n photodiodes,1
-1705,oximetry,1
-525,cost functions,1
-750,electronic medical equipment,1
-915,frequency modulation,1
-576,data warehouses,1
-704,electric field measurement,1
-702,electric distortion,1
-581,decentralised control,1
-727,electro-optical devices,1
-700,electric breakdown,1
-1613,object-oriented methods,1
-768,emergency traffic control,1
-763,elementary particles,1
-761,electrotherapeutics,1
-759,electrophoresis,1
-756,electronics engineering,1
-755,electronic waste,1
-753,electronic noses,1
-752,electronic musical instruments,1
-580,dc motors,1
-706,electric inverters,1
-742,electron holography,1
-741,electron devices,1
-579,dc machinery,1
-739,electromechanical devices,1
-737,electromagnetic waves,1
-735,electromagnetic shielding,1
-733,electromagnetic forces,1
-731,electromagnetic compatibility,1
-701,electric current,1
-698,electric arc welding,1
-921,functional electric stimulation,1
-611,differential phase shift keying,1
-659,drilling platforms,1
-658,dram chips,1
-705,electric fields,1
-707,electric lines,1
-916,frequency response,1
-925,furnaces,1
-1161,integrated circuit reliability,1
-1158,insurance data processing,1
-1157,insulated gate bipolar transistors (igbt),1
-1156,installation,1
-1154,input output programs,1
-422,computational grammars,1
-423,computational mechanics,1
-426,computer aided engineering,1
-428,computer aided software engineering,1
-434,computer circuits,1
-435,computer control systems,1
-1134,inference engines,1
-436,computer crime,1
-1130,inertial confinement fusion,1
-922,functional materials,1
-708,electric load management,1
-1869,procurement,1
-712,electric motors,1
-721,electric utilities,1
-720,electric sensing devices,1
-719,electric relays,1
-718,electric power utilization,1
-716,electric potential,1
-715,electric oil well pumping,1
-714,electric network parameters,1
-713,electric network analysis,1
-711,electric machines,1
-725,electrical safety,1
-710,electric machinery,1
-709,electric machine analysis computing,1
-656,doppler effect,1
-654,domestic safety,1
-652,domes,1
-889,fluorescence,1
-666,dynamical systems,1
-769,emergency vehicles,1
-771,employee welfare,1
-782,energy management,1
-876,flexible manipulators,1
-532,critical infrastructures,1
-886,flow simulation,1
-885,flow sensors,1
-884,flow of fluids,1
-883,flow graphs,1
-882,flow fields,1
-879,flight simulators,1
-878,flickering,1
-875,flexible electronics,1
-874,flat panel displays,1
-651,document image processing,1
-873,flames,1
-872,fish,1
-871,firewalls,1
-869,fire protection,1
-867,finite element method,1
-865,fingerprint identification,1
-863,filling,1
-888,fluidization,1
-890,focusing,1
-559,data flow analysis,1
-911,fracture,1
-920,function generators,1
-919,fruits,1
-917,fresnel diffraction,1
-607,diagnostic products,1
-670,earphones,1
-671,earth (planet),1
-672,earth atmosphere,1
-649,dna,1
-610,dies (machine tools),1
-643,distortion (waves),1
-662,drives,1
-613,diffraction gratings,1
-637,dispensers,1
-615,diffusers (optical),1
-635,discrete fourier transforms,1
-634,discrete event simulation,1
-616,digital arithmetic,1
-631,directional patterns (antenna),1
-628,direct broadcasting by satellite,1
-609,die casting,1
-664,drops,1
-696,elastic deformation,1
-603,deterministic algorithms,1
-589,defects,1
-688,educational computing,1
-594,demonstrations,1
-595,demulsification,1
-600,design for manufacturability,1
-601,design of experiments,1
-602,deterioration,1
-681,eddy current testing,1
-677,economic analysis,1
-665,dynamic programming,1
-675,echocardiography,1
-674,echo suppression,1
-673,earthquakes,1
-1628,online conferencing,1
-1777,photosensitivity,1
-1627,on-the-job training,1
-1501,mosfet,1
-1321,machine tools,1
-366,closed loop control systems,1
-1318,lyapunov methods,1
-1317,lyapunov functions,1
-1316,lung,1
-367,closed loop systems,1
-1313,low-pass filters,1
-1312,low power electronics,1
-1309,long short-term memory,1
-371,clouds,1
-372,cluster analysis,1
-337,chemical elements,1
-336,chemical detection,1
-292,calcium,1
-1522,multicasting,1
-1325,magnetic disc storage,1
-310,caves,1
-1517,multi-access systems,1
-1515,moulding,1
-312,ceilings,1
-1511,motion sensors,1
-313,cell culture,1
-1502,mosfet devices,1
-1500,mos integrated circuits,1
-1524,multilayer perceptrons,1
-1499,mos devices,1
-1498,moon,1
-1495,molecular structure,1
-319,cellulose,1
-1493,molecular orbitals,1
-1324,magnetic actuators,1
-363,clone cells,1
-1491,molecular configurations,1
-1277,light polarisation,1
-348,circuit simulation,1
-349,circular polarization,1
-1342,manipulator kinematics,1
-359,climate mitigation,1
-360,climate models,1
-1278,light polarization,1
-1291,linked data,1
-377,cmos digital integrated circuits,1
-1286,limiters,1
-1285,lighting control,1
-1283,lighthouses,1
-1282,light transmission,1
-379,cmos integrated circuits,1
-1279,light propagation,1
-1334,magneto-optical sensors,1
-1327,magnetic fluids,1
-1276,light pens,1
-380,cmos logic circuits,1
-1273,light interference,1
-381,cockpits (aircraft),1
-382,code standards,1
-1270,life testing,1
-384,coding errors,1
-1267,lie algebras,1
-375,clutter,1
-1295,liquid metals,1
-1300,load testing,1
-373,clustering algorithms,1
-1333,magnetization,1
-1332,magnetic variables measurement,1
-1492,molecular graphics,1
-1488,modular robots,1
-1626,omnidirectional antennas,1
-320,cement industry,1
-1483,modal analysis,1
-333,chemical analysis,1
-1420,meteorology,1
-1418,metalworking machines,1
-1417,metalworking,1
-1415,metallurgy,1
-1414,metal stamping,1
-334,chemical attack,1
-1412,message passing,1
-1442,microstrip antennas,1
-1443,microwave propagation,1
-1444,microwaves,1
-330,charge coupled devices,1
-1482,mocvd,1
-321,channel allocation,1
-1425,micro-optomechanical devices,1
-322,channel bank filters,1
-326,channel state information,1
-1471,mobile antennas,1
-1464,minerals,1
-1463,mineralogy,1
-1462,mineral exploration,1
-1459,milling machines,1
-1457,millimetre wave radar,1
-1453,millimeter wave devices,1
-1452,military vehicles,1
-1451,military rockets,1
-329,character sets,1
-1448,military communication,1
-1446,military aircraft,1
-1423,micro satellites,1
-1430,microelectronics,1
-1523,multilayer neural networks,1
-1545,natural language interfaces,1
-1525,multilayers,1
-335,chemical bonds,1
-1550,natural resources,1
-1569,network management,1
-1567,network interfaces,1
-293,calculations,1
-1563,negative bias temperature instability,1
-294,calculus,1
-1560,near-field communication,1
-1559,near infrared spectroscopy,1
-1556,naval engineering computing,1
-1549,natural radioactivity hazards,1
-308,catheters,1
-300,capacitors,1
-1544,national security,1
-1431,microfabrication,1
-301,carbohydrates,1
-303,cardiovascular surgery,1
-1535,multiprotocol label switching,1
-1533,multiplying circuits,1
-1531,multipath channels,1
-1487,modernization,1
-1485,modeling languages,1
-1484,model predictive control,1
-1424,micro-optics,1
-1440,microscopic examination,1
-1439,microrobots,1
-331,charts,1
-1436,microphone arrays,1
-1433,micromechanical devices,1
-1378,maximum entropy methods,1
-1382,measurement errors,1
-1383,measurement uncertainty,1
-1846,predictive control,1
-1866,process monitoring,1
-211,binary codes,1
-1864,problem solving,1
-1863,problem oriented languages,1
-212,binary sequences,1
-1860,prisons,1
-1855,printed circuit manufacture,1
-1844,power transformer insulation,1
-1854,printed circuit boards,1
-1852,pricing,1
-214,bio-optics,1
-1849,pressure measurement,1
-1848,presses,1
-1847,predictive control systems,1
-1845,precision engineering,1
-1868,processing,1
-1808,pneumatic control equipment,1
-1807,pneumatic control,1
-1805,plates (structural components),1
-236,biomedical signal processing,1
-230,biomedical electrodes,1
-1769,photodiodes,1
-1768,photodetectors,1
-1767,photochromism,1
-1765,phase shift keying,1
-1763,phase matching,1
-1762,phase locked loops,1
-1758,petrochemicals,1
-1755,personal information systems,1
-1803,plasma turbulence,1
-1867,process planning,1
-1858,printing,1
-1384,mechanical engineering,1
-1833,power convertors,1
-1625,offshore installations,1
-1623,office automation,1
-274,bubbles,1
-276,buffer storage,1
-1616,obstetrics,1
-1615,obsolescence,1
-247,bitcoin,1
-243,biopsy,1
-242,biophysics,1
-1828,potable water,1
-1839,power grids,1
-215,bioacoustics,1
-1835,power electronics,1
-1834,power distribution,1
-1832,power conversion,1
-1742,pattern matching,1
-216,biochemical engineering,1
-217,biochemistry,1
-1827,postal services,1
-1841,power overhead lines,1
-1821,portable instruments,1
-1817,polymers,1
-1816,politics,1
-1814,police,1
-1813,poles and towers,1
-1812,poles,1
-1811,poisson equation,1
-1809,pneumatic equipment,1
-1840,power meters,1
-1843,power supply quality,1
-1754,personal digital assistants,1
-238,biomembrane transport,1
-1751,personal communication systems,1
-1368,materials science computing,1
-1363,mass production,1
-1362,martian surface analysis,1
-1361,mars,1
-350,citation analysis,1
-351,civil engineering,1
-1369,mathematical models,1
-1356,marine radar,1
-1353,marine education,1
-1352,marine communication,1
-354,classifiers,1
-1346,manufacturing data processing,1
-357,climate change,1
-1344,manned space flight,1
-358,climate control,1
-1371,mathematical techniques,1
-1750,personal area networks,1
-1408,mergers and acquisitions,1
-1390,medical administrative data processing,1
-1403,medical signal detection,1
-338,chemical hazards,1
-1401,medical problems,1
-339,chemical industry,1
-340,chemical reactions,1
-343,cholesteric liquid crystals,1
-344,chromium,1
-1393,medical control systems,1
-1389,median filters,1
-1372,mathematical transformations,1
-346,circadian rhythms,1
-347,circuit diagrams,1
-1364,mastication,1
-1365,matched filters,1
-1366,materials,1
-1367,materials handling,1
-1749,permanent magnets,1
-1746,pediatrics,1
-239,biomembranes,1
-240,biomems,1
-1771,photographic accessories,1
-1773,photoluminescence,1
-1774,photometry,1
-1775,photonics,1
-1802,plasma simulation,1
-1801,plasma density,1
-1800,plants (botany),1
-1799,plant shutdowns,1
-1798,plant layout,1
-1797,planning (artificial intelligence),1
-1795,planetary rovers,1
-1792,pistons,1
-1791,pipes,1
-1789,pipeline processing systems,1
-1788,pipeline processing,1
-1787,pipe linings,1
-1786,piezoelectric transducers,1
-1785,pickups,1
-222,biological effects of radiation,1
-1780,physics,1
-1166,intellectual property,1
-1584,neurosurgery,1
-1578,neural prostheses,1
-1574,network-on-chip,1
-1359,marking machines,1
-415,compressors,1
-928,fusion reactions,1
-1172,intelligent materials,1
-2203,speaker recognition,1
-42,adaptive filters,1
-2428,tunnels,1
-118,apprentices,1
-2350,temperature indicating cameras,1
-2204,specification languages,1
-2114,servomotors,1
-2115,set theory,1
-2116,sewage,1
-2119,shift registers,1
-2127,signal distortion,1
-2471,veterinary medicine,1
-2470,velocity measurement,1
-2122,sigma-delta modulation,1
-2429,turbines,1
-2430,turning (machining),1
-2206,spectral analysis,1
-2467,vehicle routing,1
-2431,two phase flow,1
-2125,signal denoising,1
-2432,two term control systems,1
-2466,vegetation,1
-2207,spectrographs,1
-2425,trusted computing,1
-2472,vibration measurement,1
-2208,spectroscopy,1
-2092,self-organising feature maps,1
-2222,spreadsheet programs,1
-2093,semantic networks,1
-2481,video retrieval,1
-31,acoustic waves,1
-2109,sentiment analysis,1
-2426,tsunamis,1
-2096,semiconductor device manufacture,1
-1911,public policy,1
-1971,rational functions,1
-197,bayesian networks,1
-1973,rayleigh fading,1
-2355,termination of employment,1
-1963,rain,1
-1962,railway communication,1
-1951,radio transceivers,1
-1961,rails,1
-1952,radio waves,1
-1953,radioactivity,1
-2327,telecommunication industry,1
-8,absorption spectroscopy,1
-2309,taxicabs,1
-1955,radiofrequency interconnections,1
-2308,task analysis,1
-2118,shear deformation,1
-2328,telecommunication network management,1
-59,aerospace simulation,1
-1958,radiology,1
-2549,well testing,1
-2548,well stimulation,1
-2547,welds,1
+6,ability testing,2
 7,ablation,1
-1910,public health,1
-192,bank data processing,1
-1960,railroad stations,1
-2546,welding,1
-2009,research laboratories,1
-2267,supercomputers,1
-159,auditoriums,1
-2221,spraying,1
-2097,semiconductor epitaxial layers,1
-2148,smart power grids,1
-2131,signaling,1
-2180,solar cell arrays,1
-2179,solar buildings,1
-2450,unmanned vehicles,1
-2172,software performance evaluation,1
-2444,ultrasonography,1
-40,adaptive estimation,1
-2445,ultraviolet lamps,1
-2448,unemployment,1
-2152,smoothed particle hydrodynamics,1
-2151,smoke,1
-2187,somatosensory phenomena,1
-2188,sonar,1
-2130,signal reconstruction,1
-2198,sparse matrices,1
-2132,signalling protocols,1
-98,analytic hierarchy process,1
-2197,spacecraft power supplies,1
-2464,vapour phase epitaxial growth,1
-2134,silicon compounds,1
-2434,uhf integrated circuits,1
-2136,silk,1
-2137,silver halides,1
-113,antialiasing,1
-2193,space optics,1
-2462,value engineering,1
-2141,single photon emission computed tomography,1
-2438,ultrasonic arrays,1
-111,anthropometry,1
-2145,small-to-medium enterprises,1
-2461,user modelling,1
-2181,solar cells,1
-2182,solar concentrators,1
-2098,semiconductor growth,1
-2200,spatial reasoning,1
-2099,semiconductor lasers,1
-2100,semiconductor quantum wells,1
-2101,sensor data fusion,1
-92,aluminum alloys,1
-2423,triangulation,1
+8,absorption spectroscopy,1
+9,abstracting,13
+10,academic libraries,2
+11,acceleration measurement,1
+12,accelerometers,7
+13,acceptance tests,2
+14,access control,3
+15,access protocols,2
+16,accident prevention,6
+17,accidents,3
+18,accreditation,1
+19,acoustic field measurement,1
+20,acoustic fields,2
+21,acoustic generators,1
+22,acoustic imaging,1
+23,acoustic intensity,1
+24,acoustic measurement,1
+25,acoustic noise,4
+26,acoustic radiators,1
+27,acoustic signal processing,8
+28,acoustic streaming,2
+29,acoustic wave absorption,1
+30,acoustic wave reflection,1
+31,acoustic waves,1
+32,acoustics,2
 33,active noise control,1
-2424,trucks,1
-124,arches,1
-94,ambulances,1
-2211,speech enhancement,1
-2210,speech communication,1
-2475,video codecs,1
-2105,sensor placement,1
-122,arc welding,1
-95,amplitude modulation,1
-41,adaptive filtering,1
-2090,self organizing maps,1
-102,angiocardiography,1
-2154,snow,1
-2439,ultrasonic devices,1
+34,actuators,6
+35,ad hoc networks,3
+36,ada,1
 37,adaptive algorithms,1
 38,adaptive control,1
-106,anomaly detection,1
-96,analogue circuits,1
-2157,social computing,1
-2184,solar power plants,1
-2440,ultrasonic imaging,1
-2159,social sciences,1
-103,angular velocity,1
-101,anechoic chambers (electromagnetic),1
-2371,thermography (temperature measurement),1
-2303,tactile sensors,1
-2560,wind turbines,1
-2281,surfaces,1
-1999,religious buildings,1
-204,belt conveyors,1
-2525,water levels,1
-2002,remote sensing by radar,1
-205,belts,1
-2347,television production,1
-1891,programming,1
-207,berry phase,1
-2006,rescue robots,1
+39,adaptive control systems,2
+40,adaptive estimation,1
+41,adaptive filtering,1
+42,adaptive filters,1
+43,adaptive optics,2
+44,adaptive signal processing,1
+45,adaptive systems,1
+46,additives,3
+47,adhesive bonding,1
+48,advanced driver assistance systems,2
+49,advertising,2
+50,advertising data processing,6
+51,aerial photography,1
+52,aerospace computing,10
 53,aerospace control,1
-2007,research,1
-2348,teleworking,1
-2349,tellurium compounds,1
-2519,vortices,1
-2527,water resources,1
-61,affine transforms,1
-2573,zero gravity experiments,1
-2528,water supply,1
-1885,program compilers,1
-1890,programmable controllers,1
-2289,switches,1
-1988,reflectivity,1
-2288,swarm intelligence,1
-2352,tensile testing,1
-1990,refractive index,1
-2377,tile,1
-2337,telecommunication switching,1
-167,automatic testing,1
-65,aging of materials,1
-1993,regulatory compliance,1
-1998,religion,1
-1884,program assemblers,1
-2305,tantalum compounds,1
+54,aerospace engineering,1
+55,aerospace industry,3
 56,aerospace propulsion,1
 57,aerospace robotics,1
-1977,receivers,1
-1986,reengineering,1
-1899,propellers,1
-1893,programming language semantics,1
-2571,x rays,1
-2536,wear,1
-175,automotive electric vehicles,1
-2291,switching substations,1
-54,aerospace engineering,1
-1892,programming environments,1
-2296,system monitoring,1
-67,agricultural machinery,1
-1985,redundant manipulators,1
-2293,synthetic aperture radar,1
-2382,time-domain analysis,1
-2299,systematic errors,1
-1983,recursive filters,1
-1896,projectiles,1
-2570,workflow management software,1
-171,automobile manufacture,1
-2294,synthetic apertures,1
-2354,terahertz waves,1
-1980,recreational facilities,1
-1898,promotion (marketing),1
-2295,system documentation,1
-2297,system stability,1
-198,beam forming networks,1
-1925,query formulation,1
-2290,switchgear insulation,1
-1995,relational databases,1
-64,aggregates,1
-2531,wave functions,1
-1918,qualifications,1
-1922,quality management,1
-2321,tectonics,1
-1930,racing automobiles,1
-1921,quality function deployment,1
-2364,texturing,1
-2323,telecommunication congestion control,1
-71,agrochemicals,1
-1933,radar clutter,1
-2558,wind power,1
-188,ballistics,1
-2365,thermal comfort,1
-1936,radar tracking,1
-1937,radial basis function networks,1
-2317,technology,1
-2552,white noise,1
-203,belief networks,1
-2367,thermal engineering,1
-1901,proportional control systems,1
-1907,psychophysiology,1
+58,aerospace safety,2
+59,aerospace simulation,1
 60,affective computing,1
-2566,wireless mesh networks,1
-1964,random errors,1
-11,acceleration measurement,1
-2543,web design,1
-2332,telecommunication networks,1
-2368,thermal management (packaging),1
-195,batch processing (industrial),1
-2334,telecommunication repeaters,1
-1967,range finding,1
-2369,thermocouples,1
-187,ball milling,1
-2561,windows (construction),1
-2361,text processing,1
-1927,question answering (information retrieval),1
-2530,watersheds,1
-2529,water treatment,1
-2378,time difference of arrival,1
-2304,tall buildings,1
-1974,rayon yarn,1
-2315,technical drawing,1
-189,balloons,1
-1940,radiation therapy,1
-2557,wind,1
-181,autonomous underwater vehicles,1
-2366,thermal conductivity,1
-1943,radio astronomy,1
-2324,telecommunication control,1
-1915,pumps,1
-1914,publishing,1
-1946,radio frequency identification (rfid),1
-1947,radio links,1
-2556,wiener filters,1
-1948,radio navigation,1
-2325,telecommunication engineering education,1
+61,affine transforms,1
+62,age issues,12
+63,agents,6
+64,aggregates,1
+65,aging of materials,1
+66,agricultural engineering,2
+67,agricultural machinery,1
+68,agricultural products,3
+69,agricultural robots,5
+70,agriculture,7
+71,agrochemicals,1
+72,air conditioning,2
+73,air navigation,10
 74,air pollution,1
-1913,public utilities,1
-1912,public transport,1
-2311,taylor series,1
-2555,wide band gap semiconductors,1
-1939,radiation shielding,1
-1938,radiation protection,1
-2010,resistors,1
-2316,technical presentation,1
-2146,smart antennas,1
-36,ada (programming language),1
-437,computer debugging,1
-995,hand held computers,1
-939,gas sensors,1
-937,gamification,1
-520,cosmic dust,1
-933,fuzzy systems,1
-930,fuzzy inference,1
-522,cosmology,1
-524,cost engineering,1
-961,geophysical prospecting,1
-515,cooperative systems,1
-1004,headlights,1
-985,gravitation,1
-1001,hazardous materials,1
-1000,harmonic analysis,1
-997,handwriting recognition,1
-994,haar transforms,1
-940,gases,1
-503,convergence of numerical methods,1
-504,convex optimization,1
-989,grinding,1
-980,graph algorithms,1
-964,geotechnical structures,1
-977,government policies,1
-976,government data processing,1
-975,gluing,1
-973,glow discharges,1
-972,global warming,1
-511,cooking,1
-513,cooling systems,1
-966,germanium compounds,1
-469,computers,1
-962,geophysical techniques,1
-943,gaussian noise (electronic),1
-460,computer systems programming,1
-1059,hydraulic actuators,1
-1009,health hazards,1
-1065,hysteresis,1
-1082,image morphing,1
-472,concretes,1
-473,concurrent engineering,1
-1076,image compression,1
-1075,image communication systems,1
-476,configuration management,1
-478,conformations,1
-479,conservation,1
-1062,hypermedia,1
-1047,http,1
-1061,hydrocarbons,1
-1060,hydraulic systems,1
-1056,hvdc power transmission,1
-519,cosmetics,1
-480,constrained optimization,1
-481,constraint theory,1
-482,construction,1
-1048,huffman codes,1
-496,control engineering,1
-1007,health and safety,1
-923,functional neuroimaging,1
-942,gaussian noise,1
-517,coprocessors,1
-956,geomagnetism,1
-955,geomagnetic navigation,1
-953,geological surveys,1
-947,gene expression,1
-946,gears,1
-462,computer workstations,1
-1205,iodine compounds,1
-2189,sound recording,1
-1114,induction motors,1
-1235,lakes,1
-1234,lagrange multipliers,1
-394,color codes,1
-1231,labelling (packaging),1
-1229,labeled data,1
-409,compaction,1
-410,comparators (circuits),1
-411,compasses (magnetic),1
-449,computer network security,1
-1121,industrial laboratories,1
-1119,industrial hygiene,1
-1117,industrial electronics,1
-1116,industrial control,1
-1115,inductive power transmission,1
-446,computer mediated communication,1
-1240,laplace equations,1
-447,computer music,1
-1108,indicators (chemical),1
-1179,intensity measurement,1
-1105,incandescent lamps,1
-1104,in situ processing,1
-1103,impulse response,1
-1102,importance sampling,1
-452,computer peripheral equipment,1
-453,computer privacy,1
-1094,image scanners,1
-455,computer programming languages,1
-445,computer maintenance,1
-1125,industrial psychology,1
-441,computer graphics equipment,1
-1237,landforms,1
-1243,laser ablation,1
-399,colorimetry,1
-407,communication channels (information theory),1
-400,colour displays,1
-1216,journalism,1
-401,combinatorial mathematics,1
-1210,iron and steel industry,1
-403,combined source-channel coding,1
-1207,ionosphere,1
-1206,ionic liquids,1
-1202,inverse problems,1
-1222,kinetics,1
-1201,inventory control,1
-1200,intrusion detection,1
-1199,interstellar matter,1
-405,commercial off-the-shelf,1
-1197,interplanetary flight,1
-1190,internal combustion engines,1
-395,color computer graphics,1
-408,communication satellites,1
-397,color printing,1
-396,color matching,1
-458,computer simulation languages,1
-1247,laser ranging,1
-1259,led displays,1
-388,coherent scattering,1
-389,coils,1
-390,collaborative filtering,1
-1252,lc circuits,1
-1251,laws and legislation,1
-1250,law administration,1
-1248,laser surgery,1
-1246,laser fusion,1
-1046,houses,1
-1043,hotel industry,1
-1012,heat conduction,1
-2508,vlsi circuits,1
-2518,volume rendering,1
-2386,tissue regeneration,1
-2517,volume measurement,1
-2277,surface properties,1
-2012,respiratory mechanics,1
-2516,voltage-controlled oscillators,1
-82,aircraft engines,1
-2515,voltage dividers,1
-2387,toeplitz matrices,1
-2275,surface charging,1
-2513,volcanoes,1
-2512,voice communication,1
-2511,voice activity detection,1
-2274,supports,1
-2018,retrofitting,1
-2024,rigid structures,1
-2019,retroreflectors,1
-2020,reusability,1
-2390,topography (earth),1
-2022,reverse engineering,1
-18,accreditation,1
-2392,total quality management,1
-2258,structures (built objects),1
-2255,stress-strain curves,1
-131,aromatic compounds,1
-45,adaptive systems,1
-2069,satellite imagery,1
-2416,transmitters,1
-2489,virtual private networks,1
-2071,satellite telemetry,1
-2279,surface roughness,1
-51,aerial photography,1
-1013,helicopters,1
-22,acoustic imaging,1
-2149,smart sensors,1
-2224,stability,1
-130,armored vehicles,1
-2280,surface topography,1
-147,astronomy,1
-2268,superluminescent diodes,1
-2447,underwater acoustics,1
-21,acoustic generators,1
-2030,road construction,1
-151,attitude measurement,1
-2398,traffic control,1
-150,atoms,1
-2035,roads,1
-149,atmospheric temperature,1
-2040,robot learning,1
-19,acoustic field measurement,1
-2400,traffic signs,1
-86,aircraft plants,1
-23,acoustic intensity,1
-2264,substation automation,1
-2263,subscriber loops,1
-141,aspherical optics,1
-2262,subjective testing,1
-85,aircraft navigation,1
-2049,rock mechanics,1
-2050,rockets,1
-24,acoustic measurement,1
-2406,transcoding,1
-2496,visible spectra,1
-2269,superpixels,1
-90,aldehydes,1
-2072,saturation (materials composition),1
-137,artificial organs,1
-1042,hot rolling,1
-26,acoustic radiators,1
-2061,safety systems,1
-47,adhesive bonding,1
-2413,transient response,1
-88,airport security,1
-2246,storage as a service (staas),1
-2491,virtual reality languages,1
-2064,sales management,1
-2244,stochastic processes,1
-2067,satellite antennas,1
-2235,steam,1
-1598,np-hard,1
-210,binary alloys,1
-1028,highway planning,1
-1040,hosiery manufacture,1
-2237,steering,1
-1036,holographic storage,1
-490,content-based retrieval,1
-492,continuum mechanics,1
-493,contractors,1
-494,contracts,1
-1030,histology,1
-1027,highway administration,1
-1044,hotels,1
-1026,highway accidents,1
-1025,high-voltage engineering,1
-1024,high speed networks,1
-1022,high definition video,1
-1015,hemodynamics,1
-495,contrast media,1
-2060,safety factor,1
-2250,strain sensors,1
-2493,viruses,1
-2252,stray light,1
-2233,statistical tests,1
-2077,scanning antennas,1
-2231,statistical distributions,1
-2080,screen printing,1
-2407,transcranial magnetic stimulation,1
-2081,screens (display),1
-44,adaptive signal processing,1
-29,acoustic wave absorption,1
-2227,standardization,1
-2082,screens (sizing),1
-30,acoustic wave reflection,1
-2083,screws,1
-2084,sea level,1
-2085,sea ports,1
-135,artificial life,1
-2225,stained glass,1
-2490,virtual prototyping,1
-2241,stereochemistry,1
-2242,stereoselectivity,1
-2068,satellite communication,1
-87,airport buildings,1
-2408,transducers,1
-2053,rotation measurement,1
-2253,street lighting,1
-2054,rssi,1
-2410,transform coding,1
-2055,rubber,1
-2411,transformer substations,1
-138,artificial satellites,1
-1287,linear networks,1
+75,air quality,5
+76,air traffic control,7
+77,air transportation,2
+78,aircraft,5
+79,aircraft cockpits,1
+80,aircraft control,3
+81,aircraft detection,3
+82,aircraft displays,3
+83,aircraft engines,1
+84,aircraft maintenance,2
+85,aircraft manufacture,3
+86,aircraft navigation,1
+87,aircraft plants,1
+88,airport buildings,1
+89,airport security,1
+90,airports,3
+91,aldehydes,1
+92,alignment,2
+93,aluminum alloys,1
+94,ambient intelligence,3
+95,ambulances,1
+96,amplitude modulation,1
+97,analogue circuits,1
+98,analogue-digital conversion,2
+99,analytic hierarchy process,1
+100,analytical models,2
+101,android,39
+102,anechoic chambers,1
+103,angiocardiography,1
+104,angular velocity,1
+105,animals,4
+106,animation,20
+107,anomaly detection,1
+108,ant colony optimization,2
+109,antenna arrays,2
+110,antenna phased arrays,2
+111,antennas,26
+112,anthropometry,1
+113,anthropomorphic robots,2
+114,antialiasing,1
+115,application program interfaces,15
+116,application programming interfaces,3
+117,application programs,28
+118,application specific integrated circuits,2
+119,applications,3
+120,apprentices,1
+121,approximation algorithms,3
+122,approximation theory,8
+123,aquaculture,2
+124,arc welding,1
+125,archaeology,9
+126,arches,1
+127,architectural acoustics,6
+128,architectural cad,4
+129,architectural design,5
+130,architecture,15
+131,argon,36
+132,armored vehicles,1
+133,aromatic compounds,1
+134,array signal processing,4
+135,art,28
+136,artificial intelligence,54
+137,artificial life,1
+138,artificial limbs,3
+139,artificial organs,1
+140,artificial satellites,1
+141,arts computing,13
+142,aspect ratio,2
+143,aspherical optics,1
+144,assembling,39
+145,assembly,4
+146,assembly planning,4
+147,asset management,3
+148,assisted living,12
+149,astronomy,1
+150,astronomy computing,9
+151,atmospheric temperature,1
+152,atoms,1
+153,attitude measurement,1
+154,audio acoustics,6
+155,audio equipment,3
+156,audio signal processing,11
+157,audio systems,6
+158,audio user interfaces,4
+159,audio-visual systems,4
+160,audition,15
+161,auditoriums,1
+162,auditory evoked potentials,2
+163,authentication,4
+164,authoring languages,2
+165,authoring systems,7
+166,authorisation,8
+167,automatic guided vehicles,2
+168,automatic optical inspection,4
+169,automatic testing,1
+170,automation,24
+171,automobile drivers,12
+172,automobile industry,7
+173,automobile manufacture,1
+174,automobile simulators,2
+175,automobiles,7
+176,automotive components,4
+177,automotive electric vehicles,1
+178,automotive electronics,3
+179,automotive engineering,5
+180,automotive industry,7
+181,autonomous aerial vehicles,23
+182,autonomous agents,11
+183,autonomous underwater vehicles,1
+184,autonomous vehicles,9
+185,avatars,35
+186,aviation,2
+187,avionics,2
+188,backpropagation,4
+189,ball milling,1
+190,ballistics,1
+191,balloons,1
+192,bandwidth,16
+193,bandwidth allocation,2
+194,bank data processing,1
+195,bar codes,7
+196,base stations,3
+197,batch processing,1
+198,bayes methods,7
+199,bayesian networks,1
+200,beam forming networks,1
+201,beamforming,3
+202,behavioral research,26
+203,behavioural sciences,2
+204,behavioural sciences computing,12
+205,belief networks,1
+206,belt conveyors,1
+207,belts,1
+208,benchmarking,7
+209,berry phase,1
+210,bicycles,4
+211,big data,25
+212,binary alloys,1
+213,binary codes,1
+214,binary sequences,1
+215,binoculars,2
+216,bio-optics,1
+217,bioacoustics,1
+218,biochemical engineering,1
+219,biochemistry,1
+220,bioelectric potentials,2
+221,biofeedback,2
+222,biographies,2
+223,bioinformatics,3
+224,biological effects of radiation,1
+225,biological organs,9
+226,biological tissues,6
+227,biology,2
+228,biology computing,20
+229,biomechanics,47
+230,biomedical communication,2
+231,biomedical education,39
+232,biomedical electrodes,1
+233,biomedical engineering,6
+234,biomedical equipment,3
+235,biomedical measurement,7
+236,biomedical mri,20
+237,biomedical optical imaging,14
+238,biomedical signal processing,1
+239,biomedical ultrasonics,5
+240,biomembrane transport,1
+241,biomembranes,1
+242,biomems,1
+243,biometrics,6
+244,biophysics,1
+245,biopsy,1
+246,biosensors,4
+247,biotechnology,3
+248,biped locomotion,2
+249,bitcoin,1
+250,black-box testing,1
+251,blending,8
+252,blind source separation,1
+253,blockchain,3
+254,blood,3
+255,blood pressure,1
+256,blood vessels,10
+257,bluetooth,10
+258,boats,1
+259,body area networks,3
+260,body sensor networks,3
+261,bone,12
+262,botany,3
+263,botnet,3
+264,bottling,1
+265,brain,26
+266,brain models,2
+267,brain-computer interfaces,23
+268,braking,1
+269,bridges,5
+270,brightness,8
+271,broadband networks,3
+272,broadcast communication,2
+273,broadcasting,2
+274,bubbles,1
+275,budget control,7
+276,buffer storage,1
+277,building information modelling,7
+278,building interiors,2
+279,building management systems,7
+280,building materials,2
+281,buildings,18
+282,buoyancy,1
+283,buried object detection,1
+284,business data processing,8
+285,c# language,1
+286,c++,2
+287,c++ language,1
+288,cables,3
+289,cache storage,11
+290,cad,28
+291,cad/cam,2
+292,calcium,1
+293,calculations,1
+294,calculus,1
+295,calibration,64
+296,cameras,361
+297,cams,2
+298,cancer,12
+299,capacitive sensors,3
+300,capacitors,1
+301,carbohydrates,1
+302,cardiology,8
+303,cardiovascular surgery,1
+304,cardiovascular system,5
+305,carrier mobility,2
+306,cartography,3
+307,catering industry,4
+308,catheters,1
+309,cathode ray oscilloscopes,4
+310,caves,1
+311,ccd cameras,2
+312,ceilings,1
+313,cell culture,1
+314,cell proliferation,6
+315,cellular automata,2
+316,cellular biophysics,4
+317,cellular radio,18
+318,cellular telephones,4
+319,cellulose,1
+320,cement industry,1
+321,channel allocation,1
+322,channel bank filters,1
+323,channel capacity,2
+324,channel coding,4
+325,channel estimation,2
+326,channel state information,1
+327,chaos,2
+328,character recognition,3
+329,character sets,1
+330,charge coupled devices,1
+331,charts,1
+332,chemical activation,2
+333,chemical analysis,1
+334,chemical attack,1
+335,chemical bonds,2
+336,chemical detection,1
+337,chemical elements,1
+338,chemical hazards,1
+339,chemical indicators,1
+340,chemical industry,1
+341,chemical reactions,1
+342,chemioception,7
+343,chemistry computing,6
+344,cholesteric liquid crystals,1
+345,chromium,1
+346,cinematography,3
+347,circadian rhythms,1
+348,circuit diagrams,1
+349,circuit networks,2
+350,circuit simulation,1
+351,circular polarization,1
+352,citation analysis,1
+353,civil engineering,1
+354,civil engineering computing,7
+355,classifiers,1
+356,client server computer systems,11
+357,climate change,1
+358,climate control,1
+359,climate mitigation,1
+360,climate models,1
+361,clinical research,3
+362,clocks,3
+363,clone cells,1
+364,cloning,2
+365,closed circuit television,2
+366,closed loop systems,2
+367,clothing,9
+368,clothing industry,4
+369,cloud computing,117
+370,clouds,1
+371,cluster analysis,1
+372,clustering algorithms,1
+373,clutches,2
+374,clutter,1
+375,cmos digital integrated circuits,1
+376,cmos image sensors,2
+377,cmos integrated circuits,1
+378,cmos logic circuits,1
+379,code standards,1
+380,codes,8
+381,coding errors,1
+382,cognition,61
+383,cognitive radio,1
+384,cognitive systems,15
+385,coherent scattering,1
+386,coils,1
+387,collaborative filtering,1
+388,collector efficiency,2
+389,collision avoidance,17
+390,color,15
+391,color codes,1
+392,color computer graphics,1
+393,color matching,1
+394,color printing,1
+395,color vision,8
+396,colorimetry,1
+397,colour displays,1
+398,combinatorial mathematics,1
+399,combinatorial optimization,2
+400,combined source-channel coding,1
+401,commerce,12
+402,commercial off-the-shelf,1
+403,communication,2
+404,communication channels,1
+405,communication satellites,1
+406,compaction,1
+407,comparators,1
+408,compasses,1
+409,competition,5
+410,complex networks,4
+411,compliance control,2
+412,compressors,1
+413,computation theory,11
+414,computational complexity,11
+415,computational efficiency,5
+416,computational electromagnetics,3
+417,computational fluid dynamics,4
+418,computational geometry,18
+419,computational grammars,1
+420,computational mechanics,1
+421,computational methods,6
+422,computer aided design,9
+423,computer aided engineering,1
+424,computer aided instruction,528
+425,computer aided software engineering,1
+426,computer animation,60
+427,computer applications,9
+428,computer architecture,10
+429,computer based training,94
+430,computer centres,9
+431,computer circuits,1
+432,computer control systems,1
+433,computer crime,1
+434,computer debugging,1
+435,computer displays,10
+436,computer games,172
+437,computer graphics,49
+438,computer graphics equipment,1
+439,computer hardware,3
+440,computer keyboards,3
+441,computer literacy,2
+442,computer maintenance,1
+443,computer mediated communication,1
+444,computer music,1
+445,computer network management,3
+446,computer network security,1
+447,computer networks,4
+448,computer operating systems,2
+449,computer peripheral equipment,1
+450,computer privacy,1
+451,computer programming,19
+452,computer programming languages,1
+453,computer science education,28
+454,computer simulation,17
+455,computer simulation languages,1
+456,computer software,8
+457,computer systems programming,1
+458,computer vision,174
+459,computer workstations,1
+460,computer-generated holography,6
+461,computerised instrumentation,3
+462,computerised monitoring,8
+463,computerised navigation,2
+464,computerised numerical control,4
+465,computerized tomography,35
+466,computers,1
+467,concave programming,6
+468,conceptual design,3
+469,concretes,1
+470,concurrent engineering,1
+471,condition monitoring,13
+472,conductive materials,2
+473,configuration management,1
+474,conformal mapping,2
+475,conformations,1
+476,conservation,1
+477,constrained optimization,1
+478,constraint theory,1
+479,construction,1
+480,construction equipment,2
+481,construction industry,5
+482,consumer behaviour,9
+483,consumer electronics,5
+484,consumer products,3
+485,containers,3
+486,content management,3
+487,content-based retrieval,1
+488,continuing professional development,2
+489,continuum mechanics,1
+490,contractors,1
+491,contracts,1
+492,contrast media,1
+493,control engineering,1
+494,control engineering computing,88
+495,control engineering education,4
+496,control system synthesis,3
+497,control systems,2
+498,control towers,2
+499,controllers,5
+500,convergence of numerical methods,1
+501,convex optimization,1
+502,convex programming,3
+503,conveyors,2
+504,convolution,29
+505,convolutional codes,2
+506,convolutional neural nets,58
+507,convolutional neural networks,4
+508,cooking,1
+509,cooling,2
+510,cooling systems,1
+511,cooperative communication,5
+512,cooperative systems,1
+513,coordination reactions,2
+514,coprocessors,1
+515,correlation methods,6
+516,cosmetics,1
+517,cosmic dust,1
+518,cosmic rays,2
+519,cosmology,1
+520,cost effectiveness,10
+521,cost engineering,1
+522,cost functions,1
+523,cost reduction,4
+524,costing,3
+525,costs,20
+526,cotton,1
+527,courseware,3
+528,cranes,1
+529,critical infrastructures,1
+530,crops,3
+531,crowdsourcing,4
+532,cryptocurrencies,2
+533,cryptographic protocols,1
+534,cryptography,14
+535,cultural aspects,6
+536,curricula,15
+537,curve fitting,1
+538,customer relationship management,1
+539,customer satisfaction,9
+540,customer services,7
+541,cutting,1
+542,cutting tools,3
+543,cyber physical systems,6
+544,cyber-physical systems,10
+545,cybernetics,2
+546,dairy products,1
+547,damage detection,1
+548,damping,1
+549,data acquisition,20
+550,data aggregation,2
+551,data analysis,34
+552,data analytics,4
+553,data communication,3
+554,data compression,27
+555,data compression ratio,1
+556,data flow analysis,1
+557,data fusion,2
+558,data gloves,10
+559,data handling,17
+560,data integration,2
+561,data integrity,2
+562,data loggers,2
+563,data mining,10
+564,data models,3
+565,data privacy,26
+566,data protection,4
+567,data reduction,2
+568,data science,3
+569,data storage equipment,3
+570,data structures,7
+571,data transfer,5
+572,data visualization,285
+573,data warehouses,1
+574,database management systems,3
+575,database systems,6
+576,dc machinery,1
+577,dc motors,1
+578,decentralised control,1
+579,decision making,54
+580,decision support systems,14
+581,decision trees,10
+582,decoding,6
+583,deconvolution,3
+584,deep learning,32
+585,deep neural networks,18
+586,defects,1
+587,deformation,14
+588,degrees of freedom,21
+589,delays,2
+590,demodulation,2
+591,demonstrations,1
+592,demulsification,1
+593,dentistry,8
+594,depth perception,15
+595,design,27
+596,design engineering,8
+597,design for manufacturability,1
+598,design of experiments,1
+599,deterioration,1
+600,deterministic algorithms,1
+601,developing countries,2
+602,dexterous manipulators,6
+603,diagnosis,11
+604,diagnostic products,1
+605,diagnostic radiography,6
+606,die casting,1
+607,dies,1
+608,differential phase shift keying,1
+609,diffraction,3
+610,diffraction gratings,1
+611,diffractive optics,2
+612,digital arithmetic,1
+613,digital devices,14
+614,digital elevation models,2
+615,digital forensics,2
+616,digital libraries,9
+617,digital photography,4
+618,digital signal processing,1
+619,digital simulation,10
+620,digital storage,21
+621,digital television,3
+622,digital twin,2
+623,digital video broadcasting,2
+624,direct broadcasting by satellite,1
+625,directed graphs,3
+626,direction-of-arrival estimation,2
+627,directional patterns,1
+628,disaster prevention,3
+629,disasters,12
+630,discrete event simulation,1
+631,discrete fourier transforms,1
+632,diseases,57
+633,dispensers,1
+634,display devices,50
+635,display instrumentation,5
+636,display screens,1
+637,distance education,4
+638,distance learning,10
+639,distance measurement,19
+640,distributed computer systems,13
+641,distributed control,2
+642,distributed database systems,3
+643,distributed databases,3
+644,distributed processing,15
+645,dna,1
+646,document handling,2
+647,document image processing,1
+648,domes,1
+649,domestic appliances,2
+650,domestic safety,1
+651,doors,2
+652,doppler effect,1
+653,dosimetry,2
+654,dram chips,1
+655,drilling platforms,1
+656,driver circuits,2
+657,driver information systems,32
+658,drives,1
+659,drones,13
+660,drops,1
+661,dynamic programming,1
+662,dynamical systems,1
+663,dynamics,5
+664,e-learning,41
+665,ear,2
+666,earphones,1
+667,earth,1
+668,earth atmosphere,1
+669,earthquakes,1
+670,echo suppression,1
+671,echocardiography,1
+672,ecology,7
+673,economic analysis,1
+674,economic and social effects,26
+675,economics,5
+676,ecosystems,15
+677,eddy current testing,1
+678,edge computing,43
+679,edge detection,16
+680,education,28
+681,education computing,26
+682,educational administrative data processing,6
+683,educational aids,2
+684,educational computing,1
+685,educational courses,63
+686,educational institutions,90
+687,educational robots,12
+688,educational technology,23
+689,efficiency,16
+690,eigenvalues and eigenfunctions,2
+691,elastic constants,2
+692,elastic deformation,1
+693,elasticity,3
+694,electric arc welding,1
+695,electric batteries,4
+696,electric breakdown,1
+697,electric current,1
+698,electric distortion,1
+699,electric drives,3
+700,electric field measurement,1
+701,electric fields,1
+702,electric inverters,1
+703,electric lines,1
+704,electric load management,1
+705,electric machine analysis computing,1
+706,electric machinery,1
+707,electric machines,1
+708,electric motors,1
+709,electric network analysis,1
+710,electric network parameters,1
+711,electric oil well pumping,1
+712,electric potential,1
+713,electric power transmission networks,2
+714,electric power utilization,1
+715,electric relays,1
+716,electric sensing devices,1
+717,electric utilities,1
+718,electrical engineering,5
+719,electrical engineering computing,4
+720,electrical engineering education,6
+721,electrical safety,1
+722,electricity supply industry,2
+723,electro-optical devices,1
+724,electrocardiography,4
+725,electroencephalography,28
+726,electrolytes,2
+727,electromagnetic compatibility,1
+728,electromagnetic fields,3
+729,electromagnetic forces,1
+730,electromagnetic interference,2
+731,electromagnetic shielding,1
+732,electromagnetic wave attenuation,2
+733,electromagnetic waves,1
+734,electromagnetism,2
+735,electromechanical devices,1
+736,electromyography,12
+737,electron devices,1
+738,electron holography,1
+739,electronic commerce,20
+740,electronic data interchange,2
+741,electronic document exchange,3
+742,electronic engineering computing,9
+743,electronic engineering education,6
+744,electronic guidance systems,3
+745,electronic health records,2
+746,electronic medical equipment,1
+747,electronic money,5
+748,electronic musical instruments,1
+749,electronic noses,1
+750,electronic publishing,7
+751,electronic waste,1
+752,electronics engineering,1
+753,electronics industry,2
+754,electrooculography,5
+755,electrophoresis,1
+756,electrophysiology,3
+757,electrotherapeutics,1
+758,elemental semiconductors,2
+759,elementary particles,1
+760,embedded systems,36
+761,embeddings,3
+762,emergency management,14
+763,emergency services,10
+764,emergency traffic control,1
+765,emergency vehicles,1
+766,emotion recognition,16
+767,employee welfare,1
+768,employment,5
+769,encoding,10
+770,end effectors,7
+771,endoscopes,4
+772,endoscopy,4
+773,energy conservation,9
+774,energy consumption,6
+775,energy efficiency,14
+776,energy harvesting,2
+777,energy management,1
+778,energy management systems,2
+779,energy utilization,23
+780,engineering computing,1
+781,engineering education,47
+782,engineering graphics,1
+783,engineering information systems,1
+784,engineering research,2
+785,engineers,2
+786,engines,3
+787,enterprise resource planning,3
+788,entertainment,13
+789,entertainment industry,2
+790,entropy,1
+791,environmental engineering,1
+792,environmental factors,5
+793,environmental impact,1
+794,environmental impact assessments,1
+795,environmental management,1
+796,environmental monitoring,2
+797,environmental regulations,1
+798,environmental science computing,3
+799,environmental technology,3
+800,environmental testing,1
+801,epidemics,2
+802,equalisers,1
+803,equipment testing,3
+804,ergonomics,27
+805,error analysis,1
+806,error compensation,1
+807,error correction,3
+808,error correction codes,3
+809,error detection,2
+810,errors,20
+811,estimation theory,2
+812,ethical aspects,2
+813,evolutionary computation,1
+814,excavators,1
+815,exchange rates,1
+816,exhibitions,21
+817,exoskeleton,1
+818,experiments,1
+819,extended kalman filters,3
+820,extraction,5
+821,extrapolation,1
+822,extraterrestrial atmospheres,1
+823,eye,23
+824,eye movements,7
+825,eye protection,3
+826,eye tracking,18
+827,eyeglasses,1
+828,fabrication,5
+829,fabrics,4
+830,face recognition,49
+831,facsimile,1
+832,factorization,1
+833,factory automation,11
+834,fading channels,3
+835,failure analysis,9
+836,fans,1
+837,fast fourier transforms,1
+838,fatigue,3
+839,fault detection,1
+840,fault diagnosis,11
+841,fault tolerance,1
+842,fault tolerant computer systems,1
+843,feature extraction,118
+844,feature selection,3
+845,feedback,34
+846,feedback amplifiers,1
+847,feedback control,3
+848,feedforward,1
+849,feedforward neural nets,17
+850,felt,1
+851,fences,1
+852,fiber optic networks,1
+853,field emission displays,4
+854,field programmable gate arrays,8
+855,file organisation,2
+856,file servers,1
+857,filling,1
+858,filtering theory,5
+859,fingerprint identification,1
+860,finite element analysis,4
+861,finite element method,1
+862,fire extinguishers,2
+863,fire protection,1
+864,fires,6
+865,firewalls,1
+866,fish,1
+867,flames,1
+868,flat panel displays,1
+869,flexible electronics,1
+870,flexible manipulators,1
+871,flexible manufacturing systems,3
+872,flickering,1
+873,flight simulators,1
+874,floods,4
+875,floors,13
+876,flow fields,1
+877,flow graphs,1
+878,flow of fluids,1
+879,flow sensors,1
+880,flow simulation,1
+881,flow visualization,26
+882,fluidization,1
+883,fluorescence,1
+884,focusing,1
+885,fog,10
+886,fog computing,3
+887,food packaging,2
+888,food processing industry,3
+889,food products,14
+890,food safety,2
+891,food supply,1
+892,food technology,1
+893,force feedback,15
+894,force sensors,3
+895,forecasting,10
+896,forensic science,1
+897,forestry,5
+898,fork lift trucks,1
+899,formal logic,1
+900,formal specification,6
+901,formal verification,1
+902,forward error correction,3
+903,foundries,1
+904,fountains,1
+905,fracture,1
+906,fraud,1
+907,free-space optical communication,6
+908,frequency division multiple access,1
+909,frequency modulation,1
+910,frequency response,1
+911,fresnel diffraction,1
+912,friction,3
+913,fruits,1
+914,function generators,1
+915,functional electric stimulation,1
+916,functional materials,1
+917,functional neuroimaging,1
+918,functions,2
+919,furnaces,1
+920,furniture,6
+921,further education,28
+922,fusion reactions,1
+923,fuzzy control,2
+924,fuzzy inference,1
+925,fuzzy logic,3
+926,fuzzy set theory,8
+927,fuzzy systems,1
+928,gait analysis,13
+929,gallium compounds,3
+930,game theory,5
+931,gamification,1
+932,gas industry,2
+933,gas sensors,1
+934,gases,1
+935,gaussian distribution,3
+936,gaussian noise,2
+937,gaussian processes,4
+938,gaze tracking,25
+939,gears,1
+940,gene expression,1
+941,genes,2
+942,genetic algorithms,3
+943,genetics,2
+944,geographic information systems,29
+945,geography,4
+946,geological surveys,1
+947,geology,3
+948,geomagnetic navigation,1
+949,geomagnetism,1
+950,geometrical optics,13
+951,geometry,53
+952,geomorphology,2
+953,geophysical image processing,4
+954,geophysical prospecting,1
+955,geophysical techniques,1
+956,geophysics computing,9
+957,geotechnical structures,1
+958,geriatrics,24
+959,germanium compounds,1
+960,gesture recognition,136
+961,glass,36
+962,global optimization,4
+963,global positioning system,44
+964,global system for mobile communications,2
+965,global warming,1
+966,glow discharges,1
+967,glues,2
+968,gluing,1
+969,government data processing,1
+970,government policies,1
+971,gradient methods,5
+972,grammars,2
+973,graph algorithms,1
+974,graph theory,16
+975,graphic methods,4
+976,graphical user interfaces,35
+977,graphics processing units,28
+978,gravitation,1
+979,greedy algorithms,3
+980,green computing,8
+981,greenhouses,2
+982,grinding,1
+983,grippers,2
+984,ground penetrating radar,3
+985,groupware,89
+986,gyroscopes,9
+987,haar transforms,1
+988,hand held computers,1
+989,handicapped aids,90
+990,handwriting recognition,1
+991,handwritten character recognition,2
+992,haptic interfaces,86
+993,harmonic analysis,1
+994,hazardous materials,1
+995,hazards,4
+996,head-up displays,47
+997,headlights,1
+998,headphones,3
+999,health,7
+1000,health and safety,1
+1001,health care,59
+1002,health hazards,1
+1003,hearing,10
+1004,heart,3
+1005,heat conduction,1
+1006,helicopters,1
+1007,helmet mounted displays,376
+1008,hemodynamics,1
+1009,heterogeneous networks,4
+1010,heuristic algorithms,2
+1011,hidden feature removal,2
+1012,hidden markov models,5
+1013,hierarchical systems,3
+1014,high definition television,2
+1015,high definition video,1
+1016,high level languages,2
+1017,high speed networks,1
+1018,high-voltage engineering,1
+1019,highway accidents,1
+1020,highway administration,1
+1021,highway planning,1
+1022,highway traffic control,2
+1023,histology,1
+1024,historic preservation,9
+1025,history,90
+1026,holograms,16
+1027,holographic displays,29
+1028,holographic optical elements,17
+1029,holographic storage,1
+1030,holography,32
+1031,home automation,8
+1032,home computing,7
+1033,hosiery manufacture,1
+1034,hospitals,7
+1035,hot rolling,1
+1036,hotel industry,1
+1037,hotels,1
+1038,hough transforms,2
+1039,houses,1
+1040,http,1
+1041,huffman codes,1
+1042,human computer interaction,414
+1043,human engineering,143
+1044,human factors,93
+1045,human resource management,4
+1046,human-robot interaction,71
+1047,humanities,13
+1048,humanoid robots,3
+1049,hvdc power transmission,1
+1050,hybrid electric vehicles,2
+1051,hybrid systems,4
+1052,hydraulic actuators,1
+1053,hydraulic systems,1
+1054,hydrocarbons,1
+1055,hypermedia,1
+1056,hypermedia markup languages,2
+1057,hypertext systems,3
+1058,hysteresis,1
+1059,iec standards,2
+1060,ieee standards,3
+1061,iii-v semiconductors,3
+1062,image analysis,2
+1063,image annotation,2
+1064,image capture,16
+1065,image classification,47
+1066,image coding,23
+1067,image colour analysis,128
+1068,image communication systems,1
+1069,image compression,1
+1070,image denoising,6
+1071,image enhancement,33
+1072,image filtering,12
+1073,image fusion,30
+1074,image matching,51
+1075,image morphing,1
+1076,image motion analysis,77
+1077,image processing,60
+1078,image quality,5
+1079,image recognition,47
+1080,image reconstruction,132
+1081,image registration,82
+1082,image representation,33
+1083,image resolution,30
+1084,image restoration,7
+1085,image retrieval,6
+1086,image sampling,2
+1087,image scanners,1
+1088,image segmentation,107
+1089,image sensors,73
+1090,image sequences,42
+1091,image texture,43
+1092,image understanding,5
+1093,imaging systems,3
+1094,imaging techniques,4
+1095,importance sampling,1
+1096,impulse response,1
+1097,in situ processing,1
+1098,incandescent lamps,1
+1099,independent component analysis,3
+1100,indexing,2
+1101,indium compounds,2
+1102,indoor environment,6
+1103,indoor navigation,12
+1104,indoor positioning systems,9
+1105,indoor radio,8
+1106,induction motors,1
+1107,inductive power transmission,1
+1108,industrial control,1
+1109,industrial electronics,1
+1110,industrial engineering,5
+1111,industrial hygiene,1
+1112,industrial informatics,2
+1113,industrial laboratories,1
+1114,industrial management,3
+1115,industrial manipulators,14
+1116,industrial plants,6
+1117,industrial psychology,1
+1118,industrial research,8
+1119,industrial robots,23
+1120,industrial training,11
+1121,industry 4.0,14
+1122,inertial confinement fusion,1
+1123,inertial navigation,12
+1124,inertial navigation systems,3
+1125,inertial systems,4
+1126,inference engines,1
+1127,inference mechanisms,3
+1128,informatics,2
+1129,information analysis,8
+1130,information classification,16
+1131,information clutter,5
+1132,information dissemination,3
+1133,information filtering,2
+1134,information management,13
+1135,information resources,2
+1136,information retrieval,7
+1137,information retrieval systems,2
+1138,information services,5
+1139,information systems,19
+1140,information technology,2
+1141,information theory,5
+1142,information use,6
+1143,infrared detectors,4
+1144,infrared devices,2
+1145,infrared imaging,10
+1146,injuries,10
+1147,innovation management,17
+1148,input output programs,1
+1149,inspection,28
+1150,installation,1
+1151,insulated gate bipolar transistors,1
+1152,insurance data processing,1
+1153,integer programming,15
+1154,integrated circuit design,2
+1155,integrated circuit reliability,1
+1156,integrated optics,3
+1157,integrated optoelectronics,2
+1158,integration,6
+1159,integrodifferential equations,2
+1160,intellectual property,1
+1161,intelligent agents,9
+1162,intelligent buildings,5
+1163,intelligent computing,2
+1164,intelligent control,3
+1165,intelligent manufacturing systems,5
+1166,intelligent materials,1
+1167,intelligent robots,9
+1168,intelligent sensors,3
+1169,intelligent systems,9
+1170,intelligent transportation systems,4
+1171,intelligent tutoring systems,2
+1172,intelligent vehicle highway systems,4
+1173,intensity measurement,1
+1174,interactive computer graphics,162
+1175,interactive computer systems,48
+1176,interactive devices,50
+1177,interactive systems,83
+1178,interactive television,4
+1179,interactive video,3
+1180,interface states,3
+1181,interference suppression,4
+1182,internal combustion engines,1
+1183,internet,100
+1184,internet of things,144
+1185,internet protocols,3
+1186,internet service providers,2
+1187,internetworking,4
+1188,interoperability,4
+1189,interplanetary flight,1
+1190,interpolation,12
+1191,interstellar matter,1
+1192,intrusion detection,1
+1193,inventory control,1
+1194,inverse problems,1
+1195,investments,9
+1196,iodine compounds,1
+1197,ionic liquids,1
+1198,ionosphere,1
+1199,ios,8
+1200,ip networks,4
+1201,iron and steel industry,1
+1202,iso standards,4
+1203,iterative methods,34
+1204,java,7
+1205,jitter,4
+1206,job analysis,5
+1207,journalism,1
+1208,just-in-time,2
+1209,kalman filters,9
+1210,keyboards,14
+1211,kidney,2
+1212,kinematics,9
+1213,kinetics,1
+1214,knobs,4
+1215,knowledge acquisition,5
+1216,knowledge based systems,11
+1217,knowledge engineering,2
+1218,knowledge management,9
+1219,knowledge representation,2
+1220,labeled data,1
+1221,labeling,3
+1222,laboratories,16
+1223,labour resources,2
+1224,lagrange multipliers,1
+1225,lakes,1
+1226,land use,2
+1227,landforms,1
+1228,language translation,3
+1229,laparoscopy,2
+1230,laplace equations,1
+1231,laptop computers,2
+1232,large dataset,8
+1233,laser ablation,1
+1234,laser applications,2
+1235,laser beams,3
+1236,laser fusion,1
+1237,laser ranging,1
+1238,laser surgery,1
+1239,lathes,3
+1240,law administration,1
+1241,laws and legislation,1
+1242,lc circuits,1
+1243,learning algorithms,195
+1244,learning management systems,4
+1245,learning systems,53
+1246,least mean squares methods,2
+1247,least squares approximations,2
+1248,led displays,1
+1249,led lamps,1
+1250,legged locomotion,1
+1251,legislation,2
+1252,leisure industry,4
+1253,lenses,23
+1254,libraries,2
+1255,library automation,1
+1256,lie algebras,1
+1257,lie groups,2
+1258,life cycle,6
+1259,life testing,1
+1260,light,11
+1261,light emitting diodes,15
+1262,light interference,1
+1263,light modulation,4
+1264,light modulators,6
+1265,light pens,1
+1266,light polarisation,1
+1267,light polarization,1
+1268,light propagation,1
+1269,light reflection,2
+1270,light sources,19
+1271,light transmission,1
+1272,lighthouses,1
+1273,lighting,33
+1274,lighting control,1
+1275,limiters,1
+1276,linear networks,1
+1277,linear programming,6
+1278,linear transformations,2
+1279,linguistics,16
+1280,linked data,1
+1281,liquid crystal displays,9
+1282,liquid crystal on silicon,4
+1283,liquid crystals,7
+1284,liquid metals,1
+1285,liquids,2
+1286,literature,2
+1287,lithography,2
+1288,liver,5
+1289,load testing,1
+1290,local area networks,3
+1291,location,23
+1292,location based services,14
+1293,locks,3
+1294,logic design,2
+1295,logic programming,2
+1296,logistics,12
+1297,logistics data processing,3
+1298,long short-term memory,1
+1299,long term evolution,5
+1300,loudspeakers,2
+1301,low power electronics,1
+1302,low-pass filters,1
+1303,low-power electronics,10
+1304,luminance,8
+1305,lung,1
+1306,lyapunov functions,1
+1307,lyapunov methods,1
+1308,machine design,13
+1309,machine learning,22
+1310,machine tools,1
+1311,machinery,12
+1312,machining,2
+1313,magnetic actuators,1
+1314,magnetic disc storage,1
+1315,magnetic fields,6
+1316,magnetic fluids,1
+1317,magnetic flux,2
+1318,magnetic levitation,2
+1319,magnetic resonance imaging,5
+1320,magnetic sensors,3
+1321,magnetic variables measurement,1
+1322,magnetization,1
+1323,magneto-optical sensors,1
+1324,magnetometers,3
+1325,magnetorheology,2
+1326,maintenance,19
+1327,maintenance engineering,51
+1328,mammals,9
+1329,man-machine systems,26
+1330,manipulator dynamics,3
+1331,manipulator kinematics,1
+1332,manipulators,20
+1333,manned space flight,1
+1334,manufacture,17
+1335,manufacturing data processing,1
+1336,manufacturing industries,5
+1337,manufacturing processes,5
+1338,manufacturing systems,6
+1339,mapping,43
+1340,maps,3
+1341,marine communication,1
+1342,marine education,1
+1343,marine engineering,5
+1344,marine navigation,3
+1345,marine radar,1
+1346,marketing,14
+1347,marketing data processing,3
+1348,marking machines,1
+1349,markov processes,9
+1350,mars,1
+1351,martian surface analysis,1
+1352,mass production,1
+1353,mastication,1
+1354,matched filters,1
+1355,material interfaces,4
+1356,material saturation,1
+1357,materials,1
+1358,materials handling,1
+1359,materials science computing,1
+1360,mathematical models,1
+1361,mathematical programming,2
+1362,mathematical techniques,1
+1363,mathematical transformations,1
+1364,mathematics computing,21
+1365,matlab,2
+1366,matrix algebra,16
+1367,matrix decomposition,2
+1368,matrix multiplication,2
+1369,maximum entropy methods,1
+1370,mean square error,2
+1371,mean square error methods,4
+1372,measurement,4
+1373,measurement errors,1
+1374,measurement uncertainty,1
+1375,mechanical engineering,1
+1376,mechanical engineering computing,11
+1377,mechanical failure,1
+1378,mechanoception,10
+1379,mechatronics,3
+1380,media streaming,2
+1381,median filters,1
+1382,medical administrative data processing,1
+1383,medical applications,5
+1384,medical computing,134
+1385,medical control systems,1
+1386,medical diagnostic computing,6
+1387,medical disorders,48
+1388,medical education,4
+1389,medical image processing,81
+1390,medical imaging,7
+1391,medical informatics,3
+1392,medical information systems,19
+1393,medical problems,1
+1394,medical robotics,35
+1395,medical signal detection,1
+1396,medical signal processing,32
+1397,medicine,5
+1398,memory architecture,2
+1399,mems,2
+1400,mergers and acquisitions,1
+1401,merging,3
+1402,mesh generation,13
+1403,message authentication,6
+1404,message passing,1
+1405,metadata,12
+1406,metal stamping,1
+1407,metallurgy,1
+1408,metals,2
+1409,metalworking,1
+1410,metalworking machines,1
+1411,metamaterials,2
+1412,meteorology,1
+1413,mhealth,18
+1414,michelson interferometers,2
+1415,micro satellites,1
+1416,micro-optics,1
+1417,micro-optomechanical devices,1
+1418,microcomputers,2
+1419,microcontrollers,5
+1420,microdisplays,6
+1421,microelectromechanical devices,2
+1422,microelectronics,1
+1423,microfabrication,1
+1424,microlenses,3
+1425,micromechanical devices,1
+1426,micromirrors,3
+1427,microorganisms,3
+1428,microphone arrays,1
+1429,microphones,4
+1430,microprocessor chips,7
+1431,microrobots,1
+1432,microscopic examination,1
+1433,microsensors,2
+1434,microstrip antennas,1
+1435,microwave propagation,1
+1436,microwaves,1
+1437,middleware,9
+1438,military aircraft,1
+1439,military applications,2
+1440,military communication,1
+1441,military computing,17
+1442,military equipment,3
+1443,military rockets,1
+1444,military vehicles,1
+1445,millimeter wave devices,1
+1446,millimeter waves,10
+1447,millimetre wave communication,5
+1448,millimetre wave propagation,2
+1449,millimetre wave radar,1
+1450,milling,2
+1451,milling machines,1
+1452,mimo communication,2
+1453,mimo systems,5
+1454,mineral exploration,1
+1455,mineralogy,1
+1456,minerals,1
+1457,minimisation,4
+1458,mining,2
+1459,mirrors,22
+1460,mixing,2
+1461,mobile ad hoc networks,2
+1462,mobile agents,3
+1463,mobile antennas,1
+1464,mobile cloud computing,3
+1465,mobile commerce,4
+1466,mobile communication,4
+1467,mobile computing,600
+1468,mobile handsets,12
+1469,mobile learning,42
+1470,mobile radio,14
+1471,mobile robots,128
+1472,mobile telecommunication systems,24
+1473,mobility management,8
+1474,mocvd,1
+1475,modal analysis,1
+1476,model predictive control,1
+1477,modeling languages,1
+1478,models,3
+1479,modernization,1
+1480,modular robots,1
+1481,modulation,4
+1482,molecular biophysics,3
+1483,molecular configurations,1
+1484,molecular graphics,1
+1485,molecular orbitals,1
+1486,molecular physics,6
+1487,molecular structure,1
+1488,monitoring,4
+1489,monte carlo methods,7
+1490,moon,1
+1491,mos devices,1
+1492,mos integrated circuits,1
+1493,mosfet,1
+1494,mosfet devices,1
+1495,motion analysis,8
+1496,motion compensation,6
+1497,motion control,12
+1498,motion estimation,31
+1499,motion measurement,2
+1500,motion picture experts group standards,4
+1501,motion pictures,2
+1502,motion planning,5
+1503,motion sensors,1
+1504,motion tracking,2
+1505,motivation,17
+1506,motor transportation,3
+1507,moulding,1
+1508,mouse controllers,2
+1509,multi-access systems,1
+1510,multi-agent systems,23
+1511,multi-robot systems,8
+1512,multi-threading,7
+1513,multicast communication,2
+1514,multicasting,1
+1515,multilayer neural networks,1
+1516,multilayer perceptrons,1
+1517,multilayers,1
+1518,multimedia communication,8
+1519,multimedia computing,29
+1520,multimedia services,3
+1521,multimedia signal processing,4
+1522,multimedia systems,32
+1523,multipath channels,1
+1524,multiple access interference,2
+1525,multiplying circuits,1
+1526,multiprocessing systems,2
+1527,multiprotocol label switching,1
+1528,multipurpose robots,3
+1529,multitasking,3
+1530,muscle,13
+1531,musculoskeletal system,2
+1532,museums,71
+1533,music,13
+1534,musical instruments,5
+1535,nasa,6
+1536,national security,1
+1537,natural language interfaces,1
+1538,natural language processing,18
+1539,natural language processing systems,2
+1540,natural languages,2
+1541,natural radioactivity hazards,1
+1542,natural resources,1
+1543,natural resources exploration,3
+1544,natural resources management,2
+1545,natural scenes,2
+1546,natural sciences,2
+1547,natural sciences computing,2
+1548,naval engineering computing,1
+1549,navigation,52
+1550,navigation systems,13
+1551,near infrared spectroscopy,1
+1552,near-field communication,1
+1553,nearest neighbor search,2
+1554,needles,10
+1555,negative bias temperature instability,1
+1556,nematic liquid crystals,2
+1557,network architecture,13
+1558,network function virtualization,5
+1559,network interfaces,1
+1560,network layers,5
+1561,network management,1
+1562,network performance,2
+1563,network protocols,2
+1564,network security,9
+1565,network servers,2
+1566,network-on-chip,1
+1567,neural net architecture,2
+1568,neural networks,90
+1569,neural prostheses,1
+1570,neurocontrollers,2
+1571,neurodegenerative diseases,4
+1572,neuromuscular rehabilitation,2
+1573,neurons,3
+1574,neurophysiology,55
+1575,neurosurgery,1
+1576,newsprint,1
+1577,newton method,1
+1578,next generation networks,6
+1579,noise abatement,1
+1580,noise pollution,1
+1581,nondestructive examination,2
+1582,nondestructive testing,1
+1583,nonlinear filters,4
+1584,nonlinear optics,1
+1585,nonlinear programming,9
+1586,nonlinear systems,1
+1587,not labeled,17
+1588,notebook computers,2
+1589,np-hard,1
+1590,nuclear energy,1
+1591,nuclear engineering computing,1
+1592,nuclear fuels,1
+1593,nuclear power plants,1
+1594,nuclear power stations,1
+1595,numerical analysis,2
+1596,numerical control,2
+1597,nursing,1
+1598,nutrients,1
+1599,nutrition,1
+1600,object detection,137
+1601,object recognition,75
+1602,object tracking,82
+1603,object-oriented databases,1
+1604,object-oriented methods,1
+1605,object-oriented programming,5
+1606,obsolescence,1
+1607,obstetrics,1
+1608,occupational health,4
+1609,occupational risks,2
+1610,occupational safety,6
+1611,occupational stress,2
+1612,octrees,8
+1613,ofdm modulation,2
+1614,office automation,1
+1615,office buildings,4
+1616,offshore installations,1
+1617,omnidirectional antennas,1
+1618,on-the-job training,1
+1619,online conferencing,1
+1620,online front ends,9
+1621,online systems,4
+1622,ontology,17
+1623,open circuit voltage,1
+1624,open data,1
+1625,open source software,12
+1626,open systems,15
+1627,operating systems,3
+1628,operational amplifiers,2
+1629,ophthalmic lenses,1
+1630,ophthalmology,4
+1631,optical arrays,6
+1632,optical beam splitters,2
+1633,optical character recognition,5
+1634,optical collimators,2
+1635,optical communication,6
+1636,optical communication equipment,1
+1637,optical computing,1
+1638,optical correlation,1
+1639,optical couplers,2
+1640,optical data processing,4
+1641,optical design,6
+1642,optical design techniques,4
+1643,optical diffusers,1
+1644,optical distortion,2
+1645,optical elements,2
+1646,optical engineering computing,2
+1647,optical fiber fabrication,1
+1648,optical fibers,1
+1649,optical fibre networks,1
+1650,optical films,1
+1651,optical flows,5
+1652,optical glass,2
+1653,optical images,3
+1654,optical information processing,1
+1655,optical instrument lenses,2
+1656,optical instruments,1
+1657,optical lattices,1
+1658,optical links,1
+1659,optical metamaterials,3
+1660,optical microscopes,1
+1661,optical microscopy,2
+1662,optical modulation,1
+1663,optical multilayers,1
+1664,optical projectors,23
+1665,optical properties,1
+1666,optical radar,10
+1667,optical receivers,1
+1668,optical resolving power,3
+1669,optical retarders,1
+1670,optical scanners,3
+1671,optical sensors,8
+1672,optical signal processing,2
+1673,optical switches,3
+1674,optical systems,6
+1675,optical tomography,4
+1676,optical tracking,15
+1677,optical transceivers,1
+1678,optical transmitters,1
+1679,optical tweezers,1
+1680,optical waveguides,4
+1681,optics,1
+1682,optimal control,1
+1683,optimization,52
+1684,order picking,1
+1685,order processing,1
+1686,ore treatment,1
+1687,organic farming,1
+1688,organic light emitting diodes,5
+1689,organisational aspects,3
+1690,orthogonal frequency division multiplexing,3
+1691,orthopedics,11
+1692,orthotics,2
+1693,oscilloscopes,1
+1694,osmosis,2
+1695,other,161
+1696,outsourcing,1
+1697,oximetry,1
+1698,p-i-n photodiodes,1
+1699,packaging,1
+1700,packet switching,2
+1701,paediatrics,15
+1702,paint,2
+1703,painting,2
+1704,palaeontology,1
+1705,pallets,1
+1706,palmprint recognition,10
+1707,paper,3
+1708,paper industry,2
+1709,paper making,1
+1710,paper products,2
+1711,paraffins,1
+1712,parallel algorithms,1
+1713,parallel architectures,4
+1714,parallel processing,4
+1715,parallel programming,1
+1716,parameter estimation,8
+1717,parity check codes,1
+1718,parking,1
+1719,partial differential equations,1
+1720,partial discharges,1
+1721,particle filtering,3
+1722,particle swarm optimization,9
+1723,passive optical networks,1
+1724,patents,3
+1725,patents and inventions,1
+1726,path planning,23
+1727,patient care,8
+1728,patient diagnosis,8
+1729,patient monitoring,16
+1730,patient rehabilitation,70
+1731,patient treatment,58
+1732,pattern classification,6
+1733,pattern clustering,10
+1734,pattern matching,1
+1735,pattern recognition,8
+1736,pedestrian safety,3
+1737,pedestrians,13
+1738,pediatrics,1
+1739,peer-to-peer computing,3
+1740,performance evaluation,3
+1741,permanent magnets,1
+1742,personal area networks,1
+1743,personal communication systems,1
+1744,personal computers,6
+1745,personal computing,3
+1746,personal digital assistants,1
+1747,personal information systems,1
+1748,personnel,26
+1749,personnel training,19
+1750,petrochemicals,1
+1751,petroleum industry,2
+1752,petroleum reservoir evaluation,11
+1753,phantoms,14
+1754,phase locked loops,1
+1755,phase matching,1
+1756,phase modulation,2
+1757,phase shift keying,1
+1758,philosophical aspects,5
+1759,photochromism,1
+1760,photodetectors,1
+1761,photodiodes,1
+1762,photogrammetry,13
+1763,photographic accessories,1
+1764,photography,9
+1765,photoluminescence,1
+1766,photometry,1
+1767,photonics,1
+1768,photoresists,2
+1769,photosensitivity,1
+1770,photovoltaic cells,2
+1771,physical therapy,2
+1772,physics,1
+1773,physics computing,12
+1774,physics education,16
+1775,physiological models,2
+1776,physiology,9
+1777,pickups,1
+1778,piezoelectric transducers,1
+1779,pipe linings,1
+1780,pipeline processing,1
+1781,pipeline processing systems,1
+1782,pipelines,10
+1783,pipes,1
+1784,pistons,1
+1785,pixels,22
+1786,planar waveguides,2
+1787,planetary rovers,1
+1788,planning,5
+1789,plant layout,1
+1790,plant shutdowns,1
+1791,plants,1
+1792,plasma density,1
+1793,plasma simulation,1
+1794,plasma turbulence,1
+1795,plastic filaments,2
+1796,plates,1
+1797,pneumatic actuators,2
+1798,pneumatic control,1
+1799,pneumatic control equipment,1
+1800,pneumatic equipment,1
+1801,pneumodynamics,3
+1802,poisson equation,1
+1803,poles,1
+1804,poles and towers,1
+1805,police,1
+1806,police data processing,4
+1807,politics,1
+1808,polymers,1
+1809,polynomial approximation,2
+1810,polynomials,2
+1811,population statistics,2
+1812,portable instruments,1
+1813,portals,4
+1814,pose estimation,125
+1815,position control,10
+1816,position measurement,5
+1817,positron emission tomography,3
+1818,postal services,1
+1819,potable water,1
+1820,power aware computing,11
+1821,power consumption,7
+1822,power control,5
+1823,power conversion,1
+1824,power convertors,1
+1825,power distribution,1
+1826,power electronics,1
+1827,power engineering,2
+1828,power engineering computing,14
+1829,power engineering education,4
+1830,power grids,1
+1831,power meters,1
+1832,power overhead lines,1
+1833,power plants,3
+1834,power supply quality,1
+1835,power transformer insulation,1
+1836,precision engineering,1
+1837,predictive control,1
+1838,predictive control systems,1
+1839,presses,1
+1840,pressure measurement,1
+1841,pressure sensors,3
+1842,preventive maintenance,6
+1843,pricing,1
+1844,principal component analysis,6
+1845,printed circuit boards,1
+1846,printed circuit manufacture,1
+1847,printed circuits,3
+1848,printers,4
+1849,printing,1
+1850,printing presses,5
+1851,prisons,1
+1852,probability,10
+1853,probes,3
+1854,problem oriented languages,1
+1855,problem solving,1
+1856,process control,6
+1857,process monitoring,1
+1858,process planning,1
+1859,processing,1
+1860,procurement,1
+1861,product customisation,2
+1862,product design,21
+1863,product development,3
+1864,product life cycle management,3
+1865,product quality,3
+1866,production control,3
+1867,production engineering computing,136
+1868,production equipment,7
+1869,production facilities,8
+1870,production management,3
+1871,production planning,2
+1872,productivity,12
+1873,professional aspects,3
+1874,profitability,2
+1875,program assemblers,1
+1876,program compilers,1
+1877,program debugging,6
+1878,program processors,9
+1879,program testing,8
+1880,program visualisation,2
+1881,programmable controllers,1
+1882,programming,1
+1883,programming environments,1
+1884,programming language semantics,1
+1885,programming languages,2
+1886,project management,6
+1887,projectiles,1
+1888,projection systems,4
+1889,promotion,1
+1890,propellers,1
+1891,property market,2
+1892,proportional control systems,1
+1893,prosthetics,11
+1894,proteins,2
+1895,protocols,9
+1896,prototypes,4
+1897,psychology,36
+1898,psychophysiology,1
+1899,public administration,4
+1900,public domain software,21
+1901,public health,1
+1902,public policy,1
+1903,public transport,1
+1904,public utilities,1
+1905,publishing,1
+1906,pumps,1
+1907,purchasing,6
+1908,qr codes,10
+1909,qualifications,1
+1910,quality assurance,5
+1911,quality control,17
+1912,quality function deployment,1
+1913,quality management,1
+1914,quality of experience,20
+1915,quality of service,59
+1916,query formulation,1
+1917,query processing,3
+1918,question answering,1
+1919,queueing networks,7
+1920,queueing theory,4
+1921,racing automobiles,1
+1922,radar,6
+1923,radar antennas,2
+1924,radar clutter,1
+1925,radar imaging,3
+1926,radar measurement,2
+1927,radar tracking,1
+1928,radial basis function networks,1
+1929,radiation protection,1
+1930,radiation shielding,1
+1931,radiation therapy,1
+1932,radio,3
+1933,radio access networks,15
+1934,radio astronomy,1
+1935,radio broadcasting,2
+1936,radio communication,2
+1937,radio frequency identification,1
+1938,radio links,1
+1939,radio navigation,1
+1940,radio networks,4
+1941,radio receivers,2
+1942,radio transceivers,1
+1943,radio waves,1
+1944,radioactivity,1
+1945,radiofrequency identification,5
+1946,radiofrequency interconnections,1
+1947,radiofrequency interference,2
+1948,radiofrequency power transmission,2
+1949,radiology,1
+1950,radionavigation,3
+1951,railroad stations,1
+1952,rails,1
+1953,railway communication,1
+1954,rain,1
+1955,random errors,1
+1956,random forests,2
+1957,random processes,9
+1958,range finding,1
+1959,rapid prototyping,4
+1960,rate distortion theory,2
+1961,rational functions,1
+1962,ray tracing,11
+1963,rayleigh fading,1
+1964,rayon yarn,1
+1965,real-time systems,31
+1966,realistic images,7
+1967,receivers,1
+1968,recommender systems,14
+1969,recovery,2
+1970,recreational facilities,1
+1971,recurrent neural nets,9
+1972,recurrent neural networks,2
+1973,recursive filters,1
+1974,recycling,2
+1975,redundant manipulators,1
+1976,reengineering,1
+1977,reflection,4
+1978,reflectivity,1
+1979,refraction,2
+1980,refractive index,1
+1981,regional planning,2
+1982,regression analysis,24
+1983,regulatory compliance,1
+1984,reinforcement learning,4
+1985,relational databases,1
+1986,reliability,5
+1987,reliability analysis,2
+1988,religion,1
+1989,religious buildings,1
+1990,remote control,20
+1991,remote sensing,11
+1992,remote sensing by radar,1
+1993,remotely operated vehicles,14
+1994,rendering,166
+1995,repair,7
+1996,rescue robots,1
+1997,research,1
+1998,research and development,2
+1999,research laboratories,1
+2000,resistors,1
+2001,resource allocation,41
+2002,respiratory mechanics,1
+2003,response time,3
+2004,restoration,3
+2005,resuscitation,3
+2006,retail data processing,22
+2007,retailing,3
+2008,retrofitting,1
+2009,retroreflectors,1
+2010,reusability,1
+2011,reverberation,3
+2012,reverse engineering,1
+2013,reviews,10
+2014,rigid structures,1
+2015,risk analysis,4
+2016,risk assessment,4
+2017,risk management,8
+2018,risk perception,2
+2019,road accidents,6
+2020,road construction,1
+2021,road safety,17
+2022,road traffic,12
+2023,road traffic control,2
+2024,road vehicles,21
+2025,roads and streets,7
+2026,robot applications,4
+2027,robot dynamics,2
+2028,robot kinematics,2
+2029,robot learning,1
+2030,robot programming,33
+2031,robot vision,90
+2032,robotic arms,7
+2033,robotic assembly,6
+2034,robotic surgery,4
+2035,robotics,81
+2036,robust control,3
+2037,rock mechanics,1
+2038,rockets,1
+2039,roofs,2
+2040,rotation,2
+2041,rotation measurement,1
+2042,rssi,1
+2043,rubber,1
+2044,rural areas,6
+2045,safety,4
+2046,safety devices,4
+2047,safety engineering,2
+2048,safety factor,1
+2049,safety systems,1
+2050,safety-critical software,2
+2051,sales,5
+2052,sales management,1
+2053,sampling methods,3
+2054,sand,2
+2055,satellite antennas,1
+2056,satellite communication,1
+2057,satellite imagery,1
+2058,satellite navigation,4
+2059,satellite telemetry,1
+2060,scada systems,4
+2061,scaffolds,6
+2062,scalability,3
+2063,scanning,5
+2064,scanning antennas,1
+2065,scheduling,16
+2066,scheduling algorithms,3
+2067,screen printing,1
+2068,screws,1
+2069,sea level,1
+2070,sea ports,1
+2071,search engines,9
+2072,search problems,7
+2073,security of data,23
+2074,security systems,9
+2075,self organizing maps,1
+2076,self-healing materials,2
+2077,self-organising feature maps,1
+2078,semantic networks,1
+2079,semantic web,9
+2080,semantics,33
+2081,semiconductor device manufacture,1
+2082,semiconductor epitaxial layers,1
+2083,semiconductor growth,1
+2084,semiconductor lasers,1
+2085,semiconductor quantum wells,1
+2086,sensor data fusion,1
+2087,sensor fusion,26
+2088,sensor networks,8
+2089,sensor nodes,3
+2090,sensor placement,1
+2091,sensors,20
+2092,sensory feedback,3
+2093,sensory perception,14
+2094,sentiment analysis,1
+2095,serious games,65
+2096,servers,2
+2097,service robots,6
+2098,service-oriented architecture,3
+2099,servomotors,1
+2100,set theory,1
+2101,sewage,1
+2102,shape recognition,5
+2103,shear deformation,1
+2104,shift registers,1
+2105,shipbuilding industry,2
+2106,ships,6
+2107,sigma-delta modulation,1
+2108,sign language recognition,2
+2109,signal classification,2
+2110,signal denoising,1
+2111,signal detection,3
+2112,signal distortion,1
+2113,signal encoding,4
+2114,signal processing,11
+2115,signal reconstruction,1
+2116,signaling,1
+2117,signalling protocols,1
+2118,silicon,3
+2119,silicon compounds,1
+2120,silicon-on-insulator,2
+2121,silk,1
+2122,silver halides,1
+2123,simulated annealing,2
+2124,simulation platform,10
+2125,simulators,5
+2126,single photon emission computed tomography,1
+2127,singular value decomposition,2
+2128,sizing screens,1
+2129,skin,12
+2130,slam robotics,73
+2131,small-to-medium enterprises,1
+2132,smart antennas,1
+2133,smart cities,35
+2134,smart power grids,1
+2135,smart sensors,1
+2136,smartphones,223
+2137,smoke,1
+2138,smoothed particle hydrodynamics,1
+2139,smoothing methods,2
+2140,snow,1
+2141,social aspects,6
+2142,social aspects of automation,12
+2143,social computing,1
+2144,social networking,37
+2145,social sciences,1
+2146,social sciences computing,14
+2147,socio-economic effects,4
+2148,software agents,6
+2149,software architecture,21
+2150,software defined networking,4
+2151,software design,14
+2152,software development management,3
+2153,software engineering,21
+2154,software fault tolerance,2
+2155,software libraries,4
+2156,software maintenance,5
+2157,software packages,2
+2158,software performance evaluation,1
+2159,software prototyping,24
+2160,software quality,3
+2161,software radio,3
+2162,software testing,5
+2163,software tools,5
+2164,soils,2
+2165,solar buildings,1
+2166,solar cell arrays,1
+2167,solar cells,1
+2168,solar concentrators,1
+2169,solar energy,2
+2170,solar power plants,1
+2171,solar system,2
+2172,solid modelling,132
+2173,somatosensory phenomena,1
+2174,sonar,1
+2175,sound recording,1
+2176,sound reproduction,2
+2177,source code,3
+2178,source separation,4
+2179,space optics,1
+2180,space research,2
+2181,space vehicles,2
+2182,space-based radar,3
+2183,spacecraft power supplies,1
+2184,sparse matrices,1
+2185,spatial light modulators,6
+2186,spatial reasoning,1
+2187,spatial variables measurement,4
+2188,spatiotemporal phenomena,3
+2189,speaker recognition,1
+2190,specification languages,1
+2191,specifications,3
+2192,spectral analysis,1
+2193,spectrographs,1
+2194,spectroscopy,1
+2195,speech,2
+2196,speech communication,1
+2197,speech enhancement,1
+2198,speech intelligibility,2
+2199,speech processing,11
+2200,speech recognition,33
+2201,speech synthesis,4
+2202,speech-based user interfaces,5
+2203,speed,2
+2204,spheres,3
+2205,splines,3
+2206,sports,33
+2207,spraying,1
+2208,spreadsheet programs,1
+2209,springs,3
+2210,stability,1
+2211,stained glass,1
+2212,stairs,2
+2213,standardization,1
+2214,stars,3
+2215,state estimation,2
+2216,statistical analysis,21
+2217,statistical distributions,1
+2218,statistical testing,2
+2219,statistical tests,1
+2220,statistics,2
+2221,steam,1
+2222,steel,2
+2223,steering,1
+2224,steganography,2
+2225,stem,10
+2226,stereo image processing,130
+2227,stereochemistry,1
+2228,stereoselectivity,1
+2229,stiffness,2
+2230,stochastic processes,1
+2231,stochastic systems,3
+2232,storage as a service,1
+2233,storage management,7
+2234,storms,3
+2235,strain gauges,2
+2236,strain sensors,1
+2237,strategic planning,2
+2238,stray light,1
+2239,street lighting,1
+2240,street traffic control,22
+2241,stress-strain curves,1
+2242,stresses,2
+2243,structural engineering computing,12
+2244,structures,1
+2245,student experiments,11
+2246,students,64
+2247,studios,5
+2248,subjective testing,1
+2249,subscriber loops,1
+2250,substation automation,1
+2251,substations,2
+2252,substrates,2
+2253,supercomputers,1
+2254,superluminescent diodes,1
+2255,superpixels,1
+2256,supervised learning,2
+2257,supply chain management,5
+2258,supply chains,4
+2259,support vector machines,14
+2260,supports,1
+2261,surface charging,1
+2262,surface discharges,13
+2263,surface properties,1
+2264,surface reconstruction,4
+2265,surface roughness,1
+2266,surface topography,1
+2267,surfaces,1
+2268,surgery,111
+2269,surgical equipment,10
+2270,surveillance,2
+2271,surveying,4
+2272,surveys,44
+2273,sustainable development,8
+2274,swarm intelligence,1
+2275,switches,1
+2276,switchgear insulation,1
+2277,switching substations,1
+2278,synchronization,13
+2279,synthetic aperture radar,1
+2280,synthetic apertures,1
+2281,system documentation,1
+2282,system monitoring,1
+2283,system stability,1
+2284,system-on-chip,4
+2285,systematic errors,1
+2286,systems analysis,3
+2287,systems engineering,5
+2288,table lookup,2
+2289,tactile sensors,1
+2290,tall buildings,1
+2291,tantalum compounds,1
+2292,tar,4
+2293,target tracking,17
+2294,task analysis,1
+2295,taxicabs,1
+2296,taxonomies,3
+2297,taylor series,1
+2298,teacher training,2
+2299,teaching,204
+2300,team working,6
+2301,technical drawing,1
+2302,technical presentation,1
+2303,technology,1
+2304,technology acceptance model,3
+2305,technology management,11
+2306,technology transfer,4
+2307,tectonics,1
+2308,telecommunication computing,9
+2309,telecommunication congestion control,1
+2310,telecommunication control,1
+2311,telecommunication engineering education,1
+2312,telecommunication equipment,4
+2313,telecommunication industry,1
+2314,telecommunication network management,1
+2315,telecommunication network reliability,3
+2316,telecommunication network routing,3
+2317,telecommunication network topology,3
+2318,telecommunication networks,1
+2319,telecommunication power management,5
+2320,telecommunication repeaters,1
+2321,telecommunication scheduling,6
+2322,telecommunication services,5
+2323,telecommunication switching,1
+2324,telecommunication traffic,17
+2325,teleconferencing,6
+2326,telecontrol,7
+2327,telemedicine,19
+2328,telephone sets,6
+2329,telerobotics,29
+2330,television,5
+2331,television broadcasting,3
+2332,television displays,2
+2333,television production,1
+2334,teleworking,1
+2335,tellurium compounds,1
+2336,temperature indicating cameras,1
+2337,temperature sensors,2
+2338,tensile testing,1
+2339,tensors,3
+2340,terahertz waves,1
+2341,termination of employment,1
+2342,terrain mapping,3
+2343,testbeds,6
+2344,testing,2
+2345,text analysis,16
+2346,text detection,3
+2347,text processing,1
+2348,textbooks,3
+2349,textures,30
+2350,texturing,1
+2351,thermal comfort,1
+2352,thermal conductivity,1
+2353,thermal engineering,1
+2354,thermal management,1
+2355,thermocouples,1
+2356,thermography,4
+2357,three dimensional computer graphics,63
+2358,three dimensional printing,13
+2359,three term control systems,2
+2360,three-dimensional displays,31
+2361,three-dimensional printing,9
+2362,tile,1
+2363,time difference of arrival,1
+2364,time division multiplexing,2
+2365,time measurement,2
+2366,time series,2
+2367,time-domain analysis,1
+2368,time-of-arrival estimation,2
+2369,timing circuits,7
+2370,tissue,3
+2371,tissue regeneration,1
+2372,toeplitz matrices,1
+2373,tomography,2
+2374,tools,3
+2375,topography,1
+2376,topology,3
+2377,total quality management,1
+2378,touch,3
+2379,touch screens,29
+2380,tourism,4
+2381,town and country planning,10
+2382,tracking,21
+2383,traffic control,1
+2384,traffic engineering computing,25
+2385,traffic signs,1
+2386,training,4
+2387,training aircraft,2
+2388,trajectories,3
+2389,trajectory control,5
+2390,transceivers,2
+2391,transcoding,1
+2392,transcranial magnetic stimulation,1
+2393,transducers,1
+2394,transfer functions,5
+2395,transform coding,1
+2396,transformer substations,1
+2397,transforms,9
+2398,transient response,1
+2399,transmission control protocol,3
+2400,transmissions,2
+2401,transmitters,1
+2402,transparency,4
+2403,transplantation,13
+2404,transport protocols,10
+2405,transportation,6
+2406,travel industry,38
+2407,trees,5
+2408,triangulation,1
+2409,trucks,1
+2410,trusted computing,1
+2411,tsunamis,1
+2412,tumors,15
+2413,tunnels,1
+2414,turbines,1
+2415,turning,1
+2416,two phase flow,1
+2417,two term control systems,1
+2418,ubiquitous computing,56
+2419,uhf integrated circuits,1
+2420,ultra wideband communication,2
+2421,ultra-wideband,2
+2422,ultrasonic applications,4
+2423,ultrasonic arrays,1
+2424,ultrasonic devices,1
+2425,ultrasonic imaging,1
+2426,ultrasonic measurement,2
+2427,ultrasonic transducers,3
+2428,ultrasonics,4
+2429,ultrasonography,1
+2430,ultraviolet lamps,1
+2431,uncertainty analysis,2
+2432,underwater acoustics,1
+2433,unemployment,1
+2434,unmanned aerial vehicles,9
+2435,unmanned vehicles,1
+2436,unsupervised learning,3
+2437,urban growth,3
+2438,urban planning,7
+2439,urban transportation,2
+2440,urology,3
+2441,usability engineering,4
+2442,user centered design,30
+2443,user experience,57
+2444,user interfaces,362
+2445,user manuals,2
+2446,user modelling,1
+2447,value engineering,1
+2448,valves,2
+2449,vapour phase epitaxial growth,1
+2450,vectors,3
+2451,vegetation,1
+2452,vehicle routing,1
+2453,vehicles,13
+2454,vehicular ad hoc networks,3
+2455,velocity measurement,1
+2456,veterinary medicine,1
+2457,vibration measurement,1
+2458,vibrations,5
+2459,video cameras,7
+2460,video codecs,1
+2461,video coding,20
+2462,video communication,6
+2463,video conferencing,3
+2464,video on demand,2
+2465,video recording,11
+2466,video retrieval,1
+2467,video signal processing,90
+2468,video streaming,52
+2469,video surveillance,3
+2470,virtual addresses,4
+2471,virtual instrumentation,3
+2472,virtual machines,7
+2473,virtual manufacturing,3
+2474,virtual private networks,1
+2475,virtual prototyping,1
+2476,virtual reality languages,1
+2477,virtualization,17
+2478,viruses,1
+2479,visibility,2
+2480,visible light communication,7
+2481,visible spectra,1
+2482,vision,19
+2483,vision aids,3
+2484,vision defects,10
+2485,visual communication,37
+2486,visual databases,3
+2487,visual evoked potentials,17
+2488,visual languages,5
+2489,visual perception,31
+2490,visual programming,6
+2491,visual servoing,6
+2492,visualization,74
+2493,vlsi circuits,1
+2494,vocabulary,6
+2495,vocational training,3
+2496,voice activity detection,1
+2497,voice communication,1
+2498,volcanoes,1
+2499,volcanology,2
+2500,voltage dividers,1
+2501,voltage-controlled oscillators,1
+2502,volume measurement,1
+2503,volume rendering,1
+2504,vortices,1
+2505,walls,4
+2506,warehouse automation,4
+2507,warehouses,2
+2508,warehousing,3
+2509,watches,2
+2510,water levels,1
+2511,water quality,2
+2512,water resources,1
+2513,water supply,1
+2514,water treatment,1
+2515,watersheds,1
+2516,wave distortion,1
+2517,wave functions,1
+2518,waveform analysis,2
+2519,waveguides,2
+2520,wavelet transforms,7
+2521,weapons,4
+2522,wear,1
+2523,wear of materials,3
+2524,wearable computers,100
+2525,wearable robots,3
+2526,wearable sensors,2
+2527,wearable technology,28
+2528,web browsers,2
+2529,web design,1
+2530,web services,26
+2531,websites,22
+2532,welding,1
+2533,welds,1
+2534,well stimulation,1
+2535,well testing,1
+2536,wheelchairs,10
+2537,wheels,2
+2538,white noise,1
+2539,wi-fi,4
+2540,wide area networks,4
+2541,wide band gap semiconductors,1
+2542,wiener filters,1
+2543,wind,1
+2544,wind power,1
+2545,wind power plants,2
+2546,wind turbines,1
+2547,windows,1
+2548,windshields,4
+2549,wire pointing,3
+2550,wireless channels,7
+2551,wireless lan,25
+2552,wireless mesh networks,1
+2553,wireless networks,11
+2554,wireless sensor networks,9
+2555,wood,2
+2556,workflow management software,1
+2557,x rays,1
+2558,xml,2
+2559,zero gravity experiments,1
+2560,zoology,6

@@ -3,7 +3,9 @@
 # Visualization of anything of interest that is not visible due to atmospheric conditions
 
 # Description
-When conditions prevent scanning environments and providing situational awareness using vision-based technologies, there need to be alternatives. The goal of this research is to provide users (decision makers such as pilots, operators of any equipment at night or in blizzard conditions) an accurate visualization of the real-time conditions of an operating (moving) machine (e.g., aircraft, tank, truck) when the surrounding atmosphere is entirely or nearly opaque or the light conditions not favorable for use of vision-based sensors. Although identified/scored as an aviation industry specific project, the scope of this topic is very broad and results could be applied in many industries. The topic spans everything from the use of non-visual sensors (e.g., sonar) for depth to the development of new computer-human interfaces for 3D data visualization.
+When conditions prevent scanning environments and providing situational awareness using vision-based technologies, there need to be alternatives. The goal of this research is to provide users (decision makers such as pilots, operators of any equipment at night or in blizzard conditions) an accurate visualization of the real-time conditions of an operating (moving) machine (e.g., aircraft, tank, truck) when the surrounding atmosphere is entirely or nearly opaque or the light conditions not favorable for use of vision-based sensors.
+
+Although identified/scored as an aviation industry specific topic, the scope of this topic is very broad and results could be applied in many industries. The topic spans everything from the use of non-visual sensors (e.g., sonar) for depth to the development of new computer-human interfaces for 3D data visualization.
 
 # Prior Research
 3
@@ -20,19 +22,19 @@ Developers, operators and owners/users of commercial, private or military aircra
 # Position on X and Y axes (1-5):
 
 # Reasons this topic is important for AREA members
-Almost all existing products for outdoor situational awareness rely on RGB or RGBD cameras for real time environment acquisition yet the visualization of obstacles or other salient features of the physical world are important and would serve as the basis for decision making for users when operating equipment in atmospheric conditions unsuitable to vision-based sensors.
+AREA members with use cases in industries which could use AR in environments with low visibility are not currently able to extend their AR investments to assist employees in those environments. Almost all existing AR products for outdoor situational awareness rely on RGB or RGBD cameras for real time environment acquisition yet the visualization of obstacles or other salient features of the physical world are important and would serve as the basis for decision making for users when operating equipment in atmospheric conditions unsuitable to vision-based sensors. 
 
 # Possible Methodologies
-Acquisition and/or development of lightweight and power efficient sensors that are effective as alternatives to cameras and existing vision-based environmental capture. Testing and development of 3D interaction modes when user's natural vision is impaired.
+Acquisition and/or development of lightweight and power efficient infrared sensors and that are effective as alternatives to cameras and existing vision-based environmental capture. Testing and development of 3D interaction modes when user's natural vision is impaired. This research topic could explore IR sensors (which measure differences in temperature, also known as "thermal imaging"), as well as new alternatives
 
 # Expected Impact Timeframe
 Medium
 
-# Research Theme
-This topic could be combined with other topics to form a research theme.
-This topic or theme of research overlap with the topic of visualizing conditions of any stationary or moving object. The outcomes of this research could also be applied in non-industrial use cases (e.g., skiing or other sports in low visibility conditions). The same research topic could be combined with study of user interfaces and interaction paradigms for the visually-impaired community.
+# Research Program
+This topic of research overlap with the topic of using AR to visualize any stationary or moving object in any low visibility conditions. The outcomes of this research could also be applied in non-industrial use cases (e.g., skiing or other sports in low visibility conditions). The same research topic could be combined with study of user interfaces and interaction paradigms for the visually-impaired community.
 
 # Miscellaneous Notes
+The use of night vision technologies is widespread in the military/defense industry.
 
 # Author
 Christine Perey

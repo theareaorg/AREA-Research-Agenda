@@ -1,0 +1,42 @@
+[[ra-Tcomputervision5-obfuscationoffacialdata]]
+
+# Automatic Detection and Obfuscation of Facial and/or Personal Data of People in AR User Vicinity
+
+# Description
+In or in proximity of an AR-enabled user's workplace, and in the field of view of the AR display's camera, there may be people who have not agreed to (or are not able to grant permission for) their facial features or any personal data to be included in the AR system's live video stream. If the private information of a person is captured without their explicit permission, a company may be held responsible for storing and any future use of the data. To reduce potential liabilities, entities responsible for a workplace will seek to implement a component of an AR display that removes all unrecognized faces from their systems.
+
+This research topic includes using automatic detection of faces in an AR camera's field of view, determining if the detected facial features are among those of people who have granted their permission to be tracked, and if the face does not match any in the database of those who have granted permission, to automatically and continuously obfuscate the features.
+
+# Prior Research
+To be generated via FindAR
+
+# Key Words
+Face detection, facial identification, obfuscation of region of interest, personal information, privacy, privacy protection
+
+## FindAR Terms
+using machine-assigned terms list
+
+# Stakeholders
+Privacy managers, workplace policy managers, risk managers
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+Employees of AREA member companies may use their AR-enabled systems, including cameras and microphones, in public spaces or in the presence of customers, employees of partner organizations or elsewhere that are not in their exclusive control. If an employee is using an AR device in the presence of people who have not granted permission for their personal information, including but not limited to facial features, to be stored and used by the company, the company may be exposed to penalties for breaching privacy data protection regulations. Technology components that remove or reduce this type of risk will increase compliance without the user's needing to take action or interrupt the processes they are following to perform a task.
+
+# Possible Methodologies
+The research will identify and evaluate automatic facial detection and identification technologies for suitability on an AR display. This may include assessment of speed, reliability and computational complexity. Computer vision solutions that meet requirements will need to be compared and tested to ensure that they do not reduce display performance or ability to meet the requirements of the user's primary AR use cases.
+
+This topic may also involve introducing systems that interrupt an AR-assisted process and prompt a user to change orientations and/or ask unauthorized people to move out of camera view.
+
+# Expected Impact Timeframe
+Medium
+
+# Research Program
+This topic can be combined with the study of automatic detection and management of other sensitive data types. For example, the license plates of cars, names of people appearing in semi-public places (e.g. postal box), and voices of people in proximity of the AR-enabled user could be selectively removed based on the local regulations and privacy policies.
+
+# Miscellaneous Notes
+Text
+
+# Author
+Christine Perey

@@ -1,0 +1,40 @@
+
+[[ra-Brepair-wearablevshandheld5]]
+
+# Wearable vs Handheld: Quantifying the Impact of HMDs on manual Procedures
+
+# Description
+Tablets, mobile phones and other handheld devices have been widely deployed in the Enterprise, including frontline workers, who use these devices to access contextually relevant information while executing work procedures.  Although hugely useful, their interaction paradigm forces said workers to choose between carrying out the actual steps of a work procedure or interacting with the device. 
+Commercially available Wearable (Headmounted) Displays enable frontline workers to consume context relevant information while executing work procedures using both hands thereby – theoretically – speeding up work. However, there is no independent assessment of the potential economic benefit of this new modality.
+This research topics include comparative studies measuring the exact impact of Wearable modality vs the Handheld baseline across industry verticals, use cases and horizontal use case categories. Measurement results should be projectable with 95% Confidence Interval
+
+# Prior Research
+To be generated via FindAR
+
+# Key Words
+Efficiency, lean, HMD, Handheld, Wearable,
+
+## FindAR Terms
+using machine-assigned terms list
+
+# Stakeholders
+Operations leaders, financial management, OEM manufacturers, ISVs
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+HMDs make instinctive sense for frontline workers. However, deploying a new class of device, appropriate software, integration and training presents additional expenses – particularly if handhelds have been well integrated in the current procedures. Calculating the benefits of one vs other requires accurately, impartially measuring the difference  between the two modalities using sample sizes that allow projection across various attributes (e.g. time saved, quality improved, error eliminated, etc)
+
+# Possible Methodologies
+Time-motion studies using standardized, public and well documented processes typical of industry verticals, use cases and horizontal use case categories.
+
+# Expected Impact Timeframe
+Near
+
+# Research Program
+
+# Miscellaneous Notes
+
+
+# Author
+Peter Orban

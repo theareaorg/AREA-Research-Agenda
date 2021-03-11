@@ -1,0 +1,40 @@
+[[ra-Usafety5-hazardsinproximity]]
+
+# Informing Users About Hazards in Proximity
+
+# Description
+In many industries, workplaces contain a plethora of hazards. When known or anticipated, hazard management protocols reduce the risks associated with a user's encountering a hazard when performing tasks or fulfilling a work order. However, there are also hazards which, even if made aware of them, the user is untrained to treat or has insufficient time to avoid or deescalate. Alerts can provide the user time to react. On the other hand, there may be hazards that do not require any specific user actions.
+
+Through data collected by user location sensing technologies on devices, and potentially on users' PPE, as well as maps of known hazards, data generated from sensors on stationary or moving machines, and other methods, artificial intelligence algorithms could be used to continuously maintain and monitor a dynamic 3D map of hazards in a user's proximity. The user may be provided the hazard proximity map at intervals or request to visualize hazards in proximity. When the user reaches conditions with respect to the hazard that suggests appropriate actions are needed, an alert on an AR device can spatially anchor the source of risk or hazard in the user's perception (see Automated Alert to Dangerous Settings [[ra-Salert5-dangerosity]]). If and when needed, guidance for risk mitigation can be provided.
+
+# Prior Research
+1
+
+# Key Words
+Hazard detection, hazard management protocol, hazard warning, location-detection, 3D spatial mapping, artificial intelligence, user interface, user experience, risk assessment, risk management, situational awareness
+
+## FindAR Terms
+TBD
+
+# Stakeholders
+Safety managers, workplace designers, risk managers
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+This research will provide AREA members insights into the workplace of industrial employees and could furnish protocols to include in AR systems when integrating with enterprise safety and risk management systems.
+
+# Possible Methodologies
+This research can include studying appropriate definitions of proximity and risk in diverse industries and workplaces and/or using existing risk management tools, capturing data sets and training algorithms for types of hazards and testing reliability of AI in diverse conditions. The study of user interface and user experience for hazard notification systems will contribute to this field. Further, user studies will be required to measure cognitive load and user responsiveness to notifications of hazardous or potentially hazardous circumstances.
+
+# Expected Impact Timeframe
+Near
+
+# Research Program
+The scope of this research can span many industries and workplaces. It could be tailored to any industry in which AR is introduced and demonstrated with many workplace use cases. It is closely related to other proposed topic concerned with Automated Alert to Dangerous Settings, and a topic focusing on dangers due to chemical or radiation in employee vicinity. It could be combined with research on visualization of IoT data streams, 3D maps of known risk and other safety management programs. Further, it also can include or be an extension of numerous 3D user interface and user experience topics.
+
+# Miscellaneous Notes
+This peer-reviewed article published in December 2015 entitled https://www.sciencedirect.com/science/article/abs/pii/S092658051500196X["Proximity hazard indicator for workers-on-foot near miss interactions with construction equipment and geo-referenced hazard areas"] pertains to the topic of this research.
+
+# Author
+Christine Perey

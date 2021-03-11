@@ -1,0 +1,40 @@
+
+[[ra-Imetalsandmining5-crewingnewvaluechain]]
+
+# New Employment and Crew Models in Metals and Mining Value Chain Utilizing AR Technology
+
+# Description
+As an industry that has thus far been slower to adapt to automation, mining finds itself at a crossroads with regards to the recent COVID pandemic, in that they must redesign working environments to accommodate for the a) lack of available on-site skilled labor available to sustain current operations, b) mandates to reduce proximity of individuals, and thus number of crew members on site, and c) retraining and upskilling of current workforce as automation accelerates. This study aims to describe the manner in which employment and crew models can be reconstructed to reduce risk to the overall mining value chain and preserve operational targets so as to prevent wide-scale economic impact to the world economy.
+
+# Prior Research
+1
+
+# Key Words
+metals and mining, employment, recovery, COVID, crew models, remote operations
+
+## FindAR Terms
+TBD
+
+# Stakeholders
+Economists, Government officials in countries with heavy mining production, Senior executives in metals/mining, HR professionals, Social Performance professionals, Operational Excellence professionals
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+Mining is an industry that is incredibly important to the world economy and has been challenged greatly by the recent COVID pandemic. Lessons learned tell us that the industry needs to do a much better job of preparing for "black swan" events and the challenges that it presents to the entire mining value chain. By identifying crew models that reduce physical proximity and allow for reduction of risk across the mining value chain, many recommendations recently put forth by the Intergovernmental Forum on Mining, Minerals, Metals, and Sustainable Development can be immediately put into practice. From the IGF report, "Large-scale mining plays a critical economic and social role in remote areas. Large-scale mining activities are localized in remote areas with underdeveloped or few major alternative economic sectors. Mining plays a critical role for host communities, where it is often the largest—if not the sole—job creator and provider of vital services, including a variety of social services, such as health care and education. Large-scale mining creates more business in host countries. Mining activities have significant multiplier effects on the local and national economy through the creation of indirect and induced employment and business opportunities. ICMM3 estimates those opportunities can contribute up to 15% of national income in certain countries."
+
+# Possible Methodologies
+Survey key stakeholders to identify areas of opportunity within the categories of employment and areas of mining value chain represented on page 3 of the IGF report (https://www.iisd.org/system/files/publications/covid-19-employment-mining-en.pdf). Construct a series of AR-assisted employment models to drive specific improvement and employment resilience across the mining value chain.
+
+# Expected Impact Timeframe
+Near
+
+# Research Program
+This study potentially links to another proposed study around impact of AR on Multidimensional Poverty Index (MPI). This study could link closely with existing research programs associated with remote operations support and decision-making, as well as any programs around business impact and measures. It also relates to AR as an upskilling mechanism to assist with employment during increasing industry automation.
+
+# Miscellaneous Notes
+IGF Study:
+https://www.iisd.org/system/files/publications/covid-19-employment-mining-en.pdf
+
+# Author
+Jennifer Rogers
