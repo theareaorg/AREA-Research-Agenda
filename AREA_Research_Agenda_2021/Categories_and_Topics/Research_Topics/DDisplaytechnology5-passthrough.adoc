@@ -1,0 +1,43 @@
+[[ra-DDisplaytechnology5-passthrough]]
+
+# Title
+Video passthrough vs. see-through optics: the impact of display technology on the peripheral vision
+
+# Description
+AR Head Mounted Displays have traditionally been based on various types of  see-through optics to blend simulated and physical realities. Unlike silicon based technologies however, optics don’t follow Moore’s Law. This – comparatively slower – pace of development allowed for the introduction of a new AR display technology. Commonly known as ‘video passthrough’ these devices use computational processing to blend and display both simulated and physical realities.
+By design, video pass-through devices block vision completely while FoV ranges from 90 to 120 degrees.  Devices based on see-through optics vary how much - if at all – they block FoV.
+As Safety is paramount for the Enterprise, maintaining partial or full peripheral vision is required in many situation.
+This research topics includes comparative studies determining the degree minimum of FoV that would be required for video pass-through devices to enable adequate peripheral vision (possibly foveated) comparable to the best-in-class see-through optics.
+
+
+# Prior Research
+To be generated via FindAR
+
+# Key Words
+Video pass-through, see-through optics, birdbath, waveguide, light field, foveated rendering, human-eye resolution
+
+## FindAR Terms
+head-up displays, three-dimensional displays, micro displays, computer displays, liquid crystal displays, display devices, led displays, screens (display), color displays
+
+# Stakeholders
+Operations leaders, Safety & IT managers, OEM manufacturers, ISVs
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+Silicon based technologies are cheaper and faster to develop compared to see-through optics further removing the barriers from adoption of AR in the Enterprise.
+
+# Possible Methodologies
+Series of lab experiments followed by Proof-of-Concept in-field.
+
+# Expected Impact Timeframe
+short-Terms
+
+# Research Program
+Text
+
+# Miscellaneous Notes
+Text
+
+# Author
+Peter Orban
