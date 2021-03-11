@@ -1,413 +1,173 @@
 LowLevel,MidLevel,HighLevel
-advertising,sales and marketing,business
-advertising data processing,sales and marketing,business
-assembly planning,business planning and management,business
-bank data processing,business planning and management,business
-bitcoin,sales and marketing,business
-budget control,business planning and management,business
-business data processing,business performance metrics,business
-commerce,sales and marketing,business
-commercial off-the-shelf,sales and marketing,business
-competition,business performance metrics,business
-compliance control,business performance metrics,business
-consumer behaviour,sales and marketing,business
-contractors,human resources,business
-cost effectiveness,business performance metrics,business
-cost engineering,business performance metrics,business
-cost functions,business performance metrics,business
-cost reduction,business performance metrics,business
-costing,business performance metrics,business
-costs,business performance metrics,business
-critical infrastructures,business performance metrics,business
-cryptocurrencies,sales and marketing,business
-customer relationship management,sales and marketing,business
-customer satisfaction,sales and marketing,business
-customer services,sales and marketing,business
-decision support systems,business performance metrics,business
-document handling,business planning and management,business
-economic analysis,business performance metrics,business
-economics,business performance metrics,business
-electronic commerce,sales and marketing,business
-electronic money,sales and marketing,business
-employee welfare,human resources,business
-employment,human resources,business
-enterprise resource planning,business planning and management,business
-exchange rates,business planning and management,business
-exhibitions,sales and marketing,business
-forecasting,business planning and management,business
-game theory,human resources,business
-global optimization,business performance metrics,business
-human resource management,human resources,business
-industrial management,business planning and management,business
-industrial research,business performance metrics,business
-information dissemination,business planning and management,business
-information management,business planning and management,business
-information resources,business planning and management,business
-information services,business planning and management,business
-information use,business planning and management,business
-innovation management,business performance metrics,business
-inventory control,human resources,business
-investment,business planning and management,business
-investments,business planning and management,business
-job analysis,human resources,business
-knowledge engineering,business performance metrics,business
-knowledge management,human resources,business
-labour resources,human resources,business
-marketing,sales and marketing,business
-marketing data processing,sales and marketing,business
-mergers and acquisitions,business planning and management,business
-mobile commerce,sales and marketing,business
-modernization,business performance metrics,business
-motivation,business performance metrics,business
-obsolescence,business performance metrics,business
-office automation,business performance metrics,business
-optimisation,business performance metrics,business
-optimization,business performance metrics,business
-order processing,business planning and management,business
-organisational aspects,business planning and management,business
-outsourcing,human resources,business
-performance evaluation,business performance metrics,business
-personnel,human resources,business
-personnel training,human resources,business
-planning,business planning and management,business
-plant shutdowns,human resources,business
-pricing,sales and marketing,business
-process planning,business planning and management,business
-procurement,business planning and management,business
-production planning,business planning and management,business
-productivity,business performance metrics,business
-professional aspects,business planning and management,business
-profitability,business performance metrics,business
-project management,business planning and management,business
-promotion (marketing),sales and marketing,business
-promotion,sales and marketing,business
-property market,business planning and management,business
-public domain software,business planning and management,business
-qualifications,human resources,business
-quality of service,business performance metrics,business
-resource allocation,business planning and management,business
-retail data processing,sales and marketing,business
-retailing,sales and marketing,business
-sales,sales and marketing,business
-sales management,sales and marketing,business
-small to medium enterprises,business planning and management,business
-small-to-medium enterprises,business planning and management,business
-software development management,business planning and management,business
-statistics,business performance metrics,business
-strategic planning,business planning and management,business
-supply chains,business planning and management,business
-technology management,business planning and management,business
-technology transfer,business performance metrics,business
-teleworking,human resources,business
-termination of employment,human resources,business
-unemployment,human resources,business
-value engineering,sales and marketing,business
-workflow management software,business planning and management,business
-data integration,integration,business
-installation,integration,business
-integration,integration,business
-storage as a service (staas),integration,business
-storage as a service,integration,business
-fork lift trucks,logistics,business
-labelling (packaging),logistics,business
-logistics,logistics,business
-logistics data processing,logistics,business
-order picking,logistics,business
-packaging,logistics,business
-pallets,logistics,business
-purchasing,logistics,business
-supply chain management,logistics,business
-thermal management (packaging),logistics,business
-thermal management,logistics,business
-time difference of arrival,logistics,business
-warehouse automation,logistics,business
-warehouses,logistics,business
-warehousing,logistics,business
-climate change,policy,business
-climate mitigation,policy,business
-computer literacy,policy,business
-contracts,policy,business
-cultural aspects,policy,business
-data privacy,policy,business
-developing countries,policy,business
-economic and social effects,policy,business
-environmental impact,policy,business
-environmental impact assessments,policy,business
-environmental management,policy,business
-environmental regulations,policy,business
-ethical aspects,policy,business
-global warming,policy,business
-government policies,policy,business
-green computing,policy,business
-human engineering,policy,business
-industrial psychology,policy,business
-insurance data processing,policy,business
-intellectual property,policy,business
-journalism,policy,business
-land use,policy,business
-law administration,policy,business
-laws and legislation,policy,business
-legislation,policy,business
-patents,policy,business
-patents and inventions,policy,business
-philosophical aspects,policy,business
-policy,policy,business
-politics,policy,business
-population statistics,policy,business
-public administration,policy,business
-public health,policy,business
-public policy,policy,business
-regulatory compliance,policy,business
-religion,policy,business
-social aspects,policy,business
-social aspects of automation,policy,business
-social sciences,policy,business
-socio-economic effects,policy,business
-sustainable development,policy,business
-water resources,policy,business
-computational efficiency,device energy management,displays
-electric batteries,device energy management,displays
-low power electronics,device energy management,displays
-minimisation,device energy management,displays
-optimal control,device energy management,displays
-phase locked loops,device energy management,displays
-power aware computing,device energy management,displays
-power consumption,device energy management,displays
-power conversion,device energy management,displays
-amplitude modulation,display technology,displays
-caves,display technology,displays
-color computer graphics,display technology,displays
-colour displays,display technology,displays
-displays,display technology,displays
-computer displays,display technology,displays
-digital television,display technology,displays
-display devices,display technology,displays
-display instrumentation,display technology,displays
-electromagnetic wave attenuation,display technology,displays
-electromagnetic waves,display technology,displays
-field emission displays,display technology,displays
-flat panel displays,display technology,displays
-flexible displays,display technology,displays
-flexible electronics,display technology,displays
-head up displays,display technology,displays
-head-up displays,display technology,displays
-high definition television,display technology,displays
-high definition video,display technology,displays
-holographic displays,display technology,displays
-holography,display technology,displays
-imaging systems,display technology,displays
-imaging techniques,display technology,displays
-interactive television,display technology,displays
-led displays,display technology,displays
-lenses,display technology,displays
-light emitting diodes,display technology,displays
-liquid crystal displays,display technology,displays
-microdisplays,display technology,displays
-micromechanical devices,display technology,displays
-mocvd,display technology,displays
-organic light emitting diodes (oled),display technology,displays
-phase modulation,display technology,displays
-photodiodes,display technology,displays
-p-i-n photodiodes,display technology,displays
-printers,display technology,displays
-projection systems,display technology,displays
-display screens,display technology,displays
-screens (display),display technology,displays
-screens (sizing),display technology,displays
-sizing screens,display technology,displays
-superluminescent diodes,display technology,displays
-television displays,display technology,displays
-three dimensional displays,display technology,displays
-three-dimensional displays,display technology,displays
-vapour phase epitaxial growth,display technology,displays
-aberrations,optics,displays
-adaptive optics,optics,displays
-aspherical optics,optics,displays
-beamforming,optics,displays
-berry phase,optics,displays
-binoculars,optics,displays
-bio optics,optics,displays
-bio-optics,optics,displays
-diffraction,optics,displays
-diffraction gratings,optics,displays
-diffractive optics,optics,displays
-diffusers (optical),optics,displays
-optical diffusers,optics,displays
-electro optical devices,optics,displays
-electronic engineering computing,optics,displays
-free-space optical communication,optics,displays
-fresnel diffraction,optics,displays
-geometrical optics,optics,displays
-holographic optical elements,optics,displays
-integrated optics,optics,displays
-integrated optoelectronics,optics,displays
-labeling,optics,displays
-laser ablation,optics,displays
-laser beams,optics,displays
-michelson interferometers,optics,displays
-micro optics,optics,displays
-microlenses,optics,displays
-micro-optics,optics,displays
-micro-optomechanical devices,optics,displays
-mirrors,optics,displays
-nonlinear optics,optics,displays
-optical arrays,optics,displays
-optical beam splitters,optics,displays
-optical collimators,optics,displays
-optical computing,optics,displays
-optical correlation,optics,displays
-optical couplers,optics,displays
-optical data processing,optics,displays
-optical design,optics,displays
-optical design techniques,optics,displays
-optical distortion,optics,displays
-optical elements,optics,displays
-optical engineering computing,optics,displays
-optical filters,optics,displays
-optical flows,optics,displays
-optical glass,optics,displays
-optical image storage,optics,displays
-optical information processing,optics,displays
-optical instrument lenses,optics,displays
-optical instruments,optics,displays
-optical lattices,optics,displays
-optical links,optics,displays
-optical microscopes,optics,displays
-optical microscopy,optics,displays
-optical modulation,optics,displays
-optical multilayers,optics,displays
-optical projectors,optics,displays
-optical properties,optics,displays
-optical radar,optics,displays
-optical receivers,optics,displays
-optical resolving power,optics,displays
-optical retarders,optics,displays
-optical scanners,optics,displays
-optical sensors,optics,displays
-optical switches,optics,displays
-optical systems,optics,displays
-optical tweezers,optics,displays
-optical waveguides,optics,displays
-optics,optics,displays
-photonics,optics,displays
-planar waveguides,optics,displays
-visible spectra,optics,displays
-waveguides,optics,displays
-cybernetics,wearables,displays
-headphones,wearables,displays
-helmet mounted displays,wearables,displays
-laplace equations,wearables,displays
-stresses,wearables,displays
-wearable computers,wearables,displays
-wearable robots,wearables,displays
-wearable sensors,wearables,displays
-wearable technology,wearables,displays
-ability testing,human factors,end users and user experience
-affective computing,human factors,end users and user experience
-anthropometry,human factors,end users and user experience
-attitude measurement,human factors,end users and user experience
-behavioral research,human factors,end users and user experience
-behavioural sciences,human factors,end users and user experience
-behavioural sciences computing,human factors,end users and user experience
-brain-computer interfaces,human factors,end users and user experience
-cognition,human factors,end users and user experience
-cognitive systems,human factors,end users and user experience
-colour vision,human factors,end users and user experience
-consumer electronics,human factors,end users and user experience
-decision making,human factors,end users and user experience
-depth perception,human factors,end users and user experience
-design of experiments,human factors,end users and user experience
-environmental factors,human factors,end users and user experience
-ergonomics,human factors,end users and user experience
-errors,human factors,end users and user experience
-fatigue,human factors,end users and user experience
-focusing,human factors,end users and user experience
-grippers,human factors,end users and user experience
-hearing,human factors,end users and user experience
-heuristic algorithms,human factors,end users and user experience
-human factors,human factors,end users and user experience
-in situ processing,human factors,end users and user experience
-knowledge acquisition,human factors,end users and user experience
-mechanoception,human factors,end users and user experience
-multitasking,human factors,end users and user experience
-paper,human factors,end users and user experience
-physiological models,human factors,end users and user experience
-somatosensory phenomena,human factors,end users and user experience
-spatial reasoning,human factors,end users and user experience
-subjective testing,human factors,end users and user experience
-switches,human factors,end users and user experience
-task analysis,human factors,end users and user experience
-technology acceptance model,human factors,end users and user experience
-thermal comfort,human factors,end users and user experience
-user experience,human factors,end users and user experience
-user studies,human factors,end users and user experience
-vision defects,human factors,end users and user experience
-walkthrough evaluations,human factors,end users and user experience
-adaptive control,human-computer interaction,end users and user experience
-adaptive control systems,human-computer interaction,end users and user experience
-audio visual systems,human-computer interaction,end users and user experience
-biofeedback,human-computer interaction,end users and user experience
-biometrics,human-computer interaction,end users and user experience
-brain computer interface,human-computer interaction,end users and user experience
-brain computer interfaces,human-computer interaction,end users and user experience
-bubbles,human-computer interaction,end users and user experience
-clocks,human-computer interaction,end users and user experience
-communication channels (information theory),human-computer interaction,end users and user experience
-communication channels,human-computer interaction,end users and user experience
-control system synthesis,human-computer interaction,end users and user experience
-control systems,human-computer interaction,end users and user experience
-cyber physical system,human-computer interaction,end users and user experience
-cyber physical systems,human-computer interaction,end users and user experience
-delays,human-computer interaction,end users and user experience
-design,human-computer interaction,end users and user experience
-drives,human-computer interaction,end users and user experience
-efficiency,human-computer interaction,end users and user experience
-empirical studies in hci,human-computer interaction,end users and user experience
-feedback,human-computer interaction,end users and user experience
-hci design and evaluation methods,human-computer interaction,end users and user experience
-human computer interaction,human-computer interaction,end users and user experience
-human-centered computing,human-computer interaction,end users and user experience
-human-computer interaction,human-computer interaction,end users and user experience
-hybrid systems,human-computer interaction,end users and user experience
-image annotation,human-computer interaction,end users and user experience
-interaction paradigms,human-computer interaction,end users and user experience
-interactive computer systems,human-computer interaction,end users and user experience
-interface states,human-computer interaction,end users and user experience
-kinematics,human-computer interaction,end users and user experience
-magnetic sensors,human-computer interaction,end users and user experience
-magnetorheology,human-computer interaction,end users and user experience
-man machine systems,human-computer interaction,end users and user experience
-man-machine systems,human-computer interaction,end users and user experience
-microcontrollers,human-computer interaction,end users and user experience
-online front ends,human-computer interaction,end users and user experience
-online front-ends,human-computer interaction,end users and user experience
-position control,human-computer interaction,end users and user experience
-program assemblers,developers,end users and user experience
-proportional control systems,human-computer interaction,end users and user experience
-real time systems,human-computer interaction,end users and user experience
-real-time systems,human-computer interaction,end users and user experience
-social sciences computing,human-computer interaction,end users and user experience
-steering,human-computer interaction,end users and user experience
-stress strain curves,human-computer interaction,end users and user experience
-tar,human-computer interaction,end users and user experience
-technology,human-computer interaction,end users and user experience
-telecontrol,human-computer interaction,end users and user experience
-ubiquitous computing,human-computer interaction,end users and user experience
-usability engineering,human-computer interaction,end users and user experience
-user interfaces,human-computer interaction,end users and user experience
-virtual instrumentation,human-computer interaction,end users and user experience
-visual communication,human-computer interaction,end users and user experience
-visual evoked potentials,human-computer interaction,end users and user experience
-watches,human-computer interaction,end users and user experience
-avatars,presence,end users and user experience
-reflection,presence,end users and user experience
-engineers,users,end users and user experience
-snow,users,end users and user experience
-stars,users,end users and user experience
-students,users,end users and user experience
-studios,users,end users and user experience
-television,users,end users and user experience
-television broadcasting,users,end users and user experience
+adaptive algorithms,artificial intelligence,technology
+adaptive estimation,artificial intelligence,technology
+adaptive systems,artificial intelligence,technology
+agents,artificial intelligence,technology
+anomaly detection,artificial intelligence,technology
+ant colony optimisation,artificial intelligence,technology
+ant colony optimization,artificial intelligence,technology
+approximation algorithms,artificial intelligence,technology
+approximation theory,artificial intelligence,technology
+artificial intelligence,artificial intelligence,technology
+autonomous agents,artificial intelligence,technology
+bayes methods,artificial intelligence,technology
+bayesian networks,artificial intelligence,technology
+classification (of information),artificial intelligence,technology
+information classification,artificial intelligence,technology
+classifiers,artificial intelligence,technology
+cluster analysis,artificial intelligence,technology
+clustering algorithms,artificial intelligence,technology
+clutter,artificial intelligence,technology
+clutter (information theory),artificial intelligence,technology
+information clutter,artificial intelligence,technology
+collaborative filtering,artificial intelligence,technology
+complex networks,artificial intelligence,technology
+computation theory,artificial intelligence,technology
+computational complexity,artificial intelligence,technology
+computational geometry,artificial intelligence,technology
+concave programming,artificial intelligence,technology
+convolutional codes,artificial intelligence,technology
+convolutional neural nets,artificial intelligence,technology
+convolutional neural networks,artificial intelligence,technology
+correlation methods,artificial intelligence,technology
+decision trees,artificial intelligence,technology
+deep learning,artificial intelligence,technology
+deep neural networks,artificial intelligence,technology
+deterministic algorithms,artificial intelligence,technology
+discrete fourier transforms,artificial intelligence,technology
+embeddings,artificial intelligence,technology
+error analysis,artificial intelligence,technology
+error compensation,artificial intelligence,technology
+error correction,artificial intelligence,technology
+estimation theory,artificial intelligence,technology
+evolutionary computation,artificial intelligence,technology
+extended kalman filters,artificial intelligence,technology
+feedforward neural nets,artificial intelligence,technology
+filtering theory,artificial intelligence,technology
+forward error correction,artificial intelligence,technology
+frequency response,artificial intelligence,technology
+function generators,artificial intelligence,technology
+fuzzy control,artificial intelligence,technology
+fuzzy inference,artificial intelligence,technology
+fuzzy logic,artificial intelligence,technology
+fuzzy set theory,artificial intelligence,technology
+fuzzy systems,artificial intelligence,technology
+gaussian processes,artificial intelligence,technology
+genetic algorithms,artificial intelligence,technology
+gradient methods,artificial intelligence,technology
+graph algorithms,artificial intelligence,technology
+graph theory,artificial intelligence,technology
+hidden feature removal,artificial intelligence,technology
+independent component analysis,artificial intelligence,technology
+inference engines,artificial intelligence,technology
+inference mechanisms,artificial intelligence,technology
+informatics,artificial intelligence,technology
+information analysis,artificial intelligence,technology
+intelligent agents,artificial intelligence,technology
+intelligent computing,artificial intelligence,technology
+intelligent systems,artificial intelligence,technology
+iterative methods,artificial intelligence,technology
+kalman filters,artificial intelligence,technology
+knowledge representation,artificial intelligence,technology
+learning (artificial intelligence),artificial intelligence,technology
+learning algorithms,artificial intelligence,technology
+machine learning,artificial intelligence,technology
+markov processes,artificial intelligence,technology
+matrix algebra,artificial intelligence,technology
+maximum entropy methods,artificial intelligence,technology
+mean square error methods,artificial intelligence,technology
+mobile agents,artificial intelligence,technology
+monte carlo methods,artificial intelligence,technology
+motion compensation,artificial intelligence,technology
+multi agent systems,artificial intelligence,technology
+multi-agent systems,artificial intelligence,technology
+multilayer neural networks,artificial intelligence,technology
+multilayer perceptrons,artificial intelligence,technology
+natural language processing,artificial intelligence,technology
+nearest neighbor search,artificial intelligence,technology
+neural net architecture,artificial intelligence,technology
+neural nets,artificial intelligence,technology
+neural networks,artificial intelligence,technology
+nonlinear filters,artificial intelligence,technology
+octrees,artificial intelligence,technology
+ontologies (artificial intelligence),artificial intelligence,technology
+parallel algorithms,artificial intelligence,technology
+particle swarm optimisation,artificial intelligence,technology
+particle swarm optimization (pso),artificial intelligence,technology
+particle swarm optimization,artificial intelligence,technology
+pattern classification,artificial intelligence,technology
+photogrammetry,artificial intelligence,technology
+planning (artificial intelligence),artificial intelligence,technology
+principal component analysis,artificial intelligence,technology
+random forests,artificial intelligence,technology
+recommender systems,artificial intelligence,technology
+recurrent neural nets,artificial intelligence,technology
+recurrent neural networks,artificial intelligence,technology
+regression analysis,artificial intelligence,technology
+reinforcement learning,artificial intelligence,technology
+self-organising feature maps,artificial intelligence,technology
+semantics,artificial intelligence,technology
+set theory,artificial intelligence,technology
+signal denoising,artificial intelligence,technology
+simulated annealing,artificial intelligence,technology
+software agents,artificial intelligence,technology
+stochastic processes,artificial intelligence,technology
+stochastic systems,artificial intelligence,technology
+supercomputers,artificial intelligence,technology
+supervised learning,artificial intelligence,technology
+support vector machines,artificial intelligence,technology
+swarm intelligence,artificial intelligence,technology
+trees (mathematics),artificial intelligence,technology
+trees,artificial intelligence,technology
+unsupervised learning,artificial intelligence,technology
+wavelet transforms,artificial intelligence,technology
+wiener filters,artificial intelligence,technology
+acoustic field measurement,audio,technology
+acoustic fields,audio,technology
+acoustic generators,audio,technology
+acoustic imaging,audio,technology
+acoustic intensity,audio,technology
+acoustic measurement,audio,technology
+acoustic noise,audio,technology
+acoustic radiators,audio,technology
+acoustic signal processing,audio,technology
+acoustic streaming,audio,technology
+acoustic wave absorption,audio,technology
+acoustic wave reflection,audio,technology
+acoustic waves,audio,technology
+acoustics,audio,technology
+active noise control,audio,technology
+audio acoustics,audio,technology
+audio equipment,audio,technology
+audio signal processing,audio,technology
+audio systems,audio,technology
+audio user interfaces,audio,technology
+auditory evoked potentials,audio,technology
+bioacoustics,audio,technology
+computer music,audio,technology
+differential phase shift keying,audio,technology
+distortion (waves),audio,technology
+wave distortion,audio,technology
+earphones,audio,technology
+echo suppression,audio,technology
+equalisers,audio,technology
+feedback amplifiers,audio,technology
+felt,audio,technology
+loudspeakers,audio,technology
+music,audio,technology
+musical instruments,audio,technology
+noise abatement,audio,technology
+noise pollution,audio,technology
+reverberation,audio,technology
+sonar,audio,technology
+sound recording,audio,technology
+sound reproduction,audio,technology
+time-domain analysis,audio,technology
+transient response,audio,technology
+underwater acoustics,audio,technology
+volume measurement,audio,technology
+wave functions,audio,technology
+white noise,audio,technology
 advanced driver assistance systems,automotive,industries
 automatic guided vehicles,automotive,industries
 automobile drivers,automotive,industries
@@ -509,6 +269,69 @@ space-based radar,aviation and aerospace,industries
 spacecraft power supplies,aviation and aerospace,industries
 training aircraft,aviation and aerospace,industries
 vortices,aviation and aerospace,industries
+business data processing,business performance metrics,business
+competition,business performance metrics,business
+compliance control,business performance metrics,business
+cost effectiveness,business performance metrics,business
+cost engineering,business performance metrics,business
+cost functions,business performance metrics,business
+cost reduction,business performance metrics,business
+costing,business performance metrics,business
+costs,business performance metrics,business
+critical infrastructures,business performance metrics,business
+decision support systems,business performance metrics,business
+economic analysis,business performance metrics,business
+economics,business performance metrics,business
+global optimization,business performance metrics,business
+industrial research,business performance metrics,business
+innovation management,business performance metrics,business
+knowledge engineering,business performance metrics,business
+modernization,business performance metrics,business
+motivation,business performance metrics,business
+obsolescence,business performance metrics,business
+office automation,business performance metrics,business
+optimisation,business performance metrics,business
+optimization,business performance metrics,business
+performance evaluation,business performance metrics,business
+productivity,business performance metrics,business
+profitability,business performance metrics,business
+quality of service,business performance metrics,business
+statistics,business performance metrics,business
+technology transfer,business performance metrics,business
+assembly planning,business planning and management,business
+bank data processing,business planning and management,business
+budget control,business planning and management,business
+document handling,business planning and management,business
+enterprise resource planning,business planning and management,business
+exchange rates,business planning and management,business
+forecasting,business planning and management,business
+industrial management,business planning and management,business
+information dissemination,business planning and management,business
+information management,business planning and management,business
+information resources,business planning and management,business
+information services,business planning and management,business
+information use,business planning and management,business
+investment,business planning and management,business
+investments,business planning and management,business
+mergers and acquisitions,business planning and management,business
+order processing,business planning and management,business
+organisational aspects,business planning and management,business
+planning,business planning and management,business
+process planning,business planning and management,business
+procurement,business planning and management,business
+production planning,business planning and management,business
+professional aspects,business planning and management,business
+project management,business planning and management,business
+property market,business planning and management,business
+public domain software,business planning and management,business
+resource allocation,business planning and management,business
+small to medium enterprises,business planning and management,business
+small-to-medium enterprises,business planning and management,business
+software development management,business planning and management,business
+strategic planning,business planning and management,business
+supply chains,business planning and management,business
+technology management,business planning and management,business
+workflow management software,business planning and management,business
 absorption spectroscopy,chemical,industries
 additives,chemical,industries
 aldehydes,chemical,industries
@@ -598,6 +421,80 @@ surface properties,chemical,industries
 tantalum compounds,chemical,industries
 tellurium compounds,chemical,industries
 volatile organic compounds,chemical,industries
+computer mediated communication,collaboration,use cases
+cooperative communication,collaboration,use cases
+cooperative systems,collaboration,use cases
+domes,collaboration,use cases
+groupware,collaboration,use cases
+image communication systems,collaboration,use cases
+online conferencing,collaboration,use cases
+social computing,collaboration,use cases
+social networking (online),collaboration,use cases
+social networking,collaboration,use cases
+team working,collaboration,use cases
+teleconferencing,collaboration,use cases
+video conferencing,collaboration,use cases
+computer vision,computer vision,technology
+conformal mapping,computer vision,technology
+constrained optimization,computer vision,technology
+constraint theory,computer vision,technology
+deconvolution,computer vision,technology
+demodulation,computer vision,technology
+document image processing,computer vision,technology
+dynamics,computer vision,technology
+edge detection,computer vision,technology
+feature extraction,computer vision,technology
+gaussian distribution,computer vision,technology
+hidden markov models,computer vision,technology
+image analysis,computer vision,technology
+image capture,computer vision,technology
+image classification,computer vision,technology
+image coding,computer vision,technology
+image compression,computer vision,technology
+image denoising,computer vision,technology
+image enhancement,computer vision,technology
+image filtering,computer vision,technology
+image fusion,computer vision,technology
+image matching,computer vision,technology
+image processing,computer vision,technology
+image recognition,computer vision,technology
+image reconstruction,computer vision,technology
+image registration,computer vision,technology
+image representation,computer vision,technology
+image restoration,computer vision,technology
+image retrieval,computer vision,technology
+image sampling,computer vision,technology
+image segmentation,computer vision,technology
+image sequences,computer vision,technology
+image understanding,computer vision,technology
+laser applications,computer vision,technology
+median filters,computer vision,technology
+modulation,computer vision,technology
+motion estimation,computer vision,technology
+motion tracking,computer vision,technology
+newsprint,computer vision,technology
+object detection,computer vision,technology
+object recognition,computer vision,technology
+object tracking,computer vision,technology
+optical tracking,computer vision,technology
+pattern clustering,computer vision,technology
+pattern matching,computer vision,technology
+pattern recognition,computer vision,technology
+photography,computer vision,technology
+pipeline processing systems,computer vision,technology
+printing presses,computer vision,technology
+realistic images,computer vision,technology
+self organizing maps,computer vision,technology
+shape recognition,computer vision,technology
+smoothing methods,computer vision,technology
+spectral analysis,computer vision,technology
+speed,computer vision,technology
+stereo image processing,computer vision,technology
+target tracking,computer vision,technology
+tensors,computer vision,technology
+tracking,computer vision,technology
+visibility,computer vision,technology
+vision,computer vision,technology
 aggregates,construction,industries
 air conditioning,construction,industries
 arches,construction,industries
@@ -662,6 +559,325 @@ sport,cultural heritage,industries
 sports,cultural heritage,industries
 tourism,cultural heritage,industries
 tourism industry,cultural heritage,industries
+adaptive filtering,data,technology
+adaptive filters,data,technology
+air pollution,data,technology
+air quality,data,technology
+analytic hierarchy process,data,technology
+analytical models,data,technology
+asset management,data,technology
+belief networks,data,technology
+benchmarking,data,technology
+big data,data,technology
+black-box testing,data,technology
+cellular automata,data,technology
+channel bank filters,data,technology
+collector efficiency,data,technology
+content based retrieval,data,technology
+content-based retrieval,data,technology
+crowdsourcing,data,technology
+data aggregation,data,technology
+data analysis,data,technology
+data analytics,data,technology
+data compression,data,technology
+data compression ratio,data,technology
+data flow analysis,data,technology
+data fusion,data,technology
+data handling,data,technology
+data integrity,data,technology
+data loggers,data,technology
+data mining,data,technology
+data modeling,data,technology
+data reduction,data,technology
+data science,data,technology
+data storage equipment,data,technology
+data structures,data,technology
+data visualisation,data,technology
+data visualization,data,technology
+data warehouses,data,technology
+database systems,data,technology
+digital arithmetic,data,technology
+distributed control,data,technology
+electronic document exchange,business planning and management,business
+fast fourier transforms,data,technology
+file organisation,data,technology
+flow graphs,data,technology
+formal logic,data,technology
+functions,data,technology
+gaussian noise,data,technology
+gaussian noise (electronic),data,technology
+government data processing,data,technology
+haar transforms,data,technology
+harmonic analysis,data,technology
+hierarchical systems,data,technology
+holographic storage,data,technology
+hough transforms,data,technology
+huffman codes,data,technology
+indexing,data,technology
+indexing (of information),data,technology
+information retrieval,data,technology
+information technology,data,technology
+information theory,data,technology
+integrodifferential equations,data,technology
+interpolation,data,technology
+jitter,data,technology
+knowledge based systems,data,technology
+labeled data,data,technology
+lagrange multipliers,data,technology
+large dataset,data,technology
+least squares approximations,data,technology
+lie algebras,data,technology
+lie groups,data,technology
+linear transformations,data,technology
+linked data,data,technology
+lyapunov functions,data,technology
+magnetic disc storage,data,technology
+mathematical techniques,data,technology
+mathematical transformations,data,technology
+matrix decomposition,data,technology
+matrix multiplication,data,technology
+mean square error,data,technology
+meta data,data,technology
+metadata,data,technology
+modal analysis,data,technology
+models,data,technology
+newton method,data,technology
+open data,data,technology
+particle filtering,data,technology
+particle filtering (numerical methods),data,technology
+personal information systems,data,technology
+phase matching,data,technology
+poisson equation,data,technology
+police data processing,data,technology
+processing,data,technology
+query formulation,data,technology
+query processing,data,technology
+random processes,data,technology
+rational functions,data,technology
+recovery,data,technology
+redundancy,data,technology
+relational databases,data,technology
+reliability,data,technology
+rotation,data,technology
+sampling,data,technology
+sampling methods,data,technology
+search engines,data,technology
+search problems,data,technology
+singular value decomposition,data,technology
+software maintenance,data,technology
+sparse matrices,data,technology
+state estimation,data,technology
+statistical analysis,data,technology
+statistical distributions,data,technology
+statistical testing,data,technology
+statistical tests,data,technology
+storage management,data,technology
+systematic errors,data,technology
+table lookup,data,technology
+taylor series,data,technology
+time series,data,technology
+transcoding,data,technology
+transform coding,data,technology
+virtual machines,data,technology
+visual databases,data,technology
+visualization,data,technology
+waveform analysis,data,technology
+program assemblers,developers,technology
+acceptance tests,developers,technology
+ada (programming language),developers,technology
+ada,developers,technology
+android (operating system),developers,technology
+android,developers,technology
+application programming interfaces,developers,technology
+application program interfaces,developers,technology
+application programming interfaces (api),developers,technology
+application programs,developers,technology
+applications,developers,technology
+argon,developers,technology
+authoring languages,developers,technology
+authoring systems,developers,technology
+binary codes,developers,technology
+binary sequences,developers,technology
+buffer storage,developers,technology
+c# language,developers,technology
+c++ (programming language),developers,technology
+c++,developers,technology
+c++ language,developers,technology
+character sets,developers,technology
+closed loop control systems,developers,technology
+codes (symbols),developers,technology
+codes,developers,technology
+coding errors,developers,technology
+color printing,developers,technology
+combinatorial optimization,developers,technology
+computational grammars,developers,technology
+computational methods,developers,technology
+computer applications,developers,technology
+computer architecture,developers,technology
+computer debugging,developers,technology
+computer hardware,developers,technology
+computer operating systems,developers,technology
+computer programming,developers,technology
+computer programming languages,developers,technology
+computer science,developers,technology
+computer simulation languages,developers,technology
+computer software,developers,technology
+computer systems programming,developers,technology
+computer workstations,developers,technology
+computers,developers,technology
+computing methodologies,developers,technology
+conceptual design,developers,technology
+configuration management,developers,technology
+containers,developers,technology
+content management,developers,technology
+convex programming,developers,technology
+data models,developers,technology
+demonstrations,developers,technology
+directed graphs,developers,technology
+distributed database systems,developers,technology
+distributed databases,developers,technology
+dynamic programming,developers,technology
+electronic publishing,developers,technology
+encoding (symbols),developers,technology
+error correction codes,developers,technology
+factorization,developers,technology
+field programmable gate arrays,developers,technology
+finite element analysis,developers,technology
+greedy algorithms,developers,technology
+hypermedia markup languages,developers,technology
+inertial confinement fusion,developers,technology
+information filtering,developers,technology
+information retrieval systems,developers,technology
+information systems,developers,technology
+information systems applications,developers,technology
+input output programs,developers,technology
+integer programming,developers,technology
+intensity measurement,developers,technology
+ios (operating system),developers,technology
+ios,developers,technology
+java,developers,technology
+linear programming,developers,technology
+logic design,developers,technology
+logic programming,developers,technology
+lyapunov methods,developers,technology
+mathematical models,developers,technology
+mathematical programming,developers,technology
+matlab,developers,technology
+microcomputers,developers,technology
+middleware,developers,technology
+modeling languages,developers,technology
+multimedia information systems,developers,technology
+multimedia systems,developers,technology
+natural languages,developers,technology
+nonlinear programming,developers,technology
+np-hard,developers,technology
+numerical analysis,developers,technology
+object oriented programming,developers,technology
+object-oriented databases,developers,technology
+object-oriented methods,developers,technology
+object-oriented programming,developers,technology
+open source software,developers,technology
+open systems,developers,technology
+operating systems (computers),developers,technology
+operating systems,developers,technology
+parallel processing,developers,technology
+parallel programming,developers,technology
+problem oriented languages,developers,technology
+program compilers,developers,technology
+program debugging,developers,technology
+program testing,developers,technology
+program visualisation,developers,technology
+programming,developers,technology
+programming environments,developers,technology
+programming language semantics,developers,technology
+programming languages,developers,technology
+prototyping,developers,technology
+question answering (information retrieval),developers,technology
+question answering,developers,technology
+radial basis function networks,developers,technology
+response time (computer systems),developers,technology
+response time,developers,technology
+robust control,developers,technology
+scheduling,developers,technology
+scheduling algorithms,developers,technology
+shift registers,developers,technology
+software architecture,developers,technology
+software design,developers,technology
+software engineering,developers,technology
+software fault tolerance,developers,technology
+software libraries,developers,technology
+software packages,developers,technology
+software prototyping,developers,technology
+software testing,developers,technology
+software tools,developers,technology
+source code (software),developers,technology
+source code,developers,technology
+spreadsheet programs,developers,technology
+system documentation,developers,technology
+taxonomies,developers,technology
+testbeds,developers,technology
+user centered design,developers,technology
+user centred design,developers,technology
+user manuals,developers,technology
+user modelling,developers,technology
+virtual reality languages,developers,technology
+visual languages,developers,technology
+visual programming,developers,technology
+computational efficiency,device energy management,displays
+electric batteries,device energy management,displays
+low power electronics,device energy management,displays
+minimisation,device energy management,displays
+optimal control,device energy management,displays
+phase locked loops,device energy management,displays
+power aware computing,device energy management,displays
+power consumption,device energy management,displays
+power conversion,device energy management,displays
+amplitude modulation,display technology,displays
+caves,display technology,displays
+color computer graphics,display technology,displays
+colour displays,display technology,displays
+displays,display technology,displays
+computer displays,display technology,displays
+digital television,display technology,displays
+display devices,display technology,displays
+display instrumentation,display technology,displays
+electromagnetic wave attenuation,display technology,displays
+electromagnetic waves,display technology,displays
+field emission displays,display technology,displays
+flat panel displays,display technology,displays
+flexible displays,display technology,displays
+flexible electronics,display technology,displays
+head up displays,display technology,displays
+head-up displays,display technology,displays
+high definition television,display technology,displays
+high definition video,display technology,displays
+holographic displays,display technology,displays
+holography,display technology,displays
+imaging systems,display technology,displays
+imaging techniques,display technology,displays
+interactive television,display technology,displays
+led displays,display technology,displays
+lenses,display technology,displays
+light emitting diodes,display technology,displays
+liquid crystal displays,display technology,displays
+microdisplays,display technology,displays
+micromechanical devices,display technology,displays
+mocvd,display technology,displays
+organic light emitting diodes (oled),display technology,displays
+phase modulation,display technology,displays
+photodiodes,display technology,displays
+p-i-n photodiodes,display technology,displays
+printers,display technology,displays
+projection systems,display technology,displays
+display screens,display technology,displays
+screens (display),display technology,displays
+screens (sizing),display technology,displays
+sizing screens,display technology,displays
+superluminescent diodes,display technology,displays
+television displays,display technology,displays
+three dimensional displays,display technology,displays
+three-dimensional displays,display technology,displays
+vapour phase epitaxial growth,display technology,displays
 academic libraries,education,industries
 accreditation,education,industries
 animals,education,industries
@@ -743,6 +959,58 @@ fires,emergency response,industries
 flames,emergency response,industries
 floods,emergency response,industries
 police,emergency response,industries
+analogue-digital conversion,engineering,technology
+atmospheric temperature,engineering,technology
+biochemical engineering,engineering,technology
+biometrics (access control),engineering,technology
+bridges (structures),engineering,technology
+cathode ray oscilloscopes,engineering,technology
+civil engineering,engineering,technology
+computational electromagnetics,engineering,technology
+computer aided software engineering,engineering,technology
+control engineering,engineering,technology
+control engineering computing,engineering,technology
+design engineering,engineering,technology
+eigenvalues and eigenfunctions,engineering,technology
+elasticity,engineering,technology
+electrical engineering,engineering,technology
+electrical engineering computing,engineering,technology
+electromagnetic compatibility,engineering,technology
+electromagnetic shielding,engineering,technology
+electronics engineering,engineering,technology
+engineering computing,engineering,technology
+engineering information systems,engineering,technology
+engineering research,engineering,technology
+environmental engineering,engineering,technology
+environmental science computing,engineering,technology
+gravitation,engineering,technology
+interference suppression,engineering,technology
+laser fusion,engineering,technology
+lighting control,engineering,technology
+magnetic levitation,engineering,technology
+mathematics computing,engineering,technology
+mechanical engineering,engineering,technology
+phsyics,engineering,technology
+physics,engineering,technology
+physics computing,engineering,technology
+power convertors,engineering,technology
+power engineering computing,engineering,technology
+precision engineering,engineering,technology
+regional planning,engineering,technology
+research and development,engineering,technology
+rock mechanics,engineering,technology
+shear deformation,engineering,technology
+shear modulus,engineering,technology
+stiffness,engineering,technology
+structural engineering computing,engineering,technology
+surface roughness,engineering,technology
+systems analysis,engineering,technology
+systems engineering,engineering,technology
+technical drawing,engineering,technology
+thermal engineering,engineering,technology
+timing circuits,engineering,technology
+toeplitz matrices,engineering,technology
+transfer functions,engineering,technology
 agricultural engineering,farming and natural science,industries
 agricultural machinery,farming and natural science,industries
 agricultural products,farming and natural science,industries
@@ -793,6 +1061,56 @@ watersheds,farming and natural science,industries
 wind,farming and natural science,industries
 zoology,farming and natural science,industries
 conservation,farming and natural science,industries
+armored vehicles,geospatial,technology
+buried object detection,geospatial,technology
+climate models,geospatial,technology
+digital elevation models,geospatial,technology
+earth (planet),geospatial,technology
+earth,geospatial,technology
+earth atmosphere,geospatial,technology
+earthquakes,geospatial,technology
+environmental monitoring (geophysics),geospatial,technology
+environmental monitoring,geospatial,technology
+envrionment,geospatial,technology
+fountains,geospatial,technology
+geographic information systems,geospatial,technology
+geography,geospatial,technology
+geological surveys,geospatial,technology
+geology,geospatial,technology
+geomagnetic navigation,geospatial,technology
+geomagnetism,geospatial,technology
+geomorphology,geospatial,technology
+geophysical image processing,geospatial,technology
+geophysical prospecting,geospatial,technology
+geophysical techniques,geospatial,technology
+geophysics computing,geospatial,technology
+global positioning system,geospatial,technology
+ground penetrating radar,geospatial,technology
+indoor positioning systems,geospatial,technology
+inertial navigation,geospatial,technology
+inertial navigation systems,geospatial,technology
+ionosphere,geospatial,technology
+lakes,geospatial,technology
+landforms,geospatial,technology
+location,geospatial,technology
+location based services,geospatial,technology
+potable water,geospatial,technology
+radar,geospatial,technology
+radar imaging,geospatial,technology
+radar tracking,geospatial,technology
+rural areas,geospatial,technology
+spatiotemporal phenomena,geospatial,technology
+surface topography,geospatial,technology
+surveying,geospatial,technology
+tectonics,geospatial,technology
+terrain mapping,geospatial,technology
+topography (earth),geospatial,technology
+topography,geospatial,technology
+topology,geospatial,technology
+tracking (position),geospatial,technology
+tsunamis,geospatial,technology
+volcanoes,geospatial,technology
+volcanology,geospatial,technology
 ballistics,government,industries
 military aircraft,government,industries
 military applications,government,industries
@@ -806,6 +1124,172 @@ postal services,government,industries
 prisons,government,industries
 ships,government,industries
 weapons,government,industries
+affine transforms,graphics,technology
+animation,graphics,technology
+antialiasing,graphics,technology
+aspect ratio,graphics,technology
+brightness,graphics,technology
+cad,graphics,technology
+cad/cam,graphics,technology
+color,graphics,technology
+color codes,graphics,technology
+color matching,graphics,technology
+computer aided design,graphics,technology
+computer animation,graphics,technology
+computer generated holography,graphics,technology
+computer graphics,graphics,technology
+computer graphics equipment,graphics,technology
+computer-generated holography,graphics,technology
+curve fitting,graphics,technology
+deformation,graphics,technology
+engineering graphics,graphics,technology
+flickering,graphics,technology
+flow visualization,graphics,technology
+geometry,graphics,technology
+graphic methods,graphics,technology
+graphical user interfaces,graphics,technology
+graphics systems and interfaces,graphics,technology
+holograms,graphics,technology
+image colour analysis,graphics,technology
+image morphing,graphics,technology
+image quality,graphics,technology
+image resolution,graphics,technology
+image texture,graphics,technology
+interactive computer graphics,graphics,technology
+luminance,graphics,technology
+merging,graphics,technology
+mesh generation,graphics,technology
+molecular graphics,graphics,technology
+optical images,graphics,technology
+photochromism,graphics,technology
+photographic accessories,graphics,technology
+pixels,graphics,technology
+pose estimation,graphics,technology
+ray tracing,graphics,technology
+rendering (computer graphics),graphics,technology
+rendering,graphics,technology
+spheres,graphics,technology
+splines (mathematics),graphics,technology
+splines,graphics,technology
+superpixels,graphics,technology
+surface reconstruction,graphics,technology
+texturing,graphics,technology
+three dimensional computer graphics,graphics,technology
+transforms,graphics,technology
+transparency,graphics,technology
+ability testing,human factors,end users and user experience
+affective computing,human factors,end users and user experience
+anthropometry,human factors,end users and user experience
+attitude measurement,human factors,end users and user experience
+behavioral research,human factors,end users and user experience
+behavioural sciences,human factors,end users and user experience
+behavioural sciences computing,human factors,end users and user experience
+brain-computer interfaces,human factors,end users and user experience
+cognition,human factors,end users and user experience
+cognitive systems,human factors,end users and user experience
+colour vision,human factors,end users and user experience
+consumer electronics,human factors,end users and user experience
+decision making,human factors,end users and user experience
+depth perception,human factors,end users and user experience
+design of experiments,human factors,end users and user experience
+environmental factors,human factors,end users and user experience
+ergonomics,human factors,end users and user experience
+errors,human factors,end users and user experience
+fatigue,human factors,end users and user experience
+focusing,human factors,end users and user experience
+grippers,human factors,end users and user experience
+hearing,human factors,end users and user experience
+heuristic algorithms,human factors,end users and user experience
+human factors,human factors,end users and user experience
+in situ processing,human factors,end users and user experience
+knowledge acquisition,human factors,end users and user experience
+mechanoception,human factors,end users and user experience
+multitasking,human factors,end users and user experience
+paper,human factors,end users and user experience
+physiological models,human factors,end users and user experience
+somatosensory phenomena,human factors,end users and user experience
+spatial reasoning,human factors,end users and user experience
+subjective testing,human factors,end users and user experience
+switches,human factors,end users and user experience
+task analysis,human factors,end users and user experience
+technology acceptance model,human factors,end users and user experience
+thermal comfort,human factors,end users and user experience
+user experience,human factors,end users and user experience
+user studies,human factors,end users and user experience
+vision defects,human factors,end users and user experience
+walkthrough evaluations,human factors,end users and user experience
+contractors,human resources,business
+employee welfare,human resources,business
+employment,human resources,business
+game theory,human resources,business
+human resource management,human resources,business
+inventory control,human resources,business
+job analysis,human resources,business
+knowledge management,human resources,business
+labour resources,human resources,business
+outsourcing,human resources,business
+personnel,human resources,business
+personnel training,human resources,business
+plant shutdowns,human resources,business
+qualifications,human resources,business
+teleworking,human resources,business
+termination of employment,human resources,business
+unemployment,human resources,business
+adaptive control,human-computer interaction,end users and user experience
+adaptive control systems,human-computer interaction,end users and user experience
+audio visual systems,human-computer interaction,end users and user experience
+biofeedback,human-computer interaction,end users and user experience
+biometrics,human-computer interaction,end users and user experience
+brain computer interface,human-computer interaction,end users and user experience
+brain computer interfaces,human-computer interaction,end users and user experience
+bubbles,human-computer interaction,end users and user experience
+clocks,human-computer interaction,end users and user experience
+communication channels (information theory),human-computer interaction,end users and user experience
+communication channels,human-computer interaction,end users and user experience
+control system synthesis,human-computer interaction,end users and user experience
+control systems,human-computer interaction,end users and user experience
+cyber physical system,human-computer interaction,end users and user experience
+cyber physical systems,human-computer interaction,end users and user experience
+delays,human-computer interaction,end users and user experience
+design,human-computer interaction,end users and user experience
+drives,human-computer interaction,end users and user experience
+efficiency,human-computer interaction,end users and user experience
+empirical studies in hci,human-computer interaction,end users and user experience
+feedback,human-computer interaction,end users and user experience
+hci design and evaluation methods,human-computer interaction,end users and user experience
+human computer interaction,human-computer interaction,end users and user experience
+human-centered computing,human-computer interaction,end users and user experience
+human-computer interaction,human-computer interaction,end users and user experience
+hybrid systems,human-computer interaction,end users and user experience
+image annotation,human-computer interaction,end users and user experience
+interaction paradigms,human-computer interaction,end users and user experience
+interactive computer systems,human-computer interaction,end users and user experience
+interface states,human-computer interaction,end users and user experience
+kinematics,human-computer interaction,end users and user experience
+magnetic sensors,human-computer interaction,end users and user experience
+magnetorheology,human-computer interaction,end users and user experience
+man machine systems,human-computer interaction,end users and user experience
+man-machine systems,human-computer interaction,end users and user experience
+microcontrollers,human-computer interaction,end users and user experience
+online front ends,human-computer interaction,end users and user experience
+online front-ends,human-computer interaction,end users and user experience
+position control,human-computer interaction,end users and user experience
+proportional control systems,human-computer interaction,end users and user experience
+real time systems,human-computer interaction,end users and user experience
+real-time systems,human-computer interaction,end users and user experience
+social sciences computing,human-computer interaction,end users and user experience
+steering,human-computer interaction,end users and user experience
+stress strain curves,human-computer interaction,end users and user experience
+tar,human-computer interaction,end users and user experience
+technology,human-computer interaction,end users and user experience
+telecontrol,human-computer interaction,end users and user experience
+ubiquitous computing,human-computer interaction,end users and user experience
+usability engineering,human-computer interaction,end users and user experience
+user interfaces,human-computer interaction,end users and user experience
+virtual instrumentation,human-computer interaction,end users and user experience
+visual communication,human-computer interaction,end users and user experience
+visual evoked potentials,human-computer interaction,end users and user experience
+watches,human-computer interaction,end users and user experience
 anechoic chambers (electromagnetic),industrial equipment,industries
 anechoic chambers,industrial equipment,industries
 belts,industrial equipment,industries
@@ -855,6 +1339,246 @@ springs (mechanical),industrial equipment,industries
 springs,industrial equipment,industries
 three term control systems,industrial equipment,industries
 valves,industrial equipment,industries
+aerial photography,input,technology
+angular velocity,input,technology
+audio-visual systems,input,technology
+bar codes,input,technology
+blind source separation,input,technology
+cameras,input,technology
+ccd cameras,input,technology
+character recognition,input,technology
+charge coupled devices,input,technology
+charts,input,technology
+color vision,input,technology
+colorimetry,input,technology
+communication,input,technology
+compasses (magnetic),input,technology
+compasses,input,technology
+computer keyboards,input,technology
+computer peripheral equipment,input,technology
+controllers,input,technology
+data acquisition,input,technology
+data gloves,input,technology
+decoding,input,technology
+doppler effect,input,technology
+electric relays,input,technology
+electromagnetic fields,input,technology
+electromagnetic forces,input,technology
+electromechanical devices,input,technology
+electron holography,input,technology
+electronic nose,input,technology
+electronic noses,input,technology
+electro-optical devices,input,technology
+emotion recognition,input,technology
+encoding,input,technology
+eye,input,technology
+eye movements,input,technology
+eye tracking,input,technology
+face recognition,input,technology
+feature selection,input,technology
+fluorescence,input,technology
+force feedback,input,technology
+friction,input,technology
+gaze tracking,input,technology
+gesture recognition,input,technology
+gyroscopes,input,technology
+hand held computers,input,technology
+handwriting recognition,input,technology
+handwritten character recognition,input,technology
+haptic interfaces,input,technology
+hypertext systems,input,technology
+image motion analysis,input,technology
+image scanners,input,technology
+image sensors,input,technology
+indoor radio,input,technology
+infrared imaging,input,technology
+interactive devices,input,technology
+interactive systems,input,technology
+interactive systems and tools,input,technology
+keyboards,input,technology
+knobs,input,technology
+language translation,input,technology
+laptop computers,input,technology
+laser ranging,input,technology
+light,input,technology
+light interference,input,technology
+light modulation,input,technology
+light modulators,input,technology
+light pens,input,technology
+light polarisation,input,technology
+light polarization,input,technology
+light propagation,input,technology
+light reflection,input,technology
+light sources,input,technology
+light transmission,input,technology
+lighting,input,technology
+linguistics,input,technology
+load testing,input,technology
+magnetometers,input,technology
+mammals,input,technology
+matched filters,input,technology
+mice (computer peripherals),input,technology
+microphone arrays,input,technology
+microphones,input,technology
+mobile handsets,input,technology
+motion analysis,input,technology
+mouse controllers (computers),input,technology
+mouse controllers,input,technology
+natural language interfaces,input,technology
+natural language processing systems,input,technology
+notebook computers,input,technology
+odors,input,technology
+optical character recognition,input,technology
+palmprint recognition,input,technology
+personal communication systems,input,technology
+personal computing,input,technology
+photodetectors,input,technology
+photoluminescence,input,technology
+photometry,input,technology
+position measurement,input,technology
+qr codes,input,technology
+radio frequency identification (rfid),input,technology
+radio frequency identification,input,technology
+radiofrequency interference,input,technology
+refraction,input,technology
+refractive index,input,technology
+remote control,input,technology
+reusability,input,technology
+sand,input,technology
+scanning,input,technology
+sensor data fusion,input,technology
+sensory perception,input,technology
+sentiment analysis,input,technology
+sign language recognition,input,technology
+signal encoding,input,technology
+speaker recognition,input,technology
+spectroscopy,input,technology
+speech,input,technology
+speech based user interfaces,input,technology
+speech communication,input,technology
+speech enhancement,input,technology
+speech intelligibility,input,technology
+speech processing,input,technology
+speech recognition,input,technology
+speech synthesis,input,technology
+speech-based user interfaces,input,technology
+strain gages,input,technology
+stray light,input,technology
+synchronisation,input,technology
+synchronization,input,technology
+tactile sensors,input,technology
+temperature indicating cameras,input,technology
+text analysis,input,technology
+text detection,input,technology
+text processing,input,technology
+textures,input,technology
+thermocouples,input,technology
+thermography (imaging),input,technology
+touch (physiological),input,technology
+touch,input,technology
+touch screens,input,technology
+touch sensitive screens,input,technology
+triangulation,input,technology
+ultrasonic devices,input,technology
+ultrasonic imaging,input,technology
+ultraviolet lamps,input,technology
+ultra-wideband (uwb),input,technology
+vibrations,input,technology
+visible light communication,input,technology
+visual perception,input,technology
+voice activity detection,input,technology
+voice communication,input,technology
+volume rendering,input,technology
+accident prevention,"inspection, safety and quality",use cases
+accidents,"inspection, safety and quality",use cases
+alignment,"inspection, safety and quality",use cases
+chemical attack,"inspection, safety and quality",use cases
+chemical detection,"inspection, safety and quality",use cases
+climate control,"inspection, safety and quality",use cases
+defects,"inspection, safety and quality",use cases
+disaster prevention,"inspection, safety and quality",use cases
+domestic safety,"inspection, safety and quality",use cases
+electrical safety,"inspection, safety and quality",use cases
+error detection,"inspection, safety and quality",use cases
+eye protection,"inspection, safety and quality",use cases
+failure (mechanical),"inspection, safety and quality",use cases
+mechanical failure,"inspection, safety and quality",use cases
+failure analysis,"inspection, safety and quality",use cases
+fault detection,"inspection, safety and quality",use cases
+fault diagnosis,"inspection, safety and quality",use cases
+fault tolerance,"inspection, safety and quality",use cases
+fault tolerant computer systems,"inspection, safety and quality",use cases
+fire extinguishers,"inspection, safety and quality",use cases
+formal verification,"inspection, safety and quality",use cases
+hazards,"inspection, safety and quality",use cases
+health and safety,"inspection, safety and quality",use cases
+health hazards,"inspection, safety and quality",use cases
+health risks,"inspection, safety and quality",use cases
+industrial hygiene,"inspection, safety and quality",use cases
+inspection,"inspection, safety and quality",use cases
+life testing,"inspection, safety and quality",use cases
+measurement,"inspection, safety and quality",use cases
+measurement errors,"inspection, safety and quality",use cases
+measurement uncertainty,"inspection, safety and quality",use cases
+monitoring,"inspection, safety and quality",use cases
+natural radioactivity hazards,"inspection, safety and quality",use cases
+negative bias temperature instability,"inspection, safety and quality",use cases
+nondestructive examination,"inspection, safety and quality",use cases
+nondestructive testing,"inspection, safety and quality",use cases
+occupational health,"inspection, safety and quality",use cases
+occupational risks,"inspection, safety and quality",use cases
+occupational safety,"inspection, safety and quality",use cases
+occupational stress,"inspection, safety and quality",use cases
+operational amplifiers,"inspection, safety and quality",use cases
+oscilloscopes,"inspection, safety and quality",use cases
+process monitoring,"inspection, safety and quality",use cases
+product quality,"inspection, safety and quality",use cases
+quality assurance,"inspection, safety and quality",use cases
+quality control,"inspection, safety and quality",use cases
+quality function deployment,"inspection, safety and quality",use cases
+quality management,"inspection, safety and quality",use cases
+quality of experience,"inspection, safety and quality",use cases
+radiation protection,"inspection, safety and quality",use cases
+radiation shielding,"inspection, safety and quality",use cases
+reliability analysis,"inspection, safety and quality",use cases
+risk analysis,"inspection, safety and quality",use cases
+risk assessment,"inspection, safety and quality",use cases
+risk management,"inspection, safety and quality",use cases
+risk perception,"inspection, safety and quality",use cases
+safety,"inspection, safety and quality",use cases
+safety critical software,"inspection, safety and quality",use cases
+safety devices,"inspection, safety and quality",use cases
+safety engineering,"inspection, safety and quality",use cases
+safety factor,"inspection, safety and quality",use cases
+safety systems,"inspection, safety and quality",use cases
+safety-critical software,"inspection, safety and quality",use cases
+scalability,"inspection, safety and quality",use cases
+software performance evaluation,"inspection, safety and quality",use cases
+software quality,"inspection, safety and quality",use cases
+stability,"inspection, safety and quality",use cases
+surveys,"inspection, safety and quality",use cases
+system monitoring,"inspection, safety and quality",use cases
+system stability,"inspection, safety and quality",use cases
+systematic errors,"inspection, safety and quality",use cases
+tensile testing,"inspection, safety and quality",use cases
+testing,"inspection, safety and quality",use cases
+total quality management,"inspection, safety and quality",use cases
+water levels,"inspection, safety and quality",use cases
+water quality,"inspection, safety and quality",use cases
+wear,"inspection, safety and quality",use cases
+wear of materials,"inspection, safety and quality",use cases
+data integration,integration,business
+installation,integration,business
+integration,integration,business
+storage as a service (staas),integration,business
+storage as a service,integration,business
+ambient intelligence,internet of things,technology
+cognitive radio,internet of things,technology
+incandescent lamps,internet of things,technology
+industry 4.0,internet of things,technology
+internet of things,internet of things,technology
+led lamps,internet of things,technology
+mechatronics,internet of things,technology
 archaeology,liberal arts,industries
 art,liberal arts,industries
 arts computing,liberal arts,industries
@@ -868,6 +1592,21 @@ humanities,liberal arts,industries
 paint,liberal arts,industries
 painting,liberal arts,industries
 stained glass,liberal arts,industries
+fork lift trucks,logistics,business
+labelling (packaging),logistics,business
+logistics,logistics,business
+logistics data processing,logistics,business
+order picking,logistics,business
+packaging,logistics,business
+pallets,logistics,business
+purchasing,logistics,business
+supply chain management,logistics,business
+thermal management (packaging),logistics,business
+thermal management,logistics,business
+time difference of arrival,logistics,business
+warehouse automation,logistics,business
+warehouses,logistics,business
+warehousing,logistics,business
 computer maintenance,manufacturing,industries
 maintenance,manufacturing,industries
 maintenance engineering,manufacturing,industries
@@ -1197,1047 +1936,27 @@ mining,metals and mining,industries
 natural resources exploration,metals and mining,industries
 ore treatment,metals and mining,industries
 steel,metals and mining,industries
-gas industry,oil and gas,industries
-pipe linings,oil and gas,industries
-pipelines,oil and gas,industries
-pressure drop,oil and gas,industries
-pumps,oil and gas,industries
-circuit diagrams,power and energy,industries
-circuit simulation,power and energy,industries
-coils,power and energy,industries
-compressors,power and energy,industries
-drilling platforms,power and energy,industries
-eddy current testing,power and energy,industries
-electric breakdown,power and energy,industries
-electric current,power and energy,industries
-electric distortion,power and energy,industries
-electric field measurement,power and energy,industries
-electric fields,power and energy,industries
-electric inverters,power and energy,industries
-electric lines,power and energy,industries
-electric load management,power and energy,industries
-electric motors,power and energy,industries
-electric network analysis,power and energy,industries
-electric network parameters,power and energy,industries
-electric oil well pumping,power and energy,industries
-electric power transmission networks,power and energy,industries
-electric power utilization,power and energy,industries
-electric sensing devices,power and energy,industries
-electric utilities,power and energy,industries
-electricity supply industry,power and energy,industries
-electron devices,power and energy,industries
-electronics industry,power and energy,industries
-energy conservation,power and energy,industries
-energy consumption,power and energy,industries
-energy efficiency,power and energy,industries
-energy harvesting,power and energy,industries
-energy management,power and energy,industries
-energy management systems,power and energy,industries
-energy utilization,power and energy,industries
-engines,power and energy,industries
-frequency modulation,power and energy,industries
-furnaces,power and energy,industries
-high-voltage engineering,power and energy,industries
-hvdc power transmission,power and energy,industries
-inductive power transmission,power and energy,industries
-inverse problems,power and energy,industries
-limiters,power and energy,industries
-nuclear energy,power and energy,industries
-nuclear engineering computing,power and energy,industries
-nuclear fuels,power and energy,industries
-nuclear power plants,power and energy,industries
-nuclear power stations,power and energy,industries
-offshore installations,power and energy,industries
-open circuit voltage,power and energy,industries
-petrochemicals,power and energy,industries
-petroleum industry,power and energy,industries
-petroleum reservoir evaluation,power and energy,industries
-photovoltaic cells,power and energy,industries
-piezoelectric transducers,power and energy,industries
-poles,power and energy,industries
-poles and towers,power and energy,industries
-power control,power and energy,industries
-power distribution,power and energy,industries
-power electronics,power and energy,industries
-power engineering,power and energy,industries
-power engineering education,power and energy,industries
-power grids,power and energy,industries
-power meters,power and energy,industries
-power overhead lines,power and energy,industries
-power plants,power and energy,industries
-power supply quality,power and energy,industries
-power transformer insulation,power and energy,industries
-public utilities,power and energy,industries
-radiofrequency power transmission,power and energy,industries
-smart power grids,power and energy,industries
-solar buildings,power and energy,industries
-solar cell arrays,power and energy,industries
-solar cells,power and energy,industries
-solar concentrators,power and energy,industries
-solar energy,power and energy,industries
-solar power generation,power and energy,industries
-solar power plants,power and energy,industries
-substation automation,power and energy,industries
-substations,power and energy,industries
-switchgear insulation,power and energy,industries
-switching substations,power and energy,industries
-thermal conductivity,power and energy,industries
-transformer substations,power and energy,industries
-turbines,power and energy,industries
-ultrasonic transducers,power and energy,industries
-voltage dividers,power and energy,industries
-voltage-controlled oscillators,power and energy,industries
-wind power,power and energy,industries
-wind power plants,power and energy,industries
-wind turbines,power and energy,industries
-3g mobile communication,telecommunication,industries
-4g mobile communication,telecommunication,industries
-5g mobile communication,telecommunication,industries
-5g mobile communication systems,telecommunication,industries
-antenna arrays,telecommunication,industries
-antennas,telecommunication,industries
-beam forming networks,telecommunication,industries
-broadcast communication,telecommunication,industries
-carrier mobility,telecommunication,industries
-cellular radio,telecommunication,industries
-cellular telephones,telecommunication,industries
-channel allocation,telecommunication,industries
-channel capacity,telecommunication,industries
-channel estimation,telecommunication,industries
-channel state information,telecommunication,industries
-communication satellites,telecommunication,industries
-directional patterns (antenna),telecommunication,industries
-directional patterns,telecommunication,industries
-free space optical communication,telecommunication,industries
-frequency division multiple access,telecommunication,industries
-global system for mobile communications,telecommunication,industries
-long term evolution,telecommunication,industries
-long term evolution (lte),telecommunication,industries
-microstrip antennas,telecommunication,industries
-microwave propagation,telecommunication,industries
-microwaves,telecommunication,industries
-millimeter wave devices,telecommunication,industries
-millimeter waves,telecommunication,industries
-millimetre wave communication,telecommunication,industries
-mobile antennas,telecommunication,industries
-mobile communication,telecommunication,industries
-mobile computing,telecommunication,industries
-mobile radio,telecommunication,industries
-mobile telecommunication systems,telecommunication,industries
-mobility management (mobile radio),telecommunication,industries
-mobility management,telecommunication,industries
-multimedia communication,telecommunication,industries
-multipath channels,telecommunication,industries
-multipath propagation,telecommunication,industries
-near-field communication,telecommunication,industries
-omnidirectional antennas,telecommunication,industries
-online systems,telecommunication,industries
-optical communication,telecommunication,industries
-optical communication equipment,telecommunication,industries
-optical fiber fabrication,telecommunication,industries
-optical fibers,telecommunication,industries
-optical transmitters,telecommunication,industries
-parity check codes,telecommunication,industries
-passive optical networks,telecommunication,industries
-radar antennas,telecommunication,industries
-radio,telecommunication,industries
-radio access networks,telecommunication,industries
-radio broadcasting,telecommunication,industries
-radio communication,telecommunication,industries
-radio links,telecommunication,industries
-radio networks,telecommunication,industries
-radio receivers,telecommunication,industries
-radio transceivers,telecommunication,industries
-radio waves,telecommunication,industries
-radiofrequency interconnections,telecommunication,industries
-rayleigh fading,telecommunication,industries
-receivers,telecommunication,industries
-rssi,telecommunication,industries
-scanning antennas,telecommunication,industries
-smart antennas,telecommunication,industries
-smart phones,telecommunication,industries
-smartphones,telecommunication,industries
-software radio,telecommunication,industries
-telecommunication computing,telecommunication,industries
-telecommunication congestion control,telecommunication,industries
-telecommunication control,telecommunication,industries
-telecommunication equipment,telecommunication,industries
-telecommunication industry,telecommunication,industries
-telecommunication network reliability,telecommunication,industries
-telecommunication power management,telecommunication,industries
-telecommunication repeaters,telecommunication,industries
-telecommunication scheduling,telecommunication,industries
-telecommunication services,telecommunication,industries
-telecommunication switching,telecommunication,industries
-telecommunication traffic,telecommunication,industries
-telephone sets,telecommunication,industries
-terahertz waves,telecommunication,industries
-time division multiplexing,telecommunication,industries
-transmissions,telecommunication,industries
-transmitters,telecommunication,industries
-ultra wideband communication,telecommunication,industries
-ultra-wideband (uwb),telecommunication,industries
-ultra-wideband,telecommunication,industries
-air transportation,transportation,industries
-bicycles,transportation,industries
-bridges,transportation,industries
-geotechnical structures,transportation,industries
-highway accidents,transportation,industries
-highway administration,transportation,industries
-highway planning,transportation,industries
-highway traffic control,transportation,industries
-infrastructure,transportation,industries
-intelligent transportation systems,transportation,industries
-intelligent vehicle highway systems,transportation,industries
-motor transportation,transportation,industries
-parking,transportation,industries
-pedestrian safety,transportation,industries
-pedestrians,transportation,industries
-public transport,transportation,industries
-railroad stations,transportation,industries
-rails,transportation,industries
-railway communication,transportation,industries
-road accidents,transportation,industries
-road safety,transportation,industries
-road traffic,transportation,industries
-road traffic control,transportation,industries
-roads,transportation,industries
-roads and streets,transportation,industries
-traffic control,transportation,industries
-traffic engineering computing,transportation,industries
-traffic signs,transportation,industries
-transportation,transportation,industries
-travel industry,transportation,industries
-tunnels,transportation,industries
-urban transportation,transportation,industries
-vehicle to vehicle communications,transportation,industries
-sewage,utilities,industries
-water supply,utilities,industries
-water treatment,utilities,industries
-well stimulation,utilities,industries
-well testing,utilities,industries
-not labeled,other,other
-code standards,standards,standards
-formal specification,standards,standards
-grammars,standards,standards
-high level languages,standards,standards
-http,standards,standards
-iec standards,standards,standards
-ieee standards,standards,standards
-internet protocols,standards,standards
-interoperability,standards,standards
-iso standards,standards,standards
-motion picture experts group standards,standards,standards
-protocols,standards,standards
-reviews,standards,standards
-specification languages,standards,standards
-specifications,standards,standards
-standardization,standards,standards
-adaptive algorithms,artificial intelligence,technology
-adaptive estimation,artificial intelligence,technology
-adaptive systems,artificial intelligence,technology
-agents,artificial intelligence,technology
-anomaly detection,artificial intelligence,technology
-ant colony optimisation,artificial intelligence,technology
-ant colony optimization,artificial intelligence,technology
-approximation algorithms,artificial intelligence,technology
-approximation theory,artificial intelligence,technology
-artificial intelligence,artificial intelligence,technology
-autonomous agents,artificial intelligence,technology
-bayes methods,artificial intelligence,technology
-bayesian networks,artificial intelligence,technology
-classification (of information),artificial intelligence,technology
-information classification,artificial intelligence,technology
-classifiers,artificial intelligence,technology
-cluster analysis,artificial intelligence,technology
-clustering algorithms,artificial intelligence,technology
-clutter,artificial intelligence,technology
-clutter (information theory),artificial intelligence,technology
-information clutter,artificial intelligence,technology
-collaborative filtering,artificial intelligence,technology
-complex networks,artificial intelligence,technology
-computation theory,artificial intelligence,technology
-computational complexity,artificial intelligence,technology
-computational geometry,artificial intelligence,technology
-concave programming,artificial intelligence,technology
-convolutional codes,artificial intelligence,technology
-convolutional neural nets,artificial intelligence,technology
-convolutional neural networks,artificial intelligence,technology
-correlation methods,artificial intelligence,technology
-decision trees,artificial intelligence,technology
-deep learning,artificial intelligence,technology
-deep neural networks,artificial intelligence,technology
-deterministic algorithms,artificial intelligence,technology
-discrete fourier transforms,artificial intelligence,technology
-embeddings,artificial intelligence,technology
-error analysis,artificial intelligence,technology
-error compensation,artificial intelligence,technology
-error correction,artificial intelligence,technology
-estimation theory,artificial intelligence,technology
-evolutionary computation,artificial intelligence,technology
-extended kalman filters,artificial intelligence,technology
-feedforward neural nets,artificial intelligence,technology
-filtering theory,artificial intelligence,technology
-forward error correction,artificial intelligence,technology
-frequency response,artificial intelligence,technology
-function generators,artificial intelligence,technology
-fuzzy control,artificial intelligence,technology
-fuzzy inference,artificial intelligence,technology
-fuzzy logic,artificial intelligence,technology
-fuzzy set theory,artificial intelligence,technology
-fuzzy systems,artificial intelligence,technology
-gaussian processes,artificial intelligence,technology
-genetic algorithms,artificial intelligence,technology
-gradient methods,artificial intelligence,technology
-graph algorithms,artificial intelligence,technology
-graph theory,artificial intelligence,technology
-hidden feature removal,artificial intelligence,technology
-independent component analysis,artificial intelligence,technology
-inference engines,artificial intelligence,technology
-inference mechanisms,artificial intelligence,technology
-informatics,artificial intelligence,technology
-information analysis,artificial intelligence,technology
-intelligent agents,artificial intelligence,technology
-intelligent computing,artificial intelligence,technology
-intelligent systems,artificial intelligence,technology
-iterative methods,artificial intelligence,technology
-kalman filters,artificial intelligence,technology
-knowledge representation,artificial intelligence,technology
-learning (artificial intelligence),artificial intelligence,technology
-learning algorithms,artificial intelligence,technology
-machine learning,artificial intelligence,technology
-markov processes,artificial intelligence,technology
-matrix algebra,artificial intelligence,technology
-maximum entropy methods,artificial intelligence,technology
-mean square error methods,artificial intelligence,technology
-mobile agents,artificial intelligence,technology
-monte carlo methods,artificial intelligence,technology
-motion compensation,artificial intelligence,technology
-multi agent systems,artificial intelligence,technology
-multi-agent systems,artificial intelligence,technology
-multilayer neural networks,artificial intelligence,technology
-multilayer perceptrons,artificial intelligence,technology
-natural language processing,artificial intelligence,technology
-nearest neighbor search,artificial intelligence,technology
-neural net architecture,artificial intelligence,technology
-neural nets,artificial intelligence,technology
-neural networks,artificial intelligence,technology
-nonlinear filters,artificial intelligence,technology
-octrees,artificial intelligence,technology
-ontologies (artificial intelligence),artificial intelligence,technology
-parallel algorithms,artificial intelligence,technology
-particle swarm optimisation,artificial intelligence,technology
-particle swarm optimization (pso),artificial intelligence,technology
-particle swarm optimization,artificial intelligence,technology
-pattern classification,artificial intelligence,technology
-photogrammetry,artificial intelligence,technology
-planning (artificial intelligence),artificial intelligence,technology
-principal component analysis,artificial intelligence,technology
-random forests,artificial intelligence,technology
-recommender systems,artificial intelligence,technology
-recurrent neural nets,artificial intelligence,technology
-recurrent neural networks,artificial intelligence,technology
-regression analysis,artificial intelligence,technology
-reinforcement learning,artificial intelligence,technology
-self-organising feature maps,artificial intelligence,technology
-semantics,artificial intelligence,technology
-set theory,artificial intelligence,technology
-signal denoising,artificial intelligence,technology
-simulated annealing,artificial intelligence,technology
-software agents,artificial intelligence,technology
-stochastic processes,artificial intelligence,technology
-stochastic systems,artificial intelligence,technology
-supercomputers,artificial intelligence,technology
-supervised learning,artificial intelligence,technology
-support vector machines,artificial intelligence,technology
-swarm intelligence,artificial intelligence,technology
-trees (mathematics),artificial intelligence,technology
-trees,artificial intelligence,technology
-unsupervised learning,artificial intelligence,technology
-wavelet transforms,artificial intelligence,technology
-wiener filters,artificial intelligence,technology
-acoustic field measurement,audio,technology
-acoustic fields,audio,technology
-acoustic generators,audio,technology
-acoustic imaging,audio,technology
-acoustic intensity,audio,technology
-acoustic measurement,audio,technology
-acoustic noise,audio,technology
-acoustic radiators,audio,technology
-acoustic signal processing,audio,technology
-acoustic streaming,audio,technology
-acoustic wave absorption,audio,technology
-acoustic wave reflection,audio,technology
-acoustic waves,audio,technology
-acoustics,audio,technology
-active noise control,audio,technology
-audio acoustics,audio,technology
-audio equipment,audio,technology
-audio signal processing,audio,technology
-audio systems,audio,technology
-audio user interfaces,audio,technology
-auditory evoked potentials,audio,technology
-bioacoustics,audio,technology
-computer music,audio,technology
-differential phase shift keying,audio,technology
-distortion (waves),audio,technology
-wave distortion,audio,technology
-earphones,audio,technology
-echo suppression,audio,technology
-equalisers,audio,technology
-feedback amplifiers,audio,technology
-felt,audio,technology
-loudspeakers,audio,technology
-music,audio,technology
-musical instruments,audio,technology
-noise abatement,audio,technology
-noise pollution,audio,technology
-reverberation,audio,technology
-sonar,audio,technology
-sound recording,audio,technology
-sound reproduction,audio,technology
-time-domain analysis,audio,technology
-transient response,audio,technology
-underwater acoustics,audio,technology
-volume measurement,audio,technology
-wave functions,audio,technology
-white noise,audio,technology
-computer vision,computer vision,technology
-conformal mapping,computer vision,technology
-constrained optimization,computer vision,technology
-constraint theory,computer vision,technology
-deconvolution,computer vision,technology
-demodulation,computer vision,technology
-document image processing,computer vision,technology
-dynamics,computer vision,technology
-edge detection,computer vision,technology
-feature extraction,computer vision,technology
-gaussian distribution,computer vision,technology
-hidden markov models,computer vision,technology
-image analysis,computer vision,technology
-image capture,computer vision,technology
-image classification,computer vision,technology
-image coding,computer vision,technology
-image compression,computer vision,technology
-image denoising,computer vision,technology
-image enhancement,computer vision,technology
-image filtering,computer vision,technology
-image fusion,computer vision,technology
-image matching,computer vision,technology
-image processing,computer vision,technology
-image recognition,computer vision,technology
-image reconstruction,computer vision,technology
-image registration,computer vision,technology
-image representation,computer vision,technology
-image restoration,computer vision,technology
-image retrieval,computer vision,technology
-image sampling,computer vision,technology
-image segmentation,computer vision,technology
-image sequences,computer vision,technology
-image understanding,computer vision,technology
-laser applications,computer vision,technology
-median filters,computer vision,technology
-modulation,computer vision,technology
-motion estimation,computer vision,technology
-motion tracking,computer vision,technology
-newsprint,computer vision,technology
-object detection,computer vision,technology
-object recognition,computer vision,technology
-object tracking,computer vision,technology
-optical tracking,computer vision,technology
-pattern clustering,computer vision,technology
-pattern matching,computer vision,technology
-pattern recognition,computer vision,technology
-photography,computer vision,technology
-pipeline processing systems,computer vision,technology
-printing presses,computer vision,technology
-realistic images,computer vision,technology
-self organizing maps,computer vision,technology
-shape recognition,computer vision,technology
-smoothing methods,computer vision,technology
-spectral analysis,computer vision,technology
-speed,computer vision,technology
-stereo image processing,computer vision,technology
-target tracking,computer vision,technology
-tensors,computer vision,technology
-tracking,computer vision,technology
-visibility,computer vision,technology
-vision,computer vision,technology
-adaptive filtering,data,technology
-adaptive filters,data,technology
-air pollution,data,technology
-air quality,data,technology
-analytic hierarchy process,data,technology
-analytical models,data,technology
-asset management,data,technology
-belief networks,data,technology
-benchmarking,data,technology
-big data,data,technology
-black-box testing,data,technology
-cellular automata,data,technology
-channel bank filters,data,technology
-collector efficiency,data,technology
-content based retrieval,data,technology
-content-based retrieval,data,technology
-crowdsourcing,data,technology
-data aggregation,data,technology
-data analysis,data,technology
-data analytics,data,technology
-data compression,data,technology
-data compression ratio,data,technology
-data flow analysis,data,technology
-data fusion,data,technology
-data handling,data,technology
-data integrity,data,technology
-data loggers,data,technology
-data mining,data,technology
-data modeling,data,technology
-data reduction,data,technology
-data science,data,technology
-data storage equipment,data,technology
-data structures,data,technology
-data visualisation,data,technology
-data visualization,data,technology
-data warehouses,data,technology
-database systems,data,technology
-digital arithmetic,data,technology
-distributed control,data,technology
-electronic document exchange,data,technology
-fast fourier transforms,data,technology
-file organisation,data,technology
-flow graphs,data,technology
-formal logic,data,technology
-functions,data,technology
-gaussian noise,data,technology
-gaussian noise (electronic),data,technology
-government data processing,data,technology
-haar transforms,data,technology
-harmonic analysis,data,technology
-hierarchical systems,data,technology
-holographic storage,data,technology
-hough transforms,data,technology
-huffman codes,data,technology
-indexing,data,technology
-indexing (of information),data,technology
-information retrieval,data,technology
-information technology,data,technology
-information theory,data,technology
-integrodifferential equations,data,technology
-interpolation,data,technology
-jitter,data,technology
-knowledge based systems,data,technology
-labeled data,data,technology
-lagrange multipliers,data,technology
-large dataset,data,technology
-least squares approximations,data,technology
-lie algebras,data,technology
-lie groups,data,technology
-linear transformations,data,technology
-linked data,data,technology
-lyapunov functions,data,technology
-magnetic disc storage,data,technology
-mathematical techniques,data,technology
-mathematical transformations,data,technology
-matrix decomposition,data,technology
-matrix multiplication,data,technology
-mean square error,data,technology
-meta data,data,technology
-metadata,data,technology
-modal analysis,data,technology
-models,data,technology
-newton method,data,technology
-open data,data,technology
-particle filtering,data,technology
-particle filtering (numerical methods),data,technology
-personal information systems,data,technology
-phase matching,data,technology
-poisson equation,data,technology
-police data processing,data,technology
-processing,data,technology
-query formulation,data,technology
-query processing,data,technology
-random processes,data,technology
-rational functions,data,technology
-recovery,data,technology
-redundancy,data,technology
-relational databases,data,technology
-reliability,data,technology
-rotation,data,technology
-sampling,data,technology
-sampling methods,data,technology
-search engines,data,technology
-search problems,data,technology
-singular value decomposition,data,technology
-software maintenance,data,technology
-sparse matrices,data,technology
-state estimation,data,technology
-statistical analysis,data,technology
-statistical distributions,data,technology
-statistical testing,data,technology
-statistical tests,data,technology
-storage management,data,technology
-systematic errors,data,technology
-table lookup,data,technology
-taylor series,data,technology
-time series,data,technology
-transcoding,data,technology
-transform coding,data,technology
-virtual machines,data,technology
-visual databases,data,technology
-visualization,data,technology
-waveform analysis,data,technology
-acceptance tests,developers,technology
-ada (programming language),developers,technology
-ada,developers,technology
-android (operating system),developers,technology
-android,developers,technology
-application programming interfaces,developers,technology
-application program interfaces,developers,technology
-application programming interfaces (api),developers,technology
-application programs,developers,technology
-applications,developers,technology
-argon,developers,technology
-authoring languages,developers,technology
-authoring systems,developers,technology
-binary codes,developers,technology
-binary sequences,developers,technology
-buffer storage,developers,technology
-c# language,developers,technology
-c++ (programming language),developers,technology
-c++,developers,technology
-c++ language,developers,technology
-character sets,developers,technology
-closed loop control systems,developers,technology
-codes (symbols),developers,technology
-codes,developers,technology
-coding errors,developers,technology
-color printing,developers,technology
-combinatorial optimization,developers,technology
-computational grammars,developers,technology
-computational methods,developers,technology
-computer applications,developers,technology
-computer architecture,developers,technology
-computer debugging,developers,technology
-computer hardware,developers,technology
-computer operating systems,developers,technology
-computer programming,developers,technology
-computer programming languages,developers,technology
-computer science,developers,technology
-computer simulation languages,developers,technology
-computer software,developers,technology
-computer systems programming,developers,technology
-computer workstations,developers,technology
-computers,developers,technology
-computing methodologies,developers,technology
-conceptual design,developers,technology
-configuration management,developers,technology
-containers,developers,technology
-content management,developers,technology
-convex programming,developers,technology
-data models,developers,technology
-demonstrations,developers,technology
-directed graphs,developers,technology
-distributed database systems,developers,technology
-distributed databases,developers,technology
-dynamic programming,developers,technology
-electronic publishing,developers,technology
-encoding (symbols),developers,technology
-error correction codes,developers,technology
-factorization,developers,technology
-field programmable gate arrays,developers,technology
-finite element analysis,developers,technology
-greedy algorithms,developers,technology
-hypermedia markup languages,developers,technology
-inertial confinement fusion,developers,technology
-information filtering,developers,technology
-information retrieval systems,developers,technology
-information systems,developers,technology
-information systems applications,developers,technology
-input output programs,developers,technology
-integer programming,developers,technology
-intensity measurement,developers,technology
-ios (operating system),developers,technology
-ios,developers,technology
-java,developers,technology
-linear programming,developers,technology
-logic design,developers,technology
-logic programming,developers,technology
-lyapunov methods,developers,technology
-mathematical models,developers,technology
-mathematical programming,developers,technology
-matlab,developers,technology
-microcomputers,developers,technology
-middleware,developers,technology
-modeling languages,developers,technology
-multimedia information systems,developers,technology
-multimedia systems,developers,technology
-natural languages,developers,technology
-nonlinear programming,developers,technology
-np-hard,developers,technology
-numerical analysis,developers,technology
-object oriented programming,developers,technology
-object-oriented databases,developers,technology
-object-oriented methods,developers,technology
-object-oriented programming,developers,technology
-open source software,developers,technology
-open systems,developers,technology
-operating systems (computers),developers,technology
-operating systems,developers,technology
-parallel processing,developers,technology
-parallel programming,developers,technology
-problem oriented languages,developers,technology
-program compilers,developers,technology
-program debugging,developers,technology
-program testing,developers,technology
-program visualisation,developers,technology
-programming,developers,technology
-programming environments,developers,technology
-programming language semantics,developers,technology
-programming languages,developers,technology
-prototyping,developers,technology
-question answering (information retrieval),developers,technology
-question answering,developers,technology
-radial basis function networks,developers,technology
-response time (computer systems),developers,technology
-response time,developers,technology
-robust control,developers,technology
-scheduling,developers,technology
-scheduling algorithms,developers,technology
-shift registers,developers,technology
-software architecture,developers,technology
-software design,developers,technology
-software engineering,developers,technology
-software fault tolerance,developers,technology
-software libraries,developers,technology
-software packages,developers,technology
-software prototyping,developers,technology
-software testing,developers,technology
-software tools,developers,technology
-source code (software),developers,technology
-source code,developers,technology
-spreadsheet programs,developers,technology
-system documentation,developers,technology
-taxonomies,developers,technology
-testbeds,developers,technology
-user centered design,developers,technology
-user centred design,developers,technology
-user manuals,developers,technology
-user modelling,developers,technology
-virtual reality languages,developers,technology
-visual languages,developers,technology
-visual programming,developers,technology
-analogue-digital conversion,engineering,technology
-atmospheric temperature,engineering,technology
-biochemical engineering,engineering,technology
-biometrics (access control),engineering,technology
-bridges (structures),engineering,technology
-cathode ray oscilloscopes,engineering,technology
-civil engineering,engineering,technology
-computational electromagnetics,engineering,technology
-computer aided software engineering,engineering,technology
-control engineering,engineering,technology
-control engineering computing,engineering,technology
-design engineering,engineering,technology
-eigenvalues and eigenfunctions,engineering,technology
-elasticity,engineering,technology
-electrical engineering,engineering,technology
-electrical engineering computing,engineering,technology
-electromagnetic compatibility,engineering,technology
-electromagnetic shielding,engineering,technology
-electronics engineering,engineering,technology
-engineering computing,engineering,technology
-engineering information systems,engineering,technology
-engineering research,engineering,technology
-environmental engineering,engineering,technology
-environmental science computing,engineering,technology
-gravitation,engineering,technology
-interference suppression,engineering,technology
-laser fusion,engineering,technology
-lighting control,engineering,technology
-magnetic levitation,engineering,technology
-mathematics computing,engineering,technology
-mechanical engineering,engineering,technology
-phsyics,engineering,technology
-physics,engineering,technology
-physics computing,engineering,technology
-power convertors,engineering,technology
-power engineering computing,engineering,technology
-precision engineering,engineering,technology
-regional planning,engineering,technology
-research and development,engineering,technology
-rock mechanics,engineering,technology
-shear deformation,engineering,technology
-shear modulus,engineering,technology
-stiffness,engineering,technology
-structural engineering computing,engineering,technology
-surface roughness,engineering,technology
-systems analysis,engineering,technology
-systems engineering,engineering,technology
-technical drawing,engineering,technology
-thermal engineering,engineering,technology
-timing circuits,engineering,technology
-toeplitz matrices,engineering,technology
-transfer functions,engineering,technology
-armored vehicles,geospatial,technology
-buried object detection,geospatial,technology
-climate models,geospatial,technology
-digital elevation models,geospatial,technology
-earth (planet),geospatial,technology
-earth,geospatial,technology
-earth atmosphere,geospatial,technology
-earthquakes,geospatial,technology
-environmental monitoring (geophysics),geospatial,technology
-environmental monitoring,geospatial,technology
-envrionment,geospatial,technology
-fountains,geospatial,technology
-geographic information systems,geospatial,technology
-geography,geospatial,technology
-geological surveys,geospatial,technology
-geology,geospatial,technology
-geomagnetic navigation,geospatial,technology
-geomagnetism,geospatial,technology
-geomorphology,geospatial,technology
-geophysical image processing,geospatial,technology
-geophysical prospecting,geospatial,technology
-geophysical techniques,geospatial,technology
-geophysics computing,geospatial,technology
-global positioning system,geospatial,technology
-ground penetrating radar,geospatial,technology
-indoor positioning systems,geospatial,technology
-inertial navigation,geospatial,technology
-inertial navigation systems,geospatial,technology
-ionosphere,geospatial,technology
-lakes,geospatial,technology
-landforms,geospatial,technology
-location,geospatial,technology
-location based services,geospatial,technology
-potable water,geospatial,technology
-radar,geospatial,technology
-radar imaging,geospatial,technology
-radar tracking,geospatial,technology
-rural areas,geospatial,technology
-spatiotemporal phenomena,geospatial,technology
-surface topography,geospatial,technology
-surveying,geospatial,technology
-tectonics,geospatial,technology
-terrain mapping,geospatial,technology
-topography (earth),geospatial,technology
-topography,geospatial,technology
-topology,geospatial,technology
-tracking (position),geospatial,technology
-tsunamis,geospatial,technology
-volcanoes,geospatial,technology
-volcanology,geospatial,technology
-affine transforms,graphics,technology
-animation,graphics,technology
-antialiasing,graphics,technology
-aspect ratio,graphics,technology
-brightness,graphics,technology
-cad,graphics,technology
-cad/cam,graphics,technology
-color,graphics,technology
-color codes,graphics,technology
-color matching,graphics,technology
-computer aided design,graphics,technology
-computer animation,graphics,technology
-computer generated holography,graphics,technology
-computer graphics,graphics,technology
-computer graphics equipment,graphics,technology
-computer-generated holography,graphics,technology
-curve fitting,graphics,technology
-deformation,graphics,technology
-engineering graphics,graphics,technology
-flickering,graphics,technology
-flow visualization,graphics,technology
-geometry,graphics,technology
-graphic methods,graphics,technology
-graphical user interfaces,graphics,technology
-graphics systems and interfaces,graphics,technology
-holograms,graphics,technology
-image colour analysis,graphics,technology
-image morphing,graphics,technology
-image quality,graphics,technology
-image resolution,graphics,technology
-image texture,graphics,technology
-interactive computer graphics,graphics,technology
-luminance,graphics,technology
-merging,graphics,technology
-mesh generation,graphics,technology
-molecular graphics,graphics,technology
-optical images,graphics,technology
-photochromism,graphics,technology
-photographic accessories,graphics,technology
-pixels,graphics,technology
-pose estimation,graphics,technology
-ray tracing,graphics,technology
-rendering (computer graphics),graphics,technology
-rendering,graphics,technology
-spheres,graphics,technology
-splines (mathematics),graphics,technology
-splines,graphics,technology
-superpixels,graphics,technology
-surface reconstruction,graphics,technology
-texturing,graphics,technology
-three dimensional computer graphics,graphics,technology
-transforms,graphics,technology
-transparency,graphics,technology
-aerial photography,input,technology
-angular velocity,input,technology
-audio-visual systems,input,technology
-bar codes,input,technology
-blind source separation,input,technology
-cameras,input,technology
-ccd cameras,input,technology
-character recognition,input,technology
-charge coupled devices,input,technology
-charts,input,technology
-color vision,input,technology
-colorimetry,input,technology
-communication,input,technology
-compasses (magnetic),input,technology
-compasses,input,technology
-computer keyboards,input,technology
-computer peripheral equipment,input,technology
-controllers,input,technology
-data acquisition,input,technology
-data gloves,input,technology
-decoding,input,technology
-doppler effect,input,technology
-electric relays,input,technology
-electromagnetic fields,input,technology
-electromagnetic forces,input,technology
-electromechanical devices,input,technology
-electron holography,input,technology
-electronic nose,input,technology
-electronic noses,input,technology
-electro-optical devices,input,technology
-emotion recognition,input,technology
-encoding,input,technology
-eye,input,technology
-eye movements,input,technology
-eye tracking,input,technology
-face recognition,input,technology
-feature selection,input,technology
-fluorescence,input,technology
-force feedback,input,technology
-friction,input,technology
-gaze tracking,input,technology
-gesture recognition,input,technology
-gyroscopes,input,technology
-hand held computers,input,technology
-handwriting recognition,input,technology
-handwritten character recognition,input,technology
-haptic interfaces,input,technology
-hypertext systems,input,technology
-image motion analysis,input,technology
-image scanners,input,technology
-image sensors,input,technology
-indoor radio,input,technology
-infrared imaging,input,technology
-interactive devices,input,technology
-interactive systems,input,technology
-interactive systems and tools,input,technology
-keyboards,input,technology
-knobs,input,technology
-language translation,input,technology
-laptop computers,input,technology
-laser ranging,input,technology
-light,input,technology
-light interference,input,technology
-light modulation,input,technology
-light modulators,input,technology
-light pens,input,technology
-light polarisation,input,technology
-light polarization,input,technology
-light propagation,input,technology
-light reflection,input,technology
-light sources,input,technology
-light transmission,input,technology
-lighting,input,technology
-linguistics,input,technology
-load testing,input,technology
-magnetometers,input,technology
-mammals,input,technology
-matched filters,input,technology
-mice (computer peripherals),input,technology
-microphone arrays,input,technology
-microphones,input,technology
-mobile handsets,input,technology
-motion analysis,input,technology
-mouse controllers (computers),input,technology
-mouse controllers,input,technology
-natural language interfaces,input,technology
-natural language processing systems,input,technology
-notebook computers,input,technology
-odors,input,technology
-optical character recognition,input,technology
-palmprint recognition,input,technology
-personal communication systems,input,technology
-personal computing,input,technology
-photodetectors,input,technology
-photoluminescence,input,technology
-photometry,input,technology
-position measurement,input,technology
-qr codes,input,technology
-radio frequency identification (rfid),input,technology
-radio frequency identification,input,technology
-radiofrequency interference,input,technology
-refraction,input,technology
-refractive index,input,technology
-remote control,input,technology
-reusability,input,technology
-sand,input,technology
-scanning,input,technology
-sensor data fusion,input,technology
-sensory perception,input,technology
-sentiment analysis,input,technology
-sign language recognition,input,technology
-signal encoding,input,technology
-speaker recognition,input,technology
-spectroscopy,input,technology
-speech,input,technology
-speech based user interfaces,input,technology
-speech communication,input,technology
-speech enhancement,input,technology
-speech intelligibility,input,technology
-speech processing,input,technology
-speech recognition,input,technology
-speech synthesis,input,technology
-speech-based user interfaces,input,technology
-strain gages,input,technology
-stray light,input,technology
-synchronisation,input,technology
-synchronization,input,technology
-tactile sensors,input,technology
-temperature indicating cameras,input,technology
-text analysis,input,technology
-text detection,input,technology
-text processing,input,technology
-textures,input,technology
-thermocouples,input,technology
-thermography (imaging),input,technology
-touch (physiological),input,technology
-touch,input,technology
-touch screens,input,technology
-touch sensitive screens,input,technology
-triangulation,input,technology
-ultrasonic devices,input,technology
-ultrasonic imaging,input,technology
-ultraviolet lamps,input,technology
-ultra-wideband (uwb),input,technology
-vibrations,input,technology
-visible light communication,input,technology
-visual perception,input,technology
-voice activity detection,input,technology
-voice communication,input,technology
-volume rendering,input,technology
-ambient intelligence,internet of things,technology
-cognitive radio,internet of things,technology
-incandescent lamps,internet of things,technology
-industry 4.0,internet of things,technology
-internet of things,internet of things,technology
-led lamps,internet of things,technology
-mechatronics,internet of things,technology
+cartography,navigation,use cases
+computerised navigation,navigation,use cases
+direction-of-arrival estimation,navigation,use cases
+distance measurement,navigation,use cases
+electronic guidance systems,navigation,use cases
+indoor environment,navigation,use cases
+indoor navigation,navigation,use cases
+mapping,navigation,use cases
+maps,navigation,use cases
+navigation,navigation,use cases
+navigation systems,navigation,use cases
+propellers,navigation,use cases
+radio navigation,navigation,use cases
+radionavigation,navigation,use cases
+random errors,navigation,use cases
+range finding,navigation,use cases
+stairs,navigation,use cases
+street traffic control,navigation,use cases
+time-of-arrival estimation,navigation,use cases
+trajectories,navigation,use cases
+uncertainty analysis,navigation,use cases
 ad hoc networks,networks,technology
 antenna phased arrays,networks,technology
 backpropagation,networks,technology
@@ -2342,6 +2061,217 @@ wireless local area networks (wlan),networks,technology
 wireless mesh networks,networks,technology
 wireless networks,networks,technology
 wireless sensor networks,networks,technology
+gas industry,oil and gas,industries
+pipe linings,oil and gas,industries
+pipelines,oil and gas,industries
+pressure drop,oil and gas,industries
+pumps,oil and gas,industries
+aberrations,optics,displays
+adaptive optics,optics,displays
+aspherical optics,optics,displays
+beamforming,optics,displays
+berry phase,optics,displays
+binoculars,optics,displays
+bio optics,optics,displays
+bio-optics,optics,displays
+diffraction,optics,displays
+diffraction gratings,optics,displays
+diffractive optics,optics,displays
+diffusers (optical),optics,displays
+optical diffusers,optics,displays
+electro optical devices,optics,displays
+electronic engineering computing,optics,displays
+free-space optical communication,optics,displays
+fresnel diffraction,optics,displays
+geometrical optics,optics,displays
+holographic optical elements,optics,displays
+integrated optics,optics,displays
+integrated optoelectronics,optics,displays
+labeling,optics,displays
+laser ablation,optics,displays
+laser beams,optics,displays
+michelson interferometers,optics,displays
+micro optics,optics,displays
+microlenses,optics,displays
+micro-optics,optics,displays
+micro-optomechanical devices,optics,displays
+mirrors,optics,displays
+nonlinear optics,optics,displays
+optical arrays,optics,displays
+optical beam splitters,optics,displays
+optical collimators,optics,displays
+optical computing,optics,displays
+optical correlation,optics,displays
+optical couplers,optics,displays
+optical data processing,optics,displays
+optical design,optics,displays
+optical design techniques,optics,displays
+optical distortion,optics,displays
+optical elements,optics,displays
+optical engineering computing,optics,displays
+optical filters,optics,displays
+optical flows,optics,displays
+optical glass,optics,displays
+optical image storage,optics,displays
+optical information processing,optics,displays
+optical instrument lenses,optics,displays
+optical instruments,optics,displays
+optical lattices,optics,displays
+optical links,optics,displays
+optical microscopes,optics,displays
+optical microscopy,optics,displays
+optical modulation,optics,displays
+optical multilayers,optics,displays
+optical projectors,optics,displays
+optical properties,optics,displays
+optical radar,optics,displays
+optical receivers,optics,displays
+optical resolving power,optics,displays
+optical retarders,optics,displays
+optical scanners,optics,displays
+optical sensors,optics,displays
+optical switches,optics,displays
+optical systems,optics,displays
+optical tweezers,optics,displays
+optical waveguides,optics,displays
+optics,optics,displays
+photonics,optics,displays
+planar waveguides,optics,displays
+visible spectra,optics,displays
+waveguides,optics,displays
+not labeled,other,other
+climate change,policy,business
+climate mitigation,policy,business
+computer literacy,policy,business
+contracts,policy,business
+cultural aspects,policy,business
+data privacy,policy,business
+developing countries,policy,business
+economic and social effects,policy,business
+environmental impact,policy,business
+environmental impact assessments,policy,business
+environmental management,policy,business
+environmental regulations,policy,business
+ethical aspects,policy,business
+global warming,policy,business
+government policies,policy,business
+green computing,policy,business
+human engineering,policy,business
+industrial psychology,policy,business
+insurance data processing,policy,business
+intellectual property,policy,business
+journalism,policy,business
+land use,policy,business
+law administration,policy,business
+laws and legislation,policy,business
+legislation,policy,business
+patents,policy,business
+patents and inventions,policy,business
+philosophical aspects,policy,business
+policy,policy,business
+politics,policy,business
+population statistics,policy,business
+public administration,policy,business
+public health,policy,business
+public policy,policy,business
+regulatory compliance,policy,business
+religion,policy,business
+social aspects,policy,business
+social aspects of automation,policy,business
+social sciences,policy,business
+socio-economic effects,policy,business
+sustainable development,policy,business
+water resources,policy,business
+circuit diagrams,power and energy,industries
+circuit simulation,power and energy,industries
+coils,power and energy,industries
+compressors,power and energy,industries
+drilling platforms,power and energy,industries
+eddy current testing,power and energy,industries
+electric breakdown,power and energy,industries
+electric current,power and energy,industries
+electric distortion,power and energy,industries
+electric field measurement,power and energy,industries
+electric fields,power and energy,industries
+electric inverters,power and energy,industries
+electric lines,power and energy,industries
+electric load management,power and energy,industries
+electric motors,power and energy,industries
+electric network analysis,power and energy,industries
+electric network parameters,power and energy,industries
+electric oil well pumping,power and energy,industries
+electric power transmission networks,power and energy,industries
+electric power utilization,power and energy,industries
+electric sensing devices,power and energy,industries
+electric utilities,power and energy,industries
+electricity supply industry,power and energy,industries
+electron devices,power and energy,industries
+electronics industry,power and energy,industries
+energy conservation,power and energy,industries
+energy consumption,power and energy,industries
+energy efficiency,power and energy,industries
+energy harvesting,power and energy,industries
+energy management,power and energy,industries
+energy management systems,power and energy,industries
+energy utilization,power and energy,industries
+engines,power and energy,industries
+frequency modulation,power and energy,industries
+furnaces,power and energy,industries
+high-voltage engineering,power and energy,industries
+hvdc power transmission,power and energy,industries
+inductive power transmission,power and energy,industries
+inverse problems,power and energy,industries
+limiters,power and energy,industries
+nuclear energy,power and energy,industries
+nuclear engineering computing,power and energy,industries
+nuclear fuels,power and energy,industries
+nuclear power plants,power and energy,industries
+nuclear power stations,power and energy,industries
+offshore installations,power and energy,industries
+open circuit voltage,power and energy,industries
+petrochemicals,power and energy,industries
+petroleum industry,power and energy,industries
+petroleum reservoir evaluation,power and energy,industries
+photovoltaic cells,power and energy,industries
+piezoelectric transducers,power and energy,industries
+poles,power and energy,industries
+poles and towers,power and energy,industries
+power control,power and energy,industries
+power distribution,power and energy,industries
+power electronics,power and energy,industries
+power engineering,power and energy,industries
+power engineering education,power and energy,industries
+power grids,power and energy,industries
+power meters,power and energy,industries
+power overhead lines,power and energy,industries
+power plants,power and energy,industries
+power supply quality,power and energy,industries
+power transformer insulation,power and energy,industries
+public utilities,power and energy,industries
+radiofrequency power transmission,power and energy,industries
+smart power grids,power and energy,industries
+solar buildings,power and energy,industries
+solar cell arrays,power and energy,industries
+solar cells,power and energy,industries
+solar concentrators,power and energy,industries
+solar energy,power and energy,industries
+solar power generation,power and energy,industries
+solar power plants,power and energy,industries
+substation automation,power and energy,industries
+substations,power and energy,industries
+switchgear insulation,power and energy,industries
+switching substations,power and energy,industries
+thermal conductivity,power and energy,industries
+transformer substations,power and energy,industries
+turbines,power and energy,industries
+ultrasonic transducers,power and energy,industries
+voltage dividers,power and energy,industries
+voltage-controlled oscillators,power and energy,industries
+wind power,power and energy,industries
+wind power plants,power and energy,industries
+wind turbines,power and energy,industries
+avatars,presence,end users and user experience
+reflection,presence,end users and user experience
 anthropomorphic robots,robotics,technology
 biped locomotion,robotics,technology
 chaos,robotics,technology
@@ -2396,6 +2326,30 @@ telerobotics,robotics,technology
 trajectory control,robotics,technology
 two term control systems,robotics,technology
 visual servoing,robotics,technology
+advertising,sales and marketing,business
+advertising data processing,sales and marketing,business
+bitcoin,sales and marketing,business
+commerce,sales and marketing,business
+commercial off-the-shelf,sales and marketing,business
+consumer behaviour,sales and marketing,business
+cryptocurrencies,sales and marketing,business
+customer relationship management,sales and marketing,business
+customer satisfaction,sales and marketing,business
+customer services,sales and marketing,business
+electronic commerce,sales and marketing,business
+electronic money,sales and marketing,business
+exhibitions,sales and marketing,business
+marketing,sales and marketing,business
+marketing data processing,sales and marketing,business
+mobile commerce,sales and marketing,business
+pricing,sales and marketing,business
+promotion (marketing),sales and marketing,business
+promotion,sales and marketing,business
+retail data processing,sales and marketing,business
+retailing,sales and marketing,business
+sales,sales and marketing,business
+sales management,sales and marketing,business
+value engineering,sales and marketing,business
 access control,security,technology
 access protocols,security,technology
 authentication,security,technology
@@ -2567,155 +2521,6 @@ ultrasonics,sensors,technology
 velocity measurement,sensors,technology
 vibration measurement,sensors,technology
 vibrations (mechanical),sensors,technology
-abstracting,video,technology
-closed circuit television,video,technology
-digital video broadcasting,video,technology
-entropy,video,technology
-film preparation,video,technology
-importance sampling,video,technology
-interactive video,video,technology
-media streaming,video,technology
-motion pictures,video,technology
-parameter estimation,video,technology
-partial differential equations,video,technology
-polynomial approximation,video,technology
-polynomials,video,technology
-probability,video,technology
-rate distortion theory,video,technology
-synthetic apertures,video,technology
-television production,video,technology
-vectors,video,technology
-video cameras,video,technology
-video codecs,video,technology
-video coding,video,technology
-video communication,video,technology
-video on demand,video,technology
-video recording,video,technology
-video retrieval,video,technology
-video streaming,video,technology
-ontology,web services,technology
-portals,web services,technology
-semantic networks,web services,technology
-semantic web,web services,technology
-vocabulary,web services,technology
-web browsers,web services,technology
-web design,web services,technology
-web services,web services,technology
-web sites,web services,technology
-websites,web services,technology
-xml,web services,technology
-computer mediated communication,collaboration,use cases
-cooperative communication,collaboration,use cases
-cooperative systems,collaboration,use cases
-domes,collaboration,use cases
-groupware,collaboration,use cases
-image communication systems,collaboration,use cases
-online conferencing,collaboration,use cases
-social computing,collaboration,use cases
-social networking (online),collaboration,use cases
-social networking,collaboration,use cases
-team working,collaboration,use cases
-teleconferencing,collaboration,use cases
-video conferencing,collaboration,use cases
-accident prevention,"inspection, safety and quality",use cases
-accidents,"inspection, safety and quality",use cases
-alignment,"inspection, safety and quality",use cases
-chemical attack,"inspection, safety and quality",use cases
-chemical detection,"inspection, safety and quality",use cases
-climate control,"inspection, safety and quality",use cases
-defects,"inspection, safety and quality",use cases
-disaster prevention,"inspection, safety and quality",use cases
-domestic safety,"inspection, safety and quality",use cases
-electrical safety,"inspection, safety and quality",use cases
-error detection,"inspection, safety and quality",use cases
-eye protection,"inspection, safety and quality",use cases
-failure (mechanical),"inspection, safety and quality",use cases
-mechanical failure,"inspection, safety and quality",use cases
-failure analysis,"inspection, safety and quality",use cases
-fault detection,"inspection, safety and quality",use cases
-fault diagnosis,"inspection, safety and quality",use cases
-fault tolerance,"inspection, safety and quality",use cases
-fault tolerant computer systems,"inspection, safety and quality",use cases
-fire extinguishers,"inspection, safety and quality",use cases
-formal verification,"inspection, safety and quality",use cases
-hazards,"inspection, safety and quality",use cases
-health and safety,"inspection, safety and quality",use cases
-health hazards,"inspection, safety and quality",use cases
-health risks,"inspection, safety and quality",use cases
-industrial hygiene,"inspection, safety and quality",use cases
-inspection,"inspection, safety and quality",use cases
-life testing,"inspection, safety and quality",use cases
-measurement,"inspection, safety and quality",use cases
-measurement errors,"inspection, safety and quality",use cases
-measurement uncertainty,"inspection, safety and quality",use cases
-monitoring,"inspection, safety and quality",use cases
-natural radioactivity hazards,"inspection, safety and quality",use cases
-negative bias temperature instability,"inspection, safety and quality",use cases
-nondestructive examination,"inspection, safety and quality",use cases
-nondestructive testing,"inspection, safety and quality",use cases
-occupational health,"inspection, safety and quality",use cases
-occupational risks,"inspection, safety and quality",use cases
-occupational safety,"inspection, safety and quality",use cases
-occupational stress,"inspection, safety and quality",use cases
-operational amplifiers,"inspection, safety and quality",use cases
-oscilloscopes,"inspection, safety and quality",use cases
-process monitoring,"inspection, safety and quality",use cases
-product quality,"inspection, safety and quality",use cases
-quality assurance,"inspection, safety and quality",use cases
-quality control,"inspection, safety and quality",use cases
-quality function deployment,"inspection, safety and quality",use cases
-quality management,"inspection, safety and quality",use cases
-quality of experience,"inspection, safety and quality",use cases
-radiation protection,"inspection, safety and quality",use cases
-radiation shielding,"inspection, safety and quality",use cases
-reliability analysis,"inspection, safety and quality",use cases
-risk analysis,"inspection, safety and quality",use cases
-risk assessment,"inspection, safety and quality",use cases
-risk management,"inspection, safety and quality",use cases
-risk perception,"inspection, safety and quality",use cases
-safety,"inspection, safety and quality",use cases
-safety critical software,"inspection, safety and quality",use cases
-safety devices,"inspection, safety and quality",use cases
-safety engineering,"inspection, safety and quality",use cases
-safety factor,"inspection, safety and quality",use cases
-safety systems,"inspection, safety and quality",use cases
-safety-critical software,"inspection, safety and quality",use cases
-scalability,"inspection, safety and quality",use cases
-software performance evaluation,"inspection, safety and quality",use cases
-software quality,"inspection, safety and quality",use cases
-stability,"inspection, safety and quality",use cases
-surveys,"inspection, safety and quality",use cases
-system monitoring,"inspection, safety and quality",use cases
-system stability,"inspection, safety and quality",use cases
-systematic errors,"inspection, safety and quality",use cases
-tensile testing,"inspection, safety and quality",use cases
-testing,"inspection, safety and quality",use cases
-total quality management,"inspection, safety and quality",use cases
-water levels,"inspection, safety and quality",use cases
-water quality,"inspection, safety and quality",use cases
-wear,"inspection, safety and quality",use cases
-wear of materials,"inspection, safety and quality",use cases
-cartography,navigation,use cases
-computerised navigation,navigation,use cases
-direction-of-arrival estimation,navigation,use cases
-distance measurement,navigation,use cases
-electronic guidance systems,navigation,use cases
-indoor environment,navigation,use cases
-indoor navigation,navigation,use cases
-mapping,navigation,use cases
-maps,navigation,use cases
-navigation,navigation,use cases
-navigation systems,navigation,use cases
-propellers,navigation,use cases
-radio navigation,navigation,use cases
-radionavigation,navigation,use cases
-random errors,navigation,use cases
-range finding,navigation,use cases
-stairs,navigation,use cases
-street traffic control,navigation,use cases
-time-of-arrival estimation,navigation,use cases
-trajectories,navigation,use cases
-uncertainty analysis,navigation,use cases
 artificial life,simulation,use cases
 automobile simulators,simulation,use cases
 computational fluid dynamics,simulation,use cases
@@ -2750,6 +2555,110 @@ town and country planning,smart cities,use cases
 urban growth,smart cities,use cases
 urban planning,smart cities,use cases
 virtual prototyping,smart cities,use cases
+code standards,standards,standards
+formal specification,standards,standards
+grammars,standards,standards
+high level languages,standards,standards
+http,standards,standards
+iec standards,standards,standards
+ieee standards,standards,standards
+internet protocols,standards,standards
+interoperability,standards,standards
+iso standards,standards,standards
+motion picture experts group standards,standards,standards
+protocols,standards,standards
+reviews,standards,standards
+specification languages,standards,standards
+specifications,standards,standards
+standardization,standards,standards
+3g mobile communication,telecommunication,industries
+4g mobile communication,telecommunication,industries
+5g mobile communication,telecommunication,industries
+5g mobile communication systems,telecommunication,industries
+antenna arrays,telecommunication,industries
+antennas,telecommunication,industries
+beam forming networks,telecommunication,industries
+broadcast communication,telecommunication,industries
+carrier mobility,telecommunication,industries
+cellular radio,telecommunication,industries
+cellular telephones,telecommunication,industries
+channel allocation,telecommunication,industries
+channel capacity,telecommunication,industries
+channel estimation,telecommunication,industries
+channel state information,telecommunication,industries
+communication satellites,telecommunication,industries
+directional patterns (antenna),telecommunication,industries
+directional patterns,telecommunication,industries
+free space optical communication,telecommunication,industries
+frequency division multiple access,telecommunication,industries
+global system for mobile communications,telecommunication,industries
+long term evolution,telecommunication,industries
+long term evolution (lte),telecommunication,industries
+microstrip antennas,telecommunication,industries
+microwave propagation,telecommunication,industries
+microwaves,telecommunication,industries
+millimeter wave devices,telecommunication,industries
+millimeter waves,telecommunication,industries
+millimetre wave communication,telecommunication,industries
+mobile antennas,telecommunication,industries
+mobile communication,telecommunication,industries
+mobile computing,telecommunication,industries
+mobile radio,telecommunication,industries
+mobile telecommunication systems,telecommunication,industries
+mobility management (mobile radio),telecommunication,industries
+mobility management,telecommunication,industries
+multimedia communication,telecommunication,industries
+multipath channels,telecommunication,industries
+multipath propagation,telecommunication,industries
+near-field communication,telecommunication,industries
+omnidirectional antennas,telecommunication,industries
+online systems,telecommunication,industries
+optical communication,telecommunication,industries
+optical communication equipment,telecommunication,industries
+optical fiber fabrication,telecommunication,industries
+optical fibers,telecommunication,industries
+optical transmitters,telecommunication,industries
+parity check codes,telecommunication,industries
+passive optical networks,telecommunication,industries
+radar antennas,telecommunication,industries
+radio,telecommunication,industries
+radio access networks,telecommunication,industries
+radio broadcasting,telecommunication,industries
+radio communication,telecommunication,industries
+radio links,telecommunication,industries
+radio networks,telecommunication,industries
+radio receivers,telecommunication,industries
+radio transceivers,telecommunication,industries
+radio waves,telecommunication,industries
+radiofrequency interconnections,telecommunication,industries
+rayleigh fading,telecommunication,industries
+receivers,telecommunication,industries
+rssi,telecommunication,industries
+scanning antennas,telecommunication,industries
+smart antennas,telecommunication,industries
+smart phones,telecommunication,industries
+smartphones,telecommunication,industries
+software radio,telecommunication,industries
+telecommunication computing,telecommunication,industries
+telecommunication congestion control,telecommunication,industries
+telecommunication control,telecommunication,industries
+telecommunication equipment,telecommunication,industries
+telecommunication industry,telecommunication,industries
+telecommunication network reliability,telecommunication,industries
+telecommunication power management,telecommunication,industries
+telecommunication repeaters,telecommunication,industries
+telecommunication scheduling,telecommunication,industries
+telecommunication services,telecommunication,industries
+telecommunication switching,telecommunication,industries
+telecommunication traffic,telecommunication,industries
+telephone sets,telecommunication,industries
+terahertz waves,telecommunication,industries
+time division multiplexing,telecommunication,industries
+transmissions,telecommunication,industries
+transmitters,telecommunication,industries
+ultra wideband communication,telecommunication,industries
+ultra-wideband (uwb),telecommunication,industries
+ultra-wideband,telecommunication,industries
 apprentices,training,use cases
 computer aided instruction,training,use cases
 computer based training,training,use cases
@@ -2760,3 +2669,94 @@ teacher training,training,use cases
 technical presentation,training,use cases
 training,training,use cases
 vocational training,training,use cases
+air transportation,transportation,industries
+bicycles,transportation,industries
+bridges,transportation,industries
+geotechnical structures,transportation,industries
+highway accidents,transportation,industries
+highway administration,transportation,industries
+highway planning,transportation,industries
+highway traffic control,transportation,industries
+infrastructure,transportation,industries
+intelligent transportation systems,transportation,industries
+intelligent vehicle highway systems,transportation,industries
+motor transportation,transportation,industries
+parking,transportation,industries
+pedestrian safety,transportation,industries
+pedestrians,transportation,industries
+public transport,transportation,industries
+railroad stations,transportation,industries
+rails,transportation,industries
+railway communication,transportation,industries
+road accidents,transportation,industries
+road safety,transportation,industries
+road traffic,transportation,industries
+road traffic control,transportation,industries
+roads,transportation,industries
+roads and streets,transportation,industries
+traffic control,transportation,industries
+traffic engineering computing,transportation,industries
+traffic signs,transportation,industries
+transportation,transportation,industries
+travel industry,transportation,industries
+tunnels,transportation,industries
+urban transportation,transportation,industries
+vehicle to vehicle communications,transportation,industries
+engineers,users,end users and user experience
+snow,users,end users and user experience
+stars,users,end users and user experience
+students,users,end users and user experience
+studios,users,end users and user experience
+television,users,end users and user experience
+television broadcasting,users,end users and user experience
+sewage,utilities,industries
+water supply,utilities,industries
+water treatment,utilities,industries
+well stimulation,utilities,industries
+well testing,utilities,industries
+abstracting,video,technology
+closed circuit television,video,technology
+digital video broadcasting,video,technology
+entropy,video,technology
+film preparation,video,technology
+importance sampling,video,technology
+interactive video,video,technology
+media streaming,video,technology
+motion pictures,video,technology
+parameter estimation,video,technology
+partial differential equations,video,technology
+polynomial approximation,video,technology
+polynomials,video,technology
+probability,video,technology
+rate distortion theory,video,technology
+synthetic apertures,video,technology
+television production,video,technology
+vectors,video,technology
+video cameras,video,technology
+video codecs,video,technology
+video coding,video,technology
+video communication,video,technology
+video on demand,video,technology
+video recording,video,technology
+video retrieval,video,technology
+video streaming,video,technology
+cybernetics,wearables,displays
+headphones,wearables,displays
+helmet mounted displays,wearables,displays
+laplace equations,wearables,displays
+stresses,wearables,displays
+wearable computers,wearables,displays
+wearable robots,wearables,displays
+wearable sensors,wearables,displays
+wearable technology,wearables,displays
+ontology,web services,technology
+portals,web services,technology
+semantic networks,web services,technology
+semantic web,web services,technology
+vocabulary,web services,technology
+web browsers,web services,technology
+web design,web services,technology
+web services,web services,technology
+web sites,web services,technology
+websites,web services,technology
+xml,web services,technology
