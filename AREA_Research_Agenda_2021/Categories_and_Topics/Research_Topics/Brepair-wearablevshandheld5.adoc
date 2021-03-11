@@ -1,5 +1,5 @@
 
-[[ra-Brepair-wearablevshandheld5]]
+[[ra-Brepair5-wearablevshandheld]]
 
 # Wearable vs Handheld: Quantifying the Impact of HMDs on manual Procedures
 

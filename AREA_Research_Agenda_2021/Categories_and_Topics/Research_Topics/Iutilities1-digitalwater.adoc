@@ -1,7 +1,6 @@
 [[ra-Iutilities1-digitalwater]]
 
-# Title
-Documenting Water PipelineNetwork Topology via HMDs
+# Documenting Water Pipeline Network Topology via HMDs
 
 # Description
 Municipal water systems can be major beneficiaries of Digital Water Services: a combination of Source Monitoring, Production & Quality management, Leak Detection, Water Balance & Network Monitoring/Modeling and Process Control. In order to deploy these services the first step is to create a digital representation of the pipeline network by reconciling the pipeline network documentation through on-site measurement and validation.

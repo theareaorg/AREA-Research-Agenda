@@ -1,0 +1,41 @@
+
+[[ra-Imarine5-containertechnologies]]
+
+# Visualization and Control of Commercial Container Technologies
+
+# Description
+Shipping vessels carry 90% of all global trade. Containers play an important role in the transportation of goods by sea. There are a variety of ways that AR can assist employees to track and manage containers on a vessel or in a port. By having information about the status of containers, as well as the weight, shape and type of contents of containers in an AR-ready database, technicians can make better informed decisions.
+
+This research focuses on documenting use cases for enriching the interactions that AR-enabled sailors and port staff can have with container information, and studying options to increase productivity, security and safety at sea and on land when people need to load, inspect, maintain or repair commercial containers.
+
+# Prior Research
+1
+
+# Key Words
+Marine, Commercial shipping, containers, tracking, ships, sailors, port operations, safety, security
+
+## FindAR Terms
+
+
+# Stakeholders
+Operators of shipping services, naval captains, shipping operations managers, repair and maintenance on shipping vessels, sailors, port operations, customs agents
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+Enterprises cannot integrate and deploy technologies that introduce risk to their intellectual property or customer data. As long as their data is at risk of exposure, security experts will prevent AR adoption in domains or workplaces where there is uncertainty or risk of exposure. Very little is known or documented about possible impacts of the issues around this topic. Studies of enterprise implementations of cybersecurity programs or software in conjunction with AR will increase awareness of issues and reduce risks.
+
+# Possible Methodologies
+Laboratory or bench studies with cybersecurity threats into commercial wearable AR displays will highlight vulnerabilities. Tests of commercial or experimental software to manage sensitive data can be conducted in simulated environments.
+
+# Expected Impact Timeframe
+Near
+
+# Research Program
+This topic or theme of research can be combined with assessments of geofencing, biomarkers for user authentication and other methods to reduce risks to enterprise data.
+
+# Miscellaneous Notes
+In 2017, this topic was the focus of the first AREA-directed research project. The AREA published the first report on the topic of security for wearable AR displays to members in June 2017 and released the report and assessment protocol to the ecosystem in mid-2019.
+
+# Author
+Christine Perey

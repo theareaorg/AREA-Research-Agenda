@@ -1,7 +1,6 @@
 [[ra-Tiot3-weightdistro]]
 
-# Title
-Ensuring proper weight distribution during cargo loading and unloading
+# Ensuring proper weight distribution during cargo loading and unloading
 
 # Description
 When loading merchant vessels, air cargo, or another shipping instrument,  weight distribution is carefully calculated and loading is planned accordingly. These stowage plans are critical to vessel stability therefore compliance is very important. Although stowage or loading plans are delivered by various software tools, execution is dependent on human interaction.
