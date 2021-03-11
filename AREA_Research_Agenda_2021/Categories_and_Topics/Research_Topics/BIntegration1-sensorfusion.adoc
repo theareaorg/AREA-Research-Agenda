@@ -1,7 +1,7 @@
 [[ra-BIntegration1-sensorfusion]]
 
-# Title
-Wearable Sensor Fusion: Integrating Data streams from HMDs and other Wearables
+# Wearable Sensor Fusion: Integrating Data streams from HMDs and other Wearables
+
 
 # Description
 Deploying Enterprise AR solutions via head mounted displays is inherently advantageous when simultaneous use of both hands is required. However, currently HMD performance is limited due to technological constraints, such as battery life or heat dissipation needs. One solution is to offload and distribute sensor data collection dynamically across other devices worn by the user (wrist, dedicated sensors, exoskeletons, etc) into a ‘mesh network’ of wearables. This would not only to decrease processing requirements but also enrich data feeds necessary and would provide additional data about the wearer and the environment. (e.g. pose/posture of different body parts). This however presents challenges in reintegrating separate data streams into a cohesive model either on the edge or in the mist/fog/cloud.
