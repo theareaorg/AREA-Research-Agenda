@@ -1,7 +1,6 @@
 [[ra-Tiot1-coldchain]
 
-# Title
-Breaking the cold chain: identifying the culprits via AR
+# Breaking the cold chain: identifying the culprits via AR
 
 # Description
 Cold chains used to preserve and to extend and ensure the shelf life of products, such as fresh agricultural produce, frozen food , chemicals, and pharmaceutical products. Depending on the specific product, other physical parameters of the chain may also be regulated, e.g. CO2/oxygen level, humidity and others.
