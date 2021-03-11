@@ -25,7 +25,7 @@ NOTE: The above Industries are not 100% aligned with the industries that are pro
 |<<Technology-section,*Technology*>> |[[Technology-concept]] All engineering domains, including software and hardware for Artificial Intelligence, Audio, Computer Vision, Data, Developers, Engineering, Geospatial, Graphics, Input, IoT, Networks, Robotics, Security, Semiconductors, Sensors, Simulation, Video, Web Services
 |<<Use_Cases-section,*Use Cases*>> |[[use_case-concept]]Groups of use cases for enterprise Augmented Reality including Collaboration, Inspection, Safety, and Quality, Maintenance, Navigation, Smart Cities, Training
 
-NOTE: The AREA Use Cases "catalog" (Marketplace projecct) has seven additional use cases (not indexed in FindAR above). The Marketplace also includes: Assembly, Guidance, Remote Assistance, Simulation, Situational Awareness, Visualization and Virtual User Interface. Smart Cities is not a use case in the AREA Use Cases Catalog (it is an classified as an industry).
+NOTE: The AREA Use Cases "catalog" (Marketplace project) has seven additional use cases (not indexed in FindAR above). The Marketplace also includes: Assembly, Guidance, Remote Assistance, Simulation, Situational Awareness, Visualization and Virtual User Interface. Smart Cities is not a use case in the AREA Use Cases Catalog (it is an classified as an industry).
 
 |===
 
