@@ -11,7 +11,7 @@ This topic will include in its scope calculating the utility/benefit ratio of di
 To be generated via FindAR
 
 # Key Words
-TWearables, distributed computing, cloud, fog, mist, optimization,
+Wearables, distributed computing, cloud, fog, mist, optimization,
 
 ## FindAR Terms
 Data integration, integration, business
