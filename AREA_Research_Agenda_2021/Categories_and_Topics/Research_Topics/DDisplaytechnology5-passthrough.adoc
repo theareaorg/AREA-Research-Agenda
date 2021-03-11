@@ -1,4 +1,4 @@
-[[ra-DDisplaytechnology5-passthrough]]
+#[[ra-DDisplaytechnology5-passthrough]]
 
 # Video passthrough vs. see-through optics: the impact of display technology on the peripheral vision
 
