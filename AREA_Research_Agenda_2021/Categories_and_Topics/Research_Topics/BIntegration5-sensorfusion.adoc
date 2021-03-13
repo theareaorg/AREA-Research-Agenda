@@ -1,0 +1,43 @@
+[[ra-BIntegration5-sensorfusion]]
+
+# Off-Device Fusion of Streaming Data from Diverse Sensors
+
+# Description
+Deploying enterprise AR solutions via head-mounted displays (HMD) is inherently advantageous when simultaneous use of both hands is required. However, currently HMD performance is limited due to technological constraints, such as battery life or heat dissipation needs. When integrated on the display device, cameras and other sensors for user context acquisition  consume valuable resources. An alternative to integrating all sensors, computational and power resources on a single HMD is to distribute sensors, processors and power across other devices designed to be worn by the user (e.g., wrist, dedicated sensors, exoskeletons, etc) or in close proximity (edge network). To provide a coherent context for detection of triggers and delivery of AR experiences, real time data from a ‘mesh’ of distributed and synchronized sensors needs to be cleaned and fused using AI on high-performance computational resources and reliable power sources.
+
+This research project will study the use of off-display sensors and advanced data processing to integrate sensor data from multiple sources that will not only decrease display device processing requirements but also provide additional context about the wearer and its environment (e.g., pose/posture of different body parts). This research project will explore approaches to address challenges in sensor data synchronization and sensor fusion in different network architectures to produce a cohesive model of a user's context. The cost/benefit ratio of different approaches across different sensor, processing and network configurations will need to be calculated to develop recommendations for HMD manufacturers and systems integrators.
+
+# Prior Research
+To be generated via FindAR
+
+# Key Words
+Body sensor networks, head-mounted display device, wearables, distributed computing, cloud computing, sensor fusion, optimization, body area networks, off-display sensors, off-display processing
+
+## FindAR Terms
+body sensor networks, personal area networks, mobile cloud computing, distributed computing, body area networks, wireless sensor networks, sensor fusion
+
+# Research Agenda Categories
+Display Devices, Business, Technology
+
+# Stakeholders
+HMD manufacturers, AR display device designers, sensor developers, body area network manufacturers, OEM manufacturers, integrated solution and software developers
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+Employees in AREA member companies frequently need simultaneous use of both their hands. Use of head-mounted displays represents a significant productivity improvement for those who need to use both hands and contextually-positioned information to perform complex tasks. This research topic will contribute addressing current limitations of head-mounted displays and increases the quality of contextual data. The outcomes will reduce the barriers to AR display device adoption in the enterprise.
+
+# Possible Methodologies
+Studies of wearable sensors, low-latency body area network technologies and sensor fusion processors and their synchronization will contribute significantly to the goals of this project. A research platform composed of configurable head-mounted AR display components could be designed. Sensor data tracing systems may need to be tested or developed to provide a complete understanding of architectural choices.
+
+# Expected Impact Timeframe
+Long-term
+
+# Research Program
+This topic is at the intersection of multiple domains including but not limited to sensor configuration and control, sensor registrations, data filtering, sensor fusion, user context capture and body area networks. The result could contribute to design of new HMD architectures, high-performance network-based resources and services (eg., 5G).
+
+# Miscellaneous Notes
+Studies of optical and IMU sensor fusion for AR HMDs date have been published as early as 2003. A recent publication on the topic of 6DOF pose proves that the approach is very reliable https://www.researchgate.net/publication/281764749_An_Inertial_and_Optical_Sensor_Fusion_Approach_for_Six_Degree-of-Freedom_Pose_Estimation
+
+# Author
+Peter Orban

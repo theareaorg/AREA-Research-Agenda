@@ -1,0 +1,42 @@
+[[ra-Iutilities1-digitalwater]]
+
+# Documenting Water Pipeline Network Topology via HMDs
+
+# Description
+Municipal water systems can be major beneficiaries of Digital Water Services: a combination of Source Monitoring, Production & Quality management, Leak Detection, Water Balance & Network Monitoring/Modeling and Process Control. In order to deploy these services the first step is to create a digital representation of the pipeline network by reconciling the pipeline network documentation through on-site measurement and validation.
+Largely a manual process of measurement and photographic documentation, this first step represents significant time and human resource investment and it is prone to errors.
+Head mounted AR displays equipped with camera systems, SLAM (TOFL/LiDAR) and GPS sensors could speed up this process by performing volumetric capture of the exposed water network assets, interpolating the underground portions. This can validate geographic and dimensional data while  eliminate errors.
+This research topics includes a field test of HMD headsets employing different camera and SLAM sensory systems using manual measurement as a baseline.
+
+
+# Prior Research
+To be generated via FindAR
+
+# Key Words
+Volumetric capture, utility asset management, Digital water services, predictive water sources management
+
+## FindAR Terms
+water supply, water treatment, well stimulation, well testing
+
+# Stakeholders
+Municipal water systems Head of operations, IT managers, field work force, ISVs
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+Systemic loss in water networks ranges from 20-90% (globally) Optimizing these systems will go a long way to create a more sustainable water ecology.
+
+# Possible Methodologies
+In-field comparative testing supported by lab tests of various data extraction methodologies.
+
+# Expected Impact Timeframe
+long-Terms
+
+# Research Program
+Text
+
+# Miscellaneous Notes
+Text
+
+# Author
+Peter Orban

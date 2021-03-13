@@ -16,6 +16,9 @@ Biometrics, body sensors, blood pressure, heart rate, body temperature, body-are
 ## FindAR Terms
 from machine-assigned terms list
 
+# Research Agenda Categories
+End Users, Technology
+
 # Stakeholders
 Employee health and wellness advocates, human resources managers, user data privacy policy analysts,
 

@@ -17,10 +17,16 @@ The categories for the 2021 edition of the Research Agenda appear in the table b
 |<<Business-section,*Business*>> |[[business-concept]]Groups of topics about Business Operations and Strategy, Integration with existing business infrastructure, Logistics, Policies.
 |<<Displays-section,*Displays*>> |[[displays-concept]]Pertaining to the design, development and use of displays for Augmented Reality experience delivery, including Device Energy Management, Display Technology, Optics, Wearables
 |<<End_Users_and_User_Experience-section,*End Users and User Experience*>> |[[end_users_and_user_experience-concept]]All groups of topics about Computer Human Interfaces, Human Factors, Human-Computer Interaction, Presence, Users
-|<<Industries-section,*Industries*>> |[[industries-concept]]Twenty industries where Augmented Reality has been studied including Automotive, Aviation and Aerospace, Chemical, Construction, Consumer Products, Cultural Heritage, Education, Emergency Response, Farming and Natural Sciences, Government, Industrial Equipment, Liberal Arts, Manufacturing, Marine, Medical, Metals and Mining, Oil and Gas, Power and Energy, Transportation, Utilities
+|<<Industries-section,*Industries*>> |[[industries-concept]]Twenty industries where studies about the use of Augmented Reality has been published in peer-reviewed literature including Automotive, Aviation and Aerospace, Chemical, Construction, Consumer Products, Cultural Heritage, Education, Emergency Response, Farming and Natural Sciences, Government, Industrial Equipment, Liberal Arts, Manufacturing, Marine, Medical, Metals and Mining, Oil and Gas, Power and Energy, Telecommunications, Transportation, Utilities
+
+NOTE: The above Industries are not 100% aligned with the industries that are provided to Virtual for the Marketplace project
+
 |<<Standards-section,*Standards*>> |[[standards-concept]]Groups of topics about business and technical standards to address interoperability and conventions for AR adoption in enterprises or industries
-|<<Technology-section,*Technology*>> |[[Technology-concept]] All engineering domains, including software and hardware for Artificial Intelligence, Audio, Computer Vision, Data, Developers, Engineering, Geospatial, Graphics, Input, IoT, Networks, Robotics, Security, Semiconductors, Sensors, Simulation, Smart Cities, Telecommunications, Video, Web Services
-|<<Use_Cases-section,*Use Cases*>> |[[use_case-concept]]Groups of use cases for enterprise Augmented Reality including Collaboration, {Inspection, Safety, and Quality}, Maintenance, Navigation, Training
+|<<Technology-section,*Technology*>> |[[Technology-concept]] All engineering domains, including software and hardware for Artificial Intelligence, Audio, Computer Vision, Data, Developers, Engineering, Geospatial, Graphics, Input, IoT, Networks, Robotics, Security, Semiconductors, Sensors, Simulation, Video, Web Services
+|<<Use_Cases-section,*Use Cases*>> |[[use_case-concept]]Groups of use cases for enterprise Augmented Reality including Collaboration, Inspection, Safety, and Quality, Maintenance, Navigation, Smart Cities, Training
+
+NOTE: The AREA Use Cases "catalog" (Marketplace project) has seven additional use cases (not indexed in FindAR above). The Marketplace also includes: Assembly, Guidance, Remote Assistance, Simulation, Situational Awareness, Visualization and Virtual User Interface. Smart Cities is not a use case in the AREA Use Cases Catalog (it is an classified as an industry).
+
 |===
 
 ## Methodology

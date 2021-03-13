@@ -1,0 +1,40 @@
+[[ra-Iutilities1-waterflow]]
+
+# Visualizing Water Flow and Quality  in Municipal Water Networks
+
+# Description
+Most municipal water supply pipe networks require a manual operation of various control units in case of scheduled maintenance or an emergency. Crews operating gate valves to isolate sections of the network greatly benefit from updated information on the flow and quality of the water in these sections
+This research topics includes a field test of handheld or wearable devices capable of visualizing water flow and water quality  the data received from the control center.
+
+
+# Prior Research
+To be generated via FindAR
+
+# Key Words
+Data visualization, decision support, utility asset management, digital water services,
+
+## FindAR Terms
+ater supply, water treatment, well stimulation, well testing
+
+# Stakeholders
+Municipal water systems Head of operations, IT managers, field work force, ISVs
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+text
+
+# Possible Methodologies
+Systemic loss in water networks ranges from 20-90% (globally) Optimizing these systems will significantly contribute to more sustainable water ecology.
+
+# Expected Impact Timeframe
+long-term
+
+# Research Program
+Text
+
+# Miscellaneous Notes
+Text
+
+# Author
+Peter Orban

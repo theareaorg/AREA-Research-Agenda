@@ -1,0 +1,41 @@
+[[ra-Tsecurity3-biometric]]
+
+# Biometric identification of wearable Enterprise AR device users
+
+# Description
+AR’s utility in the Enterprise is rapidly growing, driving further penetration across use cases and verticals. At the same time this also means a heightened security risk, increasing the need for an elevated security posture.
+Driven by a human-centric approach, a critical step in ensuring compliance is balancing the rigor needed for an accurate user authentication and ultra-low-friction input.
+Biometric identification methods, ranging from palmprints, voiceprints, iris scanning to heartbeat detection offer a plethora of opportunities for wearable Enterprise AR device users.
+This research topics includes comparing different modalities of biometric identification and classifying the based on accuracy and friction.
+
+# Prior Research
+To be generated via FindAR
+
+# Key Words
+Biometric, palmprint, retina scanning, iris scanning, heartbeat detection, skin conductivity
+
+## FindAR Terms
+access control, data protection, security systems, trusted computing, authentication, message authentication, authorization, security of data, access protocols, data protection, security systems, trusted computing, authorization, security of data, access protocols
+
+# Stakeholders
+CIOs, IT and Security managers, OEMs, ISVs
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+Securing endpoints in the Enterprise is a critical step in preventing a breach of Enterprise Systems. The appearance of a new device class raise legitimate authentication, Human Factors and Privacy concerns related this new and highly personal modality
+
+# Possible Methodologies
+Lab tests combining best practices of Human Factors and Security research , followed by in-field trials
+
+# Expected Impact Timeframe
+medium-term
+
+# Research Program
+Text
+
+# Miscellaneous Notes
+Text
+
+# Author
+Peter Orban

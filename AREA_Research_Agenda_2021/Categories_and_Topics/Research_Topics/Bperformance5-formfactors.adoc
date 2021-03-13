@@ -1,0 +1,48 @@
+
+[[ra-Bperformance5-formfactors]]
+
+# Wearable vs Handheld: Quantifying the Impact of HMDs on Manual Procedures
+
+# Description
+Tablets, mobile phones and other handheld devices have been widely deployed in the enterprise, including frontline workers, who use these devices to access contextually-relevant information while executing work procedures.  Although hugely useful, their interaction paradigm forces said workers to choose between carrying out the actual steps of a work procedure or interacting with the device.
+
+Commercially-available wearable (Head-mounted) displays enable frontline workers to consume context relevant information while executing work procedures using both hands, thereby – theoretically – speeding up work. This research topic focuses on the development of objective, quantitative assessments of the economic impacts of wearable, HMDs for AR-assisted procedures.
+
+The research scope should include comparative studies measuring the exact impact of wearable modality vs the handheld baseline across industries, use cases and horizontal use case categories. Measurement methods would be developed to ensure accuracy with 95% Confidence Interval.
+
+# Prior Research
+To be generated via FindAR
+
+# Key Words
+Efficiency, lean, HMD, Handheld, Wearable,
+
+## FindAR Terms
+using machine-assigned terms list
+
+# Research Agenda Categories
+Display Devices, Business
+
+# Stakeholders
+Operations leaders, financial management, OEM manufacturers, Independent Software Vendors,
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+Wearable AR Displays make instinctive sense for frontline workers. However, deploying a new class of device, appropriate software, integration and training introduce additional expenses – particularly if handhelds have been well integrated in the current procedures.
+
+The AREA members need ways to calculate the benefits of different form factors.
+
+# Possible Methodologies
+The research will contribute to development of tools to accurately, impartially measure the differences between the handheld and wearable displays. The measurement methods will be used on groups of users sufficiently large in number and diverse in profiles to allow projection across various attributes (e.g. time saved, quality improved, error eliminated, etc). The research tools can include time-motion studies using standardized, public and well-documented processes typical of industry verticals, use cases and horizontal use case categories.
+
+# Expected Impact Timeframe
+Near
+
+# Research Program
+This research can be combined with and/or extended to include different wearable form factors including but not limited to monocular displays, binocular or holographic displays. The research scope may also be expanded to apply the same methods to study the return on investment of emerging use cases and AR in industries that have not been well documented.
+
+# Miscellaneous Notes
+The AREA RoI calculator is a starting point for quantifying the economic impacts of AR in repair and maintenance use cases. This research could contribute to the expansion of the AREA RoI calculator.
+
+# Author
+Peter Orban
