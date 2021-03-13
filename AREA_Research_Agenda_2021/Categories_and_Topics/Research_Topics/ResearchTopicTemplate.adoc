@@ -14,6 +14,9 @@ Text
 ## FindAR Terms
 using machine-assigned terms list
 
+# Research Agenda Categories
+Enter up to 7 categories in this field
+
 # Stakeholders
 Text
 

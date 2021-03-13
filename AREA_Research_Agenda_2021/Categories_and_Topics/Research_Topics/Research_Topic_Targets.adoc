@@ -95,13 +95,12 @@ Christine will write up two topics fitting in the navigation use case group.
 
 ## Peter Orban (8+)
 
-* One or more in Display category (one of the groups with low count).
+* One or more in Display category (one of the groups with low count). [DONE, heavily edited by Christine]
 * Two topics in Utilities (and I'm not sure which other industry you have an affinity for?).
 * One topic in IoT (Technology Category)
 * One topic for security group,(Technology Category)
 * Perhaps one topic about video over 5G
 * Two or more topics in Smart Cities Group (Use Cases).
-
 
 ## Jennifer Rogers (8+)
 

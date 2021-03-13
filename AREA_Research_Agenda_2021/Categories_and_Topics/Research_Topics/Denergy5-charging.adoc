@@ -16,13 +16,16 @@ power use, power consumption, power production, AR device energy sources, energy
 ## FindAR Terms
 computational efficiency, low power electronics, electric batteries, power consumption, power conversion, power aware computing
 
+# Research Agenda Categories
+Display Devices, Technology
+
 # Stakeholders
 All users of wearable AR display devices and those who manage their use in the workplace will benefit from longer duration between recharges. Introducing or integrating novel power production, transfer or storage technologies will have impacts on the costs of display devices which could effect the number of devices purchased.
 
 # Position on X and Y axes (1-5)
 
 # Reasons this topic is important for AREA members
-describe energy harvesting based on human body movement
+NOTE: describe energy harvesting based on human body movement
 
 # Possible Methodologies
 The research will be leveraging developments in physics, chemistry and other sciences pertaining to energy production and combining those with deeper studies of wearable AR display device power use. In addition to theoretical calculations, there will need to be prototypes developed and tested to measure the efficacy and efficiencies of power capture, storage and use with AR displays. Finally, the introduction of new energy production, transfer and storage methods or systems will need to be carefully studied for their safety in the workplace.

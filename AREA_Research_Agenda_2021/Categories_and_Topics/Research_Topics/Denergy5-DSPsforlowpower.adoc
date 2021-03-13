@@ -26,6 +26,9 @@ Low power, power use, power consumption, digital signal processing, DSP, VPU, So
 ## FindAR Terms
 using machine-assigned terms list
 
+# Research Agenda Categories
+Display Devices, Technology
+
 # Stakeholders
 AR display designers, AR display manufacturers, original equipment manufacturers (OEM) of semiconductors for AR displays, AR systems integrators
 

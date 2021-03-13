@@ -4,17 +4,20 @@
 # Quantifying the impact of spatial (stereoscopic view) on visual encoding and memory anchoring
 
 # Description
-Spatial vision enabled by stereoscopy appears to greatly help comprehension and retention of spatially relevant concepts.  Although technology today enables spatial vision, frequently it requires some level of compromise around performance, wearability or resource requirements. 
+Spatial vision enabled by stereoscopy appears to greatly help comprehension and retention of spatially relevant concepts.  Although technology today enables spatial vision, frequently it requires some level of compromise around performance, wearability or resource requirements.
 This research topic includes experiments and – possibly – studies of the impact of binocular (vs monocular) vision) on memory encoding: the process changing the sensory input into a form so it can be stored in the brain and memory anchoring which enables effective retrieval.
 
 # Prior Research
 To be generated via FindAR
 
 # Key Words
-using machine-assigned terms list
+NOTE: This field is not finished
 
 ## FindAR Terms
 network security, security of data, computer crime, computer network security, computer privacy, cryptographic protocols, fraud, intrusion detection, data protection, blockchain, access control
+
+# Research Agenda Categories
+Display Devices, Technology
 
 # Stakeholders
 Operations leaders, IT managers, OEM manufacturers, ISVs
