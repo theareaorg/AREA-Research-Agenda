@@ -197,11 +197,11 @@
 	},
 	{
 		"label": "advertising",
-		"category": "business"
+		"category": "sales and marketing"
 	},
 	{
 		"label": "advertising data processing",
-		"category": "business"
+		"category": "sales and marketing"
 	},
 	{
 		"label": "aerial photography",
@@ -585,7 +585,7 @@
 	},
 	{
 		"label": "assembly planning",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "asset management",
@@ -777,7 +777,7 @@
 	},
 	{
 		"label": "bank data processing",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "bar codes",
@@ -997,7 +997,7 @@
 	},
 	{
 		"label": "bitcoin",
-		"category": "business"
+		"category": "sales and marketing"
 	},
 	{
 		"label": "black-box testing",
@@ -1101,7 +1101,7 @@
 	},
 	{
 		"label": "budget control",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "buffer storage",
@@ -1137,7 +1137,7 @@
 	},
 	{
 		"label": "business data processing",
-		"category": "business"
+		"category": "business performance metrics"
 	},
 	{
 		"label": "c# language",
@@ -1605,11 +1605,11 @@
 	},
 	{
 		"label": "commerce",
-		"category": "business"
+		"category": "sales and marketing"
 	},
 	{
 		"label": "commercial off-the-shelf",
-		"category": "business"
+		"category": "sales and marketing"
 	},
 	{
 		"label": "communication",
@@ -1637,7 +1637,7 @@
 	},
 	{
 		"label": "competition",
-		"category": "business"
+		"category": "business performance metrics"
 	},
 	{
 		"label": "complex networks",
@@ -1645,7 +1645,7 @@
 	},
 	{
 		"label": "compliance control",
-		"category": "business"
+		"category": "business performance metrics"
 	},
 	{
 		"label": "compressors",
@@ -1929,7 +1929,7 @@
 	},
 	{
 		"label": "consumer behaviour",
-		"category": "business"
+		"category": "sales and marketing"
 	},
 	{
 		"label": "consumer electronics",
@@ -1961,7 +1961,7 @@
 	},
 	{
 		"label": "contractors",
-		"category": "business"
+		"category": "human resources"
 	},
 	{
 		"label": "contracts",
@@ -2081,27 +2081,27 @@
 	},
 	{
 		"label": "cost effectiveness",
-		"category": "business"
+		"category": "business performance metrics"
 	},
 	{
 		"label": "cost engineering",
-		"category": "business"
+		"category": "business performance metrics"
 	},
 	{
 		"label": "cost functions",
-		"category": "business"
+		"category": "business performance metrics"
 	},
 	{
 		"label": "cost reduction",
-		"category": "business"
+		"category": "business performance metrics"
 	},
 	{
 		"label": "costing",
-		"category": "business"
+		"category": "business performance metrics"
 	},
 	{
 		"label": "costs",
-		"category": "business"
+		"category": "business performance metrics"
 	},
 	{
 		"label": "cotton",
@@ -2117,7 +2117,7 @@
 	},
 	{
 		"label": "critical infrastructures",
-		"category": "business"
+		"category": "business performance metrics"
 	},
 	{
 		"label": "crops",
@@ -2129,7 +2129,7 @@
 	},
 	{
 		"label": "cryptocurrencies",
-		"category": "business"
+		"category": "sales and marketing"
 	},
 	{
 		"label": "cryptographic protocols",
@@ -2153,15 +2153,15 @@
 	},
 	{
 		"label": "customer relationship management",
-		"category": "business"
+		"category": "sales and marketing"
 	},
 	{
 		"label": "customer satisfaction",
-		"category": "business"
+		"category": "sales and marketing"
 	},
 	{
 		"label": "customer services",
-		"category": "business"
+		"category": "sales and marketing"
 	},
 	{
 		"label": "cutting",
@@ -2321,7 +2321,7 @@
 	},
 	{
 		"label": "decision support systems",
-		"category": "business"
+		"category": "business performance metrics"
 	},
 	{
 		"label": "decision trees",
@@ -2585,7 +2585,7 @@
 	},
 	{
 		"label": "document handling",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "document image processing",
@@ -2693,7 +2693,7 @@
 	},
 	{
 		"label": "economic analysis",
-		"category": "business"
+		"category": "business performance metrics"
 	},
 	{
 		"label": "economic and social effects",
@@ -2701,7 +2701,7 @@
 	},
 	{
 		"label": "economics",
-		"category": "business"
+		"category": "business performance metrics"
 	},
 	{
 		"label": "ecosystems",
@@ -2957,7 +2957,7 @@
 	},
 	{
 		"label": "electronic commerce",
-		"category": "business"
+		"category": "sales and marketing"
 	},
 	{
 		"label": "electronic data interchange",
@@ -2965,7 +2965,7 @@
 	},
 	{
 		"label": "electronic document exchange",
-		"category": "data"
+		"category": "business planning and management"
 	},
 	{
 		"label": "electronic engineering computing",
@@ -2989,7 +2989,7 @@
 	},
 	{
 		"label": "electronic money",
-		"category": "business"
+		"category": "sales and marketing"
 	},
 	{
 		"label": "electronic musical instruments",
@@ -3069,11 +3069,11 @@
 	},
 	{
 		"label": "employee welfare",
-		"category": "business"
+		"category": "human resources"
 	},
 	{
 		"label": "employment",
-		"category": "business"
+		"category": "human resources"
 	},
 	{
 		"label": "encoding",
@@ -3149,7 +3149,7 @@
 	},
 	{
 		"label": "enterprise resource planning",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "entertainment",
@@ -3261,11 +3261,11 @@
 	},
 	{
 		"label": "exchange rates",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "exhibitions",
-		"category": "business"
+		"category": "sales and marketing"
 	},
 	{
 		"label": "exoskeleton",
@@ -3581,7 +3581,7 @@
 	},
 	{
 		"label": "forecasting",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "forensic science",
@@ -3721,7 +3721,7 @@
 	},
 	{
 		"label": "game theory",
-		"category": "business"
+		"category": "human resources"
 	},
 	{
 		"label": "gamification",
@@ -3849,7 +3849,7 @@
 	},
 	{
 		"label": "global optimization",
-		"category": "business"
+		"category": "business performance metrics"
 	},
 	{
 		"label": "global positioning system",
@@ -3984,7 +3984,7 @@
 		"category": "inspection, safety and quality"
 	},
 	{
-		"label": "head-up displays",
+		"label": "head up displays",
 		"category": "display technology"
 	},
 	{
@@ -4181,7 +4181,7 @@
 	},
 	{
 		"label": "human resource management",
-		"category": "business"
+		"category": "human resources"
 	},
 	{
 		"label": "human-robot interaction",
@@ -4457,7 +4457,7 @@
 	},
 	{
 		"label": "industrial management",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "industrial manipulators",
@@ -4473,7 +4473,7 @@
 	},
 	{
 		"label": "industrial research",
-		"category": "business"
+		"category": "business performance metrics"
 	},
 	{
 		"label": "industrial robots",
@@ -4529,7 +4529,7 @@
 	},
 	{
 		"label": "information dissemination",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "information filtering",
@@ -4537,11 +4537,11 @@
 	},
 	{
 		"label": "information management",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "information resources",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "information retrieval",
@@ -4553,7 +4553,7 @@
 	},
 	{
 		"label": "information services",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "information systems",
@@ -4569,7 +4569,7 @@
 	},
 	{
 		"label": "information use",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "infrared detectors",
@@ -4589,7 +4589,7 @@
 	},
 	{
 		"label": "innovation management",
-		"category": "business"
+		"category": "business performance metrics"
 	},
 	{
 		"label": "input output programs",
@@ -4773,7 +4773,7 @@
 	},
 	{
 		"label": "inventory control",
-		"category": "business"
+		"category": "human resources"
 	},
 	{
 		"label": "inverse problems",
@@ -4781,7 +4781,7 @@
 	},
 	{
 		"label": "investments",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "iodine compounds",
@@ -4825,7 +4825,7 @@
 	},
 	{
 		"label": "job analysis",
-		"category": "business"
+		"category": "human resources"
 	},
 	{
 		"label": "journalism",
@@ -4869,11 +4869,11 @@
 	},
 	{
 		"label": "knowledge engineering",
-		"category": "business"
+		"category": "business performance metrics"
 	},
 	{
 		"label": "knowledge management",
-		"category": "business"
+		"category": "human resources"
 	},
 	{
 		"label": "knowledge representation",
@@ -4893,7 +4893,7 @@
 	},
 	{
 		"label": "labour resources",
-		"category": "business"
+		"category": "human resources"
 	},
 	{
 		"label": "lagrange multipliers",
@@ -5385,11 +5385,11 @@
 	},
 	{
 		"label": "marketing",
-		"category": "business"
+		"category": "sales and marketing"
 	},
 	{
 		"label": "marketing data processing",
-		"category": "business"
+		"category": "sales and marketing"
 	},
 	{
 		"label": "marking machines",
@@ -5601,7 +5601,7 @@
 	},
 	{
 		"label": "mergers and acquisitions",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "merging",
@@ -5861,7 +5861,7 @@
 	},
 	{
 		"label": "mobile commerce",
-		"category": "business"
+		"category": "sales and marketing"
 	},
 	{
 		"label": "mobile communication",
@@ -5917,7 +5917,7 @@
 	},
 	{
 		"label": "modernization",
-		"category": "business"
+		"category": "business performance metrics"
 	},
 	{
 		"label": "modular robots",
@@ -6021,7 +6021,7 @@
 	},
 	{
 		"label": "motivation",
-		"category": "business"
+		"category": "business performance metrics"
 	},
 	{
 		"label": "motor transportation",
@@ -6425,7 +6425,7 @@
 	},
 	{
 		"label": "obsolescence",
-		"category": "business"
+		"category": "business performance metrics"
 	},
 	{
 		"label": "obstetrics",
@@ -6457,7 +6457,7 @@
 	},
 	{
 		"label": "office automation",
-		"category": "business"
+		"category": "business performance metrics"
 	},
 	{
 		"label": "office buildings",
@@ -6733,7 +6733,7 @@
 	},
 	{
 		"label": "optimization",
-		"category": "business"
+		"category": "business performance metrics"
 	},
 	{
 		"label": "order picking",
@@ -6741,7 +6741,7 @@
 	},
 	{
 		"label": "order processing",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "ore treatment",
@@ -6757,7 +6757,7 @@
 	},
 	{
 		"label": "organisational aspects",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "orthogonal frequency division multiplexing",
@@ -6785,7 +6785,7 @@
 	},
 	{
 		"label": "outsourcing",
-		"category": "business"
+		"category": "human resources"
 	},
 	{
 		"label": "oximetry",
@@ -6961,7 +6961,7 @@
 	},
 	{
 		"label": "performance evaluation",
-		"category": "business"
+		"category": "business performance metrics"
 	},
 	{
 		"label": "permanent magnets",
@@ -6993,11 +6993,11 @@
 	},
 	{
 		"label": "personnel",
-		"category": "business"
+		"category": "human resources"
 	},
 	{
 		"label": "personnel training",
-		"category": "business"
+		"category": "human resources"
 	},
 	{
 		"label": "petrochemicals",
@@ -7153,7 +7153,7 @@
 	},
 	{
 		"label": "planning",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "plant layout",
@@ -7161,7 +7161,7 @@
 	},
 	{
 		"label": "plant shutdowns",
-		"category": "business"
+		"category": "human resources"
 	},
 	{
 		"label": "plants",
@@ -7373,7 +7373,7 @@
 	},
 	{
 		"label": "pricing",
-		"category": "business"
+		"category": "sales and marketing"
 	},
 	{
 		"label": "principal component analysis",
@@ -7433,7 +7433,7 @@
 	},
 	{
 		"label": "process planning",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "processing",
@@ -7441,7 +7441,7 @@
 	},
 	{
 		"label": "procurement",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "product customisation",
@@ -7485,23 +7485,23 @@
 	},
 	{
 		"label": "production planning",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "productivity",
-		"category": "business"
+		"category": "business performance metrics"
 	},
 	{
 		"label": "professional aspects",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "profitability",
-		"category": "business"
+		"category": "business performance metrics"
 	},
 	{
 		"label": "program assemblers",
-		"category": "human-computer interaction"
+		"category": "developers"
 	},
 	{
 		"label": "program compilers",
@@ -7545,7 +7545,7 @@
 	},
 	{
 		"label": "project management",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "projectiles",
@@ -7557,7 +7557,7 @@
 	},
 	{
 		"label": "promotion",
-		"category": "business"
+		"category": "sales and marketing"
 	},
 	{
 		"label": "propellers",
@@ -7565,7 +7565,7 @@
 	},
 	{
 		"label": "property market",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "proportional control systems",
@@ -7601,7 +7601,7 @@
 	},
 	{
 		"label": "public domain software",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "public health",
@@ -7637,7 +7637,7 @@
 	},
 	{
 		"label": "qualifications",
-		"category": "business"
+		"category": "human resources"
 	},
 	{
 		"label": "quality assurance",
@@ -7661,7 +7661,7 @@
 	},
 	{
 		"label": "quality of service",
-		"category": "business"
+		"category": "business performance metrics"
 	},
 	{
 		"label": "query formulation",
@@ -7789,7 +7789,139 @@
 	},
 	{
 		"label": "radiofrequency interference",
-		"category": "input},{"label":"wave distortion","category":"audio"},{"label":"wave functions","category":"audio"},{"label":"waveform analysis","category":"data"},{"label":"waveguides","category":"optics"},{"label":"wavelet transforms","category":"artificial intelligence"},{"label":"weapons","category":"government"},{"label":"wear","category":"inspection, safety and quality"},{"label":"wear of materials","category":"inspection, safety and quality"},{"label":"wearable computers","category":"wearables"},{"label":"wearable robots","category":"wearables"},{"label":"wearable sensors","category":"wearables"},{"label":"wearable technology","category":"wearables"},{"label":"web browsers","category":"web services"},{"label":"web design","category":"web services"},{"label":"web services","category":"web services"},{"label":"websites","category":"web services"},{"label":"welding","category":"manufacturing"},{"label":"welds","category":"manufacturing"},{"label":"well stimulation","category":"utilities"},{"label":"well testing","category":"utilities"},{"label":"wheelchairs","category":"medical"},{"label":"wheels","category":"automotive"},{"label":"white noise","category":"audio"},{"label":"wi-fi","category":"networks"},{"label":"wide area networks","category":"networks"},{"label":"wide band gap semiconductors","category":"semiconductors"},{"label":"wiener filters","category":"artificial intelligence"},{"label":"wind","category":"farming and natural science"},{"label":"wind power","category":"power and energy"},{"label":"wind power plants","category":"power and energy"},{"label":"wind turbines","category":"power and energy"},{"label":"windows","category":"construction"},{"label":"windshields","category":"automotive"},{"label":"wire pointing","category":"manufacturing"},{"label":"wireless channels","category":"networks"},{"label":"wireless lan","category":"networks"},{"label":"wireless mesh networks","category":"networks"},{"label":"wireless networks","category":"networks"},{"label":"wireless sensor networks","category":"networks"},{"label":"wood","category":"construction"},{"label":"workflow management software","category":"business"},{"label":"x rays","category":"medical"},{"label":"xml","category":"web services"},{"label":"zero gravity experiments","category":"simulation"},{"label":"zoology","category":"farming and natural science"},] "input"
+		"category": "input"
+	},
+	{
+		"label": "radiofrequency power transmission",
+		"category": "power and energy"
+	},
+	{
+		"label": "radiology",
+		"category": "medical"
+	},
+	{
+		"label": "radionavigation",
+		"category": "navigation"
+	},
+	{
+		"label": "railroad stations",
+		"category": "transportation"
+	},
+	{
+		"label": "rails",
+		"category": "transportation"
+	},
+	{
+		"label": "railway communication",
+		"category": "transportation"
+	},
+	{
+		"label": "rain",
+		"category": "farming and natural science"
+	},
+	{
+		"label": "random errors",
+		"category": "navigation"
+	},
+	{
+		"label": "random forests",
+		"category": "artificial intelligence"
+	},
+	{
+		"label": "random processes",
+		"category": "data"
+	},
+	{
+		"label": "range finding",
+		"category": "navigation"
+	},
+	{
+		"label": "rapid prototyping",
+		"category": "manufacturing"
+	},
+	{
+		"label": "rate distortion theory",
+		"category": "video"
+	},
+	{
+		"label": "rational functions",
+		"category": "data"
+	},
+	{
+		"label": "ray tracing",
+		"category": "graphics"
+	},
+	{
+		"label": "rayleigh fading",
+		"category": "telecommunication"
+	},
+	{
+		"label": "rayon yarn",
+		"category": "manufacturing"
+	},
+	{
+		"label": "real-time systems",
+		"category": "human-computer interaction"
+	},
+	{
+		"label": "realistic images",
+		"category": "computer vision"
+	},
+	{
+		"label": "receivers",
+		"category": "telecommunication"
+	},
+	{
+		"label": "recommender systems",
+		"category": "artificial intelligence"
+	},
+	{
+		"label": "recovery",
+		"category": "data"
+	},
+	{
+		"label": "recreational facilities",
+		"category": "cultural heritage"
+	},
+	{
+		"label": "recurrent neural nets",
+		"category": "artificial intelligence"
+	},
+	{
+		"label": "recurrent neural networks",
+		"category": "artificial intelligence"
+	},
+	{
+		"label": "recursive filters",
+		"category": "robotics"
+	},
+	{
+		"label": "recycling",
+		"category": "industrial equipment"
+	},
+	{
+		"label": "redundant manipulators",
+		"category": "robotics"
+	},
+	{
+		"label": "reengineering",
+		"category": "manufacturing"
+	},
+	{
+		"label": "reflection",
+		"category": "presence"
+	},
+	{
+		"label": "reflectivity",
+		"category": "chemical"
+	},
+	{
+		"label": "refraction",
+		"category": "input"
+	},
+	{
+		"label": "refractive index",
+		"category": "input"
 	},
 	{
 		"label": "regional planning",
@@ -7873,7 +8005,7 @@
 	},
 	{
 		"label": "resource allocation",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "respiratory mechanics",
@@ -7893,11 +8025,11 @@
 	},
 	{
 		"label": "retail data processing",
-		"category": "business"
+		"category": "sales and marketing"
 	},
 	{
 		"label": "retailing",
-		"category": "business"
+		"category": "sales and marketing"
 	},
 	{
 		"label": "retrofitting",
@@ -8046,198 +8178,7 @@
 	{
 		"label": "rural areas",
 		"category": "geospatial"
-	},
-	{
-		"label": "safety",
-		"category": "inspection, safety and quality"
-	},
-	{
-		"label": "safety devices",
-		"category": "inspection, safety and quality"
-	},
-	{
-		"label": "safety engineering",
-		"category": "inspection, safety and quality"
-	},
-	{
-		"label": "safety factor",
-		"category": "inspection, safety and quality"
-	},
-	{
-		"label": "safety systems",
-		"category": "inspection, safety and quality"
-	},
-	{
-		"label": "safety-critical software",
-		"category": "inspection, safety and quality"
-	},
-	{
-		"label": "sales",
-		"category": "business"
-	},
-	{
-		"label": "sales management",
-		"category": "business"
-	},
-	{
-		"label": "sampling methods",
-		"category": "data"
-	},
-	{
-		"label": "sand",
-		"category": "input"
-	},
-	{
-		"label": "satellite antennas",
-		"category": "aviation and aerospace"
-	},
-	{
-		"label": "satellite communication",
-		"category": "aviation and aerospace"
-	},
-	{
-		"label": "satellite imagery",
-		"category": "aviation and aerospace"
-	},
-	{
-		"label": "satellite navigation",
-		"category": "aviation and aerospace"
-	},
-	{
-		"label": "satellite telemetry",
-		"category": "aviation and aerospace"
-	},
-	{
-		"label": "scada systems",
-		"category": "manufacturing"
-	},
-	{
-		"label": "scaffolds",
-		"category": "construction"
-	},
-	{
-		"label": "scalability",
-		"category": "inspection, safety and quality"
-	},
-	{
-		"label": "scanning",
-		"category": "input"
-	},
-	{
-		"label": "scanning antennas",
-		"category": "telecommunication"
-	},
-	{
-		"label": "scheduling",
-		"category": "developers"
-	},
-	{
-		"label": "scheduling algorithms",
-		"category": "developers"
-	},
-	{
-		"label": "screen printing",
-		"category": "manufacturing"
-	},
-	{
-		"label": "screws",
-		"category": "medical"
-	},
-	{
-		"label": "sea level",
-		"category": "marine"
-	},
-	{
-		"label": "sea ports",
-		"category": "marine"
-	},
-	{
-		"label": "search engines",
-		"category": "data"
-	},
-	{
-		"label": "search problems",
-		"category": "data"
-	},
-	{
-		"label": "security of data",
-		"category": "security"
-	},
-	{
-		"label": "security systems",
-		"category": "security"
-	},
-	{
-		"label": "self organizing maps",
-		"category": "computer vision"
-	},
-	{
-		"label": "self-healing materials",
-		"category": "chemical"
-	},
-	{
-		"label": "self-organising feature maps",
-		"category": "artificial intelligence"
-	},
-	{
-		"label": "semantic networks",
-		"category": "web services"
-	},
-	{
-		"label": "semantic web",
-		"category": "web services"
-	},
-	{
-		"label": "semantics",
-		"category": "artificial intelligence"
-	},
-	{
-		"label": "semiconductor device manufacture",
-		"category": "semiconductors"
-	},
-	{
-		"label": "semiconductor epitaxial layers",
-		"category": "semiconductors"
-	},
-	{
-		"label": "semiconductor growth",
-		"category": "semiconductors"
-	},
-	{
-		"label": "semiconductor lasers",
-		"category": "semiconductors"
-	},
-	{
-		"label": "semiconductor quantum wells",
-		"category": "semiconductors"
-	},
-	{
-		"label": "sensor data fusion",
-		"category": "input"
-	},
-	{
-		"label": "sensor fusion",
-		"category": "sensors"
-	},
-	{
-		"label": "sensor networks",
-		"category": "sensors"
-	},
-	{
-		"label": "sensor nodes",
-		"category": "sensors"
-	},
-	{
-		"label": "sensor placement",
-		"category": "sensors"
-	},
-	{
-		"label": "sensors",
-		"category": "sensors"
-	},
-	{
-		"label": "sensory feedback",
-		"category": "sensors"
+	},{"label":"volcanology__","category":"geospatial_"},{"label":"voltage dividers__","category":"power and energy_"},{"label":"voltage-controlled oscillators__","category":"power and energy_"},{"label":"volume measurement__","category":"audio_"},{"label":"volume rendering__","category":"input_"},{"label":"vortices__","category":"aviation and aerospace_"},{"label":"walls__","category":"construction_"},{"label":"warehouse automation__","category":"logistics_"},{"label":"warehouses__","category":"logistics_"},{"label":"warehousing__","category":"logistics_"},{"label":"watches__","category":"human-computer interaction_"},{"label":"water levels__","category":"inspection, safety and quality_"},{"label":"water quality__","category":"inspection, safety and quality_"},{"label":"water resources__","category":"policy_"},{"label":"water supply__","category":"utilities_"},{"label":"water treatment__","category":"utilities_"},{"label":"watersheds__","category":"farming and natural science_"},{"label":"wave distortion__","category":"audio_"},{"label":"wave functions__","category":"audio_"},{"label":"waveform analysis__","category":"data_"},{"label":"waveguides__","category":"optics_"},{"label":"wavelet transforms__","category":"artificial intelligence_"},{"label":"weapons__","category":"government_"},{"label":"wear__","category":"inspection, safety and quality_"},{"label":"wear of materials__","category":"inspection, safety and quality_"},{"label":"wearable computers__","category":"wearables_"},{"label":"wearable robots__","category":"wearables_"},{"label":"wearable sensors__","category":"wearables_"},{"label":"wearable technology__","category":"wearables_"},{"label":"web browsers__","category":"web services_"},{"label":"web design__","category":"web services_"},{"label":"web services__","category":"web services_"},{"label":"websites__","category":"web services_"},{"label":"welding__","category":"manufacturing_"},{"label":"welds__","category":"manufacturing_"},{"label":"well stimulation__","category":"utilities_"},{"label":"well testing__","category":"utilities_"},{"label":"wheelchairs__","category":"medical_"},{"label":"wheels__","category":"automotive_"},{"label":"white noise__","category":"audio_"},{"label":"wi-fi__","category":"networks_"},{"label":"wide area networks__","category":"networks_"},{"label":"wide band gap semiconductors__","category":"semiconductors_"},{"label":"wiener filters__","category":"artificial intelligence_"},{"label":"wind__","category":"farming and natural science_"},{"label":"wind power__","category":"power and energy_"},{"label":"wind power plants__","category":"power and energy_"},{"label":"wind turbines__","category":"power and energy_"},{"label":"windows__","category":"construction_"},{"label":"windshields__","category":"automotive_"},{"label":"wire pointing__","category":"manufacturing_"},{"label":"wireless channels__","category":"networks_"},{"label":"wireless lan__","category":"networks_"},{"label":"wireless mesh networks__","category":"networks_"},{"label":"wireless networks__","category":"networks_"},{"label":"wireless sensor networks__","category":"networks_"},{"label":"wood__","category":"construction_"},{"label":"workflow management software__","category":"business planning and management_"},{"label":"x rays__","category":"medical_"},{"label":"xml__","category":"web services_"},{"label":"zero gravity experiments__","category":"simulation_"},{"label":"zoology__","category":"farming and natural science_"},]ategory": "sensors"
 	},
 	{
 		"label": "sensory perception",
@@ -8393,7 +8334,7 @@
 	},
 	{
 		"label": "small-to-medium enterprises",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "smart antennas",
@@ -8477,7 +8418,7 @@
 	},
 	{
 		"label": "software development management",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "software engineering",
@@ -8749,7 +8690,7 @@
 	},
 	{
 		"label": "statistics",
-		"category": "business"
+		"category": "business performance metrics"
 	},
 	{
 		"label": "steam",
@@ -8817,7 +8758,7 @@
 	},
 	{
 		"label": "strategic planning",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "stray light",
@@ -8901,7 +8842,7 @@
 	},
 	{
 		"label": "supply chains",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "support vector machines",
@@ -9089,11 +9030,11 @@
 	},
 	{
 		"label": "technology management",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "technology transfer",
-		"category": "business"
+		"category": "business performance metrics"
 	},
 	{
 		"label": "tectonics",
@@ -9205,7 +9146,7 @@
 	},
 	{
 		"label": "teleworking",
-		"category": "business"
+		"category": "human resources"
 	},
 	{
 		"label": "tellurium compounds",
@@ -9233,7 +9174,7 @@
 	},
 	{
 		"label": "termination of employment",
-		"category": "business"
+		"category": "human resources"
 	},
 	{
 		"label": "terrain mapping",
@@ -9601,7 +9542,7 @@
 	},
 	{
 		"label": "unemployment",
-		"category": "business"
+		"category": "human resources"
 	},
 	{
 		"label": "unmanned aerial vehicles",
@@ -9657,7 +9598,7 @@
 	},
 	{
 		"label": "value engineering",
-		"category": "business"
+		"category": "sales and marketing"
 	},
 	{
 		"label": "valves",
@@ -10093,7 +10034,7 @@
 	},
 	{
 		"label": "workflow management software",
-		"category": "business"
+		"category": "business planning and management"
 	},
 	{
 		"label": "x rays",
