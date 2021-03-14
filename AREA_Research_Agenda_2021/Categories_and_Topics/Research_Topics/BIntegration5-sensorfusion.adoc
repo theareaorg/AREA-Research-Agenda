@@ -11,7 +11,7 @@ This research project will study the use of off-display sensors and advanced dat
 To be generated via FindAR
 
 # Key Words
-Body sensor networks, head-mounted display device, wearables, distributed computing, cloud computing, sensor fusion, optimization, body area networks, off-display sensors, off-display processing
+Body sensor networks, sensor configuration, sensor control, head-mounted display device, wearables, distributed computing, cloud computing, sensor fusion, optimization, body area networks, off-display sensors, off-display processing
 
 ## FindAR Terms
 body sensor networks, personal area networks, mobile cloud computing, distributed computing, body area networks, wireless sensor networks, sensor fusion
@@ -37,7 +37,7 @@ Long-term
 This topic is at the intersection of multiple domains including but not limited to sensor configuration and control, sensor registrations, data filtering, sensor fusion, user context capture and body area networks. The result could contribute to design of new HMD architectures, high-performance network-based resources and services (eg., 5G).
 
 # Miscellaneous Notes
-Studies of optical and IMU sensor fusion for AR HMDs date have been published as early as 2003. A recent publication on the topic of 6DOF pose proves that the approach is very reliable https://www.researchgate.net/publication/281764749_An_Inertial_and_Optical_Sensor_Fusion_Approach_for_Six_Degree-of-Freedom_Pose_Estimation
+Studies of optical and IMU sensor fusion for AR HMDs date have been published as early as 2003. A https://www.researchgate.net/publication/281764749_An_Inertial_and_Optical_Sensor_Fusion_Approach_for_Six_Degree-of-Freedom_Pose_Estimation[recent publication on the topic] of 6DOF pose proves that the approach is very reliable.
 
-# Author
-Peter Orban
+# Authors
+Peter Orban, Christine Perey

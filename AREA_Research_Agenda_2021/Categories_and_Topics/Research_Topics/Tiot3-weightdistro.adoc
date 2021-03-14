@@ -1,5 +1,7 @@
 [[ra-Tiot3-weightdistro]]
 
+NOTE: NEEDS MORE WORK and is VERY close to Commercial Container topic
+
 # Ensuring proper weight distribution during cargo loading and unloading
 
 # Description
@@ -15,6 +17,9 @@ stowage plan, loading order, weight distribution
 
 ## FindAR Terms
 ambient intelligence, mechatronics, incandescent lamps, cognitive radio, internet of things, led lamps, industry 4.0
+
+# Research Agenda Categories
+Industry, Technology, Business
 
 # Stakeholders
 Port and shipping managers, IT managers, field work force, ISVs

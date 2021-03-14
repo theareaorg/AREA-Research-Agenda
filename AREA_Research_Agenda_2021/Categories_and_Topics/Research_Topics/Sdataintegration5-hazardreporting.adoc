@@ -14,7 +14,10 @@ The topic includes definition of automatic AR-assisted or enabled capture techno
 Standards requirements, standard specifications, hazard management, risk management, safety management, data capture, data integration, data encryption, cybersecurity
 
 ## FindAR Terms
-TBD
+occupational risks, risk assessment, risk perception, accidents, occupational health, occupational safety, safety, health and safety, health hazards, safety devices, safety factor, safety systems, fault detection, monitoring, system monitoring
+
+# Research Agenda Categories
+Standards, Technology
 
 # Stakeholders
 Standards bodies, risk managers, safety managers, policy managers, AR developers, IT developers, designers and manufacturers of enterprise AR displays
@@ -34,7 +37,7 @@ Medium
 This research topic can be combined with industry-specific research projects such as the development of body-worn cameras by law enforcement officers. It can also be an extension to cybersecurity research, research about media encryption and standards pertaining to other methods of incident reporting.
 
 # Miscellaneous Notes
-None
+Could be an offshoot of UL8400 or BSI IST/31
 
 # Author
 Christine Perey

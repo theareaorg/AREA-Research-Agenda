@@ -1,6 +1,8 @@
 [[ra-Tsecurity3-biometric]]
 
-# Biometric identification of wearable Enterprise AR device users
+NOTE: NEEDS MORE WORK and is very close to facial obfuscation topic. Could modify to make it closer to one of the AREA member submitted research topics
+
+# Biometric identification of Wearable Enterprise AR device users
 
 # Description
 AR’s utility in the Enterprise is rapidly growing, driving further penetration across use cases and verticals. At the same time this also means a heightened security risk, increasing the need for an elevated security posture.
@@ -16,6 +18,9 @@ Biometric, palmprint, retina scanning, iris scanning, heartbeat detection, skin 
 
 ## FindAR Terms
 access control, data protection, security systems, trusted computing, authentication, message authentication, authorization, security of data, access protocols, data protection, security systems, trusted computing, authorization, security of data, access protocols
+
+# Research Agenda Categories
+Industry, Technology, Business
 
 # Stakeholders
 CIOs, IT and Security managers, OEMs, ISVs

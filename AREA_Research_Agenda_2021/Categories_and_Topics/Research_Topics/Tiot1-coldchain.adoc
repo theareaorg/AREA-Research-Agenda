@@ -1,13 +1,16 @@
-[[ra-Tiot1-coldchain]
+[[ra-Tiot5-coldchain]
 
-# Breaking the cold chain: identifying the culprits via AR
+NOTE: NEEDS MORE WORK
+
+# Identification of Cold Chain Governance using AR
 
 # Description
 Cold chains used to preserve and to extend and ensure the shelf life of products, such as fresh agricultural produce, frozen food , chemicals, and pharmaceutical products. Depending on the specific product, other physical parameters of the chain may also be regulated, e.g. CO2/oxygen level, humidity and others.
+
 Cold chain governance requires data loggers and/or RFID tags document the temperature history down to the container level. If a cold chain breaks, it is paramount to identify effected cargo as such and remove it from further shipping as soon as possible.
 Head mounted displays, or handheld devices can track unloading cargo and - pulling the data from the container’s data logger - visually identify non-compliant containers. This visualization allows for an efficient way of isolating non-compliance or other mismatches.
-This research topics includes creating digital representations of a cargo vessel and field test of HMD headsets integrated with port and ship maritime systems.
 
+This research topics includes creating digital representations of a cargo vessel and field test of HMD headsets integrated with port and ship maritime systems.
 
 # Prior Research
 To be generated via FindAR
@@ -17,6 +20,9 @@ cold chain, data-loggers, shipping, chain of custody,
 
 ## FindAR Terms
 ambient intelligence, mechatronics, incandescent lamps, cognitive radio, internet of things, led lamps, industry 4.0
+
+# Research Agenda Categories
+Industry, Technology, Business
 
 # Stakeholders
 Port and shipping managers, Air cargo forwarding managers, IT managers, field work force, ISVs

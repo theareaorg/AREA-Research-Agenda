@@ -9,7 +9,7 @@ While enterprise AR display power storage capacities have, in recent years, sign
 
 NOTE: The above paragraphs could be the introduction for the Display Category research topics.
 
-Digital Signal Processors (DSPs) are common components of AR System-on-Chips (SoCs) for AR displays. The DSPs accelerate the classes of computational tasks required for optimal performance of AR systems. They can be configured and optimized to specific parameters, matching the sensors that capture the real world, tasks that they perform and even the use case or user's requirements.
+Digital Signal Processors (DSPs) are common components of AR System-on-Chips (SoCs) for use in design of AR displays. The DSPs accelerate the classes of computational tasks required for optimal performance of AR systems. They can be configured and optimized to specific parameters, matching the sensors that capture the real world, tasks that they perform and even the use case or user's requirements.
 
 While the data about the user's context is captured, fused and filtered in one DSP, vision processing units (VPU) are analyzing individual and fused data signals to detect key features (e.g., objects) of the real world. At the moment when AR experiences are delivered to users, power is needed for the rendering computations. This power usage must not compete with the power necessary for the optics and/or other systems to produce digital assets visible to the user and/or any other sensory (e.g., auditory) signals.
 
@@ -21,10 +21,10 @@ This research needs to be published and available to component manufacturers and
 To be generated via FindAR
 
 # Key Words
-Low power, power use, power consumption, digital signal processing, DSP, VPU, SoC, AR display hardware, Machine Learning, Artificial Intelligence
+Low power, power use, power consumption, digital signal processing, DSP, VPU, SoC, AR display hardware
 
 ## FindAR Terms
-using machine-assigned terms list
+digital signal processing, low power electronics, heads-up displays, power consumption
 
 # Research Agenda Categories
 Display Devices, Technology

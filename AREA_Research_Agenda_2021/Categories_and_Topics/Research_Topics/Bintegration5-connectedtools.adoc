@@ -36,7 +36,7 @@ An experimental environment using a range of connected tools and procedures will
 Medium
 
 # Research Program
-This research can be combined with studies of AR-enabled guidance, 3D user interfaces, live sensor visualization for other use cases, and
+This research can be combined with studies of AR-enabled guidance, integration of AR with IoT, finding parts and supplies with AR, 3D user interfaces, live sensor visualization for other use cases, and other use cases in factory or field settings.
 
 # Miscellaneous Notes
 Two AREA members with financial support from both industry and government [MxD (in US) and the AMRC (in UK)] have the required experimental environments and have already begun studying the approaches in this topic.

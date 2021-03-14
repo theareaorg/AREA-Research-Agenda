@@ -13,21 +13,21 @@ This research topic explores different approaches to visualize levels of materia
 To be generated via FindAR
 
 # Key Words
-Materials management, supply chain management, logistics, asset tracing, asset management, Industrial Internet of Things (IIoT), usability, perception
+Logistics data processing, materials management, supply chain management, logistics, asset tracing, asset management, Industrial Internet of Things (IIoT), usability, perception, work orders, productivity
 
 ## FindAR Terms
-interactive systems and tools, Internet of Things,
+interactive systems and tools, Internet of Things, supply chain, time difference of arrival, warehouse automation, logistics data processing, pallets, supply chain management, manufacturing,
 
 # Research Agenda Categories
 Business, Technology, Use Cases, End Users
 
 # Stakeholders
-Operators of manufacturing, repair, employees in manufacturing facilities, maintenance managers, quality managers, managers of factories, providers of repair and maintenance services
+Operators of manufacturing, repair, employees in manufacturing facilities, maintenance managers, quality managers, managers of factories, providers of repair and maintenance services, supply chain managers
 
 # Position on X and Y axes (1-5)
 
 # Reasons this topic is important for AREA members
-AREA members with manufacturing facilities for assembly, or providing repair or maintenance services, or field services where materials must be combined with the worker skills and availabilities need better ways to visualize data. AR connected to parts and supply data provides instantaneous status information to users. By immediately visualizing where materials are to be found, or if limited, the user will lower time wasted waiting for materials, and perform the task or process necessary to move parts or supplies to their optimal positions with respect to tasks.
+AREA members with manufacturing facilities for assembly, or providing repair or maintenance services, or field services where materials must be combined with a worker's skills and availabilities need better ways to visualize data in situ and, based on AI, predict and plan work accordingly. AR systems connected to data processing for parts and supplies could provide instantaneous status information and guidance to users. By immediately visualizing where materials are to be found, or if limited, the user will lower time wasted waiting for materials, and perform the task or process necessary to move parts or supplies to their optimal positions with respect to tasks.
 
 # Possible Methodologies
 An experimental environment using a range of connected tools and procedures will provide the suitable environment for this research. Users of Industrial Internet of Things (IIoT) systems will perform tasks under controlled conditions. Motion and time studies, quality inspection and other measurements of performance will be used to quantify impacts. Users will complete surveys about satisfaction and feedback on various visualizations.
@@ -36,10 +36,10 @@ An experimental environment using a range of connected tools and procedures will
 Medium
 
 # Research Program
-This research can be combined with studies of AR-enabled guidance, 3D user interfaces, live sensor visualization for other use cases, and
+This research can be combined with studies of AR-enabled guidance, 3D user interfaces, live sensor visualization for other use cases in factory and field settings and visualization of connected objects (e.g., tools) and IoT data streams.
 
 # Miscellaneous Notes
-Two AREA members with financial support from both industry and government [MxD (in US), the Manufacturing Technology center (in UK) and the AMRC (in UK)] have the required experimental environments and have already begun studying the approaches in this topic.
+Three non-commercial AREA members with financial support from both industry and government [MxD (in US), the Manufacturing Technology Center (The MTC, in UK) and the Advanced Manufacturing Research Center with boeing (AMRC in UK)] have the required experimental environments and have already begun studying the approaches in this topic.
 
 In December 2014, there was on https://www.plex.com/[the Plex web site] a blog post about the specific use case of a https://www.plex.com/blog/internet-making-things-connected-torque-wrench[connected torque wrench].
 

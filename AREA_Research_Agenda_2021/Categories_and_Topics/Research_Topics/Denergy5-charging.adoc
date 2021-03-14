@@ -25,7 +25,7 @@ All users of wearable AR display devices and those who manage their use in the w
 # Position on X and Y axes (1-5)
 
 # Reasons this topic is important for AREA members
-NOTE: describe energy harvesting based on human body movement
+Most of the leading AR display component and system manufacturers are AREA members. Use of wearable AR displays in AREA member settings is limited by many factors, one of which is the size and weight of the display needed in order to store sufficient energy to power the computational processing requirements of AR experiences. The issues of power storage to deliver energy for a full work shift can be addressed through reducing local (on-device) processing and power requirements, and increasing storage capacity. Having continuously generated power from a source such as the movements or environment of the user is an approach that has not received extensive study but could introduce an attractive alternative to removing a device from use for charging.
 
 # Possible Methodologies
 The research will be leveraging developments in physics, chemistry and other sciences pertaining to energy production and combining those with deeper studies of wearable AR display device power use. In addition to theoretical calculations, there will need to be prototypes developed and tested to measure the efficacy and efficiencies of power capture, storage and use with AR displays. Finally, the introduction of new energy production, transfer and storage methods or systems will need to be carefully studied for their safety in the workplace.
@@ -39,9 +39,9 @@ This research topic could be studied in different environmental conditions, such
 # Miscellaneous Notes
 This field of research is in its infancy, but there are some promising developments such as the electrochemically-driven mechanical device developed at MIT and revealed in 2016 in Nature https://www.nature.com/articles/ncomms10146
 
-The following articles, published in 2019 describe energy harvesting based on human body movement https://techxplore.com/news/2019-11-harvesting-energy-human-body.html, also reported here https://www.sciencedaily.com/releases/2019/07/190717122600.htm
+The following articles, published in 2019 describe https://techxplore.com/news/2019-11-harvesting-energy-human-body.html[energy harvesting based on human body movement]; similar studies have been https://www.sciencedaily.com/releases/2019/07/190717122600.htm[reported here.]
 
-Measurement of the power produced, published in 2020 https://res.mdpi.com/d_attachment/energies/energies-13-03871/article_deploy/energies-13-03871-v2.pdf
+This study of https://res.mdpi.com/d_attachment/energies/energies-13-03871/article_deploy/energies-13-03871-v2.pdf[Measurement of the power produced], was published in 2020.
 
 # Author
 Christine Perey

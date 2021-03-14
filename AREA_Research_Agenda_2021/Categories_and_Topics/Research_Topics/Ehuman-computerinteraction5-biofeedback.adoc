@@ -14,7 +14,7 @@ To be generated via FindAR
 Biometrics, body sensors, blood pressure, heart rate, body temperature, body-area network, biofeedback, user data privacy protection
 
 ## FindAR Terms
-from machine-assigned terms list
+biofeedback, biometrics, body area network
 
 # Research Agenda Categories
 End Users, Technology

@@ -14,7 +14,10 @@ To be generated via FindAR
 Face detection, facial identification, obfuscation of region of interest, personal information, privacy, privacy protection
 
 ## FindAR Terms
-using machine-assigned terms list
+biometrics
+
+# Research Agenda Categories
+Technology, End Users, Business
 
 # Stakeholders
 Privacy managers, workplace policy managers, risk managers
@@ -36,7 +39,7 @@ Medium
 This topic can be combined with the study of automatic detection and management of other sensitive data types. For example, the license plates of cars, names of people appearing in semi-public places (e.g. postal box), and voices of people in proximity of the AR-enabled user could be selectively removed based on the local regulations and privacy policies.
 
 # Miscellaneous Notes
-Text
+A 2014 peer-reviewed paper https://www.researchgate.net/publication/323372332_Face_Recognition_and_Privacy_in_the_Age_of_Augmented_Reality[describes tests performed and highlights the implications of the convergence of face recognition technology and use of AR].
 
 # Author
 Christine Perey

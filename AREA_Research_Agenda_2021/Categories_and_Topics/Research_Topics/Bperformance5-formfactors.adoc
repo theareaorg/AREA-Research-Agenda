@@ -28,9 +28,9 @@ Operations leaders, financial management, OEM manufacturers, Independent Softwar
 # Position on X and Y axes (1-5)
 
 # Reasons this topic is important for AREA members
-Wearable AR Displays make instinctive sense for frontline workers. However, deploying a new class of device, appropriate software, integration and training introduce additional expenses – particularly if handhelds have been well integrated in the current procedures.
+Wearable AR Displays provide frontline workers in AREA member companies with information without requiring the user to hold a display in their hands or look away from their tasks while obtaining instructions. However, deploying display devices with entirely different form factors than those widely adopted, developing and deploying appropriate software, integrating and training users on the new devices introduces time and expenses – particularly if handhelds have been well integrated in the current procedures.
 
-The AREA members need ways to calculate the benefits of different form factors.
+The AREA members need ways to measure and/or to calculate the investments and benefits of using different form factors in the workplace.
 
 # Possible Methodologies
 The research will contribute to development of tools to accurately, impartially measure the differences between the handheld and wearable displays. The measurement methods will be used on groups of users sufficiently large in number and diverse in profiles to allow projection across various attributes (e.g. time saved, quality improved, error eliminated, etc). The research tools can include time-motion studies using standardized, public and well-documented processes typical of industry verticals, use cases and horizontal use case categories.
@@ -44,5 +44,5 @@ This research can be combined with and/or extended to include different wearable
 # Miscellaneous Notes
 The AREA RoI calculator is a starting point for quantifying the economic impacts of AR in repair and maintenance use cases. This research could contribute to the expansion of the AREA RoI calculator.
 
-# Author
-Peter Orban
+# Authors
+Peter Orban, Christine Perey

@@ -16,6 +16,9 @@ New interfaces and data encodings for 3D capture systems to make those systems d
 ## FindAR Terms
 object-oriented programming, open systems, authoring systems, shape recognition, feature extraction, 3d modeling
 
+# Research Agenda Categories
+Standards, Technology
+
 # Stakeholders
 Developers, AR managers, AR authoring platform publishing entities
 

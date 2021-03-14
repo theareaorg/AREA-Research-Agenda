@@ -1,21 +1,24 @@
 
 [[ra-Imarine5-containertechnologies]]
 
-# Visualization and Control of Commercial Container Technologies
+# Technologies for Visualization and Control of Commercial Containers
 
 # Description
 Shipping vessels carry 90% of all global trade. Containers play an important role in the transportation of goods by sea. There are a variety of ways that AR can assist employees to track and manage containers on a vessel or in a port. By having information about the status of containers, as well as the weight, shape and type of contents of containers in an AR-ready database, technicians can make better informed decisions.
 
-This research focuses on documenting use cases for enriching the interactions that AR-enabled sailors and port staff can have with container information, and studying options to increase productivity, security and safety at sea and on land when people need to load, inspect, maintain or repair commercial containers.
+This research topic focuses on documenting use cases for enriching the interactions that AR-enabled sailors and port staff can have with container information, and studying options to increase productivity, security and safety at sea and on land when people need to load, inspect, maintain or repair commercial containers.
 
 # Prior Research
 1
 
 # Key Words
-Marine, Commercial shipping, containers, tracking, ships, sailors, port operations, safety, security
+Marine, shipping, commercial shipping, containers, tracking, ships, sailors, port operations, safety, security
 
 ## FindAR Terms
+marine, ships, buoyancy,
 
+# Research Agenda Categories
+Industry, Business, Technology
 
 # Stakeholders
 Operators of shipping services, naval captains, shipping operations managers, repair and maintenance on shipping vessels, sailors, port operations, customs agents
@@ -26,16 +29,16 @@ Operators of shipping services, naval captains, shipping operations managers, re
 Enterprises cannot integrate and deploy technologies that introduce risk to their intellectual property or customer data. As long as their data is at risk of exposure, security experts will prevent AR adoption in domains or workplaces where there is uncertainty or risk of exposure. Very little is known or documented about possible impacts of the issues around this topic. Studies of enterprise implementations of cybersecurity programs or software in conjunction with AR will increase awareness of issues and reduce risks.
 
 # Possible Methodologies
-Laboratory or bench studies with cybersecurity threats into commercial wearable AR displays will highlight vulnerabilities. Tests of commercial or experimental software to manage sensitive data can be conducted in simulated environments.
+This research will probably begin with laboratory or bench studies testing different measures to mitigate cybersecurity threats when using commercial wearable AR displays. Research will highlight vulnerabilities. Tests of commercial or experimental software to manage sensitive data can be conducted in simulated environments.
 
 # Expected Impact Timeframe
 Near
 
 # Research Program
-This topic or theme of research can be combined with assessments of geofencing, biomarkers for user authentication and other methods to reduce risks to enterprise data.
+This topic or theme of research overlaps with other topics pertaining to cybersecurity and use cases that benefit from users being able to quickly obtain information about any closed container on land or sea. Research can be combined with assessments of geofencing, biomarkers for user authentication and other methods to reduce risks to enterprise data. The study of AR in commercial ports could have impacts on customs clearance and compliance with regulatory policy (e.g., safety, duties, etc).
 
 # Miscellaneous Notes
-In 2017, this topic was the focus of the first AREA-directed research project. The AREA published the first report on the topic of security for wearable AR displays to members in June 2017 and released the report and assessment protocol to the ecosystem in mid-2019.
+Western Container Sales, a container retailer, https://westerncontainersales.com/augmented-reality-shipping-container/[offers AR experiences for prospective customers].
 
 # Author
 Christine Perey
