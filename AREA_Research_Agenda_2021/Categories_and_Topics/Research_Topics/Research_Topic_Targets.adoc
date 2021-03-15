@@ -15,7 +15,7 @@ Two past member-proposed topics have been captured:
 In addition, Christine will write up at least the following past member-proposed topics:
 
 . Common interface to swap out AR tracking libraries (Standards) [DONE]
-. Secure Identity and Authentication Management for Shareable (Multi-User) Wearable AR Displays (Displays or Technology-security topic)
+. Secure Identity and Authentication Management for Shareable (Multi-User) Wearable AR Displays [DONE]
 . Facilitated User Interactions for Selecting and Manipulating Virtual Models in Augmented Reality (End User)
 . Standards for multi-user shared holograms (Standards)
 
