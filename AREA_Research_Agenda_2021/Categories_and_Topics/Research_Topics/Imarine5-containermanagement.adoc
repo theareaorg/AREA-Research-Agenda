@@ -14,7 +14,7 @@ Stowage is another example. When loading merchant vessels, air cargo, or another
 
 Head mounted displays, handheld devices or stationary cameras can track loading cargo using computer vision, container marking (e.g. QR codes), RFID or other dedicated sensor network and, when finished, projected cargo distribution on a digital representation of a vessel. This visualization allows for an efficient way identifying potential non-compliance or other mismatches.
 
-This research topic focuses on documenting use cases for enriching the interactions that AR-enabled technicians, on board and in port, when they receive and can use accurate and up to date container information. With this information as the professionals move about within and around containers when loading, inspecting, maintaining or repairing commercial containers, productivity, security and safety compliance can increase.
+This research topic focuses on documenting use cases for enriching the interactions that AR-enabled technicians, on board and in port, can have and decisions they may make when receiving and using accurate and up-to-date information about containers and their contents. As the professionals move about within and around containers when loading, inspecting, maintaining or repairing commercial containers, they will be more productive, and security and safety policy compliance can increase.
 
 # Prior Research
 1
