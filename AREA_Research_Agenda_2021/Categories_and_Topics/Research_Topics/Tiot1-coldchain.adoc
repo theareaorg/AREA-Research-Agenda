@@ -1,11 +1,11 @@
 [[ra-Tiot5-coldchain]
 
-NOTE: NEEDS MORE WORK
+NOTE: The text of the description and the keywords have been moved over to Imarine5-containermanagement.adoc 
 
 # Identification of Cold Chain Governance using AR
 
 # Description
-Cold chains used to preserve and to extend and ensure the shelf life of products, such as fresh agricultural produce, frozen food , chemicals, and pharmaceutical products. Depending on the specific product, other physical parameters of the chain may also be regulated, e.g. CO2/oxygen level, humidity and others.
+Cold chains used to preserve and to extend and ensure the shelf life of products, such as fresh agricultural produce, frozen food, chemicals, and pharmaceutical products. Depending on the specific product, other physical parameters of the chain may also be regulated, e.g. CO2/oxygen level, humidity and others.
 
 Cold chain governance requires data loggers and/or RFID tags document the temperature history down to the container level. If a cold chain breaks, it is paramount to identify effected cargo as such and remove it from further shipping as soon as possible.
 Head mounted displays, or handheld devices can track unloading cargo and - pulling the data from the container’s data logger - visually identify non-compliant containers. This visualization allows for an efficient way of isolating non-compliance or other mismatches.

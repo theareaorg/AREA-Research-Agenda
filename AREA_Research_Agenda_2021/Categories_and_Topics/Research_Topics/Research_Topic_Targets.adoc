@@ -10,7 +10,7 @@ This file was updated on March 14.
 Two past member-proposed topics have been captured:
 
 . Barriers to Adoption of AR for Inspection Use Cases (Use Cases) [DONE]
-. 3D Capture Standards to Streamline AR Authoring (Standards)
+. 3D Capture Standards to Streamline AR Authoring (Standards) [DONE]
 
 In addition, Christine will write up at least the following past member-proposed topics:
 
@@ -26,6 +26,8 @@ If she has time, Barb could write up:
 ## Business Category
 
 Would be valuable to develop two research topics that target the "Logistics" Group in this Category. No one was assigned these topics.
+
+UPDATE on March 15: The connected shipping container management topic could be a Logistics group example.
 
 ## Displays Category
 

@@ -1,44 +1,52 @@
 
 [[ra-Imarine5-containertechnologies]]
 
-# Technologies for Visualization and Control of Commercial Containers
+NOTE: Maybe change the assignment to Marine industry. Also could discuss the possibility of this topic being considered a "logistics" example.
 
 # Description
-Shipping vessels carry 90% of all global trade. Containers play an important role in the transportation of goods by sea. There are a variety of ways that AR can assist employees to track and manage containers on a vessel or in a port. By having information about the status of containers, as well as the weight, shape and type of contents of containers in an AR-ready database, technicians can make better informed decisions.
+Containers play an important role in the transportation of goods by sea and air. There are a variety of ways that AR can assist employees to track and manage containers on a vessel, airplane or in port. Where there are risks there are also opportunities. By having information about the status of containers, as well as the weight, shape and type of contents of containers in an AR-ready database, technicians can make better informed decisions.
 
-This research topic focuses on documenting use cases for enriching the interactions that AR-enabled sailors and port staff can have with container information, and studying options to increase productivity, security and safety at sea and on land when people need to load, inspect, maintain or repair commercial containers.
+An example of this is cold chain management. Containers with climate control are used to preserve and to extend and ensure the shelf life of products, such as fresh agricultural produce, frozen food, chemicals, and pharmaceutical products. Depending on the specific product, other physical parameters of the chain may also be regulated, (e.g. CO2/oxygen level, humidity and others).
+
+Cold chain governance requires continuous monitoring and/or RFID tags to document the temperature history down to the container level. If a cold chain breaks, it is paramount to identify effected cargo as such and remove it from further shipping as soon as possible. Head mounted displays, or handheld devices can track unloading cargo and - pulling the data from the container’s data logger - visually identify non-compliant containers. This visualization allows for an efficient way of isolating non-compliance or other mismatches.
+
+Stowage is another example. When loading merchant vessels, air cargo, or another shipping instrument, weight distribution is carefully calculated and loading is planned accordingly. These stowage plans are critical to vessel stability therefore compliance is very important. Although stowage or loading plans are delivered by various software tools, execution is dependent on human interaction.
+
+Head mounted displays, handheld devices or stationary cameras can track loading cargo using computer vision, container marking (e.g. QR codes), RFID or other dedicated sensor network and, when finished, projected cargo distribution on a digital representation of a vessel. This visualization allows for an efficient way identifying potential non-compliance or other mismatches.
+
+This research topic focuses on documenting use cases for enriching the interactions that AR-enabled technicians, on board and in port, when they receive and can use accurate and up to date container information. With this information as the professionals move about within and around containers when loading, inspecting, maintaining or repairing commercial containers, productivity, security and safety compliance can increase.
 
 # Prior Research
 1
 
 # Key Words
-Marine, shipping, commercial shipping, containers, tracking, ships, sailors, port operations, safety, security
+Marine, shipping, freight, cold chain, commercial shipping, containers, tracking, ships, cargo airplanes, technicians, port operations, cargo loading, inspection, safety, security, stowage plan, loading order, weight distribution
 
 ## FindAR Terms
-marine, ships, buoyancy,
+cargo, marine, ships, buoyancy, ambient intelligence, mechatronics, incandescent lamps, internet of things
 
 # Research Agenda Categories
 Industry, Business, Technology
 
 # Stakeholders
-Operators of shipping services, naval captains, shipping operations managers, repair and maintenance on shipping vessels, sailors, port operations, customs agents
+Operators of any cargo service including but not limited to shipping services, pilots, naval captains, shipping operations managers, quality managers, security managers, workers performing repair and maintenance on shipping containers, port operations, customs agents
 
 # Position on X and Y axes (1-5)
 
 # Reasons this topic is important for AREA members
-Enterprises cannot integrate and deploy technologies that introduce risk to their intellectual property or customer data. As long as their data is at risk of exposure, security experts will prevent AR adoption in domains or workplaces where there is uncertainty or risk of exposure. Very little is known or documented about possible impacts of the issues around this topic. Studies of enterprise implementations of cybersecurity programs or software in conjunction with AR will increase awareness of issues and reduce risks.
+Many AREA customer segment members produce and distribute products globally. Some products are sensitive and must be shipped under controlled conditions. Other AREA members build and/or operate fleets of vessels (air, sea and land) and have operational responsibilities for the containers and their contents. Finally, AREA provider segment members producing software and display devices may wish to expand their offerings, based on precise use cases and requirements, in markets where the potential to impact safety, security and quality are high.
 
 # Possible Methodologies
-This research will probably begin with laboratory or bench studies testing different measures to mitigate cybersecurity threats when using commercial wearable AR displays. Research will highlight vulnerabilities. Tests of commercial or experimental software to manage sensitive data can be conducted in simulated environments.
+This research requires a team of experts intimately familiar with all aspects of the transportation of goods. The study of regional as well as global shipping patterns and technologies will be followed by development of prototypes and testing in a variety of settings. In field usability trials, with service professionals can reveal new requirements and opportunities for AR-assisted and IoT connected containers to reduce risk and increase productivity.
 
 # Expected Impact Timeframe
-Near
+Medium
 
 # Research Program
-This topic or theme of research overlaps with other topics pertaining to cybersecurity and use cases that benefit from users being able to quickly obtain information about any closed container on land or sea. Research can be combined with assessments of geofencing, biomarkers for user authentication and other methods to reduce risks to enterprise data. The study of AR in commercial ports could have impacts on customs clearance and compliance with regulatory policy (e.g., safety, duties, etc).
+This topic or theme of research overlaps with other topics pertaining to management of goods and services and use cases that benefit from users being able to quickly obtain information about any closed but connected container on land or sea. Research can be combined with assessments of accuracy at a distance from the target. The study of AR in commercial ports could have impacts on customs clearance and compliance with regulatory policy (e.g., safety, duties, etc).
 
 # Miscellaneous Notes
 Western Container Sales, a container retailer, https://westerncontainersales.com/augmented-reality-shipping-container/[offers AR experiences for prospective customers].
 
 # Author
-Christine Perey
+Christine Perey, Peter Orban
