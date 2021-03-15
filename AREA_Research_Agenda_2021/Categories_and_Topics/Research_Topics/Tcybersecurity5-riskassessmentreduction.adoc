@@ -29,7 +29,7 @@ Data security officers, employees working in highly sensitive disciplines, custo
 Enterprises cannot integrate and deploy technologies that introduce risk to their intellectual property or customer data. As long as their data is at risk of exposure, security experts will prevent AR adoption in domains or workplaces where there is uncertainty or risk of exposure. Very little is known or documented about possible impacts of the issues around this topic. Studies of enterprise implementations of cybersecurity programs or software in conjunction with AR will increase awareness of issues and reduce risks.
 
 # Possible Methodologies
-Laboratory or bench studies with cybersecurity threats into commercial wearable AR displays will highlight vulnerabilities. Tests of commercial or experimental software to manage sensitive data can be conducted in simulated environments.
+This project will require laboratory or bench studies with cybersecurity threats into commercial wearable AR displays will highlight vulnerabilities. Tests of commercial or experimental software to manage sensitive data can be conducted in simulated environments. Further, after the tests in simulation, there should be research on the use of the threat mitigation systems in live environments.
 
 # Expected Impact Timeframe
 Near
