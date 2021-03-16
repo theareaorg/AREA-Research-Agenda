@@ -19,7 +19,7 @@ Logistics data processing, materials management, supply chain management, logist
 interactive systems and tools, Internet of Things, supply chain, time difference of arrival, warehouse automation, logistics data processing, pallets, supply chain management, manufacturing,
 
 # Research Agenda Categories
-Business, Technology, Use Cases, End Users
+Business, Technology, Use Cases, End Users, Standards
 
 # Stakeholders
 Operators of manufacturing, repair, employees in manufacturing facilities, maintenance managers, quality managers, managers of factories, providers of repair and maintenance services, supply chain managers

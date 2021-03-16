@@ -3,7 +3,7 @@
 # Impacts of Display Technology on Peripheral Vision
 
 # Description
-AR Head-Mounted Displays (HMD) blend data with the real world while the user wears the displays and uses both hands. Some displays are based on ‘video see-through’ technologies. Video image processing and graphics rendering blend and display the video with integrated information in real time, not unsimilar to sports playback on television. The approach is used in all handheld AR display systems, and can be used in wearable AR displays. By design, video see-through wearable devices provide a Field of View (Fov) between 90 and 120 degrees, thereby blocking the users peripheral vision.
+Head-Mounted AR displays (HMD) blend data with the real world while the user wears the displays and uses both hands. Some displays are based on ‘video see-through’ technologies. Video image processing and graphics rendering blend and display the video with integrated information in real time, not unsimilar to sports playback on television. The approach is used in all handheld AR display systems, and can be used in wearable AR displays. By design, video see-through wearable devices provide a Field of View (Fov) between 90 and 120 degrees, thereby blocking the users peripheral vision.
 
 In contrast, wearable AR display devices based on optical see-through technology vary in the degree to which - if at all – they impact a user's FoV. As peripheral vision is important for user safety, maintaining partial or full peripheral vision is required in many situations.
 
@@ -19,7 +19,7 @@ Video see-through, optical see-through, field of view, waveguide, light field, f
 head-up displays, three-dimensional displays, micro displays, computer displays, liquid crystal displays, display devices, led displays, screens (display), color displays
 
 # Research Agenda Categories
-Display Devices,  Technology, End Users
+Display Devices, Technology, End Users
 
 # Stakeholders
 Operations leaders, HMD designers, Safety & IT managers, OEM manufacturers, ISVs

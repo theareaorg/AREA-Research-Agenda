@@ -17,7 +17,7 @@ Body sensor networks, sensor configuration, sensor control, head-mounted display
 body sensor networks, personal area networks, mobile cloud computing, distributed computing, body area networks, wireless sensor networks, sensor fusion
 
 # Research Agenda Categories
-Display Devices, Business, Technology
+Display Devices, Standards, Business, Technology
 
 # Stakeholders
 HMD manufacturers, AR display device designers, sensor developers, body area network manufacturers, OEM manufacturers, integrated solution and software developers
