@@ -20,7 +20,7 @@ object-oriented programming, open systems, authoring systems, shape recognition,
 Standards, Technology
 
 # Stakeholders
-Developers, AR managers, AR authoring platform publishing entities
+This research is relevant to AR experience developers, AR managers, AR authoring platform publishing companies, AR service providers,
 
 # Position on X and Y axes (1-5)
 

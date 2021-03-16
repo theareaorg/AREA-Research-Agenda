@@ -17,7 +17,7 @@ In addition, Christine will write up at least the following past member-proposed
 . Common interface to swap out AR tracking libraries (Standards) [DONE]
 . Secure Identity and Authentication Management for Shareable (Multi-User) Wearable AR Displays [DONE]
 . AR Cloud in Enterprise [DONE]
-. Facilitated User Interactions for Selecting and Manipulating Virtual Models in Augmented Reality (End User)
+. Facilitated User Interactions for Selecting and Manipulating Virtual Models in Augmented Reality [DONE]
 . Standards for multi-user shared holograms (Standards)
 
 If she has time, Barb could write up:
