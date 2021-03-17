@@ -1,0 +1,54 @@
+[[ra-Tauthentication5-biometric]]
+
+NOTE: NEEDS MORE WORK and is very close to facial obfuscation topic and Tsecurity5-multiusedisplays.adoc.
+
+# Biometric identification of Wearable Enterprise AR device users
+
+# Description
+AR’s utility in the enterprise is rapidly growing, driving further penetration across use cases and verticals. At the same time the new devices also could be perceived as a heightened security threat, increasing the need for an elevated security posture.
+
+Driven by a human-centric approach, a critical step in ensuring compliance with existing security policies and systems is to balance the rigor needed for an accurate user authentication and ultra-low-friction user input.
+
+Biometric identification methods, ranging from palm-prints, voice-prints, iris scanning to heartbeat detection offer a plethora of opportunities for identification of wearable enterprise AR device users before providing access to enterprise work orders and data.
+
+This research topic compares different modalities of biometric identification and classifies them the based on accuracy, cost and ease-of-use.
+
+# Prior Research
+To be generated via FindAR
+
+# Key Words
+Biometric, palmprint, retina scanning, iris scanning, heartbeat detection, skin conductivity
+
+## FindAR Terms
+access control, data protection, security systems,  authentication, message authentication, authorization, security of data, access protocols
+
+# Research Agenda Categories
+Display Devices, End User, Technology
+
+# Stakeholders
+///THIS NEEDS TO BE UPDATED/IMPROVED///
+CIOs, IT and Security managers, OEMs, ISVs
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+///THIS NEEDS TO BE UPDATED/IMPROVED///
+Securing endpoints in the Enterprise is a critical step in preventing a breach of Enterprise Systems. The appearance of a new device class raise legitimate authentication, Human Factors and Privacy concerns related this new and highly personal modality
+
+# Possible Methodologies
+///THIS NEEDS TO BE UPDATED/IMPROVED///
+Lab tests combining best practices of Human Factors and Security research , followed by in-field trials
+
+# Expected Impact Timeframe
+medium-term
+
+# Research Program
+///THIS NEEDS TO BE UPDATED/IMPROVED///
+Text
+
+# Miscellaneous Notes
+///THIS NEEDS TO BE UPDATED/IMPROVED///
+Text
+
+# Author
+Peter Orban

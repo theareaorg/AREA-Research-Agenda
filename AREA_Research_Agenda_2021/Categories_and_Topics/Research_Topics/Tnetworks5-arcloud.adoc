@@ -1,0 +1,43 @@
+[[ra-Tnetworks5-arcloud]]
+
+# Opportunities for AR Cloud Technologies in Enterprise
+
+# Description
+AR Cloud technologies are emerging as part of a broader, 3D “spatial computing” trend. Accurate three-dimensional and spatially-anchored models of the real world are being captured using AR devices and proposed for the design of AR-enabled services with high fidelity positioning of users and assets to automatically connect workers with data from enterprise management systems. Proponents of AR Cloud architectures suggest that using these distributed technologies will result in lower total cost of ownership, higher performance and more flexible AR-enabled solutions. With spatial computing, AR users will have higher engagement, seamless collaborative experiences while sharing 3D models, and options for separating static from dynamic parts of the physical world in AR authoring. By securely off-load computational complexity of AR processes to the edge of their networks, AR display devices will be lighter, have lower power requirements and, potentially lower costs.
+
+This research project will focus on definition of requirements and development of prototypes of devices and network technologies that are not tied to any single vendor's device and network offerings. The results will permit enterprises to evaluate and quantify the benefits of distributed AR Cloud architectures without limiting options for multi-vendor networks. Edge computing technologies will also be essential components.
+
+# Prior Research
+To be generated via FindAR
+
+# Key Words
+Edge computing, spatial computing, AR cloud, cloud computing, 3D mapping, computer vision, object tracking, localization, relocalization,
+
+## FindAR Terms
+edge computing, cloud computing, distributed computing, network architecture
+
+# Research Agenda Categories
+Technology
+
+# Stakeholders
+Network operators, network managers, enterprise IT managers, AR display designers, AR display manufacturers, AR experience authoring platforms, AR developers
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+Before introducing new architectures in their networks, AREA member organizations must understand the potential benefits and ensure that they are not locked into one vendor's vertically-integrated technology silo. The members need to better understand the potential risks and opportunities of introducing AR Cloud in enterprise networks. In addition AREA members seek research that will develop practical guidelines and permit them to keep up with and evaluate this trend over the coming months and years.
+
+# Possible Methodologies
+The research will focus on edge computing technologies from multiple suppliers that can support distributed AR architectures. Studies will compare the components of AR experience delivery that are suited to distributed computing. Laboratory-based studies in controlled environments will measure performance characteristics across different scenarios. There will also need to be study of network-based storage of world maps and the use of these 3d models for real-time object identification, device and object tracking, and localization of devices and objects. End user satisfaction studies can also be used for this research.
+
+# Expected Impact Timeframe
+Medium
+
+# Research Program
+This research topic could be part of a program studying the potential benefits of 5G networks which provide low-latency and high bandwidth connectivity. Other topics such as cloud-based rendering of 3D graphics, discovery of AR experiences and security could be combined with this topic.
+
+# Miscellaneous Notes
+The study and testing of AR cloud technologies in enterprise use cases and networks was proposed as an AREA-directed research project topic in January 2021.
+
+# Author
+Christine Perey

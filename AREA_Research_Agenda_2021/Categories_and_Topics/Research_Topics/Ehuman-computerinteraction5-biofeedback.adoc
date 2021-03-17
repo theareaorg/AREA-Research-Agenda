@@ -14,10 +14,13 @@ To be generated via FindAR
 Biometrics, body sensors, blood pressure, heart rate, body temperature, body-area network, biofeedback, user data privacy protection
 
 ## FindAR Terms
-from machine-assigned terms list
+biofeedback, biometrics, body area network
+
+# Research Agenda Categories
+End Users, Technology
 
 # Stakeholders
-Employee health and wellness advocates, human resources managers, user data privacy policy analysts,
+Companies monitor and manage workplaces for their suitability to employees. This research will be valuable to all workplace health and safety professionals, wellness specialists, human resources managers, user data privacy policy analysts, employees and their managers
 
 # Position on X and Y axes (1-5)
 

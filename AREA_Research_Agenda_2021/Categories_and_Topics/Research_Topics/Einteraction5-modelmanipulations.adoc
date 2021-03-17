@@ -1,0 +1,46 @@
+[[ra-Einteraction5-modelmanipulation]]
+
+# Facilitated User Interactions for Selecting and Manipulating 3D Models
+
+# Description
+Computer-generated models and models derived from scans of objects are increasingly part of product designs and testing activities. They are also valuable in diagnostics, and guiding assembly, repair and maintenance procedures. Today, many AR experiences use only 2D targets and display registered 2D line drawings, text or images. However, in the future 3D models will increasingly be used for object recognition, tracking and registration of experiences. Models will also be displayed over real world objects for instructions, or "hanging" in space when two or more collaborators need to examine the same object.
+
+Unfortunately, the tools (e.g., pointing devices) and conventions (e.g., using gestures and voice commands), for the selection and manipulation of 3D models in AR is challenging for users. Most models lack clearly labelled anchors, handles and other indicators to reduce the barriers to user interactions. When there are multiple models in a scene, users may be unable to select one for closer examination. Users must learn advanced techniques and concentrate to perform simple manipulations such as open, close, hide or advanced manipulations such as rotate, scale (enlarge and shrink), attach, move to back, move forward and other actions that may increase the value of a model in AR experiences.
+
+This research topic focuses on the design, development and evaluation of computer human interactions and computer graphic techniques to improve the ease-of-use of 3D models in AR experiences.
+
+# Prior Research
+To be generated via FindAR
+
+# Key Words
+3D models, selection, manipulation, anchors, labels, handles, rotation, scale, attach, computer human interaction, computer graphics
+
+## FindAR Terms
+computer human interaction, computer graphics
+
+# Research Agenda Categories
+Technology, End Users
+
+# Stakeholders
+This research is relevant to designers and managers of enterprise 3D assets, 3D asset platform publishers, AR experience developers, AR program managers, AR authoring platform publishers
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+AR experience developers and employees in AREA customer segment companies will have many use cases involving the selection and manipulation of 3D models. However, the acceptance and value of 3D models will be low until there are improvements in how models are prepared, presented and manipulated during AR experiences. The proposed research topic will benefit AREA members by increasing 3D model usability, lowering cognitive load and increasing the impact of 3D models in the workplace and workflows.
+
+
+# Possible Methodologies
+The research will build and publish a set of 3D models that objectively represent those most often found or could be used in workplace settings where AR is used or plans to be introduced. The models will be designed with features such as anchors and handles. Studies will compare approaches developed in commercial software for 2D screens with those proposed in AR and VR game engines and experience authoring platforms. In laboratory settings, users will be given tasks to perform with 3D models while using different models of wearable AR displays. In addition to time-motion studies and ergonomics, user testing will measure strain and cognitive effort when performing tasks that require model selection and manipulation.
+
+# Expected Impact Timeframe
+Medium
+
+# Research Program
+This research topic could be combined with studies of 3D capture, computer graphics, 3D model registration and annotation. Research pertaining to AR user interfaces and interaction could also be extended to include 3D model selection and manipulation. The study of hand tracking would contribute to exploring use of gestures for simple and advanced model usage.
+
+# Miscellaneous Notes
+This topic was proposed for consideration in 7th AREA research project topic call and received high member interest and support.
+
+# Author
+Christine Perey

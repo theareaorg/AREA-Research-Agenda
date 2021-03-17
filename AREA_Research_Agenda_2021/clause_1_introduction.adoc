@@ -4,3 +4,23 @@
 The AR for Enterprise Alliance Research Agenda is described in this document.
 
 Here provide a sentence about each section.
+
+# Other Research Agendas
+
+##
+
+In Mark Billinghursts' March 2021 article in Frontiers for VR, "Grand Challenges for Augmented Reality" https://www.frontiersin.org/articles/10.3389/frvir.2021.578080/full The DOI is https://doi.org/10.3389/frvir.2021.578080
+
+He identifies the following areas as having high need for deeper research:
+
+. Fundamental Display Technology
+. Human, Information and Machine Interactions
+. Tracking Technologies
+. Perception and Neuroscience of AR
+. Using AR for Collaboration
+. Social and Ethical Aspects of AR Adoption.
+
+Billinghurst concludes that in order to reach its full potential as a transformative technology, the above areas will need to receive far greater resources and attention.
+
+# Outreach/publications
+Once research is productive and reliable (reproducible) results need to be made available to a wide range of industry stakeholders who can deliver AR experiences that meet and exceed the requirements of end users.

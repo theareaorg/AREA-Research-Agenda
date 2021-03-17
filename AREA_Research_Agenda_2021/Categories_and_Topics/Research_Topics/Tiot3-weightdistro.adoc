@@ -1,0 +1,45 @@
+[[ra-Tiot3-weightdistro]]
+
+NOTE: The description and key words of this topic has been added to the Imarine5-containertechnologies topic.
+
+# Ensuring proper weight distribution during cargo loading and unloading
+
+# Description
+When loading merchant vessels, air cargo, or another shipping instrument, weight distribution is carefully calculated and loading is planned accordingly. These stowage plans are critical to vessel stability therefore compliance is very important. Although stowage or loading plans are delivered by various software tools, execution is dependent on human interaction.
+Head mounted displays, handheld devices or stationary cameras can track loading cargo using computer vision, container marking (e.g. QR codes), RFID or other dedicated sensor network and when finished, projected cargo distribution on a digital representation of a vessel. This visualization allows for an efficient way identifying potential non-compliance or other mismatches.
+This research topics includes creating digital representations of a cargo vessel and field test of HMD headsets integrated with port and ship maritime systems.
+
+# Prior Research
+To be generated via FindAR
+
+# Key Words
+stowage plan, loading order, weight distribution
+
+## FindAR Terms
+ambient intelligence, mechatronics, incandescent lamps, cognitive radio, internet of things, led lamps, industry 4.0
+
+# Research Agenda Categories
+Industry, Technology, Business
+
+# Stakeholders
+Port and shipping managers, IT managers, field work force, ISVs
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+Securing the safety of global freight is important and every measure aiming to decrease risk can lead to a decrease in insurance and shipping costs.
+
+# Possible Methodologies
+Largely in-field comparative testing supported by lab tests of various data extraction methodologies.
+
+# Expected Impact Timeframe
+medium-term
+
+# Research Program
+Text
+
+# Miscellaneous Notes
+Text
+
+# Author
+Peter Orban

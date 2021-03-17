@@ -1,0 +1,54 @@
+
+[[ra-Tiot-operationalriskmitigation]]
+
+# Impact of AR Delivery in Human-Supported Operational Risk Mitigation
+
+# Description
+Whilst automation continues to bring efficiency to operational processes and practices and IoT data capabilities increase exponentially, a crucial element around human intervention remains unaddressed. Specifically, as incoming data indicates that an operational process is trending upward or downward and is approaching deviation from set thresholds, are the humans in proximity to this equipment aware and can they proactively take decisions around appropriate actions, consulting additional support human support and/or schematics, flow charts, or other assets, where necessary? In 2018, McKinsey published an informative report on skill shifts, automation, and the future of the workforce, indicating that, while hours spent performing physical, manual, and basic cognitive skills would decrease by 14-15% between the years 2016 and 2030, higher cognitive skills, social and emotional skills, and technological skills would increase by 8, 24, and 55% respectively. This indicates a sharp departure from manual physical intervention and a transition to interaction between environmental data, people, and equipment in nuanced ways that involve rational analysis and resulting action. +
+
+Increasingly, industries are collecting mass amounts of operational data and parameters via IoT dashboards, though there is little guidance that enables the operator of the future to interpret this data and take appropriate action proactively. Deloitte's 2020 Global Human Capital Trends report indicated that high performance organizations are “evolving from a focus on automating work to replace workers, to augmenting workers with technology to create superjobs, to collaborating with technology to form superteams”. AR is specifically and ideally positioned to play a large role in this transition process for organizations across the globe.
+
+This study would aim to specifically measure the tangible operational processes proactively improved by human intervention to a process prompted by a connected AR headset, providing data insights, as well as prompting appropriate proactive human behavior to maintain operational parameters/limits. +
+
+# Prior Research
+1
+
+# Key Words
+Automation, resklling, skill development, augmentation, superjobs, superteams, operational excellence, IoT, process improvement, augmented reality
+
+## FindAR Terms
+augmented reality, failure, indicators, just in time, mixed realities, optimisation, etc.....TBD
+
+# Research Agenda Categories
+Business, Endusers, Usecases, Displays
+
+# Stakeholders
+Operational excellence professionals, Chief Operating Officers, Board of Directors, Safety and risk professionals
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+Automation introduces new workforce compositions and behaviors and, in order to adapt, organizations will need to deploy augmented support for humans in the workforce that encourages higher-level cognitive processes and decision making, in partnership with automated technology and data at the worksite. As data analysis and technological literacy varies greatly among operational workforces globally, some degree of intervention and support will be necessary to ensure that productivity and safety targets are achieved in a new age of work. AR is uniquely positioned to deliver this guidance and development to the workforce in the "flow of work", as it does not require hand-held or mounted displays that compromise safety and efficiency by directing human hands and eyes away from the production cycle itself.+
+
+
+
+# Possible Methodologies
+The proposed research would need to identify operational processes for which operational parameters/thresholds have been defined and IoT data is available. +
+Research would include current % of time operational process performs outside of appropriate limits/thresholds and introduction of AR data presentation, analysis, and intervention via A/B trial scenarios, potentially with a few different levels of AR intervention. Observe post-intervention data. +
+Post-study operational process optimization time could be calculated and recommendations developed for future implementation. +
+
+
+# Expected Impact Timeframe
+Near
+
+# Research Program
+This study could link closely with existing research programs associated with metals and mining, oil and gas, aerospace, manufacturing, and operational excellence in general.
+
+# Miscellaneous Notes
+References related to automation and necessary upskilling:
+https://www.mckinsey.com/featured-insights/future-of-work/skill-shift-automation-and-the-future-of-the-workforce +
+References related to guidance and learning "in the flow of work":
+https://www2.deloitte.com/us/en/insights/focus/technology-and-the-future-of-work/reskilling-the-workforce.html +
+
+# Author
+Jennifer Rogers

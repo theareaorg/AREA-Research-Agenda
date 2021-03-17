@@ -1,0 +1,48 @@
+# [[ra-DDisplaytechnology5-videovsopticalsee-through]]
+
+# Impacts of Display Technology on Peripheral Vision
+
+# Description
+Head-Mounted AR displays (HMD) blend data with the real world while the user wears the displays and uses both hands. Some displays are based on ‘video see-through’ technologies. Video image processing and graphics rendering blend and display the video with integrated information in real time, not unsimilar to sports playback on television. The approach is used in all handheld AR display systems, and can be used in wearable AR displays. By design, video see-through wearable devices provide a Field of View (Fov) between 90 and 120 degrees, thereby blocking the users peripheral vision.
+
+In contrast, wearable AR display devices based on optical see-through technology vary in the degree to which - if at all – they impact a user's FoV. As peripheral vision is important for user safety, maintaining partial or full peripheral vision is required in many situations.
+
+This research topic focuses on determining the minimum FoV required for wearable video see-through AR display devices to meet workplace safety requirements. The result will provide HMD designers guidance with respect to the minimum FoV (possibly foveated) that must be supported in video see-through in order to provide user experience comparable to the best-in-class optical see-through AR displays.
+
+# Prior Research
+To be generated via FindAR
+
+# Key Words
+Video see-through, optical see-through, field of view, waveguide, light field, foveated rendering, human eye resolution
+
+## FindAR Terms
+head-up displays, three-dimensional displays, micro displays, computer displays, liquid crystal displays, display devices, led displays, screens (display), color displays
+
+# Research Agenda Categories
+Display Devices, Technology, End Users
+
+# Stakeholders
+Operations leaders, HMD designers, Safety & IT managers, OEM manufacturers, ISVs
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+Most of the leading AR display component and system manufacturers are AREA members. Video see-through displays using existing technologies for graphics overlay on video is less expensive to develop than optical see-through displays. AREA members would benefit from having objectively-defined measures of the impact of head-worn video see-through displays on the user's peripheral vision.
+
+# Possible Methodologies
+Studies of human peripheral vision requirements and sensitivities to FoV constraints will need to be performed in highly-controlled research conditions. A research platform composed of configurable head-mounted AR display components could be designed. The video see-through experiences designed for the study will need to have the same level of latency as optical see-through display and their weight and other ergonomic factors would need to be identical in order to study only the impact of the technology on user's vision. Eye-tracking data could be used to measure user's gaze and extensive user interviews or other measurement systems would need to capture the impacts of the options on eye fatigue, cognition and task performance.
+
+# Expected Impact Timeframe
+Near
+
+# Research Program
+This research can be combined with and/or extended to include different wearable form factors including but not limited to monocular displays, binocular or holographic displays. The research scope may also be expanded to apply the same methods to study user safety and comfort. It is also highly valuable to explore how the video and optical see-through displays differ in producing highly registered AR experiences and permitting other optical features.
+
+# Miscellaneous Notes
+One of the https://www.researchgate.net/profile/Jannick-Rolland/publication/220089776_Optical_Versus_Video_See-Through_Head-Mounted_Displays_in_Medical_Visualization/links/0fcfd50f59745391b5000000/Optical-Versus-Video-See-Through-Head-Mounted-Displays-in-Medical-Visualization.pdf[first studies of focusing on this topic] was performed by Dr. Jannick Rolland and Dr. Henry Fuchs to examine the pros and cons of these two display options in a surgical use case. The study was published in the journal "Presence" in 2000.
+
+The topic of mitigating parallax related registration errors is a highly active field of study, as demonstrated by
+https://www.frontiersin.org/articles/10.3389/frobt.2020.572001/full[this article published in December 2020] in the Frontiers in Robotics and AI journal.
+
+# Authors
+Peter Orban, Christine Perey

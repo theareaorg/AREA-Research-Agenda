@@ -14,7 +14,10 @@ Through data collected by user location sensing technologies on devices, and pot
 Hazard detection, hazard management protocol, hazard warning, location-detection, 3D spatial mapping, artificial intelligence, user interface, user experience, risk assessment, risk management, situational awareness
 
 ## FindAR Terms
-TBD
+occupational risks, risk assessment, risk perception, accidents, occupational health, occupational safety, safety, health and safety, health hazards, safety devices, safety factor, safety systems, fault detection, monitoring, system monitoring
+
+# Research Agenda Categories
+Industry, Technology, Business
 
 # Stakeholders
 Safety managers, workplace designers, risk managers
