@@ -7,8 +7,10 @@ Here provide a sentence about each section.
 
 # Other Research Agendas
 
-##
+## European Union
+This report, entitled https://www.standict.eu/sites/default/files/2021-02/McKinsey%20report.pdf[Shaping the Digital Transformation in Europe] (published Sept 2020, prepared by McKinsey & Company), outlines nine actions that set a high bar and that directly address the four objectives for Europe’s digital transformation.
 
+## Grand Challenges
 In Mark Billinghursts' March 2021 article in Frontiers for VR, "Grand Challenges for Augmented Reality" https://www.frontiersin.org/articles/10.3389/frvir.2021.578080/full The DOI is https://doi.org/10.3389/frvir.2021.578080
 
 He identifies the following areas as having high need for deeper research:

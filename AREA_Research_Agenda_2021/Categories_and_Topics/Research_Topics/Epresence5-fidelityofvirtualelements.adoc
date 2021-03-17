@@ -1,0 +1,48 @@
+[[ra-Epresence5-fidelityofvirtualelements]]
+
+# Impact of Fidelity of Virtual Elements on Presence
+
+# Description
+Presence is a term used to describe the "feeling of being there" in a virtual environment. It can be cognitive, in that the users' mind is engaged in the virtual content, or it can be perceptual, in that the users' sensory systems perceive the virtual environment to be "real". In Augmented Reality (AR), this is represented by a seamless integration between the physical and virtual worlds.
+
+An area of research investigating presence involves the design of the virtual elements and the impact of fidelity. Does the level of fidelity of the virtual elements influence the reported experience of presence? For example, will an application that uses realistic 3D models result in higher levels of presence than lower fidelity (i.e., cartoon) 3D models?
+
+It is possible that the lower fidelity serves as a distraction to the user which may result in breaks in immersion and a reminder of artificial nature of the virtual world. This could, in turn, impact their sense of presence. A practical example of this issue is with the use of avatars in collaborative environments. How is presence affected by the appearance and customization of the avatars? If a user pays attention to a particular feature or abnormality due to low fidelity rendering, it may impact their ability to perform the task at hand. Another example may be dynamic elements in the virtual world, such as a bouncing ball or a spinning tire. How distinguishable, in appearance and in behavior, the object is from its physical counterpart may influence the level of reported presence.
+
+# Prior Research
+To be generated via FindAR
+
+# Key Words
+high fidelity, low fidelity, realism, avatars, object interaction, display technology
+
+## FindAR Terms
+avatars, computer graphics, color computer graphics, holographic displays, animation, image quality, cognitive systems
+
+# Stakeholders
+Developers, users of collaborative virtual environments,
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+Exploration of this research topic is of interest to developers and users of AR applications for both productivity and training purposes. Understanding the level of fidelity necessary to achieve optimal presence will help developers know the appropriate effort and resources necessary. Impact if fidelity may also be task dependent. For simple assembly tasks, for example, the level of fidelity may matter less than for collaboration tasks where several avatars work together to solve a problem.
+
+# Possible Methodologies
+Presence tends to be a self-report measure assessed by means of a questionnaire. Physiological measures also may be explored to correlate with reported presence, engagement, and satisfaction. These measures could be compared across environments of varying fidelity for a variety of tasks.
+
+# Expected Impact Timeframe
+Medium
+
+# Research Program
+///////
+NEED TO FILL IN HERE
+///////
+Text (take a look at some of the other topics for inspiration and you can also "borrow" where and as needed
+
+# Miscellaneous Notes
+///////
+NEED TO FILL IN HERE
+///////
+Text (take a look at some of the other topics for inspiration and you can also "borrow" where and as needed
+
+# Author
+ERAU Team
