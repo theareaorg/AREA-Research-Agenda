@@ -1,6 +1,6 @@
 [[ra-Epresence5-amountofinformation]]
 
-# Amount of virtual information needed for one to experience presence in AR environment
+# Amount of Digital Information to Experience Presence in AR
 
 # Description
 Presence is a term used to describe the "feeling of being there" in a virtual environment. It can be cognitive, in that the users' mind is engaged in the virtual content, or it can be perceptual, in that the users' sensory systems perceive the virtual environment to be "real". In Augmented Reality (AR), this is represented by a seamless integration between the physical and virtual worlds.
