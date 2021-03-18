@@ -13,13 +13,13 @@ This study would aim to specifically measure time and cost to new site operation
 1
 
 # Key Words
-Operational readiness, Operational effectiveness, Research and development, R&D, augmented reality, cost effectiveness, cost reduction, industrial research. technology, remote operations, decision support systems
+Operational readiness, Operational effectiveness, Research and development, R&D, cost effectiveness, cost reduction, industrial research. technology, remote operations, decision support systems
 
 ## FindAR Terms
-augmented reality, failure, indicators, just in time, mixed realities, optimisation, etc.....TBD
+failure, indicators, just in time, mixed realities, optimisation, etc.....TBD
 
 # Research Agenda Categories
-Business, Endusers, Usecases
+Business, End Users, Use Cases
 
 # Stakeholders
 Operational excellence professionals, Chief Operating Officers, Safety and risk professionals, plant managers
@@ -31,14 +31,9 @@ Scalability of technological advancement is highly-dependent upon ability to com
 
 This is of particular interest in the current scenario, due to limited travel associated with COVID and could be of great significance to increased efforts to scale up vaccine manufacturing operations (and perhaps even distribution) across the globe in 2021-2022. +
 
-
-
-
 # Possible Methodologies
 The proposed research would need to identify key operational decisions and processes required for transfer from R&D to on-site operations. +
 Research would measure time and cost to site operation with AR-assisted intervention and compare to known historical ramp-up times and costs.  +
-
-
 
 # Expected Impact Timeframe
 Near
