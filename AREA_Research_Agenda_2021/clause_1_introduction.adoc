@@ -24,5 +24,9 @@ He identifies the following areas as having high need for deeper research:
 
 Billinghurst concludes that in order to reach its full potential as a transformative technology, the above areas will need to receive far greater resources and attention.
 
+## Future Today Institute
+The Future Today Institute publishes an annual analysis. The full
+https://www.dropbox.com/s/fm5c9mlmnwy9kgd/FTI_2021_Tech_Trends_Volume_All.pdf?dl=0[2021 Technology Trends Report] includes "books" focusing in different domains. One of the domains is called "New Realities" and the topics in https://www.dropbox.com/s/3esdwureqa5458f/FTI_2021_Tech_Trends_Volume_3_NewRealities_SynthMedia.pdf?dl=0[this book] and the domain of include the use of AR in enterprise
+
 # Outreach/publications
 Once research is productive and reliable (reproducible) results need to be made available to a wide range of industry stakeholders who can deliver AR experiences that meet and exceed the requirements of end users.
