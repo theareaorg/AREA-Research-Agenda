@@ -28,7 +28,7 @@ Developers, users, operators, users of collaborative virtual environments
 This topic is of interest to AREA members because it helps to define effective AR application environments from the end user perspective. Any time the immersion is broken, the operator must shift their attention, which may cause cognitive tunneling which can be associated with decreased awareness of critical elements in either environment, higher perceptions of mental workload, safety issues, and decreased productivity.
 
 # Possible Methodologies
-Presence tends ot be a self-report measure assessed by means of a questionnaire. Physiological measures also may be explored to correlate with reported presence, engagement, and satisfaction. These measures could be systematically compared across environments of varying complexity in terms of number of virtual stimuli for a variety of tasks.
+Presence tends to be a self-report measure assessed by means of a questionnaire. Physiological measures also may be explored to correlate with reported presence, engagement, and satisfaction. These measures could be systematically compared across environments of varying complexity in terms of number of virtual stimuli for a variety of tasks.
 
 # Expected Impact Timeframe
 Medium
