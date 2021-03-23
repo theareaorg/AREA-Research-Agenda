@@ -1,0 +1,50 @@
+[[ra-Epresence5-amountofinformation]]
+
+# Amount of Digital Information to Experience Presence in AR
+
+# Description
+Presence is a term used to describe the "feeling of being there" in a virtual environment. It can be cognitive, in that the users' mind is engaged in the virtual content, or it can be perceptual, in that the users' sensory systems perceive the virtual environment to be "real". In Augmented Reality (AR), this is represented by a seamless integration between the physical and virtual worlds.
+
+A question that arises in this area of research is whether there a minimum amount of virtual information needed in an AR environment to experience presence? In VR worlds, the user is immersed into a completely virtual world so presence is likely to be experienced if the application is successfully implemented. In AR environments, users are exposed to virtual elements in addition to their physical surroundings. If a user has to switch their attention between the two worlds to complete a task, the result can be disruptive and/or fatiguing due to the lack of presence. If the user can complete the task as if the virtual elements are part of the physical world, the result is a seamless, productive experience including presence. The main research question in this area is "How much virtual information is necessary in an AR environment to produce a sense of presence?"  This question is of interest at both ends of the quantity spectrum - how much is enough, and how much is too much? Too little and the user will not experience presence; too much and the user may become so immersed in the virtual elements that awareness of the physical world may be compromised.
+
+# Prior Research
+To be generated via FindAR
+
+# Key Words
+presence, immersion, awareness, realism, cognitive tunneling, mental workload, seamless experience,
+
+## FindAR Terms
+presence, interactive computer graphics, user experience, cognitive systems, sensory perception
+
+## Research Agenda Categories
+End Users and User Experience, Industries, Technology
+
+# Stakeholders
+Developers, users, operators, users of collaborative virtual environments
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+This topic is of interest to AREA members because it helps to define effective AR application environments from the end user perspective. Any time the immersion is broken, the operator must shift their attention, which may cause cognitive tunneling which can be associated with decreased awareness of critical elements in either environment, higher perceptions of mental workload, safety issues, and decreased productivity.
+
+# Possible Methodologies
+Presence tends ot be a self-report measure assessed by means of a questionnaire. Physiological measures also may be explored to correlate with reported presence, engagement, and satisfaction. These measures could be systematically compared across environments of varying complexity in terms of number of virtual stimuli for a variety of tasks.
+
+# Expected Impact Timeframe
+Medium
+
+
+# Research Program
+///////
+NEED TO FILL IN HERE
+///////
+Text (take a look at some of the other topics for inspiration and you can also "borrow" where and as needed
+
+# Miscellaneous Notes
+///////
+NEED TO FILL IN HERE
+///////
+Text (take a look at some of the other topics for inspiration and you can also "borrow" where and as needed
+
+# Author
+ERAU Team

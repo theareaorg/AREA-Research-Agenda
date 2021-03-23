@@ -1,5 +1,7 @@
 [[ra-Tcomputervision5-obfuscationoffacialdata]]
 
+NOTE: need to beef up Stakeholders section
+
 # Automatic Detection and Obfuscation of Facial and/or Personal Data of People in AR User Vicinity
 
 # Description
