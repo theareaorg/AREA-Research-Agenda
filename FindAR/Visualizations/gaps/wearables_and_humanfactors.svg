@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="4460.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-2578.000000 -2129.000000 4460.000000 4291.000000" height="4291.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M 777.796021,944.865784 C 411.329834,885.092346 -48.709290,245.732849 11.064182,-120.733337"
+              class="id_ability_testing id_helmet_mounted_displays"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2007.939941,-1557.846191 C -1316.716553,-1674.224365 -105.314087,-811.956787 11.064182,-120.733337"
+              class="id_anthropometry id_helmet_mounted_displays"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 500.909241,394.748444 C 376.595276,547.179443 -38.522118,589.354980 -190.953094,465.040985"
+              class="id_behavioral_research id_decision_making"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 500.909241,394.748444 C 548.630249,348.617096 689.408813,351.001617 735.540100,398.722626"
+              class="id_behavioral_research id_wearable_sensors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M -1303.173096,1979.271484 C -1454.743530,1446.394165 -882.783325,419.722290 -349.905975,268.151825"
+              class="id_behavioural_sciences id_human_factors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="7.5333333"
+              d="M -193.057434,106.459000 C -191.124329,171.366119 -285.585297,271.626465 -350.492401,273.559570"
+              class="id_behavioural_sciences_computing id_cognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -193.057434,106.459000 C -19.258118,237.303192 45.174591,694.268433 -85.669586,868.067749"
+              class="id_behavioural_sciences_computing id_cognitive_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -193.057434,106.459000 C -197.671570,20.196205 -75.198608,-116.119194 11.064182,-120.733337"
+              class="id_behavioural_sciences_computing id_helmet_mounted_displays"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -193.057434,106.459000 C -192.088577,170.167267 -286.197693,267.182983 -349.905975,268.151825"
+              class="id_behavioural_sciences_computing id_human_factors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -193.057434,106.459000 C -125.347443,68.161514 33.663757,112.280258 71.961243,179.990250"
+              class="id_behavioural_sciences_computing id_wearable_computers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="14.066667"
+              d="M -548.205078,-112.246117 C -438.048676,-225.797424 -102.487114,-230.889755 11.064182,-120.733337"
+              class="id_brain-computer_interfaces id_helmet_mounted_displays"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -548.205078,-112.246117 C -432.465668,-75.826347 -313.486206,152.412415 -349.905975,268.151825"
+              class="id_brain-computer_interfaces id_human_factors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M -548.205078,-112.246117 C -365.724548,-177.832108 6.375256,-2.490273 71.961243,179.990250"
+              class="id_brain-computer_interfaces id_wearable_computers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M -350.492401,273.559570 C -178.626190,339.496643 -19.732513,696.201599 -85.669586,868.067749"
+              class="id_cognition id_cognitive_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -350.492401,273.559570 C -510.194275,246.945282 -709.825623,-32.528923 -683.211365,-192.230804"
+              class="id_cognition id_hearing" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="23.866667"
+              d="M -350.492401,273.559570 C -357.039673,122.389671 -140.105713,-114.186073 11.064182,-120.733337"
+              class="id_cognition id_helmet_mounted_displays"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="23.866667"
+              d="M -350.492401,273.559570 C -351.456665,272.360748 -351.104797,269.116089 -349.905975,268.151825"
+              class="id_cognition id_human_factors" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -350.492401,273.559570 C -305.383209,299.602112 -276.783173,406.329773 -302.825714,451.438965"
+              class="id_cognition id_knowledge_acquisition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -350.492401,273.559570 C -284.715546,170.354980 -31.243343,114.213394 71.961243,179.990250"
+              class="id_cognition id_wearable_computers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M -85.669586,868.067749 C -191.758911,698.926086 -97.180420,286.079590 71.961243,179.990250"
+              class="id_cognitive_systems id_wearable_computers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -190.953094,465.040985 C -141.268723,710.280518 -434.601440,1152.666382 -679.840942,1202.350708"
+              class="id_decision_making id_environmental_factors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M -190.953094,465.040985 C -267.704498,307.482666 -146.494141,-43.981934 11.064182,-120.733337"
+              class="id_decision_making id_helmet_mounted_displays"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -190.953094,465.040985 C -262.121490,457.453735 -357.493225,339.320251 -349.905975,268.151825"
+              class="id_decision_making id_human_factors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -190.953094,465.040985 C -18.918121,266.478668 536.977783,226.687653 735.540100,398.722626"
+              class="id_decision_making id_wearable_sensors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="7.5333333"
+              d="M 373.005432,-307.289490 C 337.928406,-197.590027 120.763672,-85.656319 11.064182,-120.733337"
+              class="id_depth_perception id_helmet_mounted_displays"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 373.005432,-307.289490 C 460.173645,-189.003189 413.496460,119.178566 295.210144,206.346756"
+              class="id_depth_perception id_user_experience"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -343.850952,1765.422485 C -644.516113,1467.179443 -648.149109,568.816956 -349.905975,268.151825"
+              class="id_design_of_experiments id_human_factors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -343.850952,1765.422485 C -527.853882,1325.795166 -144.417206,390.349640 295.210144,206.346756"
+              class="id_design_of_experiments id_user_experience"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -299.961761,141.883636 C -367.538757,232.194290 -604.370239,266.294739 -694.680908,198.717743"
+              class="id_ergonomics id_fatigue" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="10.8"
+              d="M -299.961761,141.883636 C -290.279968,27.155052 -103.664406,-130.415131 11.064182,-120.733337"
+              class="id_ergonomics id_helmet_mounted_displays"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="10.8"
+              d="M -299.961761,141.883636 C -284.696960,177.126114 -314.663513,252.887039 -349.905975,268.151825"
+              class="id_ergonomics id_human_factors" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -299.961761,141.883636 C -832.255005,516.745483 -2192.987549,280.598480 -2567.849365,-251.694702"
+              class="id_ergonomics id_thermal_comfort"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="7.5333333"
+              d="M -299.961761,141.883636 C -217.955841,75.120361 5.197968,97.984329 71.961243,179.990250"
+              class="id_ergonomics id_wearable_computers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -299.961761,141.883636 C -419.233765,210.474380 -701.027893,134.452484 -769.618652,15.180473"
+              class="id_ergonomics id_wearable_robots"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 591.238281,-298.112885 C 510.679382,-146.602142 162.574905,-40.174423 11.064182,-120.733337"
+              class="id_errors id_helmet_mounted_displays"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 591.238281,-298.112885 C 583.003540,-98.636833 271.437286,188.225037 71.961243,179.990250"
+              class="id_errors id_wearable_computers" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -694.680908,198.717743 C -611.839111,143.649567 -404.974152,185.310028 -349.905975,268.151825"
+              class="id_fatigue id_human_factors" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="7.5333333"
+              d="M -683.211365,-192.230804 C -530.056763,-316.786438 -113.491447,-273.887939 11.064182,-120.733337"
+              class="id_hearing id_helmet_mounted_displays"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -683.211365,-192.230804 C -758.335205,-169.352570 -905.338196,-247.720947 -928.216431,-322.844727"
+              class="id_hearing id_mechanoception" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M -683.211365,-192.230804 C -407.811554,-308.199585 179.241364,-69.053055 295.210144,206.346756"
+              class="id_hearing id_user_experience" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="43.466667"
+              d="M 11.064182,-120.733337 C 16.647182,29.237724 -199.934906,262.568817 -349.905975,268.151825"
+              class="id_helmet_mounted_displays id_human_factors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 11.064182,-120.733337 C -217.214218,26.700516 -780.782593,-94.566330 -928.216431,-322.844727"
+              class="id_helmet_mounted_displays id_mechanoception"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 11.064182,-120.733337 C -111.670563,336.376465 -981.437378,837.938965 -1438.547119,715.204285"
+              class="id_helmet_mounted_displays id_task_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="23.866667"
+              d="M 11.064182,-120.733337 C 133.309387,-112.146515 303.796967,84.101547 295.210144,206.346756"
+              class="id_helmet_mounted_displays id_user_experience"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M 11.064182,-120.733337 C -15.065105,-91.705292 -97.801117,-87.357147 -126.829163,-113.486435"
+              class="id_helmet_mounted_displays id_vision_defects"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="50.0"
+              d="M 11.064182,-120.733337 C 83.388313,-72.768036 119.926544,107.666122 71.961243,179.990250"
+              class="id_helmet_mounted_displays id_wearable_computers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 11.064182,-120.733337 C -117.889633,62.586014 -586.299316,144.134293 -769.618652,15.180473"
+              class="id_helmet_mounted_displays id_wearable_robots"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="17.333334"
+              d="M 11.064182,-120.733337 C 44.234486,-240.025650 272.928375,-369.208618 392.220703,-336.038330"
+              class="id_helmet_mounted_displays id_wearable_technology"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1587.051147,-414.788910 C 1452.910034,-32.193542 677.805542,340.487854 295.210144,206.346756"
+              class="id_heuristic_algorithms id_user_experience"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="20.6"
+              d="M -349.905975,268.151825 C -233.243774,126.767578 153.825897,89.684540 295.210144,206.346756"
+              class="id_human_factors id_user_experience"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -66.443130,1073.190430 C -217.402298,866.869568 -134.359680,330.949432 71.961243,179.990250"
+              class="id_in_situ_processing id_wearable_computers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 332.114410,904.813416 C 135.119125,811.879395 -20.972763,376.985535 71.961243,179.990250"
+              class="id_stresses id_wearable_computers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.961243,179.990250 C 32.807426,12.732643 224.963104,-296.884521 392.220703,-336.038330"
+              class="id_wearable_computers id_wearable_technology"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#1a45ff" r="13.90651" cx="-299.96176"
+                class="id_ergonomics" cy="141.88364" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff24f0" r="66.3439" cx="11.064182"
+                class="id_helmet_mounted_displays" cy="-120.73334"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff24f0" r="24.87479" cx="71.96124"
+                class="id_wearable_computers" cy="179.99025" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="18.414024" cx="295.21014"
+                class="id_user_experience" cy="206.34676" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff24f0" r="14.056761" cx="392.2207"
+                class="id_wearable_technology" cy="-336.03833" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="10.15025" cx="777.796"
+                class="id_ability_testing" cy="944.8658" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="12.854757" cx="591.2383"
+                class="id_errors" cy="-298.11288" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff24f0" r="10.300501" cx="981.41626"
+                class="id_headphones" cy="-1384.8767" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="12.103506" cx="373.00543"
+                class="id_depth_perception" cy="-307.2895" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="17.963272" cx="-190.9531"
+                class="id_decision_making" cy="465.041" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="19.015026" cx="-350.4924"
+                class="id_cognition" cy="273.55957" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="23.823038" cx="-349.90598"
+                class="id_human_factors" cy="268.15182" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="10.0" cx="694.7619"
+                class="id_affective_computing" cy="2151.0422" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="13.75626" cx="500.90924"
+                class="id_behavioral_research" cy="394.74844" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="11.652755" cx="-193.05743"
+                class="id_behavioural_sciences_computing" cy="106.459"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="10.0" cx="-343.85095"
+                class="id_design_of_experiments" cy="1765.4225" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="11.352254" cx="-928.21643"
+                class="id_mechanoception" cy="-322.84473" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff24f0" r="10.15025" cx="735.5401"
+                class="id_wearable_sensors" cy="398.72263" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="10.601002" cx="-679.84094"
+                class="id_environmental_factors" cy="1202.3507" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff24f0" r="10.15025" cx="332.1144"
+                class="id_stresses" cy="904.8134" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="12.103506" cx="-85.669586"
+                class="id_cognitive_systems" cy="868.06775" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="10.0" cx="-2007.94"
+                class="id_anthropometry" cy="-1557.8462" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="13.30551" cx="-548.2051"
+                class="id_brain-computer_interfaces" cy="-112.24612"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="10.15025" cx="1587.0511"
+                class="id_heuristic_algorithms" cy="-414.7889" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="11.352254" cx="-683.21136"
+                class="id_hearing" cy="-192.2308" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="10.0" cx="-1567.2576"
+                class="id_attitude_measurement" cy="-1978.9324" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="10.0" cx="-1700.0668"
+                class="id_somatosensory_phenomena" cy="-1245.7308"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="10.15025" cx="-1303.1731"
+                class="id_behavioural_sciences" cy="1979.2715" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="10.601002" cx="-854.7671"
+                class="id_consumer_electronics" cy="-591.20404" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff24f0" r="10.300501" cx="-769.61865"
+                class="id_wearable_robots" cy="15.180473" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="10.601002" cx="-302.8257"
+                class="id_knowledge_acquisition" cy="451.43896" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="10.300501" cx="839.20703"
+                class="id_multitasking" cy="-188.60432" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="11.352254" cx="-126.82916"
+                class="id_vision_defects" cy="-113.486435" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="10.0" cx="72.1991"
+                class="id_focusing" cy="-2118.4045" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="10.0" cx="361.91467"
+                class="id_spatial_reasoning" cy="1517.8291" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="10.300501" cx="-614.0404"
+                class="id_technology_acceptance_model" cy="843.0109"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff24f0" r="10.15025" cx="252.91014"
+                class="id_cybernetics" cy="1451.0288" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="10.15025" cx="-1482.5375"
+                class="id_grippers" cy="-104.583755" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="10.300501" cx="1345.7354"
+                class="id_paper" cy="540.0628" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff24f0" r="10.0" cx="-918.86914"
+                class="id_laplace_equations" cy="-1111.0568" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="10.300501" cx="-694.6809"
+                class="id_fatigue" cy="198.71774" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="10.0" cx="-2567.8494"
+                class="id_thermal_comfort" cy="-251.6947" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="10.0" cx="-66.44313"
+                class="id_in_situ_processing" cy="1073.1904" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="10.0" cx="1871.5547"
+                class="id_subjective_testing" cy="-1083.1493" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="10.15025" cx="376.29688"
+                class="id_physiological_models" cy="856.2136" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="10.0" cx="-1438.5471"
+                class="id_task_analysis" cy="715.2043" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1a45ff" r="10.0" cx="-1855.6838"
+                class="id_switches" cy="-94.96349" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="33" x="-299.96176" y="149.5267" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ergonomics">
+            ergonomics
+        </text>
+        <text font-size="159" x="11.064182" y="-83.90765" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_helmet_mounted_displays">
+            helmet mounted displays
+        </text>
+        <text font-size="60" x="71.96124" y="193.71095" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_wearable_computers">
+            wearable computers
+        </text>
+        <text font-size="44" x="295.21014" y="216.4086" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_user_experience">
+            user experience
+        </text>
+        <text font-size="34" x="392.2207" y="-328.16367" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_wearable_technology">
+            wearable technology
+        </text>
+        <text font-size="24" x="777.796" y="950.4244" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ability_testing">
+            ability testing
+        </text>
+        <text font-size="31" x="591.2383" y="-293.91245" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_errors">
+            errors
+        </text>
+        <text font-size="25" x="981.41626" y="-1379.1598" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_headphones">
+            headphones
+        </text>
+        <text font-size="29" x="373.00543" y="-300.6578" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_depth_perception">
+            depth perception
+        </text>
+        <text font-size="43" x="-190.9531" y="475.00012" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_decision_making">
+            decision making
+        </text>
+        <text font-size="46" x="-350.4924" y="284.21353" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_cognition">
+            cognition
+        </text>
+        <text font-size="57" x="-349.90598" y="278.69553" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_human_factors">
+            human factors
+        </text>
+        <text font-size="24" x="694.7619" y="2156.675" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_affective_computing">
+            affective computing
+        </text>
+        <text font-size="33" x="500.90924" y="400.75064" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_behavioral_research">
+            behavioral research
+        </text>
+        <text font-size="28" x="-193.05743" y="112.94402" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_behavioural_sciences_computing">
+            behavioural sciences computing
+        </text>
+        <text font-size="24" x="-343.85095" y="1771.0553" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_design_of_experiments">
+            design of experiments
+        </text>
+        <text font-size="27" x="-928.21643" y="-316.6704" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mechanoception">
+            mechanoception
+        </text>
+        <text font-size="24" x="735.5401" y="403.08786" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_wearable_sensors">
+            wearable sensors
+        </text>
+        <text font-size="25" x="-679.84094" y="1206.9751" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_environmental_factors">
+            environmental factors
+        </text>
+        <text font-size="24" x="332.1144" y="909.08295" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_stresses">
+            stresses
+        </text>
+        <text font-size="29" x="-85.669586" y="874.78436" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_cognitive_systems">
+            cognitive systems
+        </text>
+        <text font-size="24" x="-2007.94" y="-1552.2876" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_anthropometry">
+            anthropometry
+        </text>
+        <text font-size="32" x="-548.2051" y="-104.82945" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_brain-computer_interfaces">
+            brain-computer interfaces
+        </text>
+        <text font-size="24" x="1587.0511" y="-409.23032" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_heuristic_algorithms">
+            heuristic algorithms
+        </text>
+        <text font-size="27" x="-683.21136" y="-185.97739" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hearing">
+            hearing
+        </text>
+        <text font-size="24" x="-1567.2576" y="-1974.5671" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_attitude_measurement">
+            attitude measurement
+        </text>
+        <text font-size="24" x="-1700.0668" y="-1240.1722" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_somatosensory_phenomena">
+            somatosensory phenomena
+        </text>
+        <text font-size="24" x="-1303.1731" y="1983.6367" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_behavioural_sciences">
+            behavioural sciences
+        </text>
+        <text font-size="25" x="-854.7671" y="-586.6569" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_consumer_electronics">
+            consumer electronics
+        </text>
+        <text font-size="25" x="-769.61865" y="19.727592" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_wearable_robots">
+            wearable robots
+        </text>
+        <text font-size="25" x="-302.8257" y="457.22916" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_knowledge_acquisition">
+            knowledge acquisition
+        </text>
+        <text font-size="25" x="839.20703" y="-182.81412" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_multitasking">
+            multitasking
+        </text>
+        <text font-size="27" x="-126.82916" y="-108.49205" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_vision_defects">
+            vision defects
+        </text>
+        <text font-size="24" x="72.1991" y="-2112.7717" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_focusing">
+            focusing
+        </text>
+        <text font-size="24" x="361.91467" y="1523.3877" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_spatial_reasoning">
+            spatial reasoning
+        </text>
+        <text font-size="25" x="-614.0404" y="848.80115" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_technology_acceptance_model">
+            technology acceptance model
+        </text>
+        <text font-size="24" x="252.91014" y="1456.5874" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_cybernetics">
+            cybernetics
+        </text>
+        <text font-size="24" x="-1482.5375" y="-99.02516" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_grippers">
+            grippers
+        </text>
+        <text font-size="25" x="1345.7354" y="544.6201" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_paper">
+            paper
+        </text>
+        <text font-size="24" x="-918.86914" y="-1105.5685" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_laplace_equations">
+            laplace equations
+        </text>
+        <text font-size="25" x="-694.6809" y="204.58527" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fatigue">
+            fatigue
+        </text>
+        <text font-size="24" x="-2567.8494" y="-247.25525" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_thermal_comfort">
+            thermal comfort
+        </text>
+        <text font-size="24" x="-66.44313" y="1078.749" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_in_situ_processing">
+            in situ processing
+        </text>
+        <text font-size="24" x="1871.5547" y="-1077.5907" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_subjective_testing">
+            subjective testing
+        </text>
+        <text font-size="24" x="376.29688" y="861.7722" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_physiological_models">
+            physiological models
+        </text>
+        <text font-size="24" x="-1438.5471" y="720.7629" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_task_analysis">
+            task analysis
+        </text>
+        <text font-size="24" x="-1855.6838" y="-90.59826" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_switches">
+            switches
+        </text>
+    </g>
+</svg>

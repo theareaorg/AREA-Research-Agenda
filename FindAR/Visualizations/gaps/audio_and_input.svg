@@ -1,0 +1,2808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="5694.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-2864.000000 -2954.000000 5694.000000 5218.000000" height="5218.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M 332.323456,-946.641052 C 452.804382,-924.512024 600.332336,-710.597168 578.203308,-590.116211"
+              class="id_acoustic_field_measurement id_acoustic_fields"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 332.323456,-946.641052 C 444.263336,-868.336975 494.717072,-582.971008 416.412994,-471.031097"
+              class="id_acoustic_field_measurement id_acoustic_imaging"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 332.323456,-946.641052 C 441.919800,-832.314209 434.824097,-496.429474 320.497284,-386.833130"
+              class="id_acoustic_field_measurement id_acoustic_intensity"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 578.203308,-590.116211 C 569.662231,-533.941162 472.588074,-462.490051 416.412994,-471.031097"
+              class="id_acoustic_fields id_acoustic_imaging"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 578.203308,-590.116211 C 567.318726,-497.918396 412.695099,-375.948547 320.497284,-386.833130"
+              class="id_acoustic_fields id_acoustic_intensity"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1745.493896,-2188.474121 C -1745.097534,-2228.775879 -1684.050415,-2288.633789 -1643.748779,-2288.237305"
+              class="id_acoustic_generators id_acoustic_radiators"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 416.412994,-471.031097 C 414.069458,-435.008362 356.520020,-384.489594 320.497284,-386.833130"
+              class="id_acoustic_imaging id_acoustic_intensity"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2197.219482,-1134.914917 C -1967.372437,-1381.411621 -1252.857056,-1406.386230 -1006.360413,-1176.539185"
+              class="id_acoustic_measurement id_acoustic_streaming"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2197.219482,-1134.914917 C -1780.236084,-1141.826660 -1144.393311,-526.719116 -1137.481689,-109.735695"
+              class="id_acoustic_measurement id_force_feedback"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2197.219482,-1134.914917 C -1719.912842,-1234.869141 -854.021545,-668.840454 -754.067383,-191.533783"
+              class="id_acoustic_measurement id_haptic_interfaces"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 633.104858,-954.782593 C 481.150269,-765.044067 -31.389372,-708.368164 -221.127899,-860.322754"
+              class="id_acoustic_noise id_acoustic_signal_processing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 633.104858,-954.782593 C 649.184448,-1375.914917 1305.002319,-1983.494019 1726.134644,-1967.414429"
+              class="id_acoustic_noise id_active_noise_control"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 633.104858,-954.782593 C 621.455322,-790.356201 357.341492,-561.190857 192.915131,-572.840393"
+              class="id_acoustic_noise id_audio_signal_processing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 633.104858,-954.782593 C 822.900879,-704.983887 732.896729,-45.591637 483.098022,144.204376"
+              class="id_acoustic_noise id_audio_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 633.104858,-954.782593 C 641.636108,-1054.580933 804.130432,-1191.481445 903.928772,-1182.950195"
+              class="id_acoustic_noise id_loudspeakers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M 633.104858,-954.782593 C 542.497803,-923.841553 360.175598,-1013.340454 329.234497,-1103.947510"
+              class="id_acoustic_noise id_microphones"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 633.104858,-954.782593 C 599.572754,-673.810669 127.816734,-302.650940 -153.155212,-336.183044"
+              class="id_acoustic_noise id_speech_processing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 633.104858,-954.782593 C 673.553711,-728.020142 394.083435,-327.203278 167.320999,-286.754395"
+              class="id_acoustic_noise id_speech_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 633.104858,-954.782593 C 484.586090,-854.687683 111.665565,-927.323547 11.570669,-1075.842285"
+              class="id_acoustic_noise id_transient_response"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -221.127899,-860.322754 C -352.367981,-1015.918335 -315.834747,-1446.171753 -160.239197,-1577.411865"
+              class="id_acoustic_signal_processing id_acoustic_wave_reflection"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="3.390244"
+              d="M -221.127899,-860.322754 C -80.822830,-885.634888 167.602997,-713.145447 192.915131,-572.840393"
+              class="id_acoustic_signal_processing id_audio_signal_processing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M -221.127899,-860.322754 C -159.780365,-1019.120239 170.437073,-1165.295044 329.234497,-1103.947510"
+              class="id_acoustic_signal_processing id_microphones"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -221.127899,-860.322754 C -275.303589,-800.527954 -446.259369,-792.099243 -506.054199,-846.274963"
+              class="id_acoustic_signal_processing id_position_measurement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M -221.127899,-860.322754 C -204.182083,-1080.333862 151.253265,-1384.931885 371.264374,-1367.985962"
+              class="id_acoustic_signal_processing id_reverberation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -221.127899,-860.322754 C -102.705406,-769.089355 -61.921806,-454.605530 -153.155212,-336.183044"
+              class="id_acoustic_signal_processing id_speech_processing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -221.127899,-860.322754 C -28.724442,-823.298828 204.344879,-479.157867 167.320999,-286.754395"
+              class="id_acoustic_signal_processing id_speech_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -221.127899,-860.322754 C -217.692093,-949.966370 -78.072952,-1079.278076 11.570669,-1075.842285"
+              class="id_acoustic_signal_processing id_transient_response"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1006.360413,-1176.539185 C -819.223999,-936.954224 -897.896729,-296.872131 -1137.481689,-109.735695"
+              class="id_acoustic_streaming id_force_feedback"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1006.360413,-1176.539185 C -758.900696,-1029.996704 -607.524902,-438.993469 -754.067383,-191.533783"
+              class="id_acoustic_streaming id_haptic_interfaces"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1521.883545,-1215.775757 C 1261.317749,-1016.093933 570.946167,-1107.420166 371.264374,-1367.985962"
+              class="id_acoustic_wave_absorption id_reverberation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -160.239197,-1577.411865 C 111.305962,-1447.128418 323.198547,-844.385559 192.915131,-572.840393"
+              class="id_acoustic_wave_reflection id_audio_signal_processing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -160.239197,-1577.411865 C -12.053303,-1641.827393 306.848846,-1516.171753 371.264374,-1367.985962"
+              class="id_acoustic_wave_reflection id_reverberation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1726.134644,-1967.414429 C 1718.586304,-1646.080444 1225.262817,-1175.401855 903.928772,-1182.950195"
+              class="id_active_noise_control id_loudspeakers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1726.134644,-1967.414429 C 1619.447998,-1515.341064 781.307861,-997.260864 329.234497,-1103.947510"
+              class="id_active_noise_control id_microphones"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1391.933472,61.393612 C 1036.705566,258.125671 208.765671,20.381943 12.033592,-334.845947"
+              class="id_aerial_photography id_cameras"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1391.933472,61.393612 C 1243.521118,277.343323 696.978027,378.649353 481.028351,230.237000"
+              class="id_aerial_photography id_remote_control"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1706.082031,-1010.866333 C -1351.812622,-1037.402710 -780.603821,-545.803223 -754.067383,-191.533783"
+              class="id_angular_velocity id_haptic_interfaces"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 645.340332,-95.210449 C 594.869080,-109.159264 540.085388,-205.789398 554.034180,-256.260681"
+              class="id_audio_acoustics id_audio_equipment"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 645.340332,-95.210449 C 470.751862,-16.476189 90.767853,-160.257507 12.033592,-334.845947"
+              class="id_audio_acoustics id_cameras" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 645.340332,-95.210449 C 531.019775,-11.324799 233.710449,-56.977180 149.824799,-171.297760"
+              class="id_audio_acoustics id_face_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 554.034180,-256.260681 C 429.917023,-163.577606 104.716660,-210.728790 12.033592,-334.845947"
+              class="id_audio_equipment id_cameras" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 554.034180,-256.260681 C 490.184906,-158.426224 247.659256,-107.448471 149.824799,-171.297760"
+              class="id_audio_equipment id_face_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 554.034180,-256.260681 C 572.185181,-361.962006 757.963745,-493.287445 863.665039,-475.136414"
+              class="id_audio_equipment id_sound_reproduction"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 192.915131,-572.840393 C 394.360657,-487.468048 568.470398,-57.241154 483.098022,144.204376"
+              class="id_audio_signal_processing id_audio_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M 192.915131,-572.840393 C 218.364075,-405.244049 5.143013,-115.676155 -162.453308,-90.227226"
+              class="id_audio_signal_processing id_audio_user_interfaces"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 192.915131,-572.840393 C 210.566589,-543.171875 192.540970,-472.191864 162.872421,-454.540405"
+              class="id_audio_signal_processing id_audio-visual_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 192.915131,-572.840393 C -90.739914,-766.727722 -225.391495,-1483.041138 -31.504160,-1766.696289"
+              class="id_audio_signal_processing id_differential_phase_shift_keying"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 192.915131,-572.840393 C 21.268372,-988.843140 387.802277,-1870.317139 803.804993,-2041.963867"
+              class="id_audio_signal_processing id_equalisers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 192.915131,-572.840393 C 202.244705,-367.116913 -92.346153,-44.537331 -298.069641,-35.207756"
+              class="id_audio_signal_processing id_gesture_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 192.915131,-572.840393 C 113.957573,-706.325684 195.749176,-1024.989990 329.234497,-1103.947510"
+              class="id_audio_signal_processing id_microphones"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 192.915131,-572.840393 C 69.555862,-767.539368 176.565399,-1244.626587 371.264374,-1367.985962"
+              class="id_audio_signal_processing id_reverberation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 192.915131,-572.840393 C 171.032532,-456.294830 -36.609669,-314.300446 -153.155212,-336.183044"
+              class="id_audio_signal_processing id_speech_processing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 192.915131,-572.840393 C 245.013519,-510.504333 229.657013,-338.852753 167.320999,-286.754395"
+              class="id_audio_signal_processing id_speech_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 192.915131,-572.840393 C -11.237579,-1011.164368 340.019287,-1974.879395 778.343262,-2179.031982"
+              class="id_audio_signal_processing id_time-domain_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 483.098022,144.204376 C 280.369690,114.746674 20.463699,-233.532394 49.921394,-436.260773"
+              class="id_audio_systems id_encoding" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 483.098022,144.204376 C 487.304382,319.835571 230.167130,589.591919 54.535923,593.798279"
+              class="id_audio_systems id_signal_encoding"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -162.453308,-90.227226 C -176.479675,-174.048355 -71.787537,-320.819580 12.033592,-334.845947"
+              class="id_audio_user_interfaces id_cameras"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -162.453308,-90.227226 C -178.572678,-52.100067 -259.942474,-19.088385 -298.069641,-35.207756"
+              class="id_audio_user_interfaces id_gesture_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -162.453308,-90.227226 C -301.037445,7.834282 -656.005859,-52.949654 -754.067383,-191.533783"
+              class="id_audio_user_interfaces id_haptic_interfaces"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 162.872421,-454.540405 C 144.377762,-360.562531 -24.331070,-247.337631 -118.308968,-265.832306"
+              class="id_audio-visual_systems id_gaze_tracking"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 162.872421,-454.540405 C 205.532196,-296.857056 32.996872,3.657616 -124.686462,46.317390"
+              class="id_audio-visual_systems id_interactive_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 162.872421,-454.540405 C 165.401718,-748.433594 610.035583,-1185.479492 903.928772,-1182.950195"
+              class="id_audio-visual_systems id_loudspeakers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1242.478271,-514.900635 C -1080.122803,-547.909424 -787.076172,-353.889343 -754.067383,-191.533783"
+              class="id_auditory_evoked_potentials id_haptic_interfaces"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1242.478271,-514.900635 C -977.035583,-691.132629 -314.523529,-557.316650 -138.291519,-291.873962"
+              class="id_auditory_evoked_potentials id_synchronization"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1242.478271,-514.900635 C -1103.927368,-626.981873 -727.979370,-587.277405 -615.898132,-448.726593"
+              class="id_auditory_evoked_potentials id_visual_perception"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M -907.893066,-83.434036 C -774.190125,-317.701752 -222.234131,-468.548889 12.033592,-334.845947"
+              class="id_bar_codes id_cameras" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 242.246170,-2196.262451 C 267.611572,-2145.394531 229.357773,-2031.044434 178.489792,-2005.678955"
+              class="id_blind_source_separation id_microphone_arrays"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 242.246170,-2196.262451 C 118.187805,-2291.784180 75.382828,-2621.154297 170.904541,-2745.212646"
+              class="id_blind_source_separation id_speech_enhancement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 242.246170,-2196.262451 C 609.162720,-1799.375854 564.207642,-653.670959 167.320999,-286.754395"
+              class="id_blind_source_separation id_speech_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.585366"
+              d="M 12.033592,-334.845947 C 28.139645,-441.054657 211.611816,-576.208679 317.820526,-560.102600"
+              class="id_cameras id_color_vision" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.033592,-334.845947 C -183.106476,-584.774597 -100.923569,-1252.377686 149.005112,-1447.517822"
+              class="id_cameras id_computer_keyboards"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M 12.033592,-334.845947 C -10.212734,-228.892303 -202.512680,-103.331337 -308.466309,-125.577667"
+              class="id_cameras id_data_acquisition" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.033592,-334.845947 C 10.801266,-444.491547 173.421143,-610.808350 283.066711,-612.040710"
+              class="id_cameras id_decoding" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.033592,-334.845947 C -249.573318,-15.549316 -1120.928589,70.985260 -1440.225220,-190.621658"
+              class="id_cameras id_earphones" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.033592,-334.845947 C 81.280762,-574.847717 545.154175,-830.979553 785.155884,-761.732422"
+              class="id_cameras id_electromechanical_devices"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.033592,-334.845947 C 89.106674,-207.400818 13.548607,99.376503 -113.896530,176.449585"
+              class="id_cameras id_emotion_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.033592,-334.845947 C -0.671812,-362.706482 22.060869,-423.555359 49.921394,-436.260773"
+              class="id_cameras id_encoding" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.033592,-334.845947 C -109.891266,-316.990662 -319.561432,-473.095032 -337.416718,-595.019897"
+              class="id_cameras id_eye" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.033592,-334.845947 C 20.939392,-417.008759 157.542328,-526.894348 239.705154,-517.988525"
+              class="id_cameras id_eye_movements" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="10.560976"
+              d="M 12.033592,-334.845947 C 72.301468,-329.694550 154.976196,-231.565643 149.824799,-171.297760"
+              class="id_cameras id_face_recognition" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M 12.033592,-334.845947 C -0.232191,-294.974701 -78.437729,-253.566528 -118.308968,-265.832306"
+              class="id_cameras id_gaze_tracking" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="20.121952"
+              d="M 12.033592,-334.845947 C 9.940586,-212.897659 -176.121353,-33.114746 -298.069641,-35.207756"
+              class="id_cameras id_gesture_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="3.390244"
+              d="M 12.033592,-334.845947 C -56.094330,-131.062820 -463.960907,72.419975 -667.744019,4.292055"
+              class="id_cameras id_gyroscopes" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="33.26829"
+              d="M 12.033592,-334.845947 C -53.736320,-231.415146 -307.537354,-174.923813 -410.968170,-240.693741"
+              class="id_cameras id_image_motion_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.033592,-334.845947 C -284.132324,-373.387085 -670.569458,-875.447632 -632.028320,-1171.613525"
+              class="id_cameras id_image_scanners" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="50.0"
+              d="M 12.033592,-334.845947 C -130.471405,-268.346985 -443.977325,-382.356079 -510.476257,-524.861084"
+              class="id_cameras id_image_sensors" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="3.390244"
+              d="M 12.033592,-334.845947 C -155.121399,-352.363983 -379.576782,-629.373535 -362.058746,-796.528503"
+              class="id_cameras id_indoor_radio" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="4.585366"
+              d="M 12.033592,-334.845947 C 19.449226,-372.709045 87.367332,-418.380249 125.230431,-410.964600"
+              class="id_cameras id_infrared_imaging" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.033592,-334.845947 C 10.958836,-225.693848 -154.381439,-63.577831 -263.533539,-64.652588"
+              class="id_cameras id_interactive_devices"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="6.97561"
+              d="M 12.033592,-334.845947 C 60.922249,-231.269272 -21.109772,-2.571268 -124.686462,46.317390"
+              class="id_cameras id_interactive_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.033592,-334.845947 C 69.929352,-210.541336 -29.683922,62.759190 -153.988525,120.654945"
+              class="id_cameras id_language_translation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M 12.033592,-334.845947 C 64.136497,-515.775330 413.684906,-709.015076 594.614319,-656.912170"
+              class="id_cameras id_light" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.033592,-334.845947 C 10.558022,-551.065796 332.674438,-877.608948 548.894287,-879.084534"
+              class="id_cameras id_light_modulation" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.033592,-334.845947 C 56.845001,-788.139099 804.001709,-1400.861694 1257.294922,-1356.050293"
+              class="id_cameras id_light_polarization"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="3.390244"
+              d="M 12.033592,-334.845947 C -87.026741,-534.134766 63.315948,-981.658447 262.604736,-1080.718750"
+              class="id_cameras id_light_sources" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="8.170732"
+              d="M 12.033592,-334.845947 C 7.656166,-371.965363 56.769142,-434.210632 93.888557,-438.588043"
+              class="id_cameras id_lighting" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.033592,-334.845947 C 74.183868,-300.401855 115.743118,-155.510269 81.299004,-93.359993"
+              class="id_cameras id_mobile_handsets" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.033592,-334.845947 C 101.076019,-348.999512 255.869995,-236.666214 270.023560,-147.623795"
+              class="id_cameras id_motion_analysis" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.033592,-334.845947 C -103.464882,-37.277237 -723.065735,235.828156 -1020.634399,120.329689"
+              class="id_cameras id_notebook_computers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M 12.033592,-334.845947 C 66.848152,-382.139801 220.010788,-370.858704 267.304626,-316.044159"
+              class="id_cameras id_palmprint_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.033592,-334.845947 C -331.845612,-373.246277 -790.063965,-946.665588 -751.663635,-1290.544800"
+              class="id_cameras id_photometry" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M 12.033592,-334.845947 C -193.869766,-333.514191 -504.722443,-640.371582 -506.054199,-846.274963"
+              class="id_cameras id_position_measurement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.033592,-334.845947 C -18.153877,-100.956696 -414.268982,204.595978 -648.158264,174.408508"
+              class="id_cameras id_qr_codes" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M 12.033592,-334.845947 C 218.849121,-315.628296 500.245972,23.421463 481.028351,230.237000"
+              class="id_cameras id_remote_control" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.033592,-334.845947 C 101.955620,-615.138855 657.277954,-900.695190 937.570862,-810.773132"
+              class="id_cameras id_scanning" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.033592,-334.845947 C 55.685692,-147.620544 -159.674286,198.695648 -346.899689,242.347748"
+              class="id_cameras id_sign_language_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.033592,-334.845947 C 52.709381,-356.285126 145.881836,-327.430206 167.320999,-286.754395"
+              class="id_cameras id_speech_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.033592,-334.845947 C 123.482811,-265.939087 187.296326,4.595053 118.389450,116.044273"
+              class="id_cameras id_speech_synthesis" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.033592,-334.845947 C -9.437032,-296.186523 -99.632103,-270.403320 -138.291519,-291.873962"
+              class="id_cameras id_synchronization" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.033592,-334.845947 C 189.784760,-251.219238 330.971436,140.847565 247.344711,318.598724"
+              class="id_cameras id_text_analysis" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.033592,-334.845947 C 47.222435,-250.734207 -26.161892,-71.783371 -110.273621,-36.594521"
+              class="id_cameras id_text_detection" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="6.97561"
+              d="M 12.033592,-334.845947 C 77.746078,-432.404022 322.651947,-480.172424 420.210022,-414.459930"
+              class="id_cameras id_textures" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.033592,-334.845947 C 80.499855,-250.375366 56.493366,-20.970108 -27.977219,47.496151"
+              class="id_cameras id_touch_screens" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.033592,-334.845947 C -195.951691,-699.922913 39.685852,-1559.516357 404.762817,-1767.501587"
+              class="id_cameras id_ultraviolet_lamps" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M 12.033592,-334.845947 C 97.929520,-463.250183 419.379700,-527.012634 547.783936,-441.116699"
+              class="id_cameras id_visible_light_communication"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 12.033592,-334.845947 C -136.328888,-232.035736 -513.087952,-300.364136 -615.898132,-448.726593"
+              class="id_cameras id_visual_perception" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -244.296295,-1707.800293 C -524.521912,-1597.589355 -1110.176758,-1852.611328 -1220.387695,-2132.836914"
+              class="id_ccd_cameras id_charge_coupled_devices"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -244.296295,-1707.800293 C -397.535004,-1646.794678 -718.901489,-1785.144287 -779.907043,-1938.383057"
+              class="id_ccd_cameras id_volume_measurement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 239.851990,-747.804077 C 285.785736,-701.811584 285.697632,-563.922302 239.705154,-517.988525"
+              class="id_character_recognition id_eye_movements"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 239.851990,-747.804077 C 312.068787,-535.537048 101.993401,-108.811302 -110.273621,-36.594521"
+              class="id_character_recognition id_text_detection"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1220.387695,-2132.836914 C -1093.400757,-2182.042236 -829.112427,-2065.369873 -779.907043,-1938.383057"
+              class="id_charge_coupled_devices id_volume_measurement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 317.820526,-560.102600 C 202.654144,-653.182678 169.524658,-965.552368 262.604736,-1080.718750"
+              class="id_color_vision id_light_sources"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 317.820526,-560.102600 C 413.163696,-384.987000 293.505035,20.701118 118.389450,116.044273"
+              class="id_color_vision id_speech_synthesis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 317.820526,-560.102600 C 367.426971,-551.451965 428.860657,-464.066376 420.210022,-414.459930"
+              class="id_color_vision id_textures" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 149.005112,-1447.517822 C 398.959747,-1244.883057 469.939453,-565.998779 267.304626,-316.044159"
+              class="id_computer_keyboards id_palmprint_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -308.466309,-125.577667 C -248.740570,402.667389 -951.519653,1284.623535 -1479.764648,1344.349243"
+              class="id_data_acquisition id_electromagnetic_fields"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -308.466309,-125.577667 C -288.312988,-109.583015 -282.075012,-55.361073 -298.069641,-35.207756"
+              class="id_data_acquisition id_gesture_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -308.466309,-125.577667 C -278.804352,-269.394409 -18.586304,-440.626556 125.230431,-410.964600"
+              class="id_data_acquisition id_infrared_imaging"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -308.466309,-125.577667 C -197.177567,-245.684875 149.916367,-258.912537 270.023560,-147.623795"
+              class="id_data_acquisition id_motion_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -308.466309,-125.577667 C -418.992920,140.071243 -983.256104,372.754700 -1248.905029,262.228088"
+              class="id_data_acquisition id_thermocouples"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1056.925049,91.105667 C -1113.204590,67.048721 -1161.538574,-53.456093 -1137.481689,-109.735695"
+              class="id_data_gloves id_force_feedback"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.585366"
+              d="M -1056.925049,91.105667 C -930.416626,-85.928108 -475.103424,-161.716156 -298.069641,-35.207756"
+              class="id_data_gloves id_gesture_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="3.390244"
+              d="M -1056.925049,91.105667 C -1052.881470,-25.993767 -871.166809,-195.577423 -754.067383,-191.533783"
+              class="id_data_gloves id_haptic_interfaces"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1056.925049,91.105667 C -883.888733,-23.523788 -452.389954,64.086578 -337.760498,237.122955"
+              class="id_data_gloves id_keyboards" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1056.925049,91.105667 C -859.857422,-123.405815 -242.488708,-149.571533 -27.977219,47.496151"
+              class="id_data_gloves id_touch_screens" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1056.925049,91.105667 C -1131.348999,3.667850 -1111.828369,-239.124863 -1024.390503,-313.548859"
+              class="id_data_gloves id_vibrations" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 283.066711,-612.040710 C 282.823486,-718.614990 442.320007,-878.841309 548.894287,-879.084534"
+              class="id_decoding id_light_modulation" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 283.066711,-612.040710 C 266.594330,-786.656311 503.809052,-1073.288208 678.424622,-1089.760620"
+              class="id_decoding id_light_modulators" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 283.066711,-612.040710 C 478.528351,-325.166748 341.409882,398.336670 54.535923,593.798279"
+              class="id_decoding id_signal_encoding" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1440.225220,-190.621658 C -1246.746216,-306.135162 -783.257507,-189.186935 -667.744019,4.292055"
+              class="id_earphones id_gyroscopes" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1479.764648,1344.349243 C -1650.016968,1081.753174 -1511.501099,432.480347 -1248.905029,262.228088"
+              class="id_electromagnetic_fields id_thermocouples"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2005.877197,-942.682434 C -1605.285522,-1042.814697 -854.199585,-592.125488 -754.067383,-191.533783"
+              class="id_electromagnetic_forces id_haptic_interfaces"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="8.170732"
+              d="M -113.896530,176.449585 C -130.701736,54.155853 27.531067,-154.492554 149.824799,-171.297760"
+              class="id_emotion_recognition id_face_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -113.896530,176.449585 C -203.235382,88.875694 -205.882858,-176.493439 -118.308968,-265.832306"
+              class="id_emotion_recognition id_gaze_tracking"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -113.896530,176.449585 C -256.739502,152.435242 -434.982483,-97.850746 -410.968170,-240.693741"
+              class="id_emotion_recognition id_image_motion_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -113.896530,176.449585 C -142.080963,152.581131 -148.554916,74.501816 -124.686462,46.317390"
+              class="id_emotion_recognition id_interactive_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -113.896530,176.449585 C -136.907532,235.970001 -260.704651,290.734100 -320.225067,267.723083"
+              class="id_emotion_recognition id_music" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -113.896530,176.449585 C -150.293823,27.565289 18.436707,-250.357101 167.320999,-286.754395"
+              class="id_emotion_recognition id_speech_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -113.896530,176.449585 C 199.911774,-171.369247 1192.352417,-222.385040 1540.171265,91.423271"
+              class="id_emotion_recognition id_voice_activity_detection"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 49.921394,-436.260773 C -561.828430,-486.308472 -1404.381592,-1479.004639 -1354.333862,-2090.754395"
+              class="id_encoding id_light_interference"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 49.921394,-436.260773 C 44.922058,-692.661377 422.024017,-1084.761353 678.424622,-1089.760620"
+              class="id_encoding id_light_modulators" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 49.921394,-436.260773 C -36.433533,-607.689026 91.176468,-994.363831 262.604736,-1080.718750"
+              class="id_encoding id_light_sources" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 49.921394,-436.260773 C -143.276550,-407.068481 -476.861908,-653.076965 -506.054199,-846.274963"
+              class="id_encoding id_position_measurement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M 49.921394,-436.260773 C 256.856140,-231.171860 259.624847,386.863525 54.535923,593.798279"
+              class="id_encoding id_signal_encoding" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 803.804993,-2041.963867 C 896.494141,-1759.446533 611.751831,-1196.636719 329.234497,-1103.947510"
+              class="id_equalisers id_microphones" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 803.804993,-2041.963867 C 771.299011,-2064.285156 756.021973,-2146.526123 778.343262,-2179.031982"
+              class="id_equalisers id_time-domain_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.585366"
+              d="M -337.416718,-595.019897 C -227.757629,-573.003906 -96.293007,-375.491394 -118.308968,-265.832306"
+              class="id_eye id_gaze_tracking" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -337.416718,-595.019897 C -340.049622,-430.992554 -590.040039,-188.900879 -754.067383,-191.533783"
+              class="id_eye id_haptic_interfaces" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -337.416718,-595.019897 C -216.566620,-503.723083 -172.236725,-185.502686 -263.533539,-64.652588"
+              class="id_eye id_interactive_devices" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -337.416718,-595.019897 C -171.056915,-428.522583 -171.263184,70.763153 -337.760498,237.122955"
+              class="id_eye id_keyboards" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -337.416718,-595.019897 C -314.552185,-812.163940 45.460655,-1103.583252 262.604736,-1080.718750"
+              class="id_eye id_light_sources" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -337.416718,-595.019897 C -219.869293,-649.994568 38.913876,-556.135498 93.888557,-438.588043"
+              class="id_eye id_lighting" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="8.170732"
+              d="M -337.416718,-595.019897 C -363.854340,-510.064941 -530.943176,-422.288971 -615.898132,-448.726593"
+              class="id_eye id_visual_perception" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 419.477844,-262.980865 C 383.883850,-190.713623 222.092026,-135.703766 149.824799,-171.297760"
+              class="id_eye_tracking id_face_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 419.477844,-262.980865 C 322.541199,-86.712921 -87.265594,32.284027 -263.533539,-64.652588"
+              class="id_eye_tracking id_interactive_devices"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 419.477844,-262.980865 C 143.563751,-73.570755 -554.422546,-203.326767 -743.832642,-479.240845"
+              class="id_eye_tracking id_sentiment_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 149.824799,-171.297760 C 50.245720,-198.694443 -58.027893,-389.158020 -30.631222,-488.737122"
+              class="id_face_recognition id_feature_selection"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 149.824799,-171.297760 C 77.291138,-136.577911 -83.589127,-193.298645 -118.308968,-265.832306"
+              class="id_face_recognition id_gaze_tracking"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="3.390244"
+              d="M 149.824799,-171.297760 C 87.463913,-54.500870 -181.272751,27.153130 -298.069641,-35.207756"
+              class="id_face_recognition id_gesture_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="3.390244"
+              d="M 149.824799,-171.297760 C 23.787003,-73.018356 -312.688782,-114.655945 -410.968170,-240.693741"
+              class="id_face_recognition id_image_motion_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 149.824799,-171.297760 C -52.948074,-109.950211 -449.128723,-322.088226 -510.476257,-524.861084"
+              class="id_face_recognition id_image_sensors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M 149.824799,-171.297760 C 88.482162,-67.297050 -159.532837,-3.309952 -263.533539,-64.652588"
+              class="id_face_recognition id_interactive_devices"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 149.824799,-171.297760 C -298.530579,-228.252487 -885.631653,-986.217651 -828.676941,-1434.572998"
+              class="id_face_recognition id_photodetectors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 149.824799,-171.297760 C -90.495331,-54.154877 -626.689758,-238.920715 -743.832642,-479.240845"
+              class="id_face_recognition id_sentiment_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 149.824799,-171.297760 C 56.251736,-143.678802 -125.536255,-242.609985 -153.155212,-336.183044"
+              class="id_face_recognition id_speech_processing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M 149.824799,-171.297760 C 130.232712,-197.888321 140.730438,-267.162292 167.320999,-286.754395"
+              class="id_face_recognition id_speech_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 149.824799,-171.297760 C 480.438324,-396.822845 1314.646118,-239.190247 1540.171265,91.423271"
+              class="id_face_recognition id_voice_activity_detection"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1212.502075,-2393.483398 C -1170.420654,-2483.589355 -972.139282,-2555.626465 -882.033142,-2513.544922"
+              class="id_feedback_amplifiers id_sonar" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1212.502075,-2393.483398 C -1190.264404,-2398.212402 -1149.814331,-2371.949463 -1145.085449,-2349.711670"
+              class="id_feedback_amplifiers id_underwater_acoustics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 922.828552,1782.176880 C 986.000793,1706.324829 1194.537354,1687.305054 1270.389404,1750.477417"
+              class="id_felt id_sound_recording" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1137.481689,-109.735695 C -1446.710083,144.494965 -2291.898682,61.998306 -2546.129395,-247.230133"
+              class="id_force_feedback id_friction" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="12.95122"
+              d="M -1137.481689,-109.735695 C -1077.158447,-202.778168 -847.109863,-251.857025 -754.067383,-191.533783"
+              class="id_force_feedback id_haptic_interfaces"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1137.481689,-109.735695 C -953.675476,-275.508698 -429.306549,-248.458832 -263.533539,-64.652588"
+              class="id_force_feedback id_interactive_devices"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1137.481689,-109.735695 C -974.071350,-346.001404 -374.557220,-455.284363 -138.291519,-291.873962"
+              class="id_force_feedback id_synchronization"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="3.390244"
+              d="M -2546.129395,-247.230133 C -2176.577881,-594.503296 -1101.340454,-561.085449 -754.067383,-191.533783"
+              class="id_friction id_haptic_interfaces"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -118.308968,-265.832306 C -108.136200,-183.755264 -215.992584,-45.380527 -298.069641,-35.207756"
+              class="id_gaze_tracking id_gesture_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M -118.308968,-265.832306 C -107.117935,-196.551437 -194.252670,-75.843620 -263.533539,-64.652588"
+              class="id_gaze_tracking id_interactive_devices"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -118.308968,-265.832306 C -57.154526,-202.126877 -60.981026,-14.837049 -124.686462,46.317390"
+              class="id_gaze_tracking id_interactive_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -118.308968,-265.832306 C -61.608223,-121.350937 -193.279114,180.422195 -337.760498,237.122955"
+              class="id_gaze_tracking id_keyboards" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -118.308968,-265.832306 C -110.420609,-342.822968 16.897903,-446.476410 93.888557,-438.588043"
+              class="id_gaze_tracking id_lighting" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -118.308968,-265.832306 C -50.235275,-72.080215 -238.752853,320.658478 -432.504944,388.732178"
+              class="id_gaze_tracking id_linguistics" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -118.308968,-265.832306 C -97.285011,-653.703430 516.057617,-1203.974121 903.928772,-1182.950195"
+              class="id_gaze_tracking id_loudspeakers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -118.308968,-265.832306 C -65.367386,-327.142731 106.010590,-339.695984 167.320999,-286.754395"
+              class="id_gaze_tracking id_speech_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M -118.308968,-265.832306 C -254.405670,-202.893326 -552.959167,-312.629883 -615.898132,-448.726593"
+              class="id_gaze_tracking id_visual_perception"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -118.308968,-265.832306 C 284.838196,-526.077271 1279.926392,-311.723877 1540.171265,91.423271"
+              class="id_gaze_tracking id_voice_activity_detection"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -298.069641,-35.207756 C -603.834229,391.332214 -1702.291016,572.495239 -2128.831055,266.730652"
+              class="id_gesture_recognition id_handwriting_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.585366"
+              d="M -298.069641,-35.207756 C -420.534393,24.726585 -694.133057,-69.069038 -754.067383,-191.533783"
+              class="id_gesture_recognition id_haptic_interfaces"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="16.536585"
+              d="M -298.069641,-35.207756 C -361.746552,-53.725258 -429.485657,-177.016830 -410.968170,-240.693741"
+              class="id_gesture_recognition id_image_motion_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="10.560976"
+              d="M -298.069641,-35.207756 C -438.481628,-90.657104 -565.925598,-384.449097 -510.476257,-524.861084"
+              class="id_gesture_recognition id_image_sensors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -298.069641,-35.207756 C -288.560974,-195.019135 -34.580956,-420.473267 125.230431,-410.964600"
+              class="id_gesture_recognition id_infrared_imaging"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="8.170732"
+              d="M -298.069641,-35.207756 C -297.051392,-48.003941 -276.329742,-65.670845 -263.533539,-64.652588"
+              class="id_gesture_recognition id_interactive_devices"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="10.560976"
+              d="M -298.069641,-35.207756 C -247.087982,-53.579365 -143.058075,-4.664280 -124.686462,46.317390"
+              class="id_gesture_recognition id_interactive_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M -298.069641,-35.207756 C -251.541672,27.196560 -275.356171,190.594986 -337.760498,237.122955"
+              class="id_gesture_recognition id_keyboards"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -298.069641,-35.207756 C -473.138672,-3.014763 -784.031738,-217.328857 -816.224731,-392.397888"
+              class="id_gesture_recognition id_matched_filters"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -298.069641,-35.207756 C -233.826355,-122.711937 -6.205177,-157.603271 81.299004,-93.359993"
+              class="id_gesture_recognition id_mobile_handsets"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -298.069641,-35.207756 C -206.934204,-171.309601 133.921722,-238.759216 270.023560,-147.623795"
+              class="id_gesture_recognition id_motion_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M -298.069641,-35.207756 C -241.914566,29.809500 -255.207809,211.568008 -320.225067,267.723083"
+              class="id_gesture_recognition id_music" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -298.069641,-35.207756 C -241.162064,-204.449890 98.062485,-372.951752 267.304626,-316.044159"
+              class="id_gesture_recognition id_palmprint_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -298.069641,-35.207756 C -684.064148,-208.959351 -1002.428528,-1048.578491 -828.676941,-1434.572998"
+              class="id_gesture_recognition id_photodetectors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -298.069641,-35.207756 C -230.087372,-217.405640 145.182770,-388.729065 327.380646,-320.746796"
+              class="id_gesture_recognition id_sensor_data_fusion"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -298.069641,-35.207756 C -61.271408,-177.027008 506.654785,-34.558563 648.474060,202.239670"
+              class="id_gesture_recognition id_sensory_perception"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -298.069641,-35.207756 C -13.867355,-401.076569 961.239380,-523.576355 1327.108154,-239.374084"
+              class="id_gesture_recognition id_speech_communication"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -298.069641,-35.207756 C -329.281799,-124.385696 -242.333145,-304.970856 -153.155212,-336.183044"
+              class="id_gesture_recognition id_speech_processing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.585366"
+              d="M -298.069641,-35.207756 C -255.300842,-178.595215 23.933548,-329.523193 167.320999,-286.754395"
+              class="id_gesture_recognition id_speech_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -298.069641,-35.207756 C -147.638397,34.394489 -26.394875,364.444733 -95.997124,514.875977"
+              class="id_gesture_recognition id_speech-based_user_interfaces"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -298.069641,-35.207756 C -118.225479,-73.529335 209.023132,138.754562 247.344711,318.598724"
+              class="id_gesture_recognition id_text_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="3.390244"
+              d="M -298.069641,-35.207756 C -227.510376,-72.685455 -65.454918,-23.063112 -27.977219,47.496151"
+              class="id_gesture_recognition id_touch_screens"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -298.069641,-35.207756 C 79.016586,-176.400330 856.434753,177.440125 997.627319,554.526367"
+              class="id_gesture_recognition id_voice_communication"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -667.744019,4.292055 C -742.121094,-132.992126 -647.760437,-450.484009 -510.476257,-524.861084"
+              class="id_gyroscopes id_image_sensors" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2128.831055,266.730652 C -1886.743408,-178.326797 -856.025635,-482.781433 -410.968170,-240.693741"
+              class="id_handwriting_recognition id_image_motion_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 719.500732,-154.435852 C 540.850525,60.127655 -48.970028,113.997620 -263.533539,-64.652588"
+              class="id_handwritten_character_recognition id_interactive_devices"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 719.500732,-154.435852 C 719.676453,34.602272 436.382813,318.423004 247.344711,318.598724"
+              class="id_handwritten_character_recognition id_text_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -754.067383,-191.533783 C -695.279480,-269.985626 -489.420013,-299.481598 -410.968170,-240.693741"
+              class="id_haptic_interfaces id_image_motion_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.585366"
+              d="M -754.067383,-191.533783 C -630.584412,-264.264313 -336.264069,-188.135590 -263.533539,-64.652588"
+              class="id_haptic_interfaces id_interactive_devices"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -754.067383,-191.533783 C -580.620911,-269.839722 -202.992416,-127.129028 -124.686462,46.317390"
+              class="id_haptic_interfaces id_interactive_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -754.067383,-191.533783 C -585.074707,-189.063812 -335.290527,68.130219 -337.760498,237.122955"
+              class="id_haptic_interfaces id_keyboards"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -754.067383,-191.533783 C -575.447571,-186.450867 -315.142151,89.103241 -320.225067,267.723083"
+              class="id_haptic_interfaces id_music" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -754.067383,-191.533783 C -552.805115,-119.069221 -359.608612,291.520966 -432.073181,492.783203"
+              class="id_haptic_interfaces id_musical_instruments"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M -754.067383,-191.533783 C -650.980286,-334.756989 -281.514709,-394.961121 -138.291519,-291.873962"
+              class="id_haptic_interfaces id_synchronization"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="3.390244"
+              d="M -754.067383,-191.533783 C -880.685364,-269.744141 -953.296814,-576.986572 -875.086426,-703.604553"
+              class="id_haptic_interfaces id_touch" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="4.585366"
+              d="M -754.067383,-191.533783 C -561.043396,-288.945831 -125.389267,-145.527863 -27.977219,47.496151"
+              class="id_haptic_interfaces id_touch_screens"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="3.390244"
+              d="M -754.067383,-191.533783 C -832.535034,-161.872177 -994.728882,-235.081223 -1024.390503,-313.548859"
+              class="id_haptic_interfaces id_vibrations"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M -754.067383,-191.533783 C -777.872070,-270.606201 -694.970520,-424.921875 -615.898132,-448.726593"
+              class="id_haptic_interfaces id_visual_perception"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="12.95122"
+              d="M -410.968170,-240.693741 C -487.703247,-277.625610 -547.408142,-448.126007 -510.476257,-524.861084"
+              class="id_image_motion_analysis id_image_sensors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -410.968170,-240.693741 C -296.309601,-240.547852 -124.540581,-68.341187 -124.686462,46.317390"
+              class="id_image_motion_analysis id_interactive_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -410.968170,-240.693741 C -444.258606,-543.413330 -40.114853,-1047.428345 262.604736,-1080.718750"
+              class="id_image_motion_analysis id_light_sources"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -410.968170,-240.693741 C -291.136169,-157.158997 -236.690323,147.891098 -320.225067,267.723083"
+              class="id_image_motion_analysis id_music"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -410.968170,-240.693741 C -493.560730,-241.314331 -616.518677,-366.134033 -615.898132,-448.726593"
+              class="id_image_motion_analysis id_visual_perception"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -632.028320,-1171.613525 C -478.367401,-1066.573486 -405.436188,-678.521973 -510.476257,-524.861084"
+              class="id_image_scanners id_image_sensors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M -510.476257,-524.861084 C -535.126221,-608.878052 -446.075745,-771.878540 -362.058746,-796.528503"
+              class="id_image_sensors id_indoor_radio"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M -510.476257,-524.861084 C -360.555634,-629.223145 20.868393,-560.885254 125.230431,-410.964600"
+              class="id_image_sensors id_infrared_imaging"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M -510.476257,-524.861084 C -319.082581,-487.783325 -87.608719,-145.076263 -124.686462,46.317390"
+              class="id_image_sensors id_interactive_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -510.476257,-524.861084 C -467.031586,-790.648804 -3.182999,-1124.163452 262.604736,-1080.718750"
+              class="id_image_sensors id_light_sources"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -510.476257,-524.861084 C -372.348694,-628.479431 -9.729799,-576.715637 93.888557,-438.588043"
+              class="id_image_sensors id_lighting" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -510.476257,-524.861084 C -756.058777,-643.163330 -946.979187,-1188.990479 -828.676941,-1434.572998"
+              class="id_image_sensors id_photodetectors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M -510.476257,-524.861084 C -389.441895,-552.700623 -166.131042,-412.908325 -138.291519,-291.873962"
+              class="id_image_sensors id_synchronization"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -362.058746,-796.528503 C -132.753494,-744.566345 133.261169,-322.665283 81.299004,-93.359993"
+              class="id_indoor_radio id_mobile_handsets"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 125.230431,-410.964600 C 226.111206,-737.784790 867.662720,-1076.693970 1194.482910,-975.813232"
+              class="id_infrared_imaging id_temperature_indicating_cameras"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -263.533539,-64.652588 C -377.957245,123.764030 -832.217773,234.753403 -1020.634399,120.329689"
+              class="id_interactive_devices id_notebook_computers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -263.533539,-64.652588 C -84.707619,-90.177979 221.819336,139.772797 247.344711,318.598724"
+              class="id_interactive_devices id_text_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M -263.533539,-64.652588 C -410.821289,-70.994469 -622.240051,-301.438873 -615.898132,-448.726593"
+              class="id_interactive_devices id_visual_perception"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M -124.686462,46.317390 C -117.767197,176.364044 -302.458313,381.812897 -432.504944,388.732178"
+              class="id_interactive_systems id_linguistics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -124.686462,46.317390 C -111.424843,-22.815184 12.166430,-106.621613 81.299004,-93.359993"
+              class="id_interactive_systems id_mobile_handsets"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -124.686462,46.317390 C -119.513046,129.706253 -236.836197,262.549652 -320.225067,267.723083"
+              class="id_interactive_systems id_music" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -124.686462,46.317390 C -129.923035,129.966110 -263.250946,247.584320 -346.899689,242.347748"
+              class="id_interactive_systems id_sign_language_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -124.686462,46.317390 C -206.880310,-24.488951 -223.961548,-253.989197 -153.155212,-336.183044"
+              class="id_interactive_systems id_speech_processing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.585366"
+              d="M -124.686462,46.317390 C -132.899323,-78.698456 42.305153,-278.541534 167.320999,-286.754395"
+              class="id_interactive_systems id_speech_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -124.686462,46.317390 C -62.125896,11.647583 83.719635,53.483707 118.389450,116.044273"
+              class="id_interactive_systems id_speech_synthesis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M -124.686462,46.317390 C -25.236870,134.291245 -8.023270,415.426392 -95.997124,514.875977"
+              class="id_interactive_systems id_speech-based_user_interfaces"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="3.390244"
+              d="M -124.686462,46.317390 C -105.108856,27.211294 -47.083317,27.918550 -27.977219,47.496151"
+              class="id_interactive_systems id_touch_screens"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -337.760498,237.122955 C -467.226898,456.299377 -990.191162,590.864380 -1209.367554,461.397980"
+              class="id_keyboards id_mouse_controllers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -337.760498,237.122955 C -328.133392,239.735901 -317.612122,258.095978 -320.225067,267.723083"
+              class="id_keyboards id_music" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -337.760498,237.122955 C -305.490997,307.117554 -362.078583,460.513702 -432.073181,492.783203"
+              class="id_keyboards id_musical_instruments"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.585366"
+              d="M -337.760498,237.122955 C -204.444290,136.397064 146.618820,185.282501 247.344711,318.598724"
+              class="id_keyboards id_text_analysis" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="5.780488"
+              d="M -337.760498,237.122955 C -313.729187,137.240936 -127.859238,23.464851 -27.977219,47.496151"
+              class="id_keyboards id_touch_screens" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -551.566467,120.938126 C -738.553345,374.490997 -1399.362915,474.339966 -1652.915771,287.353088"
+              class="id_knobs id_load_testing" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -551.566467,120.938126 C -474.170593,-159.175995 62.094376,-463.253418 342.208496,-385.857544"
+              class="id_knobs id_mammals" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -153.988525,120.654945 C -320.660065,209.858948 -704.473389,93.657623 -793.677368,-73.013916"
+              class="id_language_translation id_optical_character_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -153.988525,120.654945 C -168.232193,183.575729 -283.978882,256.591431 -346.899689,242.347748"
+              class="id_language_translation id_sign_language_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M -153.988525,120.654945 C -34.133114,79.977043 206.666824,198.743317 247.344711,318.598724"
+              class="id_language_translation id_text_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -153.988525,120.654945 C -176.695435,80.462067 -150.466492,-13.887607 -110.273621,-36.594521"
+              class="id_language_translation id_text_detection"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M 594.614319,-656.912170 C 541.035889,-692.202637 513.603821,-825.506104 548.894287,-879.084534"
+              class="id_light id_light_modulation" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 594.614319,-656.912170 C 524.806702,-760.243958 575.092834,-1019.953003 678.424622,-1089.760620"
+              class="id_light id_light_modulators" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 594.614319,-656.912170 C 587.322815,-929.275940 984.931152,-1348.758789 1257.294922,-1356.050293"
+              class="id_light id_light_polarization" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="4.585366"
+              d="M 594.614319,-656.912170 C 443.451080,-675.271545 244.245331,-929.555542 262.604736,-1080.718750"
+              class="id_light id_light_sources" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="5.780488"
+              d="M 594.614319,-656.912170 C 628.407349,-604.386963 600.309143,-474.909698 547.783936,-441.116699"
+              class="id_light id_visible_light_communication"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1354.333862,-2090.754395 C -935.782104,-2011.514404 -426.814240,-1264.826782 -506.054199,-846.274963"
+              class="id_light_interference id_position_measurement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 548.894287,-879.084534 C 532.665161,-947.125793 610.383362,-1073.531494 678.424622,-1089.760620"
+              class="id_light_modulation id_light_modulators"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 548.894287,-879.084534 C 595.181274,-1116.157715 1020.221619,-1402.337158 1257.294922,-1356.050293"
+              class="id_light_modulation id_light_polarization"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 548.894287,-879.084534 C 636.265808,-791.268921 635.599548,-528.488220 547.783936,-441.116699"
+              class="id_light_modulation id_visible_light_communication"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M 678.424622,-1089.760620 C 597.068970,-1004.788269 347.577087,-999.363098 262.604736,-1080.718750"
+              class="id_light_modulators id_light_sources"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1257.294922,-1356.050293 C 1298.379395,-1031.161377 872.672852,-482.201172 547.783936,-441.116699"
+              class="id_light_polarization id_visible_light_communication"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 462.144867,-1951.282471 C 407.144836,-2061.300049 489.671265,-2308.826660 599.688904,-2363.826660"
+              class="id_light_reflection id_light_transmission"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="3.390244"
+              d="M 262.604736,-1080.718750 C 357.287659,-918.549377 256.057922,-533.270935 93.888557,-438.588043"
+              class="id_light_sources id_lighting" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 262.604736,-1080.718750 C 427.377563,-978.988037 521.940735,-579.232727 420.210022,-414.459930"
+              class="id_light_sources id_textures" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M 262.604736,-1080.718750 C 447.560974,-1009.834167 618.668518,-626.072937 547.783936,-441.116699"
+              class="id_light_sources id_visible_light_communication"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 93.888557,-438.588043 C -245.613220,-439.868958 -752.944580,-951.043030 -751.663635,-1290.544800"
+              class="id_lighting id_photometry" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 93.888557,-438.588043 C 163.978485,-499.026733 359.771362,-484.549866 420.210022,-414.459930"
+              class="id_lighting id_textures" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 93.888557,-438.588043 C -50.096489,-298.658417 -475.968506,-304.741547 -615.898132,-448.726593"
+              class="id_lighting id_visual_perception"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -432.504944,388.732178 C -521.618042,187.879181 -354.008209,-247.069946 -153.155212,-336.183044"
+              class="id_linguistics id_speech_processing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M -432.504944,388.732178 C -447.637085,133.669678 -87.741508,-271.622253 167.320999,-286.754395"
+              class="id_linguistics id_speech_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 903.928772,-1182.950195 C 804.790466,-1052.210815 459.973877,-1004.809204 329.234497,-1103.947510"
+              class="id_loudspeakers id_microphones" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 342.208496,-385.857544 C 341.190399,-356.914093 296.248077,-315.026062 267.304626,-316.044159"
+              class="id_mammals id_palmprint_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 342.208496,-385.857544 C 327.051605,-331.059418 222.119125,-271.597504 167.320999,-286.754395"
+              class="id_mammals id_speech_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 342.208496,-385.857544 C 354.842102,-225.149658 132.730667,34.862560 -27.977219,47.496151"
+              class="id_mammals id_touch_screens" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 178.489792,-2005.678955 C 29.066010,-2152.068604 24.514847,-2595.788818 170.904541,-2745.212646"
+              class="id_microphone_arrays id_speech_enhancement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 178.489792,-2005.678955 C 520.040955,-1659.660278 513.339722,-628.305542 167.320999,-286.754395"
+              class="id_microphone_arrays id_speech_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 329.234497,-1103.947510 C 213.711273,-885.355225 -287.461945,-730.751709 -506.054199,-846.274963"
+              class="id_microphones id_position_measurement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 329.234497,-1103.947510 C 386.309448,-853.916626 96.875626,-393.258026 -153.155212,-336.183044"
+              class="id_microphones id_speech_processing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 329.234497,-1103.947510 C 460.290436,-908.126221 363.142334,-417.810333 167.320999,-286.754395"
+              class="id_microphones id_speech_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 329.234497,-1103.947510 C 204.039352,-1408.786133 473.504578,-2053.836914 778.343262,-2179.031982"
+              class="id_microphones id_time-domain_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 329.234497,-1103.947510 C 271.322754,-1034.793701 80.724480,-1017.930603 11.570669,-1075.842285"
+              class="id_microphones id_transient_response"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 81.299004,-93.359993 C 87.614983,-43.333519 22.049255,41.180168 -27.977219,47.496151"
+              class="id_mobile_handsets id_touch_screens"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 270.023560,-147.623795 C 257.685608,120.876953 -163.572418,505.121155 -432.073181,492.783203"
+              class="id_motion_analysis id_musical_instruments"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 270.023560,-147.623795 C 415.686340,-153.341202 642.756653,56.576866 648.474060,202.239670"
+              class="id_motion_analysis id_sensory_perception"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="3.390244"
+              d="M -320.225067,267.723083 C -297.582672,335.104736 -364.691528,470.140808 -432.073181,492.783203"
+              class="id_music id_musical_instruments" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -320.225067,267.723083 C -305.820862,165.228134 -130.472168,33.091961 -27.977219,47.496151"
+              class="id_music id_touch_screens" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1366.865967,-97.583099 C 1089.122803,104.491623 369.395721,-9.011154 167.320999,-286.754395"
+              class="id_natural_language_interfaces id_speech_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1366.865967,-97.583099 C 1159.896118,194.837708 410.810242,323.014130 118.389450,116.044273"
+              class="id_natural_language_interfaces id_speech_synthesis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -793.677368,-73.013916 C -715.089050,-52.633247 -627.777588,95.820198 -648.158264,174.408508"
+              class="id_optical_character_recognition id_qr_codes"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -793.677368,-73.013916 C -507.150421,-202.895813 117.462822,32.071762 247.344711,318.598724"
+              class="id_optical_character_recognition id_text_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -793.677368,-73.013916 C -649.712769,-202.410767 -239.670486,-180.559143 -110.273621,-36.594521"
+              class="id_optical_character_recognition id_text_detection"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 267.304626,-316.044159 C 494.599335,-512.670837 1130.481445,-466.668793 1327.108154,-239.374084"
+              class="id_palmprint_recognition id_speech_communication"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 267.304626,-316.044159 C 253.165863,-290.189484 193.175674,-272.615601 167.320999,-286.754395"
+              class="id_palmprint_recognition id_speech_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 267.304626,-316.044159 C 280.956329,-184.279724 103.787224,33.844456 -27.977219,47.496151"
+              class="id_palmprint_recognition id_touch_screens"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1267.112183,-520.180542 C 1031.692749,-193.438477 188.450546,-56.454529 -138.291519,-291.873962"
+              class="id_personal_communication_systems id_synchronization"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -751.663635,-1290.544800 C -556.146912,-1149.334229 -474.687561,-644.243286 -615.898132,-448.726593"
+              class="id_photometry id_visual_perception"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -346.899689,242.347748 C -212.800613,138.749054 143.746033,184.499664 247.344711,318.598724"
+              class="id_sign_language_recognition id_text_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -346.899689,242.347748 C -355.362915,139.234070 -213.387299,-28.131283 -110.273621,-36.594521"
+              class="id_sign_language_recognition id_text_detection"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -882.033142,-2513.544922 C -901.876953,-2428.167969 -1059.708374,-2329.867920 -1145.085449,-2349.711670"
+              class="id_sonar id_underwater_acoustics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -174.077225,-1249.927856 C 12.856140,-1071.363403 25.409348,-523.116394 -153.155212,-336.183044"
+              class="id_speaker_recognition id_speech_processing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 170.904541,-2745.212646 C 661.879517,-2252.804199 659.729370,-777.729309 167.320999,-286.754395"
+              class="id_speech_enhancement id_speech_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.195122"
+              d="M -153.155212,-336.183044 C -79.174248,-390.392548 113.111488,-360.735382 167.320999,-286.754395"
+              class="id_speech_processing id_speech_recognition"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -153.155212,-336.183044 C 28.488235,-177.402847 62.783081,333.232544 -95.997124,514.875977"
+              class="id_speech_processing id_speech-based_user_interfaces"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -153.155212,-336.183044 C -268.141907,-517.060059 -169.306366,-960.855591 11.570669,-1075.842285"
+              class="id_speech_processing id_transient_response"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 167.320999,-286.754395 C 238.094421,-196.408356 208.735504,45.270851 118.389450,116.044273"
+              class="id_speech_recognition id_speech_synthesis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 167.320999,-286.754395 C 274.983459,-73.764694 116.992584,407.213531 -95.997124,514.875977"
+              class="id_speech_recognition id_speech-based_user_interfaces"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 167.320999,-286.754395 C 195.111465,-180.844635 77.932541,19.705681 -27.977219,47.496151"
+              class="id_speech_recognition id_touch_screens"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 167.320999,-286.754395 C -21.646637,-413.421906 -115.096832,-886.874634 11.570669,-1075.842285"
+              class="id_speech_recognition id_transient_response"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 167.320999,-286.754395 C 501.638428,-284.559509 999.822205,220.208923 997.627319,554.526367"
+              class="id_speech_recognition id_voice_communication"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 118.389450,116.044273 C 155.278473,238.687927 26.646534,477.986938 -95.997124,514.875977"
+              class="id_speech_synthesis id_speech-based_user_interfaces"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -138.291519,-291.873962 C -265.183350,-227.723145 -551.747375,-321.834747 -615.898132,-448.726593"
+              class="id_synchronization id_visual_perception"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 247.344711,318.598724 C 104.782394,319.083740 -109.788605,105.967796 -110.273621,-36.594521"
+              class="id_text_analysis id_text_detection"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 247.344711,318.598724 C 138.059799,319.442596 -27.133347,156.781052 -27.977219,47.496151"
+              class="id_text_analysis id_touch_screens"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 420.210022,-414.459930 C 146.512268,-681.978821 137.243958,-1493.803833 404.762817,-1767.501587"
+              class="id_textures id_ultraviolet_lamps"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -875.086426,-703.604553 C -555.444458,-722.806213 -47.178894,-272.145813 -27.977219,47.496151"
+              class="id_touch id_touch_screens" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -875.086426,-703.604553 C -772.273193,-704.466614 -616.760193,-551.539856 -615.898132,-448.726593"
+              class="id_touch id_visual_perception" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -27.977219,47.496151 C -244.805939,65.835785 -597.558533,-231.897888 -615.898132,-448.726593"
+              class="id_touch_screens id_visual_perception"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#0562ff" r="64.09015" cx="12.033592"
+                class="id_cameras" cy="-334.84595" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.601002" cx="814.13885"
+                class="id_controllers" cy="-728.715" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="1927.2556"
+                class="id_electric_relays" cy="674.9519" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="11.2020035" cx="342.2085"
+                class="id_mammals" cy="-385.85754" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="12.854757" cx="481.02835"
+                class="id_remote_control" cy="230.237" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="11.803005" cx="-138.29152"
+                class="id_synchronization" cy="-291.87396" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="12.854757" cx="-308.4663"
+                class="id_data_acquisition" cy="-125.57767" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="30.283806" cx="-298.06964"
+                class="id_gesture_recognition" cy="-35.207756" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="14.808014" cx="167.321"
+                class="id_speech_recognition" cy="-286.7544" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.601002" cx="-432.07318"
+                class="id_musical_instruments" cy="492.7832" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="11.2020035" cx="-667.744"
+                class="id_gyroscopes" cy="4.292055" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="21.419031" cx="-410.96817"
+                class="id_image_motion_analysis" cy="-240.69374"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="14.507513" cx="-615.89813"
+                class="id_visual_perception" cy="-448.7266" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="14.357262" cx="420.21002"
+                class="id_textures" cy="-414.45993" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="11.352254" cx="49.921394"
+                class="id_encoding" cy="-436.26077" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.0" cx="332.32346"
+                class="id_acoustic_field_measurement" cy="-946.64105"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.15025" cx="578.2033"
+                class="id_acoustic_fields" cy="-590.1162" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.0" cx="416.413"
+                class="id_acoustic_imaging" cy="-471.0311" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.0" cx="320.49728"
+                class="id_acoustic_intensity" cy="-386.83313" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.0" cx="-1745.4939"
+                class="id_acoustic_generators" cy="-2188.474" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.0" cx="-1643.7488"
+                class="id_acoustic_radiators" cy="-2288.2373" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.0" cx="-2197.2195"
+                class="id_acoustic_measurement" cy="-1134.9149" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.15025" cx="-1006.3604"
+                class="id_acoustic_streaming" cy="-1176.5392" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="12.103506" cx="-1137.4817"
+                class="id_force_feedback" cy="-109.735695" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="22.771286" cx="-754.0674"
+                class="id_haptic_interfaces" cy="-191.53378" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.450751" cx="633.10486"
+                class="id_acoustic_noise" cy="-954.7826" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="11.051753" cx="-221.1279"
+                class="id_acoustic_signal_processing" cy="-860.32275"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.0" cx="1726.1346"
+                class="id_active_noise_control" cy="-1967.4144" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="11.502504" cx="192.91513"
+                class="id_audio_signal_processing" cy="-572.8404"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.751252" cx="483.09802"
+                class="id_audio_systems" cy="144.20438" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.15025" cx="903.9288"
+                class="id_loudspeakers" cy="-1182.9502" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.450751" cx="329.2345"
+                class="id_microphones" cy="-1103.9475" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="11.502504" cx="-153.15521"
+                class="id_speech_processing" cy="-336.18304" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.0" cx="11.570669"
+                class="id_transient_response" cy="-1075.8423" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.0" cx="-160.2392"
+                class="id_acoustic_wave_reflection" cy="-1577.4119"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.601002" cx="-506.0542"
+                class="id_position_measurement" cy="-846.27496" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.300501" cx="371.26437"
+                class="id_reverberation" cy="-1367.986" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.0" cx="1521.8835"
+                class="id_acoustic_wave_absorption" cy="-1215.7758"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.0" cx="1819.7195"
+                class="id_acoustic_waves" cy="413.99808" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.15025" cx="586.8513"
+                class="id_acoustics" cy="-1407.6226" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="-1706.082"
+                class="id_angular_velocity" cy="-1010.86633" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.300501" cx="-875.0864"
+                class="id_touch" cy="-703.60455" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.601002" cx="-1024.3905"
+                class="id_vibrations" cy="-313.54886" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.901503" cx="-907.89307"
+                class="id_bar_codes" cy="-83.43404" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="14.808014" cx="93.88856"
+                class="id_lighting" cy="-438.58804" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.0" cx="803.805"
+                class="id_equalisers" cy="-2041.9639" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.0" cx="778.34326"
+                class="id_time-domain_analysis" cy="-2179.032" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="11.502504" cx="594.6143"
+                class="id_light" cy="-656.9122" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.450751" cx="548.8943"
+                class="id_light_modulation" cy="-879.08453" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.15025" cx="-568.4332"
+                class="id_radiofrequency_interference" cy="-1767.1858"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="12.554257" cx="419.47784"
+                class="id_eye_tracking" cy="-262.98087" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.751252" cx="678.4246"
+                class="id_light_modulators" cy="-1089.7606" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="12.704508" cx="262.60474"
+                class="id_light_sources" cy="-1080.7188" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="1391.9335"
+                class="id_aerial_photography" cy="61.393612" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="12.2537565" cx="-113.89653"
+                class="id_emotion_recognition" cy="176.44958" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="22.320534" cx="-124.68646"
+                class="id_interactive_systems" cy="46.31739" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="12.2537565" cx="-432.50494"
+                class="id_linguistics" cy="388.73218" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.15025" cx="-1020.6344"
+                class="id_notebook_computers" cy="120.32969" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.15025" cx="1538.7712"
+                class="id_speech_intelligibility" cy="93.41578" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.15025" cx="1340.4486"
+                class="id_sand" cy="-1413.1455" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.450751" cx="-551.56647"
+                class="id_knobs" cy="120.938126" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="-1652.9158"
+                class="id_load_testing" cy="287.3531" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="20.818031" cx="-510.47626"
+                class="id_image_sensors" cy="-524.8611" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.601002" cx="-793.67737"
+                class="id_optical_character_recognition" cy="-73.013916"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="11.352254" cx="-648.15826"
+                class="id_qr_codes" cy="174.40851" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.0" cx="1729.1111"
+                class="id_noise_abatement" cy="1702.4963" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="17.21202" cx="149.8248"
+                class="id_face_recognition" cy="-171.29776" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.601002" cx="937.57086"
+                class="id_scanning" cy="-810.77313" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="1826.5577"
+                class="id_ultrasonic_devices" cy="963.8102" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="1321.3958"
+                class="id_doppler_effect" cy="-541.6229" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.901503" cx="547.78394"
+                class="id_visible_light_communication" cy="-441.1167"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.300501" cx="-153.98853"
+                class="id_language_translation" cy="120.654945" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="12.2537565" cx="247.34471"
+                class="id_text_analysis" cy="318.59872" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="11.652755" cx="81.299"
+                class="id_mobile_handsets" cy="-93.35999" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="679.8763"
+                class="id_computer_peripheral_equipment" cy="1369.5804"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="11.953256" cx="648.47406"
+                class="id_sensory_perception" cy="202.23967" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="242.24617"
+                class="id_blind_source_separation" cy="-2196.2625"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="178.48979"
+                class="id_microphone_arrays" cy="-2005.679" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="170.90454"
+                class="id_speech_enhancement" cy="-2745.2126" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.450751" cx="-162.45331"
+                class="id_audio_user_interfaces" cy="-90.22723" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="11.803005" cx="-320.22507"
+                class="id_music" cy="267.72308" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="13.60601" cx="-118.30897"
+                class="id_gaze_tracking" cy="-265.8323" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.0" cx="2728.1216"
+                class="id_wave_functions" cy="536.3224" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="11.352254" cx="-1056.925"
+                class="id_data_gloves" cy="91.10567" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="11.352254" cx="125.23043"
+                class="id_infrared_imaging" cy="-410.9646" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="1194.4829"
+                class="id_temperature_indicating_cameras" cy="-975.81323"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.751252" cx="645.34033"
+                class="id_audio_acoustics" cy="-95.21045" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.300501" cx="554.0342"
+                class="id_audio_equipment" cy="-256.26068" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.15025" cx="863.66504"
+                class="id_sound_reproduction" cy="-475.1364" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.450751" cx="162.87242"
+                class="id_audio-visual_systems" cy="-454.5404" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.0" cx="-31.50416"
+                class="id_differential_phase_shift_keying" cy="-1766.6963"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.450751" cx="54.535923"
+                class="id_signal_encoding" cy="593.7983" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.15025" cx="2800.7188"
+                class="id_laptop_computers" cy="636.2483" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.15025" cx="-1242.4783"
+                class="id_auditory_evoked_potentials" cy="-514.90063"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="-2128.831"
+                class="id_handwriting_recognition" cy="266.73065"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.751252" cx="283.0667"
+                class="id_decoding" cy="-612.0407" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.0" cx="696.4547"
+                class="id_wave_distortion" cy="-869.2503" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="-2000.0688"
+                class="id_light_polarisation" cy="-1897.4215" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="13.30551" cx="-337.41672"
+                class="id_eye" cy="-595.0199" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.0" cx="-79.652"
+                class="id_bioacoustics" cy="880.67883" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.450751" cx="118.38945"
+                class="id_speech_synthesis" cy="116.04427" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.601002" cx="-95.99712"
+                class="id_speech-based_user_interfaces" cy="514.876"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.300501" cx="57.558655"
+                class="id_personal_computing" cy="355.35962" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="-2081.7737"
+                class="id_tactile_sensors" cy="-259.2268" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="-1159.9572"
+                class="id_ultrasonic_imaging" cy="-284.92157" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="17.36227" cx="-263.53354"
+                class="id_interactive_devices" cy="-64.65259" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="327.38065"
+                class="id_sensor_data_fusion" cy="-320.7468" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="226.71732"
+                class="id_electro-optical_devices" cy="-1328.9951"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="-564.43164"
+                class="id_laser_ranging" cy="-379.76105" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="11.051753" cx="-362.05875"
+                class="id_indoor_radio" cy="-796.5285" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.0" cx="1225.2377"
+                class="id_computer_music" cy="793.37494" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="11.352254" cx="267.30463"
+                class="id_palmprint_recognition" cy="-316.04416"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.0" cx="753.7714"
+                class="id_echo_suppression" cy="1184.7067" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="609.0747"
+                class="id_compasses" cy="-1166.2634" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.901503" cx="239.70515"
+                class="id_eye_movements" cy="-517.9885" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="-632.0283"
+                class="id_image_scanners" cy="-1171.6135" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="404.76282"
+                class="id_ultraviolet_lamps" cy="-1767.5016" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="11.051753" cx="317.82053"
+                class="id_color_vision" cy="-560.1026" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.300501" cx="149.00511"
+                class="id_computer_keyboards" cy="-1447.5178" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.0" cx="-1440.2252"
+                class="id_earphones" cy="-190.62166" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="785.1559"
+                class="id_electromechanical_devices" cy="-761.7324"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="1257.2949"
+                class="id_light_polarization" cy="-1356.0503" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="11.051753" cx="270.02356"
+                class="id_motion_analysis" cy="-147.6238" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="-751.66364"
+                class="id_photometry" cy="-1290.5448" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.15025" cx="-346.8997"
+                class="id_sign_language_recognition" cy="242.34775"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.300501" cx="-110.27362"
+                class="id_text_detection" cy="-36.59452" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="14.207012" cx="-27.977219"
+                class="id_touch_screens" cy="47.49615" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.15025" cx="-244.2963"
+                class="id_ccd_cameras" cy="-1707.8003" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="-1220.3877"
+                class="id_charge_coupled_devices" cy="-2132.837"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.0" cx="-779.90704"
+                class="id_volume_measurement" cy="-1938.383" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.300501" cx="239.85199"
+                class="id_character_recognition" cy="-747.8041" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="1184.2549"
+                class="id_charts" cy="-2265.729" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="-1942.5554"
+                class="id_electronic_noses" cy="-1309.2529" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="-828.67694"
+                class="id_photodetectors" cy="-1434.573" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.15025" cx="791.18304"
+                class="id_natural_language_processing_systems" cy="1708.7843"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="-2045.5016"
+                class="id_colorimetry" cy="-1700.22" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="11.953256" cx="-337.7605"
+                class="id_keyboards" cy="237.12296" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.15025" cx="719.50073"
+                class="id_handwritten_character_recognition" cy="-154.43585"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.15025" cx="-247.41699"
+                class="id_refraction" cy="-1697.9912" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.300501" cx="-30.631222"
+                class="id_feature_selection" cy="-488.73712" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="345.30103"
+                class="id_electron_holography" cy="-1241.5378" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="1011.73114"
+                class="id_volume_rendering" cy="-1267.9115" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.15025" cx="-1209.3676"
+                class="id_mouse_controllers" cy="461.39798" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="-174.07722"
+                class="id_speaker_recognition" cy="-1249.9279" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="1327.1082"
+                class="id_speech_communication" cy="-239.37408" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="1109.7537"
+                class="id_spectroscopy" cy="1472.1729" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="1337.1616"
+                class="id_reusability" cy="-305.00195" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.300501" cx="-1479.7646"
+                class="id_electromagnetic_fields" cy="1344.3492"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="-1248.905"
+                class="id_thermocouples" cy="262.2281" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="442.01285"
+                class="id_radio_frequency_identification" cy="2253.6313"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="-743.83264"
+                class="id_sentiment_analysis" cy="-479.24084" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.300501" cx="997.30164"
+                class="id_hypertext_systems" cy="-229.20853" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="1267.1122"
+                class="id_personal_communication_systems" cy="-520.18054"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="-2005.8772"
+                class="id_electromagnetic_forces" cy="-942.68243"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="1540.1713"
+                class="id_voice_activity_detection" cy="91.42327"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="-1354.3339"
+                class="id_light_interference" cy="-2090.7544" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.300501" cx="-2546.1294"
+                class="id_friction" cy="-247.23013" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.0" cx="525.93945"
+                class="id_white_noise" cy="-1332.6578" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="-821.67993"
+                class="id_fluorescence" cy="-1109.2339" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.0" cx="-1212.5021"
+                class="id_feedback_amplifiers" cy="-2393.4834" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.0" cx="-882.03314"
+                class="id_sonar" cy="-2513.545" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.0" cx="-1145.0854"
+                class="id_underwater_acoustics" cy="-2349.7117" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.0" cx="922.82855"
+                class="id_felt" cy="1782.1769" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.0" cx="1270.3894"
+                class="id_sound_recording" cy="1750.4774" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.15025" cx="462.14487"
+                class="id_light_reflection" cy="-1951.2825" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="599.6889"
+                class="id_light_transmission" cy="-2363.8267" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="-110.378174"
+                class="id_photoluminescence" cy="-2943.3755" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="-816.22473"
+                class="id_matched_filters" cy="-392.3979" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="997.6273"
+                class="id_voice_communication" cy="554.52637" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f47aff" r="10.0" cx="1185.406"
+                class="id_noise_pollution" cy="463.38437" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="1366.866"
+                class="id_natural_language_interfaces" cy="-97.5831"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="-825.2744"
+                class="id_refractive_index" cy="-2719.6306" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="52.269882"
+                class="id_stray_light" cy="-1755.181" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.15025" cx="339.7333"
+                class="id_speech" cy="1061.0604" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="1300.6697"
+                class="id_text_processing" cy="1865.2855" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="-591.06555"
+                class="id_light_pens" cy="-2223.4329" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="-1479.4415"
+                class="id_light_propagation" cy="-2321.6235" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="-2853.0923"
+                class="id_triangulation" cy="23.388527" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.15025" cx="2819.5115"
+                class="id_communication" cy="-694.341" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0562ff" r="10.0" cx="1517.4456"
+                class="id_hand_held_computers" cy="-2476.7039" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="154" x="12.033592" y="-313.97925" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_cameras">
+            cameras
+        </text>
+        <text font-size="25" x="814.13885" y="-724.1679" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_controllers">
+            controllers
+        </text>
+        <text font-size="24" x="1927.2556" y="680.5105" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_electric_relays">
+            electric relays
+        </text>
+        <text font-size="27" x="342.2085" y="-380.94666" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mammals">
+            mammals
+        </text>
+        <text font-size="31" x="481.02835" y="235.87543" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_remote_control">
+            remote control
+        </text>
+        <text font-size="28" x="-138.29152" y="-285.38895" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_synchronization">
+            synchronization
+        </text>
+        <text font-size="31" x="-308.4663" y="-118.48864" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_data_acquisition">
+            data acquisition
+        </text>
+        <text font-size="73" x="-298.06964" y="-18.300367" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_gesture_recognition">
+            gesture recognition
+        </text>
+        <text font-size="36" x="167.321" y="-278.4165" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_speech_recognition">
+            speech recognition
+        </text>
+        <text font-size="25" x="-432.07318" y="497.33032" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_musical_instruments">
+            musical instruments
+        </text>
+        <text font-size="27" x="-667.744" y="9.293032" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_gyroscopes">
+            gyroscopes
+        </text>
+        <text font-size="51" x="-410.96817" y="-228.88173" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_image_motion_analysis">
+            image motion analysis
+        </text>
+        <text font-size="35" x="-615.89813" y="-440.72284" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_visual_perception">
+            visual perception
+        </text>
+        <text font-size="34" x="420.21002" y="-408.41144" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_textures">
+            textures
+        </text>
+        <text font-size="27" x="49.921394" y="-430.00735" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_encoding">
+            encoding
+        </text>
+        <text font-size="24" x="332.32346" y="-942.2016" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_acoustic_field_measurement">
+            acoustic field measurement
+        </text>
+        <text font-size="24" x="578.2033" y="-585.67676" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_acoustic_fields">
+            acoustic fields
+        </text>
+        <text font-size="24" x="416.413" y="-465.4725" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_acoustic_imaging">
+            acoustic imaging
+        </text>
+        <text font-size="24" x="320.49728" y="-381.27454" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_acoustic_intensity">
+            acoustic intensity
+        </text>
+        <text font-size="24" x="-1745.4939" y="-2182.9155" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_acoustic_generators">
+            acoustic generators
+        </text>
+        <text font-size="24" x="-1643.7488" y="-2283.872" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_acoustic_radiators">
+            acoustic radiators
+        </text>
+        <text font-size="24" x="-2197.2195" y="-1130.5497" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_acoustic_measurement">
+            acoustic measurement
+        </text>
+        <text font-size="24" x="-1006.3604" y="-1170.9806" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_acoustic_streaming">
+            acoustic streaming
+        </text>
+        <text font-size="29" x="-1137.4817" y="-104.37135" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_force_feedback">
+            force feedback
+        </text>
+        <text font-size="55" x="-754.0674" y="-178.78638" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_haptic_interfaces">
+            haptic interfaces
+        </text>
+        <text font-size="25" x="633.10486" y="-950.2355" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_acoustic_noise">
+            acoustic noise
+        </text>
+        <text font-size="27" x="-221.1279" y="-854.06934" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_acoustic_signal_processing">
+            acoustic signal processing
+        </text>
+        <text font-size="24" x="1726.1346" y="-1963.0492" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_active_noise_control">
+            active noise control
+        </text>
+        <text font-size="28" x="192.91513" y="-566.35535" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_audio_signal_processing">
+            audio signal processing
+        </text>
+        <text font-size="26" x="483.09802" y="150.22618" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_audio_systems">
+            audio systems
+        </text>
+        <text font-size="24" x="903.9288" y="-1177.4619" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_loudspeakers">
+            loudspeakers
+        </text>
+        <text font-size="25" x="329.2345" y="-1098.2306" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_microphones">
+            microphones
+        </text>
+        <text font-size="28" x="-153.15521" y="-329.69803" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_speech_processing">
+            speech processing
+        </text>
+        <text font-size="24" x="11.570669" y="-1070.354" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_transient_response">
+            transient response
+        </text>
+        <text font-size="24" x="-160.2392" y="-1572.9724" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_acoustic_wave_reflection">
+            acoustic wave reflection
+        </text>
+        <text font-size="25" x="-506.0542" y="-840.558" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_position_measurement">
+            position measurement
+        </text>
+        <text font-size="25" x="371.26437" y="-1363.4388" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_reverberation">
+            reverberation
+        </text>
+        <text font-size="24" x="1521.8835" y="-1210.2875" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_acoustic_wave_absorption">
+            acoustic wave absorption
+        </text>
+        <text font-size="24" x="1819.7195" y="418.3633" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_acoustic_waves">
+            acoustic waves
+        </text>
+        <text font-size="24" x="586.8513" y="-1403.2573" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_acoustics">
+            acoustics
+        </text>
+        <text font-size="24" x="-1706.082" y="-1005.30774" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_angular_velocity">
+            angular velocity
+        </text>
+        <text font-size="25" x="-875.0864" y="-699.05743" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_touch">
+            touch
+        </text>
+        <text font-size="25" x="-1024.3905" y="-309.00174" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_vibrations">
+            vibrations
+        </text>
+        <text font-size="26" x="-907.89307" y="-78.70503" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_bar_codes">
+            bar codes
+        </text>
+        <text font-size="36" x="93.88856" y="-430.25015" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_lighting">
+            lighting
+        </text>
+        <text font-size="24" x="803.805" y="-2036.4756" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_equalisers">
+            equalisers
+        </text>
+        <text font-size="24" x="778.34326" y="-2173.4734" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_time-domain_analysis">
+            time-domain analysis
+        </text>
+        <text font-size="28" x="594.6143" y="-650.4271" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_light">
+            light
+        </text>
+        <text font-size="25" x="548.8943" y="-873.2943" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_light_modulation">
+            light modulation
+        </text>
+        <text font-size="24" x="-568.4332" y="-1761.553" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_radiofrequency_interference">
+            radiofrequency interference
+        </text>
+        <text font-size="30" x="419.47784" y="-256.03262" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_eye_tracking">
+            eye tracking
+        </text>
+        <text font-size="26" x="678.4246" y="-1083.7388" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_light_modulators">
+            light modulators
+        </text>
+        <text font-size="30" x="262.60474" y="-1073.7705" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_light_sources">
+            light sources
+        </text>
+        <text font-size="24" x="1391.9335" y="66.95221" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_aerial_photography">
+            aerial photography
+        </text>
+        <text font-size="29" x="-113.89653" y="183.16621" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_emotion_recognition">
+            emotion recognition
+        </text>
+        <text font-size="54" x="-124.68646" y="58.824226" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_interactive_systems">
+            interactive systems
+        </text>
+        <text font-size="29" x="-432.50494" y="395.44882" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_linguistics">
+            linguistics
+        </text>
+        <text font-size="24" x="-1020.6344" y="125.81797" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_notebook_computers">
+            notebook computers
+        </text>
+        <text font-size="24" x="1538.7712" y="98.97437" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_speech_intelligibility">
+            speech intelligibility
+        </text>
+        <text font-size="24" x="1340.4486" y="-1408.7803" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sand">
+            sand
+        </text>
+        <text font-size="25" x="-551.56647" y="125.485245" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_knobs">
+            knobs
+        </text>
+        <text font-size="24" x="-1652.9158" y="292.91168" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_load_testing">
+            load testing
+        </text>
+        <text font-size="50" x="-510.47626" y="-513.2807" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_image_sensors">
+            image sensors
+        </text>
+        <text font-size="25" x="-793.67737" y="-67.22372" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_optical_character_recognition">
+            optical character recognition
+        </text>
+        <text font-size="27" x="-648.15826" y="180.58282" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_qr_codes">
+            qr codes
+        </text>
+        <text font-size="24" x="1729.1111" y="1706.8616" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_noise_abatement">
+            noise abatement
+        </text>
+        <text font-size="41" x="149.8248" y="-161.67505" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_face_recognition">
+            face recognition
+        </text>
+        <text font-size="25" x="937.57086" y="-804.9829" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_scanning">
+            scanning
+        </text>
+        <text font-size="24" x="1826.5577" y="968.1754" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ultrasonic_devices">
+            ultrasonic devices
+        </text>
+        <text font-size="24" x="1321.3958" y="-536.0604" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_doppler_effect">
+            doppler effect
+        </text>
+        <text font-size="26" x="547.78394" y="-435.09488" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_visible_light_communication">
+            visible light communication
+        </text>
+        <text font-size="25" x="-153.98853" y="126.445145" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_language_translation">
+            language translation
+        </text>
+        <text font-size="29" x="247.34471" y="325.31537" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_text_analysis">
+            text analysis
+        </text>
+        <text font-size="28" x="81.299" y="-88.26722" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mobile_handsets">
+            mobile handsets
+        </text>
+        <text font-size="24" x="679.8763" y="1375.0687" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_computer_peripheral_equipment">
+            computer peripheral equipment
+        </text>
+        <text font-size="29" x="648.47406" y="208.9563" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sensory_perception">
+            sensory perception
+        </text>
+        <text font-size="24" x="242.24617" y="-2190.7742" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_blind_source_separation">
+            blind source separation
+        </text>
+        <text font-size="24" x="178.48979" y="-2000.1204" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_microphone_arrays">
+            microphone arrays
+        </text>
+        <text font-size="24" x="170.90454" y="-2739.7244" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_speech_enhancement">
+            speech enhancement
+        </text>
+        <text font-size="25" x="-162.45331" y="-85.6028" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_audio_user_interfaces">
+            audio user interfaces
+        </text>
+        <text font-size="28" x="-320.22507" y="272.81586" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_music">
+            music
+        </text>
+        <text font-size="33" x="-118.30897" y="-258.18924" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_gaze_tracking">
+            gaze tracking
+        </text>
+        <text font-size="24" x="2728.1216" y="540.76184" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_wave_functions">
+            wave functions
+        </text>
+        <text font-size="27" x="-1056.925" y="97.359085" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_data_gloves">
+            data gloves
+        </text>
+        <text font-size="27" x="125.23043" y="-404.6277" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_infrared_imaging">
+            infrared imaging
+        </text>
+        <text font-size="24" x="1194.4829" y="-970.25464" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_temperature_indicating_cameras">
+            temperature indicating cameras
+        </text>
+        <text font-size="26" x="645.34033" y="-90.481445" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_audio_acoustics">
+            audio acoustics
+        </text>
+        <text font-size="25" x="554.0342" y="-250.54372" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_audio_equipment">
+            audio equipment
+        </text>
+        <text font-size="24" x="863.66504" y="-469.64813" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sound_reproduction">
+            sound reproduction
+        </text>
+        <text font-size="25" x="162.87242" y="-448.7502" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_audio-visual_systems">
+            audio-visual systems
+        </text>
+        <text font-size="24" x="-31.50416" y="-1761.0635" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_differential_phase_shift_keying">
+            differential phase shift keying
+        </text>
+        <text font-size="25" x="54.535923" y="599.5885" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_signal_encoding">
+            signal encoding
+        </text>
+        <text font-size="24" x="2800.7188" y="641.7366" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_laptop_computers">
+            laptop computers
+        </text>
+        <text font-size="24" x="-1242.4783" y="-509.34204" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_auditory_evoked_potentials">
+            auditory evoked potentials
+        </text>
+        <text font-size="24" x="-2128.831" y="272.28925" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_handwriting_recognition">
+            handwriting recognition
+        </text>
+        <text font-size="26" x="283.0667" y="-606.0189" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_decoding">
+            decoding
+        </text>
+        <text font-size="24" x="696.4547" y="-864.8851" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_wave_distortion">
+            wave distortion
+        </text>
+        <text font-size="24" x="-2000.0688" y="-1891.8629" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_light_polarisation">
+            light polarisation
+        </text>
+        <text font-size="32" x="-337.41672" y="-589.09283" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_eye">
+            eye
+        </text>
+        <text font-size="24" x="-79.652" y="885.04407" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_bioacoustics">
+            bioacoustics
+        </text>
+        <text font-size="25" x="118.38945" y="121.83447" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_speech_synthesis">
+            speech synthesis
+        </text>
+        <text font-size="25" x="-95.99712" y="520.6702" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_speech-based_user_interfaces">
+            speech-based user interfaces
+        </text>
+        <text font-size="25" x="57.558655" y="361.1498" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_personal_computing">
+            personal computing
+        </text>
+        <text font-size="24" x="-2081.7737" y="-254.86157" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_tactile_sensors">
+            tactile sensors
+        </text>
+        <text font-size="24" x="-1159.9572" y="-279.36298" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ultrasonic_imaging">
+            ultrasonic imaging
+        </text>
+        <text font-size="42" x="-263.53354" y="-57.013428" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_interactive_devices">
+            interactive devices
+        </text>
+        <text font-size="24" x="327.38065" y="-316.30734" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sensor_data_fusion">
+            sensor data fusion
+        </text>
+        <text font-size="24" x="226.71732" y="-1323.5068" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_electro-optical_devices">
+            electro-optical devices
+        </text>
+        <text font-size="24" x="-564.43164" y="-374.20245" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_laser_ranging">
+            laser ranging
+        </text>
+        <text font-size="27" x="-362.05875" y="-791.6176" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_indoor_radio">
+            indoor radio
+        </text>
+        <text font-size="24" x="1225.2377" y="798.8632" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_computer_music">
+            computer music
+        </text>
+        <text font-size="27" x="267.30463" y="-309.79074" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_palmprint_recognition">
+            palmprint recognition
+        </text>
+        <text font-size="24" x="753.7714" y="1190.195" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_echo_suppression">
+            echo suppression
+        </text>
+        <text font-size="24" x="609.0747" y="-1161.8884" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_compasses">
+            compasses
+        </text>
+        <text font-size="26" x="239.70515" y="-512.07043" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_eye_movements">
+            eye movements
+        </text>
+        <text font-size="24" x="-632.0283" y="-1166.0549" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_image_scanners">
+            image scanners
+        </text>
+        <text font-size="24" x="404.76282" y="-1762.0133" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ultraviolet_lamps">
+            ultraviolet lamps
+        </text>
+        <text font-size="27" x="317.82053" y="-555.1917" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_color_vision">
+            color vision
+        </text>
+        <text font-size="25" x="149.00511" y="-1441.7277" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_computer_keyboards">
+            computer keyboards
+        </text>
+        <text font-size="24" x="-1440.2252" y="-185.13338" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_earphones">
+            earphones
+        </text>
+        <text font-size="24" x="785.1559" y="-757.3672" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_electromechanical_devices">
+            electromechanical devices
+        </text>
+        <text font-size="24" x="1257.2949" y="-1350.4917" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_light_polarization">
+            light polarization
+        </text>
+        <text font-size="27" x="270.02356" y="-141.37038" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_motion_analysis">
+            motion analysis
+        </text>
+        <text font-size="24" x="-751.66364" y="-1284.9862" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_photometry">
+            photometry
+        </text>
+        <text font-size="24" x="-346.8997" y="247.90634" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sign_language_recognition">
+            sign language recognition
+        </text>
+        <text font-size="25" x="-110.27362" y="-32.0474" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_text_detection">
+            text detection
+        </text>
+        <text font-size="34" x="-27.977219" y="53.680233" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_touch_screens">
+            touch screens
+        </text>
+        <text font-size="24" x="-244.2963" y="-1703.435" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ccd_cameras">
+            ccd cameras
+        </text>
+        <text font-size="24" x="-1220.3877" y="-2127.2783" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_charge_coupled_devices">
+            charge coupled devices
+        </text>
+        <text font-size="24" x="-779.90704" y="-1934.0178" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_volume_measurement">
+            volume measurement
+        </text>
+        <text font-size="25" x="239.85199" y="-742.01385" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_character_recognition">
+            character recognition
+        </text>
+        <text font-size="24" x="1184.2549" y="-2261.3638" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_charts">
+            charts
+        </text>
+        <text font-size="24" x="-1942.5554" y="-1304.8877" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_electronic_noses">
+            electronic noses
+        </text>
+        <text font-size="24" x="-828.67694" y="-1429.0847" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_photodetectors">
+            photodetectors
+        </text>
+        <text font-size="24" x="791.18304" y="1714.3429" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_natural_language_processing_systems">
+            natural language processing systems
+        </text>
+        <text font-size="24" x="-2045.5016" y="-1694.6614" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_colorimetry">
+            colorimetry
+        </text>
+        <text font-size="29" x="-337.7605" y="243.83958" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_keyboards">
+            keyboards
+        </text>
+        <text font-size="24" x="719.50073" y="-148.87726" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_handwritten_character_recognition">
+            handwritten character recognition
+        </text>
+        <text font-size="24" x="-247.41699" y="-1693.5518" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_refraction">
+            refraction
+        </text>
+        <text font-size="25" x="-30.631222" y="-484.1127" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_feature_selection">
+            feature selection
+        </text>
+        <text font-size="24" x="345.30103" y="-1235.9792" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_electron_holography">
+            electron holography
+        </text>
+        <text font-size="24" x="1011.73114" y="-1262.3529" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_volume_rendering">
+            volume rendering
+        </text>
+        <text font-size="24" x="-1209.3676" y="465.7632" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mouse_controllers">
+            mouse controllers
+        </text>
+        <text font-size="24" x="-174.07722" y="-1244.3693" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_speaker_recognition">
+            speaker recognition
+        </text>
+        <text font-size="24" x="1327.1082" y="-233.8858" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_speech_communication">
+            speech communication
+        </text>
+        <text font-size="24" x="1109.7537" y="1477.6357" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_spectroscopy">
+            spectroscopy
+        </text>
+        <text font-size="24" x="1337.1616" y="-299.44336" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_reusability">
+            reusability
+        </text>
+        <text font-size="25" x="-1479.7646" y="1350.2168" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_electromagnetic_fields">
+            electromagnetic fields
+        </text>
+        <text font-size="24" x="-1248.905" y="267.71637" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_thermocouples">
+            thermocouples
+        </text>
+        <text font-size="24" x="442.01285" y="2259.2642" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_radio_frequency_identification">
+            radio frequency identification
+        </text>
+        <text font-size="24" x="-743.83264" y="-473.68225" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sentiment_analysis">
+            sentiment analysis
+        </text>
+        <text font-size="25" x="997.30164" y="-223.41832" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hypertext_systems">
+            hypertext systems
+        </text>
+        <text font-size="24" x="1267.1122" y="-514.62195" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_personal_communication_systems">
+            personal communication systems
+        </text>
+        <text font-size="24" x="-2005.8772" y="-937.0496" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_electromagnetic_forces">
+            electromagnetic forces
+        </text>
+        <text font-size="24" x="1540.1713" y="96.981865" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_voice_activity_detection">
+            voice activity detection
+        </text>
+        <text font-size="24" x="-1354.3339" y="-2085.1216" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_light_interference">
+            light interference
+        </text>
+        <text font-size="25" x="-2546.1294" y="-242.60571" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_friction">
+            friction
+        </text>
+        <text font-size="24" x="525.93945" y="-1328.2926" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_white_noise">
+            white noise
+        </text>
+        <text font-size="24" x="-821.67993" y="-1104.7944" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fluorescence">
+            fluorescence
+        </text>
+        <text font-size="24" x="-1212.5021" y="-2387.921" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_feedback_amplifiers">
+            feedback amplifiers
+        </text>
+        <text font-size="24" x="-882.03314" y="-2510.293" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sonar">
+            sonar
+        </text>
+        <text font-size="24" x="-1145.0854" y="-2345.3464" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_underwater_acoustics">
+            underwater acoustics
+        </text>
+        <text font-size="24" x="922.82855" y="1786.6163" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_felt">
+            felt
+        </text>
+        <text font-size="24" x="1270.3894" y="1756.036" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sound_recording">
+            sound recording
+        </text>
+        <text font-size="24" x="462.14487" y="-1945.6497" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_light_reflection">
+            light reflection
+        </text>
+        <text font-size="24" x="599.6889" y="-2358.268" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_light_transmission">
+            light transmission
+        </text>
+        <text font-size="24" x="-110.378174" y="-2937.8872" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_photoluminescence">
+            photoluminescence
+        </text>
+        <text font-size="24" x="-816.22473" y="-387.95844" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_matched_filters">
+            matched filters
+        </text>
+        <text font-size="24" x="997.6273" y="558.8916" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_voice_communication">
+            voice communication
+        </text>
+        <text font-size="24" x="1185.406" y="468.87265" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_noise_pollution">
+            noise pollution
+        </text>
+        <text font-size="24" x="1366.866" y="-91.95029" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_natural_language_interfaces">
+            natural language interfaces
+        </text>
+        <text font-size="24" x="-825.2744" y="-2715.1912" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_refractive_index">
+            refractive index
+        </text>
+        <text font-size="24" x="52.269882" y="-1749.6224" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_stray_light">
+            stray light
+        </text>
+        <text font-size="24" x="339.7333" y="1066.5487" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_speech">
+            speech
+        </text>
+        <text font-size="24" x="1300.6697" y="1870.8441" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_text_processing">
+            text processing
+        </text>
+        <text font-size="24" x="-591.06555" y="-2217.8743" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_light_pens">
+            light pens
+        </text>
+        <text font-size="24" x="-1479.4415" y="-2316.065" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_light_propagation">
+            light propagation
+        </text>
+        <text font-size="24" x="-2853.0923" y="28.94712" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_triangulation">
+            triangulation
+        </text>
+        <text font-size="24" x="2819.5115" y="-689.97577" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_communication">
+            communication
+        </text>
+        <text font-size="24" x="1517.4456" y="-2471.2156" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hand_held_computers">
+            hand held computers
+        </text>
+    </g>
+</svg>

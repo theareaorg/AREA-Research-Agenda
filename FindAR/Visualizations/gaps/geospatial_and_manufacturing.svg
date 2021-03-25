@@ -1,0 +1,2172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="5717.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-2785.000000 -2622.000000 5717.000000 5277.000000" height="5277.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="2.8148148"
+              d="M 686.264343,118.660583 C 759.330627,163.051697 802.343384,339.237793 757.952271,412.304077"
+              class="id_3d_modeling id_automation" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 686.264343,118.660583 C 483.461365,93.636650 216.792847,-248.103745 241.816772,-450.906708"
+              class="id_3d_modeling id_closed_loop_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 686.264343,118.660583 C 930.013306,62.722015 1379.544434,344.437531 1435.483032,588.186462"
+              class="id_3d_modeling id_landforms" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 686.264343,118.660583 C 713.531250,269.717407 527.846313,537.202942 376.789490,564.469849"
+              class="id_3d_modeling id_location" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 686.264343,118.660583 C 704.483887,277.456299 493.619751,542.979248 334.824036,561.198853"
+              class="id_3d_modeling id_product_design"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 686.264343,118.660583 C 714.457703,198.042160 637.675354,359.404541 558.293762,387.597870"
+              class="id_3d_modeling id_repair" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 686.264343,118.660583 C 635.466736,326.187927 247.979248,561.282654 40.451889,510.485046"
+              class="id_3d_modeling id_rural_areas" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 686.264343,118.660583 C 490.127075,-71.580215 481.282349,-651.147400 671.523132,-847.284668"
+              class="id_3d_modeling id_tools" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1675.780884,1902.174438 C -1786.089478,1391.386108 -1185.369995,459.740875 -674.581726,349.432312"
+              class="id_adhesive_bonding id_assembling"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2116.884277,1755.633423 C -2175.618652,1741.641235 -2242.732422,1632.551270 -2228.740234,1573.816650"
+              class="id_arc_welding id_welds" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="4.6296296"
+              d="M -674.581726,349.432312 C -744.360962,282.111359 -748.048401,76.461128 -680.727417,6.681900"
+              class="id_assembling id_automatic_optical_inspection"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -674.581726,349.432312 C -671.028198,385.319000 -719.528015,444.479218 -755.414673,448.032715"
+              class="id_assembling id_computerised_monitoring"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -674.581726,349.432312 C -532.723328,172.364136 -54.333488,119.549408 122.734703,261.407806"
+              class="id_assembling id_factory_automation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.6296296"
+              d="M -674.581726,349.432312 C -687.185852,415.113495 -804.613892,494.728973 -870.295044,482.124817"
+              class="id_assembling id_maintenance_engineering"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -674.581726,349.432312 C -561.910339,524.648499 -655.727661,956.479980 -830.943848,1069.151367"
+              class="id_assembling id_mass_production"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -674.581726,349.432312 C -746.049011,306.368591 -788.654358,134.572067 -745.590637,63.104778"
+              class="id_assembling id_mechanical_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -674.581726,349.432312 C -757.278748,271.910828 -765.042114,31.583015 -687.520630,-51.114033"
+              class="id_assembling id_path_planning" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -674.581726,349.432312 C -716.958740,483.344604 -981.392761,620.647583 -1115.305054,578.270569"
+              class="id_assembling id_pipes" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -674.581726,349.432312 C -548.778198,399.333649 -434.924835,662.890930 -484.826172,788.694519"
+              class="id_assembling id_product_customisation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -674.581726,349.432312 C -593.513000,388.523743 -530.547119,568.763977 -569.638550,649.832703"
+              class="id_assembling id_product_development"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="44.555557"
+              d="M -674.581726,349.432312 C -647.436157,361.077759 -624.185913,419.264221 -635.831360,446.409790"
+              class="id_assembling id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -674.581726,349.432312 C -650.117126,435.564514 -742.618408,601.459839 -828.750610,625.924438"
+              class="id_assembling id_production_facilities"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -674.581726,349.432312 C -660.489136,311.061371 -581.793945,274.643799 -543.422974,288.736359"
+              class="id_assembling id_robotic_assembly"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -674.581726,349.432312 C -650.154968,438.270447 -746.771973,608.167847 -835.610107,632.594604"
+              class="id_assembling id_virtual_manufacturing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 632.307922,1350.664185 C 447.116943,1165.099121 447.678040,608.964966 633.243164,423.773987"
+              class="id_assembly id_maintenance" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 632.307922,1350.664185 C 345.900879,1300.999634 -9.212738,796.892090 40.451889,510.485046"
+              class="id_assembly id_rural_areas" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -680.727417,6.681900 C -607.394653,109.889526 -652.207031,374.699982 -755.414673,448.032715"
+              class="id_automatic_optical_inspection id_computerised_monitoring"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -680.727417,6.681900 C -567.793518,109.636086 -552.823914,433.468231 -655.778076,546.402161"
+              class="id_automatic_optical_inspection id_condition_monitoring"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -680.727417,6.681900 C -623.552368,139.684021 -737.292969,424.949768 -870.295044,482.124817"
+              class="id_automatic_optical_inspection id_maintenance_engineering"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -680.727417,6.681900 C -583.802612,85.648277 -556.864990,349.484985 -635.831360,446.409790"
+              class="id_automatic_optical_inspection id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -680.727417,6.681900 C -632.609619,-40.778229 -489.242767,-39.791725 -441.782623,8.326073"
+              class="id_automatic_optical_inspection id_solid_modelling"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1107.513062,-1239.426147 C 1207.104614,-1152.594849 1226.244873,-872.960693 1139.413574,-773.369202"
+              class="id_ball_milling id_milling" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1107.513062,-1239.426147 C 1098.743408,-1073.799805 837.149414,-838.514954 671.523132,-847.284668"
+              class="id_ball_milling id_tools" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1016.001099,552.049866 C -961.095154,454.887939 -732.993286,391.503845 -635.831360,446.409790"
+              class="id_batch_processing id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1016.001099,552.049866 C -974.148193,404.871552 -690.601318,246.883423 -543.422974,288.736359"
+              class="id_batch_processing id_robotic_assembly"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2257.186279,1455.831909 C -2134.799805,929.676514 -1161.986816,324.023193 -635.831360,446.409790"
+              class="id_bottling id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1906.605591,1723.317505 C -1885.765259,1656.208374 -1753.841064,1586.805298 -1686.731934,1607.645630"
+              class="id_buried_object_detection id_geophysical_techniques"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1906.605591,1723.317505 C -1885.828735,1343.208740 -1284.500366,804.211121 -904.391602,824.988037"
+              class="id_buried_object_detection id_ground_penetrating_radar"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1906.605591,1723.317505 C -1933.396240,1269.010010 -1292.121216,547.363098 -837.813782,520.572449"
+              class="id_buried_object_detection id_radar_imaging"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="6.4444447"
+              d="M -751.688171,-142.947952 C -673.843872,-84.755043 -644.366699,119.300819 -702.559631,197.145142"
+              class="id_clothing id_clothing_industry"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -751.688171,-142.947952 C -765.020874,75.196388 -1112.236328,382.413879 -1330.380737,369.081207"
+              class="id_clothing id_fabrics" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -751.688171,-142.947952 C -610.645264,-48.247765 -541.131226,305.366882 -635.831360,446.409790"
+              class="id_clothing id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.6296296"
+              d="M -751.688171,-142.947952 C -659.452209,-174.674255 -473.508911,-83.909851 -441.782623,8.326073"
+              class="id_clothing id_solid_modelling" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -702.559631,197.145142 C -639.361084,233.652420 -599.324097,383.211212 -635.831360,446.409790"
+              class="id_clothing_industry id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -702.559631,197.145142 C -688.168030,107.225937 -531.701843,-6.065514 -441.782623,8.326073"
+              class="id_clothing_industry id_solid_modelling"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="6.4444447"
+              d="M -755.414673,448.032715 C -715.813477,447.779297 -656.031494,506.800964 -655.778076,546.402161"
+              class="id_computerised_monitoring id_condition_monitoring"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -755.414673,448.032715 C -814.018250,508.326355 -992.364197,510.861420 -1052.657837,452.257782"
+              class="id_computerised_monitoring id_environmental_monitoring"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -755.414673,448.032715 C -756.742004,373.116730 -646.359131,258.751740 -571.443176,257.424377"
+              class="id_computerised_monitoring id_geographic_information_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.6296296"
+              d="M -755.414673,448.032715 C -771.572327,477.827209 -840.500549,498.282471 -870.295044,482.124817"
+              class="id_computerised_monitoring id_maintenance_engineering"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -755.414673,448.032715 C -830.435486,369.082306 -824.541016,138.125565 -745.590637,63.104778"
+              class="id_computerised_monitoring id_mechanical_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -755.414673,448.032715 C -708.008057,505.479034 -723.067566,662.758484 -780.513855,710.165100"
+              class="id_computerised_monitoring id_paper_industry"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -755.414673,448.032715 C -733.690796,665.433228 -1027.205688,1024.119873 -1244.606201,1045.843750"
+              class="id_computerised_monitoring id_paper_making"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="8.259259"
+              d="M -755.414673,448.032715 C -731.822571,423.791473 -660.072632,422.817719 -635.831360,446.409790"
+              class="id_computerised_monitoring id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -755.414673,448.032715 C -734.503479,498.278229 -778.505066,605.013245 -828.750610,625.924438"
+              class="id_computerised_monitoring id_production_facilities"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -755.414673,448.032715 C -703.973511,559.676270 -794.277161,804.303223 -905.920715,855.744385"
+              class="id_computerised_monitoring id_production_management"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1537.520630,2162.488037 C 1519.808960,2113.056641 1567.388794,2012.342285 1616.820190,1994.630615"
+              class="id_concurrent_engineering id_design_for_manufacturability"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -655.778076,546.402161 C -596.600525,455.345947 -371.249939,407.527954 -280.193756,466.705505"
+              class="id_condition_monitoring id_flexible_manufacturing_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -655.778076,546.402161 C -696.706604,471.739624 -646.105713,298.352966 -571.443176,257.424377"
+              class="id_condition_monitoring id_geographic_information_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -655.778076,546.402161 C -436.089569,461.280029 21.126419,663.129517 106.248558,882.818054"
+              class="id_condition_monitoring id_intelligent_control"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="13.703704"
+              d="M -655.778076,546.402161 C -711.536926,576.450073 -840.247131,537.883667 -870.295044,482.124817"
+              class="id_condition_monitoring id_maintenance_engineering"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -655.778076,546.402161 C -770.400085,467.705200 -824.287598,177.726761 -745.590637,63.104778"
+              class="id_condition_monitoring id_mechanical_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -655.778076,546.402161 C -588.794800,516.441345 -443.378571,571.974976 -413.417725,638.958252"
+              class="id_condition_monitoring id_predictive_control"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -655.778076,546.402161 C -616.418335,604.236023 -644.129639,750.026306 -701.963501,789.386047"
+              class="id_condition_monitoring id_preventive_maintenance"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="11.888889"
+              d="M -655.778076,546.402161 C -671.787231,522.414368 -659.819153,462.418915 -635.831360,446.409790"
+              class="id_condition_monitoring id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -655.778076,546.402161 C -720.594238,395.987823 -592.196960,73.142212 -441.782623,8.326073"
+              class="id_condition_monitoring id_solid_modelling"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -168.444519,1196.137817 C -300.222229,1155.203125 -436.486694,896.134399 -395.551941,764.356628"
+              class="id_conveyors id_industrial_plants"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -168.444519,1196.137817 C -411.867493,1139.669678 -692.299622,689.832764 -635.831360,446.409790"
+              class="id_conveyors id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2140.635742,-803.974243 C -1589.598022,-854.858398 -686.715454,-104.627930 -635.831360,446.409790"
+              class="id_dies id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1001.927002,691.360168 C -1002.617371,518.476196 -744.327087,258.114777 -571.443176,257.424377"
+              class="id_digital_elevation_models id_geographic_information_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1001.927002,691.360168 C -892.023682,723.215515 -774.951599,935.853516 -806.806946,1045.756836"
+              class="id_digital_elevation_models id_geomorphology"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1001.927002,691.360168 C -919.292847,1147.431519 -1479.448608,1955.489624 -1935.520020,2038.123779"
+              class="id_digital_elevation_models id_tectonics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1001.927002,691.360168 C -876.227600,1108.507080 -1313.398926,1922.776489 -1730.545898,2048.475830"
+              class="id_digital_elevation_models id_topography"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1001.927002,691.360168 C -777.601501,941.641968 -816.535828,1653.552856 -1066.817627,1877.878418"
+              class="id_digital_elevation_models id_volcanology"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 491.695679,1641.605103 C 440.094910,1649.276489 351.186737,1583.382446 343.515350,1531.781616"
+              class="id_earth_atmosphere id_geomagnetism"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -226.160217,881.266663 C -194.548721,1237.342529 -681.245300,1818.873779 -1037.321289,1850.485352"
+              class="id_electronic_data_interchange id_volcanoes"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1052.657837,452.257782 C -995.381592,317.048157 -706.652771,200.148117 -571.443176,257.424377"
+              class="id_environmental_monitoring id_geographic_information_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 573.302917,-489.424255 C 691.171387,-497.543182 880.152466,-332.918854 888.271423,-215.050369"
+              class="id_fabrication id_rapid_prototyping"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 573.302917,-489.424255 C 593.672302,-462.195038 583.382568,-390.797150 556.153320,-370.427795"
+              class="id_fabrication id_three_dimensional_printing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 122.734703,261.407806 C 83.208549,383.053040 -158.548523,506.231659 -280.193756,466.705505"
+              class="id_factory_automation id_flexible_manufacturing_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 122.734703,261.407806 C 119.667145,465.654877 -191.304855,767.424194 -395.551941,764.356628"
+              class="id_factory_automation id_industrial_plants"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 122.734703,261.407806 C 243.719528,388.987091 233.827835,761.833252 106.248558,882.818054"
+              class="id_factory_automation id_intelligent_control"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="11.888889"
+              d="M 122.734703,261.407806 C 8.021893,450.121399 -447.117767,561.122620 -635.831360,446.409790"
+              class="id_factory_automation id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 122.734703,261.407806 C 5.340965,524.608154 -565.550232,743.318176 -828.750610,625.924438"
+              class="id_factory_automation id_production_facilities"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2057.148193,785.709534 C -1840.744751,433.586243 -987.954651,230.006348 -635.831360,446.409790"
+              class="id_filling id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2057.148193,785.709534 C -1858.376343,453.418396 -1061.781982,253.139404 -729.490906,451.911163"
+              class="id_filling id_production_equipment"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -280.193756,466.705505 C -119.682793,472.639587 112.182610,722.307068 106.248558,882.818054"
+              class="id_flexible_manufacturing_systems id_intelligent_control"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -280.193756,466.705505 C -395.130157,587.809631 -749.190918,597.061218 -870.295044,482.124817"
+              class="id_flexible_manufacturing_systems id_maintenance_engineering"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -280.193756,466.705505 C -272.388000,527.800842 -352.322357,631.152466 -413.417725,638.958252"
+              class="id_flexible_manufacturing_systems id_predictive_control"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.6296296"
+              d="M -280.193756,466.705505 C -355.380432,533.773865 -568.763000,521.596436 -635.831360,446.409790"
+              class="id_flexible_manufacturing_systems id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 673.330566,-135.023880 C 527.784912,243.095261 -257.712219,591.955444 -635.831360,446.409790"
+              class="id_foundries id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -571.443176,257.424377 C -936.889954,205.102921 -1406.577881,-421.549347 -1354.256348,-786.996094"
+              class="id_geographic_information_systems id_geomagnetic_navigation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -571.443176,257.424377 C -460.849426,462.163635 -602.067688,935.163086 -806.806946,1045.756836"
+              class="id_geographic_information_systems id_geomorphology"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -571.443176,257.424377 C -454.392426,291.142731 -329.393829,517.296387 -363.112183,634.347107"
+              class="id_geographic_information_systems id_geophysics_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.6296296"
+              d="M -571.443176,257.424377 C -546.447327,208.362915 -435.361359,172.264496 -386.299896,197.260345"
+              class="id_geographic_information_systems id_global_positioning_system"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -571.443176,257.424377 C -711.671143,164.815948 -783.100342,-184.438599 -690.491943,-324.666534"
+              class="id_geographic_information_systems id_inertial_navigation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -571.443176,257.424377 C -586.273499,362.134857 -765.584595,496.955109 -870.295044,482.124817"
+              class="id_geographic_information_systems id_maintenance_engineering"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.6296296"
+              d="M -571.443176,257.424377 C -595.330688,181.672607 -517.534363,32.213623 -441.782623,8.326073"
+              class="id_geographic_information_systems id_solid_modelling"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -571.443176,257.424377 C -488.118652,886.379639 -1306.564697,1954.799316 -1935.520020,2038.123779"
+              class="id_geographic_information_systems id_tectonics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -571.443176,257.424377 C -638.962769,363.664063 -899.601746,421.744202 -1005.841431,354.224609"
+              class="id_geographic_information_systems id_terrain_mapping"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -571.443176,257.424377 C -445.053406,847.455261 -1140.515015,1922.086060 -1730.545898,2048.475830"
+              class="id_geographic_information_systems id_topography"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -571.443176,257.424377 C -346.427246,680.590088 -643.651917,1652.862549 -1066.817627,1877.878418"
+              class="id_geographic_information_systems id_volcanology"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -489.311523,1685.675537 C -227.264648,1791.193604 7.528732,2342.540771 -97.989220,2604.587646"
+              class="id_geography id_surface_topography"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -557.731995,1594.482788 C -518.696106,1687.257446 -599.304382,1884.973267 -692.079041,1924.009155"
+              class="id_geological_surveys id_geophysical_prospecting"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -557.731995,1594.482788 C -802.890015,1280.751953 -700.030762,442.418396 -386.299896,197.260345"
+              class="id_geological_surveys id_global_positioning_system"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -557.731995,1594.482788 C -627.535095,1653.407227 -820.626404,1637.089478 -879.550964,1567.286377"
+              class="id_geological_surveys id_potable_water"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1354.256348,-786.996094 C -1129.037476,-827.283020 -730.778931,-549.885315 -690.491943,-324.666534"
+              class="id_geomagnetic_navigation id_inertial_navigation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -806.806946,1045.756836 C -800.349915,874.735962 -534.133057,627.890076 -363.112183,634.347107"
+              class="id_geomorphology id_geophysics_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -806.806946,1045.756836 C -834.076172,1469.972900 -1511.303955,2065.393066 -1935.520020,2038.123779"
+              class="id_geomorphology id_tectonics" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -806.806946,1045.756836 C -791.010925,1431.048462 -1345.254272,2032.679810 -1730.545898,2048.475830"
+              class="id_geomorphology id_topography" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -806.806946,1045.756836 C -692.384766,1264.183350 -848.391174,1763.456299 -1066.817627,1877.878418"
+              class="id_geomorphology id_volcanology" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -726.652344,23.683044 C -623.866394,-9.671982 -419.654938,94.474403 -386.299896,197.260345"
+              class="id_geophysical_image_processing id_global_positioning_system"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -726.652344,23.683044 C -716.381836,145.629181 -883.895264,343.954132 -1005.841431,354.224609"
+              class="id_geophysical_image_processing id_terrain_mapping"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -692.079041,1924.009155 C -976.272949,1517.503540 -792.805481,481.454285 -386.299896,197.260345"
+              class="id_geophysical_prospecting id_global_positioning_system"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -692.079041,1924.009155 C -800.917969,1890.158936 -913.401123,1676.125366 -879.550964,1567.286377"
+              class="id_geophysical_prospecting id_potable_water"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1686.731934,1607.645630 C -1686.795410,1294.645996 -1217.391113,825.051453 -904.391602,824.988037"
+              class="id_geophysical_techniques id_ground_penetrating_radar"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1686.731934,1607.645630 C -1734.362915,1220.447266 -1225.012085,568.203491 -837.813782,520.572449"
+              class="id_geophysical_techniques id_radar_imaging"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -363.112183,634.347107 C -455.167084,551.567261 -469.079712,289.315247 -386.299896,197.260345"
+              class="id_geophysics_computing id_global_positioning_system"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -363.112183,634.347107 C -547.682495,706.868469 -933.320068,538.794983 -1005.841431,354.224609"
+              class="id_geophysics_computing id_terrain_mapping"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -363.112183,634.347107 C -255.147003,1023.794434 -677.370239,1769.913208 -1066.817627,1877.878418"
+              class="id_geophysics_computing id_volcanology"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -386.299896,197.260345 C -258.812500,-69.376015 332.373016,-278.099487 599.009399,-150.612091"
+              class="id_global_positioning_system id_indoor_positioning_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -386.299896,197.260345 C -551.523682,153.713379 -734.038940,-159.442749 -690.491943,-324.666534"
+              class="id_global_positioning_system id_inertial_navigation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -386.299896,197.260345 C -160.240112,118.084366 297.613525,338.410095 376.789490,564.469849"
+              class="id_global_positioning_system id_location"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -386.299896,197.260345 C -326.205658,304.533417 -396.973938,555.584412 -504.247009,615.678650"
+              class="id_global_positioning_system id_location_based_services"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -386.299896,197.260345 C -496.218903,207.829620 -676.951355,58.804989 -687.520630,-51.114033"
+              class="id_global_positioning_system id_path_planning"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -386.299896,197.260345 C -210.944916,569.915771 -506.895569,1391.931519 -879.550964,1567.286377"
+              class="id_global_positioning_system id_potable_water"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -386.299896,197.260345 C -478.815338,352.561523 -850.540283,446.740051 -1005.841431,354.224609"
+              class="id_global_positioning_system id_terrain_mapping"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1920.316040,1134.874756 C -1801.112183,740.284851 -1030.421265,327.205872 -635.831360,446.409790"
+              class="id_grinding id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1920.316040,1134.874756 C -1803.792969,814.771606 -1148.853760,509.401398 -828.750610,625.924438"
+              class="id_grinding id_production_facilities"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -904.391602,824.988037 C -966.144897,749.596069 -945.687012,543.878113 -870.295044,482.124817"
+              class="id_ground_penetrating_radar id_maintenance_engineering"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -904.391602,824.988037 C -951.959167,750.789368 -912.012451,568.140015 -837.813782,520.572449"
+              class="id_ground_penetrating_radar id_radar_imaging"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2423.498779,62.435997 C -1989.170532,-218.302750 -916.570129,12.081512 -635.831360,446.409790"
+              class="id_hot_rolling id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2423.498779,62.435997 C -2037.977539,-344.729218 -848.947815,-377.195160 -441.782623,8.326073"
+              class="id_hot_rolling id_solid_modelling"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 252.539383,966.519470 C -29.156700,1040.171753 -562.179138,728.105835 -635.831360,446.409790"
+              class="id_industrial_control id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -137.541824,1038.421143 C -355.601990,1019.676758 -654.575745,664.469971 -635.831360,446.409790"
+              class="id_industrial_engineering id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -137.541824,1038.421143 C -358.320770,1096.869507 -777.161743,853.373535 -835.610107,632.594604"
+              class="id_industrial_engineering id_virtual_manufacturing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -395.551941,764.356628 C -546.946899,802.858887 -831.792786,633.519775 -870.295044,482.124817"
+              class="id_industrial_plants id_maintenance_engineering"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -395.551941,764.356628 C -451.828369,830.644775 -635.675354,845.662476 -701.963501,789.386047"
+              class="id_industrial_plants id_preventive_maintenance"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="8.259259"
+              d="M -395.551941,764.356628 C -507.197205,748.823181 -651.364807,558.055054 -635.831360,446.409790"
+              class="id_industrial_plants id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -395.551941,764.356628 C -524.828796,768.655334 -725.192200,581.188049 -729.490906,451.911163"
+              class="id_industrial_plants id_production_equipment"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -690.491943,-324.666534 C -574.151550,-307.809875 -424.925964,-108.014320 -441.782623,8.326073"
+              class="id_inertial_navigation id_solid_modelling"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 106.248558,882.818054 C -169.198807,997.988098 -755.125000,757.572205 -870.295044,482.124817"
+              class="id_intelligent_control id_maintenance_engineering"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 106.248558,882.818054 C -46.456654,937.979309 -358.256439,791.663452 -413.417725,638.958252"
+              class="id_intelligent_control id_predictive_control"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 106.248558,882.818054 C -129.449081,943.952393 -574.697021,682.107422 -635.831360,446.409790"
+              class="id_intelligent_control id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -666.757019,328.300781 C -676.699768,399.773193 -798.822632,492.067627 -870.295044,482.124817"
+              class="id_intelligent_manufacturing_systems id_maintenance_engineering"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -666.757019,328.300781 C -589.173096,351.037628 -506.902557,501.518738 -529.639404,579.102661"
+              class="id_intelligent_manufacturing_systems id_manufacturing_processes"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.6296296"
+              d="M -666.757019,328.300781 C -636.950073,345.737457 -618.394653,416.602875 -635.831360,446.409790"
+              class="id_intelligent_manufacturing_systems id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -666.757019,328.300781 C -654.581665,365.569641 -692.222046,439.735870 -729.490906,451.911163"
+              class="id_intelligent_manufacturing_systems id_production_equipment"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -666.757019,328.300781 C -717.164124,447.644257 -971.789917,551.048950 -1091.133423,500.641846"
+              class="id_intelligent_manufacturing_systems id_scada_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1435.483032,588.186462 C 1219.927490,723.506592 693.613892,603.153442 558.293762,387.597870"
+              class="id_landforms id_repair" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -644.570496,750.441528 C -743.378723,741.923096 -878.813477,580.933044 -870.295044,482.124817"
+              class="id_lathes id_maintenance_engineering"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -644.570496,750.441528 C -655.852051,693.187561 -586.893372,590.384216 -529.639404,579.102661"
+              class="id_lathes id_manufacturing_processes"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -644.570496,750.441528 C -802.241882,633.178223 -862.853943,220.776154 -745.590637,63.104778"
+              class="id_lathes id_mechanical_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -644.570496,750.441528 C -703.629028,687.887390 -698.385498,505.468292 -635.831360,446.409790"
+              class="id_lathes id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -644.570496,750.441528 C -706.309937,762.374084 -816.818054,687.663879 -828.750610,625.924438"
+              class="id_lathes id_production_facilities"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -644.570496,750.441528 C -750.539124,732.460815 -882.521118,546.536743 -864.540405,440.568115"
+              class="id_lathes id_prototypes" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -644.570496,750.441528 C -752.436035,561.460876 -630.763306,116.191605 -441.782623,8.326073"
+              class="id_lathes id_solid_modelling" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -644.570496,750.441528 C -592.167358,779.020203 -556.430603,900.493042 -585.009277,952.896179"
+              class="id_lathes id_turning" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 376.789490,564.469849 C 855.501709,592.828613 1531.032104,1353.435059 1502.673340,1832.147339"
+              class="id_location id_rubber" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -504.247009,615.678650 C -613.224670,481.715240 -575.746033,117.303726 -441.782623,8.326073"
+              class="id_location_based_services id_solid_modelling"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1201.300293,636.359741 C -1253.083496,590.686401 -1262.248291,444.501526 -1216.574951,392.718292"
+              class="id_machining id_numerical_control"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -1201.300293,636.359741 C -1126.196533,485.275970 -786.915161,371.306000 -635.831360,446.409790"
+              class="id_machining id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.6296296"
+              d="M 633.243164,423.773987 C 610.781738,347.351654 691.723022,199.025940 768.145386,176.564484"
+              class="id_maintenance id_manufacture" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 633.243164,423.773987 C 532.027161,559.674438 176.352341,611.701050 40.451889,510.485046"
+              class="id_maintenance id_rural_areas" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -870.295044,482.124817 C -774.426819,527.240479 -698.298035,738.716431 -743.413696,834.584656"
+              class="id_maintenance_engineering id_manufacturing_industries"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.6296296"
+              d="M -870.295044,482.124817 C -929.158203,373.379913 -854.335510,121.967911 -745.590637,63.104778"
+              class="id_maintenance_engineering id_mechanical_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -870.295044,482.124817 C -957.432312,533.499512 -1165.200317,479.855591 -1216.574951,392.718292"
+              class="id_maintenance_engineering id_numerical_control"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -870.295044,482.124817 C -806.730774,509.776611 -752.862061,646.600830 -780.513855,710.165100"
+              class="id_maintenance_engineering id_paper_industry"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -870.295044,482.124817 C -832.413513,669.730835 -1057.000244,1007.962219 -1244.606201,1045.843750"
+              class="id_maintenance_engineering id_paper_making"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -870.295044,482.124817 C -747.552856,422.116058 -473.426483,516.216064 -413.417725,638.958252"
+              class="id_maintenance_engineering id_predictive_control"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -870.295044,482.124817 C -733.196045,713.537903 -874.667236,1266.305908 -1106.080200,1403.404907"
+              class="id_maintenance_engineering id_product_life_cycle_management"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="50.0"
+              d="M -870.295044,482.124817 C -830.545288,428.089081 -689.867126,406.660065 -635.831360,446.409790"
+              class="id_maintenance_engineering id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -870.295044,482.124817 C -848.176941,447.921265 -763.694458,429.793060 -729.490906,451.911163"
+              class="id_maintenance_engineering id_production_equipment"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -870.295044,482.124817 C -833.226196,502.575836 -808.299561,588.855591 -828.750610,625.924438"
+              class="id_maintenance_engineering id_production_facilities"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -870.295044,482.124817 C -802.696228,563.973877 -824.071655,788.145569 -905.920715,855.744385"
+              class="id_maintenance_engineering id_production_management"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -870.295044,482.124817 C -877.455444,472.662537 -874.002686,447.728516 -864.540405,440.568115"
+              class="id_maintenance_engineering id_prototypes"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -870.295044,482.124817 C -843.598328,378.072693 -647.475037,262.039642 -543.422974,288.736359"
+              class="id_maintenance_engineering id_robotic_assembly"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -870.295044,482.124817 C -910.759277,529.995911 -1043.262329,541.106140 -1091.133423,500.641846"
+              class="id_maintenance_engineering id_scada_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -870.295044,482.124817 C -879.352295,301.662598 -622.244873,17.383331 -441.782623,8.326073"
+              class="id_maintenance_engineering id_solid_modelling"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 768.145386,176.564484 C 1134.691040,-38.879944 2007.676147,187.772003 2223.120605,554.317688"
+              class="id_manufacture id_plant_layout" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="4.6296296"
+              d="M 768.145386,176.564484 C 844.727722,135.806732 1020.737854,189.543579 1061.495605,266.125916"
+              class="id_manufacture id_production_control"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.6296296"
+              d="M -743.413696,834.584656 C -799.532166,735.433228 -734.982788,502.528259 -635.831360,446.409790"
+              class="id_manufacturing_industries id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -743.413696,834.584656 C -848.339172,609.006714 -667.360535,113.251572 -441.782623,8.326073"
+              class="id_manufacturing_industries id_solid_modelling"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -529.639404,579.102661 C -676.029236,519.093323 -805.599976,209.494598 -745.590637,63.104778"
+              class="id_manufacturing_processes id_mechanical_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="6.4444447"
+              d="M -529.639404,579.102661 C -577.416382,573.802490 -641.131531,494.186768 -635.831360,446.409790"
+              class="id_manufacturing_processes id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -529.639404,579.102661 C -590.469360,523.786133 -598.739502,349.566345 -543.422974,288.736359"
+              class="id_manufacturing_processes id_robotic_assembly"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -529.639404,579.102661 C -626.223389,447.375977 -573.509277,104.910042 -441.782623,8.326073"
+              class="id_manufacturing_processes id_solid_modelling"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="8.259259"
+              d="M -539.188293,432.105560 C -555.656067,454.295013 -613.641907,462.877563 -635.831360,446.409790"
+              class="id_manufacturing_systems id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -539.188293,432.105560 C -558.336975,528.781799 -732.074341,645.073120 -828.750610,625.924438"
+              class="id_manufacturing_systems id_production_facilities"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -830.943848,1069.151367 C -817.811707,943.836426 -610.141052,775.562378 -484.826172,788.694519"
+              class="id_mass_production id_product_customisation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -830.943848,1069.151367 C -916.469666,905.580505 -799.402222,531.935608 -635.831360,446.409790"
+              class="id_mass_production id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2254.817383,478.352081 C -2047.251221,58.999512 -1106.873169,-258.680145 -687.520630,-51.114033"
+              class="id_materials_handling id_path_planning"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -745.590637,63.104778 C -695.784790,-8.612568 -513.499939,-41.479790 -441.782623,8.326073"
+              class="id_mechanical_engineering_computing id_solid_modelling"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1139.413574,-773.369202 C 1218.152466,-772.234802 1334.559082,-652.424744 1333.424683,-573.685852"
+              class="id_milling id_milling_machines" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1139.413574,-773.369202 C 1103.349854,-576.128845 753.393677,-334.364014 556.153320,-370.427795"
+              class="id_milling id_three_dimensional_printing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1139.413574,-773.369202 C 1031.052368,-694.574219 750.318115,-738.923523 671.523132,-847.284668"
+              class="id_milling id_tools" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1333.424683,-573.685852 C 1218.622070,-377.579956 752.259216,-255.625137 556.153320,-370.427795"
+              class="id_milling_machines id_three_dimensional_printing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -874.462280,2023.334473 C -1142.121094,1660.223267 -998.942505,714.068542 -635.831360,446.409790"
+              class="id_moulding id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -1216.574951,392.718292 C -1089.687988,287.307892 -741.241821,319.522766 -635.831360,446.409790"
+              class="id_numerical_control id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -780.513855,710.165100 C -806.196594,870.119324 -1084.651978,1071.526489 -1244.606201,1045.843750"
+              class="id_paper_industry id_paper_making"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -780.513855,710.165100 C -804.328369,628.477539 -717.518921,470.224365 -635.831360,446.409790"
+              class="id_paper_industry id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -780.513855,710.165100 C -807.009338,702.964294 -835.951416,652.419922 -828.750610,625.924438"
+              class="id_paper_industry id_production_facilities"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -780.513855,710.165100 C -776.479370,764.362305 -851.723511,851.709900 -905.920715,855.744385"
+              class="id_paper_industry id_production_management"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1244.606201,1045.843750 C -1242.738037,804.202026 -877.473083,444.541626 -635.831360,446.409790"
+              class="id_paper_making id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1244.606201,1045.843750 C -1214.889038,940.086731 -1011.677734,826.027161 -905.920715,855.744385"
+              class="id_paper_making id_production_management"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -687.520630,-51.114033 C -577.678040,38.052883 -546.664429,336.567169 -635.831360,446.409790"
+              class="id_path_planning id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -687.520630,-51.114033 C -590.731018,-11.963488 -504.272400,191.946747 -543.422974,288.736359"
+              class="id_path_planning id_robotic_assembly"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1115.305054,578.270569 C -1045.782471,456.003693 -758.098206,376.887207 -635.831360,446.409790"
+              class="id_pipes id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -413.417725,638.958252 C -496.410156,644.931274 -629.858337,529.402222 -635.831360,446.409790"
+              class="id_predictive_control id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.6296296"
+              d="M -701.963501,789.386047 C -757.332336,707.564331 -717.653076,501.778625 -635.831360,446.409790"
+              class="id_preventive_maintenance id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -701.963501,789.386047 C -774.963989,727.396545 -791.480408,524.911621 -729.490906,451.911163"
+              class="id_preventive_maintenance id_production_equipment"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -484.826172,788.694519 C -583.484192,750.438599 -674.087280,545.067810 -635.831360,446.409790"
+              class="id_product_customisation id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 334.824036,561.198853 C 171.658295,759.818115 -371.019257,812.998474 -569.638550,649.832703"
+              class="id_product_design id_product_development"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M 334.824036,561.198853 C 117.735138,732.372131 -464.658081,663.498718 -635.831360,446.409790"
+              class="id_product_design id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 334.824036,561.198853 C 344.797791,481.784698 478.879608,377.624115 558.293762,387.597870"
+              class="id_product_design id_repair" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 334.824036,561.198853 C 192.764587,330.607666 325.562134,-228.368332 556.153320,-370.427795"
+              class="id_product_design id_three_dimensional_printing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -569.638550,649.832703 C -623.561707,622.386719 -663.277344,500.332916 -635.831360,446.409790"
+              class="id_product_development id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -569.638550,649.832703 C -626.280518,699.579407 -785.863403,689.236572 -835.610107,632.594604"
+              class="id_product_development id_virtual_manufacturing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -1106.080200,1403.404907 C -1203.429443,1117.956055 -921.280151,543.759033 -635.831360,446.409790"
+              class="id_product_life_cycle_management id_production_engineering_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="10.074074"
+              d="M -635.831360,446.409790 C -653.463013,466.241974 -709.658691,469.542786 -729.490906,451.911163"
+              class="id_production_engineering_computing id_production_equipment"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="13.703704"
+              d="M -635.831360,446.409790 C -638.512268,520.896545 -754.263794,628.605347 -828.750610,625.924438"
+              class="id_production_engineering_computing id_production_facilities"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.6296296"
+              d="M -635.831360,446.409790 C -607.982300,582.294617 -770.035889,827.895325 -905.920715,855.744385"
+              class="id_production_engineering_computing id_production_management"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="6.4444447"
+              d="M -635.831360,446.409790 C -682.741516,490.983276 -819.966919,487.478271 -864.540405,440.568115"
+              class="id_production_engineering_computing id_prototypes"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -635.831360,446.409790 C -463.302826,9.297211 451.158844,-387.578918 888.271423,-215.050369"
+              class="id_production_engineering_computing id_rapid_prototyping"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="8.259259"
+              d="M -635.831360,446.409790 C -648.884338,396.393402 -593.439331,301.789368 -543.422974,288.736359"
+              class="id_production_engineering_computing id_robotic_assembly"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -635.831360,446.409790 C -716.045349,548.316589 -989.226563,580.855835 -1091.133423,500.641846"
+              class="id_production_engineering_computing id_scada_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="11.888889"
+              d="M -635.831360,446.409790 C -684.638367,319.983276 -568.209106,57.133068 -441.782623,8.326073"
+              class="id_production_engineering_computing id_solid_modelling"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -635.831360,446.409790 C -723.432495,118.630722 -363.165588,-504.439514 -35.386513,-592.040649"
+              class="id_production_engineering_computing id_three-dimensional_printing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -635.831360,446.409790 C -524.369629,537.542664 -493.876434,841.434448 -585.009277,952.896179"
+              class="id_production_engineering_computing id_turning"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -635.831360,446.409790 C -638.550171,523.602539 -758.417419,635.313416 -835.610107,632.594604"
+              class="id_production_engineering_computing id_virtual_manufacturing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -635.831360,446.409790 C -591.398071,864.560608 -1151.974365,1558.436768 -1570.125244,1602.870117"
+              class="id_production_engineering_computing id_welding"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.8148148"
+              d="M -729.490906,451.911163 C -760.666321,305.652496 -588.041321,39.501438 -441.782623,8.326073"
+              class="id_production_equipment id_solid_modelling"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -828.750610,625.924438 C -798.220642,687.322449 -844.522705,825.214417 -905.920715,855.744385"
+              class="id_production_facilities id_production_management"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -828.750610,625.924438 C -872.979858,596.011108 -894.453735,484.797333 -864.540405,440.568115"
+              class="id_production_facilities id_prototypes"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -864.540405,440.568115 C -905.231323,68.215576 -407.739044,-551.349670 -35.386513,-592.040649"
+              class="id_prototypes id_three-dimensional_printing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 244.203278,-1316.077515 C 154.975967,-1203.476196 -147.766830,-1168.415405 -260.368073,-1257.642700"
+              class="id_radar id_radar_tracking" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 888.271423,-215.050369 C 628.141724,-105.716827 73.947037,-331.910980 -35.386513,-592.040649"
+              class="id_rapid_prototyping id_three-dimensional_printing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -441.782623,8.326073 C -480.576752,-193.026489 -236.739075,-553.246521 -35.386513,-592.040649"
+              class="id_solid_modelling id_three-dimensional_printing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -441.782623,8.326073 C -281.513916,225.885437 -367.449921,792.627502 -585.009277,952.896179"
+              class="id_solid_modelling id_turning" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1935.520020,2038.123779 C -1892.454712,1999.199341 -1769.470337,2005.410522 -1730.545898,2048.475830"
+              class="id_tectonics id_topography" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1935.520020,2038.123779 C -1793.828613,1832.334229 -1272.607178,1736.187012 -1066.817627,1877.878418"
+              class="id_tectonics id_volcanology" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1730.545898,2048.475830 C -1631.919800,1881.610596 -1233.682739,1779.252197 -1066.817627,1877.878418"
+              class="id_topography id_volcanology" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#fc61ff" r="19.315525" cx="686.26434"
+                class="id_3d_modeling" cy="118.66058" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="13.455759" cx="757.9523"
+                class="id_automation" cy="412.30408" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.15025" cx="241.81677"
+                class="id_closed_loop_systems" cy="-450.9067" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.0" cx="1435.483"
+                class="id_landforms" cy="588.18646" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="13.30551" cx="376.7895"
+                class="id_location" cy="564.46985" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="13.005009" cx="334.82404"
+                class="id_product_design" cy="561.19885" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.901503" cx="558.29376"
+                class="id_repair" cy="387.59787" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.751252" cx="40.45189"
+                class="id_rural_areas" cy="510.48505" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.300501" cx="671.52313"
+                class="id_tools" cy="-847.28467" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="673.33057"
+                class="id_foundries" cy="-135.02388" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="30.283806" cx="-635.83136"
+                class="id_production_engineering_computing" cy="446.4098"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.300501" cx="1338.2278"
+                class="id_feedback_control" cy="-405.98932" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="16.460768" cx="-386.2999"
+                class="id_global_positioning_system" cy="197.26035"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.300501" cx="-1005.84143"
+                class="id_terrain_mapping" cy="354.2246" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="1107.5131"
+                class="id_ball_milling" cy="-1239.4261" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.15025" cx="1139.4136"
+                class="id_milling" cy="-773.3692" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="11.2020035" cx="599.0094"
+                class="id_indoor_positioning_systems" cy="-150.61209"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.751252" cx="244.20328"
+                class="id_radar" cy="-1316.0775" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="11.502504" cx="-745.59064"
+                class="id_mechanical_engineering_computing" cy="63.10478"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="-402.20148"
+                class="id_stress-strain_curves" cy="-1076.8185" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="11.803005" cx="556.1533"
+                class="id_three_dimensional_printing" cy="-370.4278"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="11.2020035" cx="-35.386513"
+                class="id_three-dimensional_printing" cy="-592.04065"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="-1675.7809"
+                class="id_adhesive_bonding" cy="1902.1744" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="15.709516" cx="-674.5817"
+                class="id_assembling" cy="349.4323" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="29.682804" cx="-441.78262"
+                class="id_solid_modelling" cy="8.326073" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="11.803005" cx="-655.7781"
+                class="id_condition_monitoring" cy="546.40216" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="17.51252" cx="-870.29504"
+                class="id_maintenance_engineering" cy="482.12482"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="13.30551" cx="-687.5206"
+                class="id_path_planning" cy="-51.114033" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="-2254.8174"
+                class="id_materials_handling" cy="478.35208" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="1311.3528"
+                class="id_aging_of_materials" cy="2385.147" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.0" cx="1271.1957"
+                class="id_climate_models" cy="1077.3008" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="12.704508" cx="633.24316"
+                class="id_maintenance" cy="423.774" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="12.404007" cx="768.1454"
+                class="id_manufacture" cy="176.56448" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.300501" cx="1214.8843"
+                class="id_inertial_navigation_systems" cy="-7.2418976"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="11.953256" cx="-504.247"
+                class="id_location_based_services" cy="615.67865"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="2180.2693"
+                class="id_hydraulic_actuators" cy="836.991" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.751252" cx="-543.423"
+                class="id_robotic_assembly" cy="288.73636" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="1549.2715"
+                class="id_die_casting" cy="1684.9073" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.450751" cx="-1091.1334"
+                class="id_scada_systems" cy="500.64185" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="998.8417"
+                class="id_cutting" cy="362.6637" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.0" cx="458.79303"
+                class="id_earthquakes" cy="1410.6886" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.15025" cx="-84.694984"
+                class="id_just-in-time" cy="-1010.214" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.0" cx="625.9973"
+                class="id_lakes" cy="-810.67786" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.601002" cx="573.3029"
+                class="id_fabrication" cy="-489.42426" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="11.2020035" cx="-363.11218"
+                class="id_geophysics_computing" cy="634.3471" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="-2116.8843"
+                class="id_arc_welding" cy="1755.6334" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="-2228.7402"
+                class="id_welds" cy="1573.8167" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.751252" cx="-701.9635"
+                class="id_preventive_maintenance" cy="789.38605"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="11.502504" cx="122.7347"
+                class="id_factory_automation" cy="261.4078" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.300501" cx="106.24856"
+                class="id_intelligent_control" cy="882.81805" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.0" cx="-768.23535"
+                class="id_armored_vehicles" cy="1965.4277" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="11.051753" cx="-755.4147"
+                class="id_computerised_monitoring" cy="448.0327"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.300501" cx="-904.3916"
+                class="id_ground_penetrating_radar" cy="824.98804"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.15025" cx="-780.51385"
+                class="id_paper_industry" cy="710.1651" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="-1244.6062"
+                class="id_paper_making" cy="1045.8438" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="11.051753" cx="-828.7506"
+                class="id_production_facilities" cy="625.92444" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.300501" cx="-905.9207"
+                class="id_production_management" cy="855.7444" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.450751" cx="-680.7274"
+                class="id_automatic_optical_inspection" cy="6.6819"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="-830.94385"
+                class="id_mass_production" cy="1069.1514" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="-1115.305"
+                class="id_pipes" cy="578.27057" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.15025" cx="-484.82617"
+                class="id_product_customisation" cy="788.6945" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.300501" cx="-569.63855"
+                class="id_product_development" cy="649.8327" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.300501" cx="-835.6101"
+                class="id_virtual_manufacturing" cy="632.5946" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.450751" cx="632.3079"
+                class="id_assembly" cy="1350.6642" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.450751" cx="-864.5404"
+                class="id_prototypes" cy="440.5681" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.300501" cx="-1106.0802"
+                class="id_product_life_cycle_management" cy="1403.4049"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.901503" cx="-729.4909"
+                class="id_production_equipment" cy="451.91116" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="1415.6469"
+                class="id_automatic_testing" cy="2104.3687" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.300501" cx="-280.19376"
+                class="id_flexible_manufacturing_systems" cy="466.7055"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="-413.41772"
+                class="id_predictive_control" cy="638.95825" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.300501" cx="1061.4956"
+                class="id_production_control" cy="266.12592" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="14.207012" cx="-571.4432"
+                class="id_geographic_information_systems" cy="257.42438"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.450751" cx="-726.65234"
+                class="id_geophysical_image_processing" cy="23.683044"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="-1016.0011"
+                class="id_batch_processing" cy="552.04987" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="1458.6039"
+                class="id_belt_conveyors" cy="714.1626" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.15025" cx="-168.44452"
+                class="id_conveyors" cy="1196.1378" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.751252" cx="-395.55194"
+                class="id_industrial_plants" cy="764.3566" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.601002" cx="-666.757"
+                class="id_intelligent_manufacturing_systems" cy="328.30078"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.0" cx="-107.81696"
+                class="id_ionosphere" cy="2376.5242" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="-2257.1863"
+                class="id_bottling" cy="1455.8319" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.601002" cx="-529.6394"
+                class="id_manufacturing_processes" cy="579.10266"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="-405.86005"
+                class="id_microfabrication" cy="-2611.9033" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.450751" cx="743.03955"
+                class="id_material_interfaces" cy="1144.7278" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.0" cx="-1906.6056"
+                class="id_buried_object_detection" cy="1723.3175"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.0" cx="-1686.7319"
+                class="id_geophysical_techniques" cy="1607.6456"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.300501" cx="-837.8138"
+                class="id_radar_imaging" cy="520.57245" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="11.2020035" cx="-751.6882"
+                class="id_clothing" cy="-142.94795" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.450751" cx="-702.55963"
+                class="id_clothing_industry" cy="197.14514" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.601002" cx="-743.4137"
+                class="id_manufacturing_industries" cy="834.58466"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.450751" cx="888.2714"
+                class="id_rapid_prototyping" cy="-215.05037" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="-874.4623"
+                class="id_moulding" cy="2023.3345" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="11.652755" cx="-690.49194"
+                class="id_inertial_navigation" cy="-324.66653" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.15025" cx="-1001.927"
+                class="id_digital_elevation_models" cy="691.36017"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.15025" cx="-1201.3003"
+                class="id_machining" cy="636.35974" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="1333.4247"
+                class="id_milling_machines" cy="-573.68585" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.15025" cx="-1216.575"
+                class="id_numerical_control" cy="392.7183" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.0" cx="-260.36807"
+                class="id_radar_tracking" cy="-1257.6427" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.300501" cx="-400.96832"
+                class="id_spatiotemporal_phenomena" cy="-928.8293"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.300501" cx="1391.7908"
+                class="id_topology" cy="-210.94928" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.450751" cx="-1330.3807"
+                class="id_fabrics" cy="369.0812" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.15025" cx="-1052.6578"
+                class="id_environmental_monitoring" cy="452.25778"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="-1383.2225"
+                class="id_manufacturing_data_processing" cy="1834.3553"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.751252" cx="-539.1883"
+                class="id_manufacturing_systems" cy="432.10556" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="-2065.4307"
+                class="id_printing" cy="-1543.3684" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="817.34094"
+                class="id_compaction" cy="-729.72394" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="2041.782"
+                class="id_gluing" cy="20.033218" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.450751" cx="-489.31152"
+                class="id_geography" cy="1685.6755" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.300501" cx="403.1629"
+                class="id_geology" cy="1231.4165" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.601002" cx="-137.54182"
+                class="id_industrial_engineering" cy="1038.4211"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.300501" cx="-644.5705"
+                class="id_lathes" cy="750.4415" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.0" cx="-97.98922"
+                class="id_surface_topography" cy="2604.5876" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.15025" cx="-1066.8176"
+                class="id_volcanology" cy="1877.8784" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.450751" cx="1428.2445"
+                class="id_surveying" cy="702.24713" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.300501" cx="277.4348"
+                class="id_wire_pointing" cy="621.9164" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="-585.0093"
+                class="id_turning" cy="952.8962" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="-1570.1252"
+                class="id_welding" cy="1602.8701" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="705.51166"
+                class="id_computer_maintenance" cy="-510.24384" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="252.53938"
+                class="id_industrial_control" cy="966.5195" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="1537.5206"
+                class="id_concurrent_engineering" cy="2162.488" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="1616.8202"
+                class="id_design_for_manufacturability" cy="1994.6306"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.0" cx="491.69568"
+                class="id_earth_atmosphere" cy="1641.6051" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.0" cx="343.51535"
+                class="id_geomagnetism" cy="1531.7816" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="1538.926"
+                class="id_damage_detection" cy="1153.9204" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.15025" cx="-806.80695"
+                class="id_geomorphology" cy="1045.7568" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.15025" cx="-226.16022"
+                class="id_electronic_data_interchange" cy="881.26666"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="-2140.6357"
+                class="id_dies" cy="-803.97424" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="-2292.7463"
+                class="id_demulsification" cy="-1382.571" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.0" cx="-1935.52"
+                class="id_tectonics" cy="2038.1238" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.0" cx="-1730.5459"
+                class="id_topography" cy="2048.4758" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.0" cx="-1037.3213"
+                class="id_volcanoes" cy="1850.4854" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.0" cx="321.97794"
+                class="id_earth" cy="2520.5608" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="560.8856"
+                class="id_industrial_laboratories" cy="2644.3535"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="2034.5823"
+                class="id_plates" cy="-1806.7334" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="-2750.1187"
+                class="id_rayon_yarn" cy="737.07227" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="-2057.1482"
+                class="id_filling" cy="785.70953" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.0" cx="-1167.5189"
+                class="id_fountains" cy="2530.666" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="-2423.4988"
+                class="id_hot_rolling" cy="62.435997" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.0" cx="-1354.2563"
+                class="id_geomagnetic_navigation" cy="-786.9961"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.0" cx="-557.732"
+                class="id_geological_surveys" cy="1594.4828" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.0" cx="-692.07904"
+                class="id_geophysical_prospecting" cy="1924.0092"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.0" cx="-879.55096"
+                class="id_potable_water" cy="1567.2864" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="-1920.316"
+                class="id_grinding" cy="1134.8748" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="-2752.0474"
+                class="id_hosiery_manufacture" cy="-393.20477" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f57ff" r="10.0" cx="2447.4653"
+                class="id_tsunamis" cy="884.9183" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="1502.6733"
+                class="id_rubber" cy="1832.1473" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="2223.1206"
+                class="id_plant_layout" cy="554.3177" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="-2774.8186"
+                class="id_functional_materials" cy="-803.36426" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="-2268.4487"
+                class="id_reengineering" cy="2026.7949" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc61ff" r="10.0" cx="2921.899"
+                class="id_screen_printing" cy="-604.4429" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="46" x="686.26434" y="129.34825" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_3d_modeling">
+            3d modeling
+        </text>
+        <text font-size="32" x="757.9523" y="418.1244" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_automation">
+            automation
+        </text>
+        <text font-size="24" x="241.81677" y="-445.3481" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_closed_loop_systems">
+            closed loop systems
+        </text>
+        <text font-size="24" x="1435.483" y="592.6259" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_landforms">
+            landforms
+        </text>
+        <text font-size="32" x="376.7895" y="570.29016" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_location">
+            location
+        </text>
+        <text font-size="31" x="334.82404" y="568.3787" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_product_design">
+            product design
+        </text>
+        <text font-size="26" x="558.29376" y="393.54352" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_repair">
+            repair
+        </text>
+        <text font-size="26" x="40.45189" y="515.21405" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_rural_areas">
+            rural areas
+        </text>
+        <text font-size="25" x="671.52313" y="-842.73755" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_tools">
+            tools
+        </text>
+        <text font-size="24" x="673.33057" y="-130.58443" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_foundries">
+            foundries
+        </text>
+        <text font-size="73" x="-635.83136" y="463.31717" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_production_engineering_computing">
+            production engineering computing
+        </text>
+        <text font-size="25" x="1338.2278" y="-401.3649" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_feedback_control">
+            feedback control
+        </text>
+        <text font-size="40" x="-386.2999" y="206.52467" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_global_positioning_system">
+            global positioning system
+        </text>
+        <text font-size="25" x="-1005.84143" y="360.0148" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_terrain_mapping">
+            terrain mapping
+        </text>
+        <text font-size="24" x="1107.5131" y="-1233.8676" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ball_milling">
+            ball milling
+        </text>
+        <text font-size="24" x="1139.4136" y="-767.8106" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_milling">
+            milling
+        </text>
+        <text font-size="27" x="599.0094" y="-144.35867" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_indoor_positioning_systems">
+            indoor positioning systems
+        </text>
+        <text font-size="26" x="244.20328" y="-1311.3485" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_radar">
+            radar
+        </text>
+        <text font-size="28" x="-745.59064" y="69.589806" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mechanical_engineering_computing">
+            mechanical engineering computing
+        </text>
+        <text font-size="24" x="-402.20148" y="-1072.4532" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_stress-strain_curves">
+            stress-strain curves
+        </text>
+        <text font-size="28" x="556.1533" y="-363.94278" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_three_dimensional_printing">
+            three dimensional printing
+        </text>
+        <text font-size="27" x="-35.386513" y="-585.78723" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_three-dimensional_printing">
+            three-dimensional printing
+        </text>
+        <text font-size="24" x="-1675.7809" y="1907.733" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_adhesive_bonding">
+            adhesive bonding
+        </text>
+        <text font-size="38" x="-674.5817" y="358.23343" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_assembling">
+            assembling
+        </text>
+        <text font-size="71" x="-441.78262" y="24.770247" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_solid_modelling">
+            solid modelling
+        </text>
+        <text font-size="28" x="-655.7781" y="552.8872" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_condition_monitoring">
+            condition monitoring
+        </text>
+        <text font-size="42" x="-870.29504" y="491.85236" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_maintenance_engineering">
+            maintenance engineering
+        </text>
+        <text font-size="32" x="-687.5206" y="-43.702576" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_path_planning">
+            path planning
+        </text>
+        <text font-size="24" x="-2254.8174" y="483.91068" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_materials_handling">
+            materials handling
+        </text>
+        <text font-size="24" x="1311.3528" y="2390.7798" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_aging_of_materials">
+            aging of materials
+        </text>
+        <text font-size="24" x="1271.1957" y="1081.666" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_climate_models">
+            climate models
+        </text>
+        <text font-size="30" x="633.24316" y="429.23053" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_maintenance">
+            maintenance
+        </text>
+        <text font-size="30" x="768.1454" y="182.1138" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_manufacture">
+            manufacture
+        </text>
+        <text font-size="25" x="1214.8843" y="-1.4516959" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_inertial_navigation_systems">
+            inertial navigation systems
+        </text>
+        <text font-size="29" x="-504.247" y="620.9533" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_location_based_services">
+            location based services
+        </text>
+        <text font-size="24" x="2180.2693" y="842.5496" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hydraulic_actuators">
+            hydraulic actuators
+        </text>
+        <text font-size="26" x="-543.423" y="294.75818" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_robotic_assembly">
+            robotic assembly
+        </text>
+        <text font-size="24" x="1549.2715" y="1690.466" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_die_casting">
+            die casting
+        </text>
+        <text font-size="25" x="-1091.1334" y="506.43204" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_scada_systems">
+            scada systems
+        </text>
+        <text font-size="24" x="998.8417" y="368.2223" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_cutting">
+            cutting
+        </text>
+        <text font-size="24" x="458.79303" y="1416.1769" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_earthquakes">
+            earthquakes
+        </text>
+        <text font-size="24" x="-84.694984" y="-1004.6554" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_just-in-time">
+            just-in-time
+        </text>
+        <text font-size="24" x="625.9973" y="-806.3126" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_lakes">
+            lakes
+        </text>
+        <text font-size="25" x="573.3029" y="-484.79984" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fabrication">
+            fabrication
+        </text>
+        <text font-size="27" x="-363.11218" y="640.6005" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_geophysics_computing">
+            geophysics computing
+        </text>
+        <text font-size="24" x="-2116.8843" y="1761.192" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_arc_welding">
+            arc welding
+        </text>
+        <text font-size="24" x="-2228.7402" y="1578.1819" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_welds">
+            welds
+        </text>
+        <text font-size="26" x="-701.9635" y="795.33167" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_preventive_maintenance">
+            preventive maintenance
+        </text>
+        <text font-size="28" x="122.7347" y="267.97943" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_factory_automation">
+            factory automation
+        </text>
+        <text font-size="25" x="106.24856" y="888.6083" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_intelligent_control">
+            intelligent control
+        </text>
+        <text font-size="24" x="-768.23535" y="1969.793" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_armored_vehicles">
+            armored vehicles
+        </text>
+        <text font-size="27" x="-755.4147" y="454.28613" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_computerised_monitoring">
+            computerised monitoring
+        </text>
+        <text font-size="25" x="-904.3916" y="830.77826" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ground_penetrating_radar">
+            ground penetrating radar
+        </text>
+        <text font-size="24" x="-780.51385" y="715.7237" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_paper_industry">
+            paper industry
+        </text>
+        <text font-size="24" x="-1244.6062" y="1051.4023" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_paper_making">
+            paper making
+        </text>
+        <text font-size="27" x="-828.7506" y="632.18225" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_production_facilities">
+            production facilities
+        </text>
+        <text font-size="25" x="-905.9207" y="861.5346" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_production_management">
+            production management
+        </text>
+        <text font-size="25" x="-680.7274" y="12.39886" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_automatic_optical_inspection">
+            automatic optical inspection
+        </text>
+        <text font-size="24" x="-830.94385" y="1074.6396" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mass_production">
+            mass production
+        </text>
+        <text font-size="24" x="-1115.305" y="583.75885" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_pipes">
+            pipes
+        </text>
+        <text font-size="24" x="-484.82617" y="794.1828" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_product_customisation">
+            product customisation
+        </text>
+        <text font-size="25" x="-569.63855" y="655.5497" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_product_development">
+            product development
+        </text>
+        <text font-size="25" x="-835.6101" y="638.46216" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_virtual_manufacturing">
+            virtual manufacturing
+        </text>
+        <text font-size="25" x="632.3079" y="1356.4543" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_assembly">
+            assembly
+        </text>
+        <text font-size="25" x="-864.5404" y="446.2586" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_prototypes">
+            prototypes
+        </text>
+        <text font-size="25" x="-1106.0802" y="1409.2725" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_product_life_cycle_management">
+            product life cycle management
+        </text>
+        <text font-size="26" x="-729.4909" y="457.8568" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_production_equipment">
+            production equipment
+        </text>
+        <text font-size="24" x="1415.6469" y="2109.9272" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_automatic_testing">
+            automatic testing
+        </text>
+        <text font-size="25" x="-280.19376" y="472.573" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_flexible_manufacturing_systems">
+            flexible manufacturing systems
+        </text>
+        <text font-size="24" x="-413.41772" y="644.44653" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_predictive_control">
+            predictive control
+        </text>
+        <text font-size="25" x="1061.4956" y="271.84286" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_production_control">
+            production control
+        </text>
+        <text font-size="34" x="-571.4432" y="265.4042" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_geographic_information_systems">
+            geographic information systems
+        </text>
+        <text font-size="25" x="-726.65234" y="29.473246" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_geophysical_image_processing">
+            geophysical image processing
+        </text>
+        <text font-size="24" x="-1016.0011" y="557.60846" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_batch_processing">
+            batch processing
+        </text>
+        <text font-size="24" x="1458.6039" y="719.7212" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_belt_conveyors">
+            belt conveyors
+        </text>
+        <text font-size="24" x="-168.44452" y="1200.5831" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_conveyors">
+            conveyors
+        </text>
+        <text font-size="26" x="-395.55194" y="770.30225" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_industrial_plants">
+            industrial plants
+        </text>
+        <text font-size="25" x="-666.757" y="334.16827" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_intelligent_manufacturing_systems">
+            intelligent manufacturing systems
+        </text>
+        <text font-size="24" x="-107.81696" y="2382.0125" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ionosphere">
+            ionosphere
+        </text>
+        <text font-size="24" x="-2257.1863" y="1461.3905" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_bottling">
+            bottling
+        </text>
+        <text font-size="25" x="-529.6394" y="584.9702" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_manufacturing_processes">
+            manufacturing processes
+        </text>
+        <text font-size="24" x="-405.86005" y="-2607.4639" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_microfabrication">
+            microfabrication
+        </text>
+        <text font-size="25" x="743.03955" y="1149.3522" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_material_interfaces">
+            material interfaces
+        </text>
+        <text font-size="24" x="-1906.6056" y="1728.8761" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_buried_object_detection">
+            buried object detection
+        </text>
+        <text font-size="24" x="-1686.7319" y="1613.2042" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_geophysical_techniques">
+            geophysical techniques
+        </text>
+        <text font-size="25" x="-837.8138" y="526.3627" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_radar_imaging">
+            radar imaging
+        </text>
+        <text font-size="27" x="-751.6882" y="-136.69453" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_clothing">
+            clothing
+        </text>
+        <text font-size="25" x="-702.55963" y="202.93535" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_clothing_industry">
+            clothing industry
+        </text>
+        <text font-size="25" x="-743.4137" y="840.45215" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_manufacturing_industries">
+            manufacturing industries
+        </text>
+        <text font-size="25" x="888.2714" y="-209.26016" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_rapid_prototyping">
+            rapid prototyping
+        </text>
+        <text font-size="24" x="-874.4623" y="2028.8931" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_moulding">
+            moulding
+        </text>
+        <text font-size="28" x="-690.49194" y="-318.18152" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_inertial_navigation">
+            inertial navigation
+        </text>
+        <text font-size="24" x="-1001.927" y="696.91876" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_digital_elevation_models">
+            digital elevation models
+        </text>
+        <text font-size="24" x="-1201.3003" y="641.91833" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_machining">
+            machining
+        </text>
+        <text font-size="24" x="1333.4247" y="-568.12726" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_milling_machines">
+            milling machines
+        </text>
+        <text font-size="24" x="-1216.575" y="397.08353" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_numerical_control">
+            numerical control
+        </text>
+        <text font-size="24" x="-260.36807" y="-1252.0841" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_radar_tracking">
+            radar tracking
+        </text>
+        <text font-size="25" x="-400.96832" y="-923.1123" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_spatiotemporal_phenomena">
+            spatiotemporal phenomena
+        </text>
+        <text font-size="25" x="1391.7908" y="-205.15907" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_topology">
+            topology
+        </text>
+        <text font-size="25" x="-1330.3807" y="373.70563" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fabrics">
+            fabrics
+        </text>
+        <text font-size="24" x="-1052.6578" y="457.81638" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_environmental_monitoring">
+            environmental monitoring
+        </text>
+        <text font-size="24" x="-1383.2225" y="1839.9882" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_manufacturing_data_processing">
+            manufacturing data processing
+        </text>
+        <text font-size="26" x="-539.1883" y="438.20776" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_manufacturing_systems">
+            manufacturing systems
+        </text>
+        <text font-size="24" x="-2065.4307" y="-1537.8098" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_printing">
+            printing
+        </text>
+        <text font-size="24" x="817.34094" y="-724.23566" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_compaction">
+            compaction
+        </text>
+        <text font-size="24" x="2041.782" y="25.591812" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_gluing">
+            gluing
+        </text>
+        <text font-size="25" x="-489.31152" y="1691.4657" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_geography">
+            geography
+        </text>
+        <text font-size="25" x="403.1629" y="1237.2067" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_geology">
+            geology
+        </text>
+        <text font-size="25" x="-137.54182" y="1044.2113" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_industrial_engineering">
+            industrial engineering
+        </text>
+        <text font-size="25" x="-644.5705" y="754.98865" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_lathes">
+            lathes
+        </text>
+        <text font-size="24" x="-97.98922" y="2610.2205" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_surface_topography">
+            surface topography
+        </text>
+        <text font-size="24" x="-1066.8176" y="1883.437" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_volcanology">
+            volcanology
+        </text>
+        <text font-size="25" x="1428.2445" y="708.03735" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_surveying">
+            surveying
+        </text>
+        <text font-size="25" x="277.4348" y="627.7066" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_wire_pointing">
+            wire pointing
+        </text>
+        <text font-size="24" x="-585.0093" y="958.4548" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_turning">
+            turning
+        </text>
+        <text font-size="24" x="-1570.1252" y="1608.4287" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_welding">
+            welding
+        </text>
+        <text font-size="24" x="705.51166" y="-504.75555" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_computer_maintenance">
+            computer maintenance
+        </text>
+        <text font-size="24" x="252.53938" y="970.8847" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_industrial_control">
+            industrial control
+        </text>
+        <text font-size="24" x="1537.5206" y="2168.0466" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_concurrent_engineering">
+            concurrent engineering
+        </text>
+        <text font-size="24" x="1616.8202" y="2000.2634" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_design_for_manufacturability">
+            design for manufacturability
+        </text>
+        <text font-size="24" x="491.69568" y="1647.0934" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_earth_atmosphere">
+            earth atmosphere
+        </text>
+        <text font-size="24" x="343.51535" y="1537.3402" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_geomagnetism">
+            geomagnetism
+        </text>
+        <text font-size="24" x="1538.926" y="1159.479" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_damage_detection">
+            damage detection
+        </text>
+        <text font-size="24" x="-806.80695" y="1051.3154" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_geomorphology">
+            geomorphology
+        </text>
+        <text font-size="24" x="-226.16022" y="886.82526" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_electronic_data_interchange">
+            electronic data interchange
+        </text>
+        <text font-size="24" x="-2140.6357" y="-799.609" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dies">
+            dies
+        </text>
+        <text font-size="24" x="-2292.7463" y="-1378.1316" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_demulsification">
+            demulsification
+        </text>
+        <text font-size="24" x="-1935.52" y="2042.489" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_tectonics">
+            tectonics
+        </text>
+        <text font-size="24" x="-1730.5459" y="2054.0344" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_topography">
+            topography
+        </text>
+        <text font-size="24" x="-1037.3213" y="1854.8506" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_volcanoes">
+            volcanoes
+        </text>
+        <text font-size="24" x="321.97794" y="2524.926" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_earth">
+            earth
+        </text>
+        <text font-size="24" x="560.8856" y="2648.7188" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_industrial_laboratories">
+            industrial laboratories
+        </text>
+        <text font-size="24" x="2034.5823" y="-1801.2451" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_plates">
+            plates
+        </text>
+        <text font-size="24" x="-2750.1187" y="741.5176" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_rayon_yarn">
+            rayon yarn
+        </text>
+        <text font-size="24" x="-2057.1482" y="791.34235" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_filling">
+            filling
+        </text>
+        <text font-size="24" x="-1167.5189" y="2535.1055" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fountains">
+            fountains
+        </text>
+        <text font-size="24" x="-2423.4988" y="67.99459" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hot_rolling">
+            hot rolling
+        </text>
+        <text font-size="24" x="-1354.2563" y="-781.4375" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_geomagnetic_navigation">
+            geomagnetic navigation
+        </text>
+        <text font-size="24" x="-557.732" y="1600.0414" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_geological_surveys">
+            geological surveys
+        </text>
+        <text font-size="24" x="-692.07904" y="1929.5677" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_geophysical_prospecting">
+            geophysical prospecting
+        </text>
+        <text font-size="24" x="-879.55096" y="1572.7747" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_potable_water">
+            potable water
+        </text>
+        <text font-size="24" x="-1920.316" y="1140.4333" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_grinding">
+            grinding
+        </text>
+        <text font-size="24" x="-2752.0474" y="-387.57196" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hosiery_manufacture">
+            hosiery manufacture
+        </text>
+        <text font-size="24" x="2447.4653" y="889.2835" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_tsunamis">
+            tsunamis
+        </text>
+        <text font-size="24" x="1502.6733" y="1836.5126" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_rubber">
+            rubber
+        </text>
+        <text font-size="24" x="2223.1206" y="559.8763" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_plant_layout">
+            plant layout
+        </text>
+        <text font-size="24" x="-2774.8186" y="-798.9248" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_functional_materials">
+            functional materials
+        </text>
+        <text font-size="24" x="-2268.4487" y="2032.3535" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_reengineering">
+            reengineering
+        </text>
+        <text font-size="24" x="2921.899" y="-598.8843" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_screen_printing">
+            screen printing
+        </text>
+    </g>
+</svg>

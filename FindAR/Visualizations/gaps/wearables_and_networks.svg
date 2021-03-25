@@ -1,0 +1,1691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="4272.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1677.000000 -2783.000000 4272.000000 5140.000000" height="5140.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M 802.428955,-916.513123 C 878.971313,-863.295715 913.958618,-668.656067 860.741211,-592.113708"
+              class="id_antenna_phased_arrays id_bandwidth"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M 397.262146,-931.311584 C 517.226196,-744.843262 417.469727,-285.194611 231.001343,-165.230560"
+              class="id_backpropagation id_convolution"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 860.741211,-592.113708 C 784.341187,-275.413513 194.690842,85.036652 -122.009338,8.636612"
+              class="id_bandwidth id_cloud_computing" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 860.741211,-592.113708 C 1006.583374,-535.500122 1140.426392,-231.816513 1083.812744,-85.974335"
+              class="id_bandwidth id_data_transfer" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="7.5333333"
+              d="M 860.741211,-592.113708 C 901.045471,-474.917358 785.707397,-238.666428 668.511047,-198.362137"
+              class="id_bandwidth id_edge_computing" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 860.741211,-592.113708 C 972.748047,-474.832336 964.836182,-130.899994 847.554810,-18.893154"
+              class="id_bandwidth id_network_function_virtualization"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 860.741211,-592.113708 C 934.030151,-652.786926 1134.973389,-633.863342 1195.646606,-560.574402"
+              class="id_bandwidth id_network_layers" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 860.741211,-592.113708 C 947.092590,-580.717651 1059.525757,-434.096466 1048.129639,-347.745026"
+              class="id_bandwidth id_queueing_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M 860.741211,-592.113708 C 979.736938,-470.249603 975.434448,-108.959770 853.570313,10.035984"
+              class="id_bandwidth id_wireless_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 931.601501,-847.982117 C 950.127563,-534.449951 507.618561,-36.362503 194.086380,-17.836399"
+              class="id_bandwidth_allocation id_client_server_computer_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M 931.601501,-847.982117 C 892.203064,-465.936218 260.036560,48.035034 -122.009338,8.636612"
+              class="id_bandwidth_allocation id_cloud_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 931.601501,-847.982117 C 883.479309,-813.011414 758.839966,-832.738525 723.869263,-880.860718"
+              class="id_bandwidth_allocation id_telecommunication_network_routing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M 1074.585938,-411.189209 C 1035.936401,-287.408813 792.291443,-159.712570 668.511047,-198.362137"
+              class="id_base_stations id_edge_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -259.716766,-109.583397 C -206.449249,-78.538376 -173.115509,47.930420 -204.160522,101.197937"
+              class="id_bluetooth id_internet" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -259.716766,-109.583397 C -242.283386,-226.757446 -40.372261,-376.368469 76.801796,-358.935089"
+              class="id_bluetooth id_wireless_lan" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -259.716766,-109.583397 C -382.243591,-97.985298 -583.430969,-264.378387 -595.029053,-386.905212"
+              class="id_bluetooth id_wireless_mesh_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -259.716766,-109.583397 C -234.514740,-294.087311 80.044151,-533.040161 264.548065,-507.838135"
+              class="id_bluetooth id_wireless_sensor_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -414.949249,-718.413025 C -210.951340,-631.591064 -35.187393,-195.361298 -122.009338,8.636612"
+              class="id_body_area_networks id_cloud_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -414.949249,-718.413025 C -246.088821,-715.677856 3.099030,-458.284424 0.363846,-289.424011"
+              class="id_body_area_networks id_distributed_processing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -414.949249,-718.413025 C -137.886490,-636.114441 154.259796,-97.072495 71.961243,179.990250"
+              class="id_body_area_networks id_wearable_computers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -414.949249,-718.413025 C -307.224121,-884.897461 104.090240,-973.036438 270.574677,-865.311279"
+              class="id_body_area_networks id_wireless_channels"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -611.092651,-373.389465 C -436.130066,-447.289612 -62.835960,-295.695923 11.064182,-120.733337"
+              class="id_body_sensor_networks id_helmet_mounted_displays"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -611.092651,-373.389465 C -470.622864,-508.077515 -57.886230,-499.404846 76.801796,-358.935089"
+              class="id_body_sensor_networks id_wireless_lan"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1094.258423,417.110596 C 998.859009,230.968216 1134.973633,-191.344406 1321.115967,-286.743774"
+              class="id_botnet id_transmission_control_protocol"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1094.258423,417.110596 C 964.705933,383.833313 820.293030,139.588531 853.570313,10.035984"
+              class="id_botnet id_wireless_networks" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 190.676880,-707.080566 C 273.365112,-466.457397 36.462662,18.509720 -204.160522,101.197937"
+              class="id_broadband_networks id_internet"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -513.989197,875.636597 C -456.449341,529.258179 149.428055,96.000305 495.806488,153.540146"
+              class="id_cables id_network_architecture"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1145.226074,-236.081955 C 941.463379,13.820129 260.966278,83.029312 11.064182,-120.733337"
+              class="id_circuit_networks id_helmet_mounted_displays"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M 194.086380,-17.836399 C 136.161835,50.677345 -53.495594,66.561150 -122.009338,8.636612"
+              class="id_client_server_computer_systems id_cloud_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 194.086380,-17.836399 C 171.990540,-54.698223 194.139511,-143.134720 231.001343,-165.230560"
+              class="id_client_server_computer_systems id_convolution"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 194.086380,-17.836399 C 138.243866,85.619843 -100.704277,157.040436 -204.160522,101.197937"
+              class="id_client_server_computer_systems id_internet"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 194.086380,-17.836399 C 107.990295,75.093430 -160.548553,85.344048 -253.478378,-0.752037"
+              class="id_client_server_computer_systems id_internetworking"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 194.086380,-17.836399 C 210.987213,69.552734 105.254761,225.987640 17.865629,242.888489"
+              class="id_client_server_computer_systems id_service-oriented_architecture"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 194.086380,-17.836399 C 127.438110,-296.397827 445.307800,-814.212463 723.869263,-880.860718"
+              class="id_client_server_computer_systems id_telecommunication_network_routing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 194.086380,-17.836399 C 170.072845,-121.103653 288.953461,-312.024811 392.220703,-336.038330"
+              class="id_client_server_computer_systems id_wearable_technology"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="17.333334"
+              d="M -122.009338,8.636612 C -172.697815,-152.344025 -7.259575,-469.847687 153.721054,-520.536133"
+              class="id_cloud_computing id_computer_centres"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -122.009338,8.636612 C 58.366161,-161.015778 583.408081,-144.931122 753.060425,35.444378"
+              class="id_cloud_computing id_digital_storage"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M -122.009338,8.636612 C -4.074722,-70.776871 291.947418,-12.995171 371.360901,104.939445"
+              class="id_cloud_computing id_distributed_computer_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="10.8"
+              d="M -122.009338,8.636612 C -157.146820,-75.450150 -83.722916,-254.286530 0.363846,-289.424011"
+              class="id_cloud_computing id_distributed_processing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="10.8"
+              d="M -122.009338,8.636612 C -5.305023,-190.867203 469.007233,-315.066467 668.511047,-198.362137"
+              class="id_cloud_computing id_edge_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M -122.009338,8.636612 C -121.268631,-43.852081 -41.424511,-121.474045 11.064182,-120.733337"
+              class="id_cloud_computing id_helmet_mounted_displays"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="17.333334"
+              d="M -122.009338,8.636612 C -119.927307,43.579113 -169.218018,99.115906 -204.160522,101.197937"
+              class="id_cloud_computing id_internet" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -122.009338,8.636612 C -150.180878,33.052689 -229.062302,27.419498 -253.478378,-0.752037"
+              class="id_cloud_computing id_internetworking"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -122.009338,8.636612 C -86.009766,-270.287415 386.375671,-634.674133 665.299683,-598.674561"
+              class="id_cloud_computing id_ip_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -122.009338,8.636612 C -105.645142,-334.668396 433.858765,-825.079651 777.163757,-808.715454"
+              class="id_cloud_computing id_mobile_ad_hoc_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -122.009338,8.636612 C -197.655930,-211.419189 18.957901,-654.972778 239.013702,-730.619385"
+              class="id_cloud_computing id_network_servers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M -122.009338,8.636612 C -218.774994,-207.246719 -40.098480,-676.220215 175.784851,-772.985840"
+              class="id_cloud_computing id_queueing_theory"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -122.009338,8.636612 C 29.267853,-22.672379 303.147125,157.279877 334.456116,308.557068"
+              class="id_cloud_computing id_servers" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M -122.009338,8.636612 C -130.733063,-338.438599 376.794067,-872.136963 723.869263,-880.860718"
+              class="id_cloud_computing id_telecommunication_network_routing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -122.009338,8.636612 C -202.049881,-329.645569 185.312546,-957.129639 523.594727,-1037.170166"
+              class="id_cloud_computing id_telecommunication_network_topology"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M -122.009338,8.636612 C -48.944500,4.113220 67.437851,106.925415 71.961243,179.990250"
+              class="id_cloud_computing id_wearable_computers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -122.009338,8.636612 C -88.098320,-163.144379 220.439697,-369.949341 392.220703,-336.038330"
+              class="id_cloud_computing id_wearable_technology"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -122.009338,8.636612 C -0.022964,-254.287811 577.343262,-465.694824 840.267639,-343.708466"
+              class="id_cloud_computing id_wide_area_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -122.009338,8.636612 C -147.992798,-171.969818 83.941628,-481.854675 264.548065,-507.838135"
+              class="id_cloud_computing id_wireless_sensor_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1574.648438,-585.260071 C 1505.413330,-437.103729 1179.326172,-318.721954 1031.169922,-387.957062"
+              class="id_clouds id_heterogeneous_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1574.648438,-585.260071 C 1501.770996,-457.474396 1200.776489,-375.111969 1072.990845,-447.989349"
+              class="id_clouds id_mimo_systems" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1574.648438,-585.260071 C 1476.082520,-390.073608 1035.454102,-245.142639 840.267639,-343.708466"
+              class="id_clouds id_wide_area_networks" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M 153.721054,-520.536133 C 169.272034,-443.642273 77.257713,-304.974976 0.363846,-289.424011"
+              class="id_computer_centres id_distributed_processing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 153.721054,-520.536133 C 206.491547,-324.613007 -8.237381,48.427437 -204.160522,101.197937"
+              class="id_computer_centres id_internet" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 153.721054,-520.536133 C 107.643875,-575.438843 120.882141,-726.908691 175.784851,-772.985840"
+              class="id_computer_centres id_queueing_theory"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 153.721054,-520.536133 C 121.078056,-689.999451 326.308533,-993.158997 495.771881,-1025.802002"
+              class="id_computer_centres id_transport_protocols"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 153.721054,-520.536133 C 326.395905,-622.479919 738.323853,-516.383301 840.267639,-343.708466"
+              class="id_computer_centres id_wide_area_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M 157.735550,-1321.136230 C 369.823181,-964.290222 152.685547,-110.889702 -204.160522,101.197937"
+              class="id_computer_network_management id_internet"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 157.735550,-1321.136230 C 447.280151,-1363.334473 944.894470,-992.315063 987.092773,-702.770447"
+              class="id_computer_network_management id_packet_switching"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M 157.735550,-1321.136230 C 91.940620,-1187.949951 -206.531158,-1086.863037 -339.717407,-1152.657959"
+              class="id_computer_network_management id_software_defined_networking"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 515.267090,58.331039 C 379.954956,210.789948 -51.701614,236.510086 -204.160522,101.197937"
+              class="id_computer_networks id_internet"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 515.267090,58.331039 C 672.929382,-296.247131 1441.289917,-591.620972 1795.868164,-433.958771"
+              class="id_computer_networks id_network-on-chip"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 515.267090,58.331039 C 457.411896,-188.254410 740.507324,-644.915283 987.092773,-702.770447"
+              class="id_computer_networks id_packet_switching"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 515.267090,58.331039 C 499.859314,-87.076973 694.859619,-328.300690 840.267639,-343.708466"
+              class="id_computer_networks id_wide_area_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 515.267090,58.331039 C 281.600159,-77.458946 134.784683,-631.644348 270.574677,-865.311279"
+              class="id_computer_networks id_wireless_channels"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2181.139648,-1522.874756 C 2207.187500,-925.595093 1350.340088,9.396393 753.060425,35.444378"
+              class="id_contrast_media id_digital_storage"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2181.139648,-1522.874756 C 2055.700684,-1009.105103 1096.888062,-426.609009 583.118469,-552.047852"
+              class="id_contrast_media id_fog" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1518.864868,-501.362244 C 1409.394043,-270.691437 899.181824,-88.891388 668.511047,-198.362137"
+              class="id_convex_optimization id_edge_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1518.864868,-501.362244 C 1444.006958,-381.142212 1151.389893,-313.099121 1031.169922,-387.957062"
+              class="id_convex_optimization id_heterogeneous_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 231.001343,-165.230560 C 311.876984,-259.358826 574.382751,-279.237762 668.511047,-198.362137"
+              class="id_convolution id_edge_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 231.001343,-165.230560 C -123.437782,-303.246826 -448.072021,-1041.930054 -310.055756,-1396.369141"
+              class="id_convolution id_low-power_electronics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 231.001343,-165.230560 C 502.010773,-288.696655 1093.723999,-67.381653 1217.190063,203.627792"
+              class="id_convolution id_memory_architecture"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M 231.001343,-165.230560 C 347.716522,-154.437454 506.599609,36.824982 495.806488,153.540146"
+              class="id_convolution id_network_architecture"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 231.001343,-165.230560 C 229.083649,-231.635986 325.815277,-334.120636 392.220703,-336.038330"
+              class="id_convolution id_wearable_technology"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -334.927338,-632.946411 C -163.286407,-599.702087 44.308498,-292.374268 11.064182,-120.733337"
+              class="id_data_communication id_helmet_mounted_displays"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -334.927338,-632.946411 C -371.878906,-874.388794 -65.142601,-1291.979736 176.299805,-1328.931274"
+              class="id_data_communication id_ofdm_modulation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1083.812744,-85.974335 C 1041.946045,4.459877 843.494629,77.311096 753.060425,35.444378"
+              class="id_data_transfer id_digital_storage"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1083.812744,-85.974335 C 1024.322021,-131.191849 1002.912109,-288.254242 1048.129639,-347.745026"
+              class="id_data_transfer id_queueing_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1083.812744,-85.974335 C 1056.966309,-20.723782 918.820862,36.882408 853.570313,10.035984"
+              class="id_data_transfer id_wireless_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M 753.060425,35.444378 C 689.389282,5.592947 638.659607,-134.690948 668.511047,-198.362137"
+              class="id_digital_storage id_edge_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 753.060425,35.444378 C 601.573547,-48.065685 499.608429,-400.561005 583.118469,-552.047852"
+              class="id_digital_storage id_fog" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 753.060425,35.444378 C 573.425659,152.608078 128.227875,58.901459 11.064182,-120.733337"
+              class="id_digital_storage id_helmet_mounted_displays"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 753.060425,35.444378 C 724.002014,-104.857819 890.867737,-358.898682 1031.169922,-387.957062"
+              class="id_digital_storage id_heterogeneous_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 753.060425,35.444378 C 540.329712,-94.275604 415.813507,-607.951660 545.533508,-820.682434"
+              class="id_digital_storage id_next_generation_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M 753.060425,35.444378 C 645.749756,200.573395 237.090256,287.300903 71.961243,179.990250"
+              class="id_digital_storage id_wearable_computers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 867.206299,-1299.202271 C 898.575745,-1139.163696 705.572021,-852.051880 545.533508,-820.682434"
+              class="id_direct_broadcasting_by_satellite id_next_generation_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 867.206299,-1299.202271 C 847.599487,-1170.235352 624.738831,-1006.195190 495.771881,-1025.802002"
+              class="id_direct_broadcasting_by_satellite id_transport_protocols"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M 371.360901,104.939445 C 370.130615,-15.150902 548.420654,-197.131836 668.511047,-198.362137"
+              class="id_distributed_computer_systems id_edge_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 371.360901,104.939445 C 404.703491,153.043915 382.560608,275.214508 334.456116,308.557068"
+              class="id_distributed_computer_systems id_servers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 371.360901,104.939445 C 287.337311,12.571920 299.853180,-252.014740 392.220703,-336.038330"
+              class="id_distributed_computer_systems id_wearable_technology"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 0.363846,-289.424011 C 37.583359,-170.394745 -85.131256,63.978424 -204.160522,101.197937"
+              class="id_distributed_processing id_internet"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 0.363846,-289.424011 C -60.771446,-458.643616 101.355064,-804.176025 270.574677,-865.311279"
+              class="id_distributed_processing id_wireless_channels"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M 668.511047,-198.362137 C 580.695435,-252.020782 529.459839,-464.232178 583.118469,-552.047852"
+              class="id_edge_computing id_fog" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M 668.511047,-198.362137 C 759.528137,-408.574707 1211.372559,-587.367920 1421.585205,-496.350830"
+              class="id_edge_computing id_fog_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M 668.511047,-198.362137 C 703.123840,-308.812897 920.719116,-422.569855 1031.169922,-387.957062"
+              class="id_edge_computing id_heterogeneous_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 668.511047,-198.362137 C 553.888733,36.084213 30.285824,215.820251 -204.160522,101.197937"
+              class="id_edge_computing id_internet" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 668.511047,-198.362137 C 903.814575,-451.148346 1635.949219,-477.372314 1888.735474,-242.068771"
+              class="id_edge_computing id_internet_service_providers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 668.511047,-198.362137 C 808.938538,-20.257271 752.422363,457.541229 574.317505,597.968689"
+              class="id_edge_computing id_mobile_cloud_computing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="7.5333333"
+              d="M 668.511047,-198.362137 C 704.350586,-93.440765 600.727905,117.700592 495.806488,153.540146"
+              class="id_edge_computing id_network_architecture"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 668.511047,-198.362137 C 740.213623,-198.277100 847.639832,-90.595703 847.554810,-18.893154"
+              class="id_edge_computing id_network_function_virtualization"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 668.511047,-198.362137 C 768.115601,54.362808 538.434998,582.857117 285.710083,682.461670"
+              class="id_edge_computing id_network_performance"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 668.511047,-198.362137 C 519.451477,-298.230682 445.664978,-671.622864 545.533508,-820.682434"
+              class="id_edge_computing id_next_generation_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 668.511047,-198.362137 C 714.558167,-304.162415 942.329346,-393.792175 1048.129639,-347.745026"
+              class="id_edge_computing id_queueing_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 668.511047,-198.362137 C 855.109375,17.512272 811.195190,621.221436 595.320801,807.819702"
+              class="id_edge_computing id_telecommunication_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M 668.511047,-198.362137 C 747.202515,-193.694366 858.238098,-68.655495 853.570313,10.035984"
+              class="id_edge_computing id_wireless_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2584.272461,-1025.302246 C 2399.492920,-654.631470 1566.317383,-375.794769 1195.646606,-560.574402"
+              class="id_fiber_optic_networks id_network_layers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1578.763916,1654.532715 C -1614.510254,1068.945068 -789.748169,136.944183 -204.160522,101.197937"
+              class="id_file_servers id_internet" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 583.118469,-552.047852 C 761.951233,-708.601807 1265.031250,-675.183594 1421.585205,-496.350830"
+              class="id_fog id_fog_computing" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 583.118469,-552.047852 C 706.773682,-393.467834 654.386475,29.884943 495.806488,153.540146"
+              class="id_fog id_network_architecture" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 11.064182,-120.733337 C -168.654678,-477.361084 96.708649,-1281.880859 453.336395,-1461.599731"
+              class="id_helmet_mounted_displays id_high_speed_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 11.064182,-120.733337 C 12.405495,-33.302143 -116.729332,99.856628 -204.160522,101.197937"
+              class="id_helmet_mounted_displays id_internet"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 11.064182,-120.733337 C 122.231789,-345.880981 626.704712,-516.851013 851.852295,-405.683411"
+              class="id_helmet_mounted_displays id_multimedia_services"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 11.064182,-120.733337 C 226.632355,-15.023521 391.419922,466.893524 285.710083,682.461670"
+              class="id_helmet_mounted_displays id_network_performance"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 11.064182,-120.733337 C -197.528290,-395.420044 -98.386917,-1120.338745 176.299805,-1328.931274"
+              class="id_helmet_mounted_displays id_ofdm_modulation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="50.0"
+              d="M 11.064182,-120.733337 C 83.388313,-72.768036 119.926544,107.666122 71.961243,179.990250"
+              class="id_helmet_mounted_displays id_wearable_computers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 11.064182,-120.733337 C -117.889633,62.586014 -586.299316,144.134293 -769.618652,15.180473"
+              class="id_helmet_mounted_displays id_wearable_robots"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="17.333334"
+              d="M 11.064182,-120.733337 C 44.234486,-240.025650 272.928375,-369.208618 392.220703,-336.038330"
+              class="id_helmet_mounted_displays id_wearable_technology"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 11.064182,-120.733337 C -23.428650,-181.521210 16.013920,-324.442261 76.801796,-358.935089"
+              class="id_helmet_mounted_displays id_wireless_lan"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M 1031.169922,-387.957062 C 1027.527588,-408.327728 1052.620239,-444.347076 1072.990845,-447.989349"
+              class="id_heterogeneous_networks id_mimo_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1031.169922,-387.957062 C 1068.259644,-277.421265 958.090637,-55.982910 847.554810,-18.893154"
+              class="id_heterogeneous_networks id_network_function_virtualization"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1031.169922,-387.957062 C 847.497498,-377.374847 556.115662,-637.010010 545.533508,-820.682434"
+              class="id_heterogeneous_networks id_next_generation_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1031.169922,-387.957062 C 1001.839172,-340.926880 887.297852,-314.377747 840.267639,-343.708466"
+              class="id_heterogeneous_networks id_wide_area_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1031.169922,-387.957062 C 853.869385,-258.608917 393.896210,-330.537537 264.548065,-507.838135"
+              class="id_heterogeneous_networks id_wireless_sensor_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M -204.160522,101.197937 C -234.414093,90.671516 -264.004791,29.501528 -253.478378,-0.752037"
+              class="id_internet id_internetworking" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -204.160522,101.197937 C -170.242981,-212.668610 351.433167,-632.592102 665.299683,-598.674561"
+              class="id_internet id_ip_networks" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -204.160522,101.197937 C -248.532898,-75.211678 -50.477028,-406.384674 125.932587,-450.757050"
+              class="id_internet id_local_area_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -204.160522,101.197937 C -397.764679,-300.350739 -85.847839,-1193.080078 315.700836,-1386.684204"
+              class="id_internet id_multicast_communication"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -204.160522,101.197937 C -281.889130,-153.800385 -15.984619,-652.890747 239.013702,-730.619385"
+              class="id_internet id_network_servers" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -204.160522,101.197937 C -126.703537,-297.846375 588.048462,-780.227478 987.092773,-702.770447"
+              class="id_internet id_packet_switching" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -204.160522,101.197937 C -43.491081,-239.048706 707.883057,-508.414459 1048.129639,-347.745026"
+              class="id_internet id_queueing_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -204.160522,101.197937 C -54.965366,34.946442 268.204620,159.361908 334.456116,308.557068"
+              class="id_internet id_servers" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -204.160522,101.197937 C -131.417175,85.130814 1.798510,170.145157 17.865629,242.888489"
+              class="id_internet id_service-oriented_architecture"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M -204.160522,101.197937 C -482.043091,-122.461868 -563.377197,-874.775391 -339.717407,-1152.657959"
+              class="id_internet id_software_defined_networking"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -204.160522,101.197937 C -214.966293,-280.819763 341.851563,-870.054932 723.869263,-880.860718"
+              class="id_internet id_telecommunication_network_routing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -204.160522,101.197937 C -302.515320,-187.050964 -17.674225,-766.956421 270.574677,-865.311279"
+              class="id_internet id_wireless_channels"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M -204.160522,101.197937 C -239.994659,-47.021130 -71.417267,-323.100952 76.801796,-358.935089"
+              class="id_internet id_wireless_lan" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -204.160522,101.197937 C -379.954865,81.751007 -614.475952,-211.110870 -595.029053,-386.905212"
+              class="id_internet id_wireless_mesh_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -204.160522,101.197937 C -232.226028,-114.350998 48.999130,-479.772644 264.548065,-507.838135"
+              class="id_internet id_wireless_sensor_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -253.478378,-0.752037 C -259.058960,-138.444687 -60.890854,-353.354492 76.801796,-358.935089"
+              class="id_internetworking id_wireless_lan"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 665.299683,-598.674561 C 1024.090332,-651.808655 1641.977173,-193.323898 1695.111206,165.466690"
+              class="id_ip_networks id_network_interfaces"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 665.299683,-598.674561 C 545.968628,-650.194458 444.251953,-906.470947 495.771881,-1025.802002"
+              class="id_ip_networks id_transport_protocols"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 125.932587,-450.757050 C 135.867706,-608.662292 387.628235,-830.617554 545.533508,-820.682434"
+              class="id_local_area_networks id_next_generation_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1217.190063,203.627792 C 1062.895752,337.886963 630.065674,307.834412 495.806488,153.540146"
+              class="id_memory_architecture id_network_architecture"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 396.309662,-1592.928955 C 337.158447,-1357.669312 -104.457771,-1093.506714 -339.717407,-1152.657959"
+              class="id_millimetre_wave_propagation id_software_defined_networking"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 396.309662,-1592.928955 C 516.686218,-1422.258423 441.245239,-985.687866 270.574677,-865.311279"
+              class="id_millimetre_wave_propagation id_wireless_channels"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -209.685501,-1623.555420 C -506.395752,-1779.027710 -718.252808,-2457.301270 -562.780579,-2754.011719"
+              class="id_mimo_communication id_telecommunication_network_management"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -209.685501,-1623.555420 C 100.536057,-1427.928833 272.428406,-669.156677 76.801796,-358.935089"
+              class="id_mimo_communication id_wireless_lan"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1072.990845,-447.989349 C 1113.722900,-317.082886 978.461304,-59.625195 847.554810,-18.893154"
+              class="id_mimo_systems id_network_function_virtualization"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1072.990845,-447.989349 C 1002.725647,-426.175476 864.607117,-498.852448 842.793213,-569.117615"
+              class="id_mimo_systems id_orthogonal_frequency_division_multiplexing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1072.990845,-447.989349 C 1088.067383,-422.968262 1073.150757,-362.821655 1048.129639,-347.745026"
+              class="id_mimo_systems id_queueing_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1072.990845,-447.989349 C 998.380859,-122.187500 397.763092,254.600250 71.961243,179.990250"
+              class="id_mimo_systems id_wearable_computers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1072.990845,-447.989349 C 1021.970703,-382.050262 846.531738,-359.671875 780.592651,-410.692078"
+              class="id_mimo_systems id_wi-fi" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1072.990845,-447.989349 C 1047.302368,-380.588531 907.668457,-318.019989 840.267639,-343.708466"
+              class="id_mimo_systems id_wide_area_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1072.990845,-447.989349 C 891.563904,-230.940674 293.850464,-177.508118 76.801796,-358.935089"
+              class="id_mimo_systems id_wireless_lan" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1072.990845,-447.989349 C 899.332520,-298.270569 414.266876,-334.179810 264.548065,-507.838135"
+              class="id_mimo_systems id_wireless_sensor_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 574.317505,597.968689 C 505.592590,419.948853 669.534973,49.831753 847.554810,-18.893154"
+              class="id_mobile_cloud_computing id_network_function_virtualization"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 574.317505,597.968689 C 533.494629,672.588806 360.330170,723.284546 285.710083,682.461670"
+              class="id_mobile_cloud_computing id_network_performance"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 574.317505,597.968689 C 512.581543,424.531586 680.133179,71.771965 853.570313,10.035984"
+              class="id_mobile_cloud_computing id_wireless_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 315.700836,-1386.684204 C 410.950195,-1273.384399 383.874512,-960.560669 270.574677,-865.311279"
+              class="id_multicast_communication id_wireless_channels"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 315.700836,-1386.684204 C 473.470825,-1133.354614 330.131409,-516.705139 76.801796,-358.935089"
+              class="id_multicast_communication id_wireless_lan"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 851.852295,-405.683411 C 902.695435,-433.351196 1020.461792,-398.588165 1048.129639,-347.745026"
+              class="id_multimedia_services id_queueing_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 851.852295,-405.683411 C 773.854980,-299.828064 498.076050,-258.041016 392.220703,-336.038330"
+              class="id_multimedia_services id_wearable_technology"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 495.806488,153.540146 C 646.565247,264.493195 706.273865,657.060913 595.320801,807.819702"
+              class="id_network_architecture id_telecommunication_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 847.554810,-18.893154 C 875.456787,233.746750 538.349976,654.559631 285.710083,682.461670"
+              class="id_network_function_virtualization id_network_performance"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 847.554810,-18.893154 C 888.696899,-167.175507 1172.833618,-327.885864 1321.115967,-286.743774"
+              class="id_network_function_virtualization id_transmission_control_protocol"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M 847.554810,-18.893154 C 854.543762,-14.310427 858.153015,3.047056 853.570313,10.035984"
+              class="id_network_function_virtualization id_wireless_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 847.554810,-18.893154 C 633.164490,-0.080803 283.360413,-293.447784 264.548065,-507.838135"
+              class="id_network_function_virtualization id_wireless_sensor_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2056.826172,-170.655090 C 1819.668945,-4.333771 1214.450928,-110.587723 1048.129639,-347.745026"
+              class="id_network_management id_queueing_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2056.826172,-170.655090 C 1852.313232,106.134308 1130.359619,214.548950 853.570313,10.035984"
+              class="id_network_management id_wireless_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 285.710083,682.461670 C 264.796997,434.404510 605.513184,30.949074 853.570313,10.035984"
+              class="id_network_performance id_wireless_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1795.868164,-433.958771 C 1580.350708,-325.966003 1095.085571,-487.253052 987.092773,-702.770447"
+              class="id_network-on-chip id_packet_switching"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1795.868164,-433.958771 C 1622.798096,-224.788620 1049.437744,-170.638412 840.267639,-343.708466"
+              class="id_network-on-chip id_wide_area_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 545.533508,-820.682434 C 497.848206,-859.592224 484.684937,-989.484863 523.594727,-1037.170166"
+              class="id_next_generation_networks id_telecommunication_network_topology"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 545.533508,-820.682434 C 494.557251,-851.754028 464.700317,-974.825745 495.771881,-1025.802002"
+              class="id_next_generation_networks id_transport_protocols"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 176.299805,-1328.931274 C 287.385895,-1217.639160 287.076935,-884.071960 175.784851,-772.985840"
+              class="id_ofdm_modulation id_queueing_theory"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M 842.793213,-569.117615 C 862.038208,-524.992371 824.717896,-429.937073 780.592651,-410.692078"
+              class="id_orthogonal_frequency_division_multiplexing id_wi-fi"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 842.793213,-569.117615 C 731.631409,-373.882813 272.036591,-247.773300 76.801796,-358.935089"
+              class="id_orthogonal_frequency_division_multiplexing id_wireless_lan"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 987.092773,-702.770447 C 631.753235,-527.385864 -164.332886,-797.318359 -339.717407,-1152.657959"
+              class="id_packet_switching id_software_defined_networking"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 987.092773,-702.770447 C 1029.540161,-601.593018 941.445068,-386.155853 840.267639,-343.708466"
+              class="id_packet_switching id_wide_area_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -110.148796,-834.700928 C -214.402039,-1151.817749 104.893326,-1783.872681 422.010101,-1888.125977"
+              class="id_peer-to-peer_computing id_signalling_protocols"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1123.202637,-919.590027 C 1033.822144,-665.508728 518.629395,-418.457642 264.548065,-507.838135"
+              class="id_personal_area_networks id_wireless_sensor_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M 1048.129639,-347.745026 C 1080.773926,-237.276978 964.038391,-22.608349 853.570313,10.035984"
+              class="id_queueing_networks id_wireless_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 175.784851,-772.985840 C 189.219025,-887.546509 381.211243,-1039.236206 495.771881,-1025.802002"
+              class="id_queueing_theory id_transport_protocols"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -339.717407,-1152.657959 C -160.189636,-1217.247070 205.985596,-1044.839111 270.574677,-865.311279"
+              class="id_software_defined_networking id_wireless_channels"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 332.114410,904.813416 C 135.119125,811.879395 -20.972763,376.985535 71.961243,179.990250"
+              class="id_stresses id_wearable_computers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 723.869263,-880.860718 C 698.840881,-647.062073 310.600433,-333.906738 76.801796,-358.935089"
+              class="id_telecommunication_network_routing id_wireless_lan"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M 1321.115967,-286.743774 C 1286.962769,-133.878693 1006.435425,44.189167 853.570313,10.035984"
+              class="id_transmission_control_protocol id_wireless_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 495.771881,-1025.802002 C 466.456238,-1466.165527 1083.027710,-2170.684082 1523.391235,-2199.999756"
+              class="id_transport_protocols id_virtual_private_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 495.771881,-1025.802002 C 701.089722,-958.282471 907.787170,-549.026367 840.267639,-343.708466"
+              class="id_transport_protocols id_wide_area_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 495.771881,-1025.802002 C 482.830566,-948.664429 347.712280,-852.369995 270.574677,-865.311279"
+              class="id_transport_protocols id_wireless_channels"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M 495.771881,-1025.802002 C 545.351196,-808.634583 293.969208,-408.514465 76.801796,-358.935089"
+              class="id_transport_protocols id_wireless_lan"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 495.771881,-1025.802002 C 553.119873,-875.964478 414.385590,-565.186157 264.548065,-507.838135"
+              class="id_transport_protocols id_wireless_sensor_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 71.961243,179.990250 C 32.807426,12.732643 224.963104,-296.884521 392.220703,-336.038330"
+              class="id_wearable_computers id_wearable_technology"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="7.5333333"
+              d="M 780.592651,-410.692078 C 650.185852,-259.582489 227.911362,-228.528320 76.801796,-358.935089"
+              class="id_wi-fi id_wireless_lan" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 840.267639,-343.708466 C 692.297791,-261.390472 346.866058,-359.868286 264.548065,-507.838135"
+              class="id_wide_area_networks id_wireless_sensor_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.266667"
+              d="M 270.574677,-865.311279 C 333.095337,-725.281433 216.831604,-421.455750 76.801796,-358.935089"
+              class="id_wireless_channels id_wireless_lan"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -595.029053,-386.905212 C -447.300201,-583.007202 68.446045,-655.567017 264.548065,-507.838135"
+              class="id_wireless_mesh_networks id_wireless_sensor_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.15025" cx="996.0016"
+                class="id_broadcasting" cy="-537.122" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="13.005009" cx="753.0604"
+                class="id_digital_storage" cy="35.444378" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fb24ff" r="66.3439" cx="11.064182"
+                class="id_helmet_mounted_displays" cy="-120.73334"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.0" cx="572.0378"
+                class="id_linear_networks" cy="-360.90903" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.450751" cx="405.81854"
+                class="id_virtual_addresses" cy="562.10565" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fb24ff" r="24.87479" cx="71.96124"
+                class="id_wearable_computers" cy="179.99025" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="13.60601" cx="76.801796"
+                class="id_wireless_lan" cy="-358.9351" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="11.502504" cx="853.5703"
+                class="id_wireless_networks" cy="10.035984" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="27.429049" cx="-122.00934"
+                class="id_cloud_computing" cy="8.636612" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="11.2020035" cx="153.72105"
+                class="id_computer_centres" cy="-520.53613" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.15025" cx="315.70084"
+                class="id_multicast_communication" cy="-1386.6842"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.450751" cx="175.78485"
+                class="id_queueing_theory" cy="-772.98584" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="11.352254" cx="495.77188"
+                class="id_transport_protocols" cy="-1025.802" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.901503" cx="270.57468"
+                class="id_wireless_channels" cy="-865.3113" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.300501" cx="-110.148796"
+                class="id_peer-to-peer_computing" cy="-834.7009"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.0" cx="422.0101"
+                class="id_signalling_protocols" cy="-1888.126" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.15025" cx="931.6015"
+                class="id_bandwidth_allocation" cy="-847.9821" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="11.502504" cx="194.08638"
+                class="id_client_server_computer_systems" cy="-17.8364"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="12.103506" cx="0.36384583"
+                class="id_distributed_processing" cy="-289.424" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="24.87479" cx="-204.16052"
+                class="id_internet" cy="101.19794" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.300501" cx="125.93259"
+                class="id_local_area_networks" cy="-450.75705" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.15025" cx="396.30966"
+                class="id_millimetre_wave_propagation" cy="-1592.929"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.751252" cx="545.5335"
+                class="id_next_generation_networks" cy="-820.68243"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.0" cx="431.13724"
+                class="id_optical_fibre_networks" cy="-2040.4952"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.450751" cx="-339.7174"
+                class="id_software_defined_networking" cy="-1152.658"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.300501" cx="723.86926"
+                class="id_telecommunication_network_routing" cy="-880.8607"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.450751" cx="840.26764"
+                class="id_wide_area_networks" cy="-343.70847" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.15025" cx="802.42896"
+                class="id_antenna_phased_arrays" cy="-916.5131" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="12.2537565" cx="860.7412"
+                class="id_bandwidth" cy="-592.1137" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.300501" cx="1074.5859"
+                class="id_base_stations" cy="-411.1892" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.0" cx="1574.6484"
+                class="id_clouds" cy="-585.2601" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="16.310518" cx="668.51105"
+                class="id_edge_computing" cy="-198.36214" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.450751" cx="1031.1699"
+                class="id_heterogeneous_networks" cy="-387.95706"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.15025" cx="1888.7355"
+                class="id_internet_service_providers" cy="-242.06877"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.601002" cx="1072.9908"
+                class="id_mimo_systems" cy="-447.98935" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.300501" cx="851.8523"
+                class="id_multimedia_services" cy="-405.6834" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.601002" cx="847.5548"
+                class="id_network_function_virtualization" cy="-18.893154"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.601002" cx="1195.6466"
+                class="id_network_layers" cy="-560.5744" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.901503" cx="1048.1296"
+                class="id_queueing_networks" cy="-347.74503" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fb24ff" r="14.056761" cx="392.2207"
+                class="id_wearable_technology" cy="-336.03833" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="11.2020035" cx="264.54807"
+                class="id_wireless_sensor_networks" cy="-507.83813"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.300501" cx="157.73555"
+                class="id_computer_network_management" cy="-1321.1362"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="14.207012" cx="231.00134"
+                class="id_convolution" cy="-165.23056" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fb24ff" r="10.300501" cx="981.41626"
+                class="id_headphones" cy="-1384.8767" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.450751" cx="397.26215"
+                class="id_backpropagation" cy="-931.3116" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.300501" cx="-960.35785"
+                class="id_ad_hoc_networks" cy="-1231.8752" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.15025" cx="-209.6855"
+                class="id_mimo_communication" cy="-1623.5554" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.0" cx="-562.7806"
+                class="id_telecommunication_network_management" cy="-2754.0117"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.300501" cx="-867.18677"
+                class="id_database_management_systems" cy="288.32138"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fb24ff" r="10.15025" cx="735.5401"
+                class="id_wearable_sensors" cy="398.72263" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.300501" cx="1094.2584"
+                class="id_botnet" cy="417.1106" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="11.803005" cx="495.8065"
+                class="id_network_architecture" cy="153.54015" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fb24ff" r="10.15025" cx="332.1144"
+                class="id_stresses" cy="904.8134" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="11.352254" cx="-310.05576"
+                class="id_low-power_electronics" cy="-1396.3691"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.15025" cx="777.16376"
+                class="id_mobile_ad_hoc_networks" cy="-808.71545"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="11.352254" cx="-259.71677"
+                class="id_bluetooth" cy="-109.5834" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.450751" cx="780.59265"
+                class="id_wi-fi" cy="-410.69208" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.300501" cx="523.5947"
+                class="id_telecommunication_network_topology" cy="-1037.1702"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.15025" cx="334.45612"
+                class="id_servers" cy="308.55707" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.601002" cx="1083.8127"
+                class="id_data_transfer" cy="-85.974335" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.450751" cx="515.2671"
+                class="id_computer_networks" cy="58.33104" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.300501" cx="-513.9892"
+                class="id_cables" cy="875.6366" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.300501" cx="574.3175"
+                class="id_mobile_cloud_computing" cy="597.9687" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="11.352254" cx="583.11847"
+                class="id_fog" cy="-552.04785" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.300501" cx="-414.94925"
+                class="id_body_area_networks" cy="-718.413" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="11.803005" cx="371.3609"
+                class="id_distributed_computer_systems" cy="104.939445"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.0" cx="595.3208"
+                class="id_telecommunication_networks" cy="807.8197"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.300501" cx="-611.09265"
+                class="id_body_sensor_networks" cy="-373.38947" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fb24ff" r="10.300501" cx="-769.61865"
+                class="id_wearable_robots" cy="15.180473" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.0" cx="-595.02905"
+                class="id_wireless_mesh_networks" cy="-386.9052"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.300501" cx="1321.116"
+                class="id_transmission_control_protocol" cy="-286.74377"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.300501" cx="190.67688"
+                class="id_broadband_networks" cy="-707.08057" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.450751" cx="-253.47838"
+                class="id_internetworking" cy="-0.75203705" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.15025" cx="1145.2261"
+                class="id_circuit_networks" cy="-236.08195" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.450751" cx="665.2997"
+                class="id_ip_networks" cy="-598.67456" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.15025" cx="176.2998"
+                class="id_ofdm_modulation" cy="-1328.9313" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.0" cx="-388.75226"
+                class="id_combined_source-channel_coding" cy="-1829.4656"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.300501" cx="842.7932"
+                class="id_orthogonal_frequency_division_multiplexing"
+                cy="-569.1176" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.300501" cx="17.86563"
+                class="id_service-oriented_architecture" cy="242.88849"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.15025" cx="239.0137"
+                class="id_network_servers" cy="-730.6194" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.15025" cx="-687.87854"
+                class="id_infrared_devices" cy="344.12967" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.300501" cx="1421.5852"
+                class="id_fog_computing" cy="-496.35083" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.0" cx="-712.9885"
+                class="id_firewalls" cy="2346.2234" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fb24ff" r="10.15025" cx="252.91014"
+                class="id_cybernetics" cy="1451.0288" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.15025" cx="987.0928"
+                class="id_packet_switching" cy="-702.77045" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.0" cx="1795.8682"
+                class="id_network-on-chip" cy="-433.95877" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fb24ff" r="10.0" cx="-918.86914"
+                class="id_laplace_equations" cy="-1111.0568" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.0" cx="-1578.7639"
+                class="id_file_servers" cy="1654.5327" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.0" cx="2181.1396"
+                class="id_contrast_media" cy="-1522.8748" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.0" cx="1518.8649"
+                class="id_convex_optimization" cy="-501.36224" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.15025" cx="1217.1901"
+                class="id_memory_architecture" cy="203.62779" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.15025" cx="578.6515"
+                class="id_network_protocols" cy="979.49445" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.300501" cx="-334.92734"
+                class="id_data_communication" cy="-632.9464" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.15025" cx="285.71008"
+                class="id_network_performance" cy="682.4617" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.0" cx="1930.4346"
+                class="id_long_short-term_memory" cy="-69.81491"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.0" cx="867.2063"
+                class="id_direct_broadcasting_by_satellite" cy="-1299.2023"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.0" cx="1598.2417"
+                class="id_multicasting" cy="-783.8131" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.0" cx="2584.2725"
+                class="id_fiber_optic_networks" cy="-1025.3022" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.0" cx="-352.28793"
+                class="id_message_passing" cy="-1362.9277" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.0" cx="453.3364"
+                class="id_high_speed_networks" cy="-1461.5997" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.0" cx="-876.4381"
+                class="id_hypermedia" cy="-2282.4692" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.0" cx="1123.2026"
+                class="id_personal_area_networks" cy="-919.59" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.0" cx="-1666.094"
+                class="id_multilayers" cy="-984.6465" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.0" cx="627.46124"
+                class="id_multiprotocol_label_switching" cy="-2772.7075"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.0" cx="1695.1112"
+                class="id_network_interfaces" cy="165.46669" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.15025" cx="-1036.291"
+                class="id_least_mean_squares_methods" cy="-688.6354"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.0" cx="1523.3912"
+                class="id_virtual_private_networks" cy="-2199.9998"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f3cff" r="10.0" cx="2056.8262"
+                class="id_network_management" cy="-170.65509" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="996.0016" y="-531.5634" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_broadcasting">
+            broadcasting
+        </text>
+        <text font-size="31" x="753.0604" y="42.62423" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_digital_storage">
+            digital storage
+        </text>
+        <text font-size="159" x="11.064182" y="-83.90765" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_helmet_mounted_displays">
+            helmet mounted displays
+        </text>
+        <text font-size="24" x="572.0378" y="-356.5438" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_linear_networks">
+            linear networks
+        </text>
+        <text font-size="25" x="405.81854" y="566.6528" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_virtual_addresses">
+            virtual addresses
+        </text>
+        <text font-size="60" x="71.96124" y="193.71095" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_wearable_computers">
+            wearable computers
+        </text>
+        <text font-size="33" x="76.801796" y="-352.9329" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_wireless_lan">
+            wireless lan
+        </text>
+        <text font-size="28" x="853.5703" y="15.128757" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_wireless_networks">
+            wireless networks
+        </text>
+        <text font-size="66" x="-122.00934" y="23.922745" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_cloud_computing">
+            cloud computing
+        </text>
+        <text font-size="27" x="153.72105" y="-514.4695" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_computer_centres">
+            computer centres
+        </text>
+        <text font-size="24" x="315.70084" y="-1382.319" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_multicast_communication">
+            multicast communication
+        </text>
+        <text font-size="25" x="175.78485" y="-767.1956" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_queueing_theory">
+            queueing theory
+        </text>
+        <text font-size="27" x="495.77188" y="-1019.6277" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_transport_protocols">
+            transport protocols
+        </text>
+        <text font-size="26" x="270.57468" y="-860.5823" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_wireless_channels">
+            wireless channels
+        </text>
+        <text font-size="25" x="-110.148796" y="-828.9107" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_peer-to-peer_computing">
+            peer-to-peer computing
+        </text>
+        <text font-size="24" x="422.0101" y="-1882.5674" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_signalling_protocols">
+            signalling protocols
+        </text>
+        <text font-size="24" x="931.6015" y="-843.6169" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_bandwidth_allocation">
+            bandwidth allocation
+        </text>
+        <text font-size="28" x="194.08638" y="-11.351373" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_client_server_computer_systems">
+            client server computer systems
+        </text>
+        <text font-size="29" x="0.36384583" y="-282.70737" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_distributed_processing">
+            distributed processing
+        </text>
+        <text font-size="60" x="-204.16052" y="112.11102" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_internet">
+            internet
+        </text>
+        <text font-size="25" x="125.93259" y="-446.20993" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_local_area_networks">
+            local area networks
+        </text>
+        <text font-size="24" x="396.30966" y="-1587.3704" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_millimetre_wave_propagation">
+            millimetre wave propagation
+        </text>
+        <text font-size="26" x="545.5335" y="-814.66064" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_next_generation_networks">
+            next generation networks
+        </text>
+        <text font-size="24" x="431.13724" y="-2034.9327" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_optical_fibre_networks">
+            optical fibre networks
+        </text>
+        <text font-size="25" x="-339.7174" y="-1146.7905" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_software_defined_networking">
+            software defined networking
+        </text>
+        <text font-size="25" x="723.86926" y="-875.0705" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_telecommunication_network_routing">
+            telecommunication network routing
+        </text>
+        <text font-size="25" x="840.26764" y="-339.16135" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_wide_area_networks">
+            wide area networks
+        </text>
+        <text font-size="24" x="802.42896" y="-910.9545" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_antenna_phased_arrays">
+            antenna phased arrays
+        </text>
+        <text font-size="29" x="860.7412" y="-586.83905" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_bandwidth">
+            bandwidth
+        </text>
+        <text font-size="25" x="1074.5859" y="-406.6421" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_base_stations">
+            base stations
+        </text>
+        <text font-size="24" x="1574.6484" y="-580.89484" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_clouds">
+            clouds
+        </text>
+        <text font-size="39" x="668.51105" y="-189.32942" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_edge_computing">
+            edge computing
+        </text>
+        <text font-size="25" x="1031.1699" y="-382.16687" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_heterogeneous_networks">
+            heterogeneous networks
+        </text>
+        <text font-size="24" x="1888.7355" y="-236.58049" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_internet_service_providers">
+            internet service providers
+        </text>
+        <text font-size="25" x="1072.9908" y="-442.19916" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mimo_systems">
+            mimo systems
+        </text>
+        <text font-size="25" x="851.8523" y="-401.1363" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_multimedia_services">
+            multimedia services
+        </text>
+        <text font-size="25" x="847.5548" y="-14.2687235" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_network_function_virtualization">
+            network function virtualization
+        </text>
+        <text font-size="25" x="1195.6466" y="-554.7842" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_network_layers">
+            network layers
+        </text>
+        <text font-size="26" x="1048.1296" y="-341.7232" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_queueing_networks">
+            queueing networks
+        </text>
+        <text font-size="34" x="392.2207" y="-328.16367" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_wearable_technology">
+            wearable technology
+        </text>
+        <text font-size="27" x="264.54807" y="-502.92725" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_wireless_sensor_networks">
+            wireless sensor networks
+        </text>
+        <text font-size="25" x="157.73555" y="-1315.3461" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_computer_network_management">
+            computer network management
+        </text>
+        <text font-size="34" x="231.00134" y="-159.04648" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_convolution">
+            convolution
+        </text>
+        <text font-size="25" x="981.41626" y="-1379.1598" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_headphones">
+            headphones
+        </text>
+        <text font-size="25" x="397.26215" y="-925.52136" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_backpropagation">
+            backpropagation
+        </text>
+        <text font-size="25" x="-960.35785" y="-1227.3281" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ad_hoc_networks">
+            ad hoc networks
+        </text>
+        <text font-size="24" x="-209.6855" y="-1619.1902" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mimo_communication">
+            mimo communication
+        </text>
+        <text font-size="24" x="-562.7806" y="-2748.4531" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_telecommunication_network_management">
+            telecommunication network management
+        </text>
+        <text font-size="25" x="-867.18677" y="294.11157" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_database_management_systems">
+            database management systems
+        </text>
+        <text font-size="24" x="735.5401" y="403.08786" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_wearable_sensors">
+            wearable sensors
+        </text>
+        <text font-size="25" x="1094.2584" y="421.6577" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_botnet">
+            botnet
+        </text>
+        <text font-size="28" x="495.8065" y="158.63292" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_network_architecture">
+            network architecture
+        </text>
+        <text font-size="24" x="332.1144" y="909.08295" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_stresses">
+            stresses
+        </text>
+        <text font-size="27" x="-310.05576" y="-1390.1948" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_low-power_electronics">
+            low-power electronics
+        </text>
+        <text font-size="24" x="777.16376" y="-804.3502" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mobile_ad_hoc_networks">
+            mobile ad hoc networks
+        </text>
+        <text font-size="27" x="-259.71677" y="-104.67251" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_bluetooth">
+            bluetooth
+        </text>
+        <text font-size="25" x="780.59265" y="-406.1409" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_wi-fi">
+            wi-fi
+        </text>
+        <text font-size="25" x="523.5947" y="-1031.38" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_telecommunication_network_topology">
+            telecommunication network topology
+        </text>
+        <text font-size="24" x="334.45612" y="311.80902" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_servers">
+            servers
+        </text>
+        <text font-size="25" x="1083.8127" y="-81.34991" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_data_transfer">
+            data transfer
+        </text>
+        <text font-size="25" x="515.2671" y="64.048" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_computer_networks">
+            computer networks
+        </text>
+        <text font-size="25" x="-513.9892" y="880.1837" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_cables">
+            cables
+        </text>
+        <text font-size="25" x="574.3175" y="603.7589" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mobile_cloud_computing">
+            mobile cloud computing
+        </text>
+        <text font-size="27" x="583.11847" y="-545.71094" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fog">
+            fog
+        </text>
+        <text font-size="25" x="-414.94925" y="-712.6228" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_body_area_networks">
+            body area networks
+        </text>
+        <text font-size="28" x="371.3609" y="111.42447" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_distributed_computer_systems">
+            distributed computer systems
+        </text>
+        <text font-size="24" x="595.3208" y="812.18494" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_telecommunication_networks">
+            telecommunication networks
+        </text>
+        <text font-size="25" x="-611.09265" y="-367.59927" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_body_sensor_networks">
+            body sensor networks
+        </text>
+        <text font-size="25" x="-769.61865" y="19.727592" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_wearable_robots">
+            wearable robots
+        </text>
+        <text font-size="24" x="-595.02905" y="-382.53998" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_wireless_mesh_networks">
+            wireless mesh networks
+        </text>
+        <text font-size="25" x="1321.116" y="-281.02682" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_transmission_control_protocol">
+            transmission control protocol
+        </text>
+        <text font-size="25" x="190.67688" y="-702.53345" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_broadband_networks">
+            broadband networks
+        </text>
+        <text font-size="25" x="-253.47838" y="5.0381646" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_internetworking">
+            internetworking
+        </text>
+        <text font-size="24" x="1145.2261" y="-231.71672" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_circuit_networks">
+            circuit networks
+        </text>
+        <text font-size="25" x="665.2997" y="-592.9576" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ip_networks">
+            ip networks
+        </text>
+        <text font-size="24" x="176.2998" y="-1324.4918" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ofdm_modulation">
+            ofdm modulation
+        </text>
+        <text font-size="24" x="-388.75226" y="-1823.907" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_combined_source-channel_coding">
+            combined source-channel coding
+        </text>
+        <text font-size="25" x="842.7932" y="-563.2501" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_orthogonal_frequency_division_multiplexing">
+            orthogonal frequency division multiplexing
+        </text>
+        <text font-size="25" x="17.86563" y="247.43561" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_service-oriented_architecture">
+            service-oriented architecture
+        </text>
+        <text font-size="24" x="239.0137" y="-726.25415" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_network_servers">
+            network servers
+        </text>
+        <text font-size="24" x="-687.87854" y="348.56912" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_infrared_devices">
+            infrared devices
+        </text>
+        <text font-size="25" x="1421.5852" y="-490.4833" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fog_computing">
+            fog computing
+        </text>
+        <text font-size="24" x="-712.9885" y="2350.6628" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_firewalls">
+            firewalls
+        </text>
+        <text font-size="24" x="252.91014" y="1456.5874" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_cybernetics">
+            cybernetics
+        </text>
+        <text font-size="24" x="987.0928" y="-697.21185" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_packet_switching">
+            packet switching
+        </text>
+        <text font-size="24" x="1795.8682" y="-428.4705" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_network-on-chip">
+            network-on-chip
+        </text>
+        <text font-size="24" x="-918.86914" y="-1105.5685" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_laplace_equations">
+            laplace equations
+        </text>
+        <text font-size="24" x="-1578.7639" y="1658.9722" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_file_servers">
+            file servers
+        </text>
+        <text font-size="24" x="2181.1396" y="-1518.5095" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_contrast_media">
+            contrast media
+        </text>
+        <text font-size="24" x="1518.8649" y="-495.87396" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_convex_optimization">
+            convex optimization
+        </text>
+        <text font-size="24" x="1217.1901" y="209.18639" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_memory_architecture">
+            memory architecture
+        </text>
+        <text font-size="24" x="578.6515" y="984.9827" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_network_protocols">
+            network protocols
+        </text>
+        <text font-size="25" x="-334.92734" y="-628.3993" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_data_communication">
+            data communication
+        </text>
+        <text font-size="24" x="285.71008" y="688.0242" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_network_performance">
+            network performance
+        </text>
+        <text font-size="24" x="1930.4346" y="-64.25632" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_long_short-term_memory">
+            long short-term memory
+        </text>
+        <text font-size="24" x="867.2063" y="-1293.6437" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_direct_broadcasting_by_satellite">
+            direct broadcasting by satellite
+        </text>
+        <text font-size="24" x="1598.2417" y="-778.2545" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_multicasting">
+            multicasting
+        </text>
+        <text font-size="24" x="2584.2725" y="-1019.73975" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fiber_optic_networks">
+            fiber optic networks
+        </text>
+        <text font-size="24" x="-352.28793" y="-1357.3691" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_message_passing">
+            message passing
+        </text>
+        <text font-size="24" x="453.3364" y="-1456.0411" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_high_speed_networks">
+            high speed networks
+        </text>
+        <text font-size="24" x="-876.4381" y="-2276.9106" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hypermedia">
+            hypermedia
+        </text>
+        <text font-size="24" x="1123.2026" y="-914.10175" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_personal_area_networks">
+            personal area networks
+        </text>
+        <text font-size="24" x="-1666.094" y="-979.0879" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_multilayers">
+            multilayers
+        </text>
+        <text font-size="24" x="627.46124" y="-2767.149" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_multiprotocol_label_switching">
+            multiprotocol label switching
+        </text>
+        <text font-size="24" x="1695.1112" y="169.90614" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_network_interfaces">
+            network interfaces
+        </text>
+        <text font-size="24" x="-1036.291" y="-683.1471" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_least_mean_squares_methods">
+            least mean squares methods
+        </text>
+        <text font-size="24" x="1523.3912" y="-2194.5115" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_virtual_private_networks">
+            virtual private networks
+        </text>
+        <text font-size="24" x="2056.8262" y="-165.0965" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_network_management">
+            network management
+        </text>
+    </g>
+</svg>

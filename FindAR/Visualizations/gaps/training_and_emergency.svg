@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="3521.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-2259.000000 -750.000000 3521.000000 3478.000000" height="3478.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M -205.295898,831.472412 C -350.510529,866.330444 -620.619385,700.795471 -655.477417,555.580872"
+              class="id_computer_aided_instruction id_computer_based_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.295898,831.472412 C -332.137299,795.357239 -468.226624,550.922363 -432.111450,424.080994"
+              class="id_computer_aided_instruction id_disasters"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.295898,831.472412 C -380.562469,909.011902 -759.771484,762.421204 -837.310974,587.154663"
+              class="id_computer_aided_instruction id_industrial_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="50.0"
+              d="M -205.295898,831.472412 C -161.058502,621.983826 219.530396,374.107117 429.018951,418.344513"
+              class="id_computer_aided_instruction id_laboratories"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="6.4444447"
+              d="M -205.295898,831.472412 C -56.930298,1253.344849 -467.190460,2108.701660 -889.062805,2257.067383"
+              class="id_computer_aided_instruction id_teacher_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="6.4444447"
+              d="M -205.295898,831.472412 C -311.351959,953.461792 -653.420166,977.361816 -775.409546,871.305786"
+              class="id_computer_aided_instruction id_vocational_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="6.4444447"
+              d="M -655.477417,555.580872 C -678.415771,443.989136 -545.435669,242.193970 -433.843933,219.255600"
+              class="id_computer_based_training id_emergency_management"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -655.477417,555.580872 C -554.189026,294.762665 -11.029198,55.467926 249.789001,156.756287"
+              class="id_computer_based_training id_emergency_services"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="6.4444447"
+              d="M -655.477417,555.580872 C -488.162292,540.217773 -214.144989,768.145813 -198.781891,935.460938"
+              class="id_computer_based_training id_fires"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="39.11111"
+              d="M -655.477417,555.580872 C -685.529358,598.262329 -794.629517,617.206604 -837.310974,587.154663"
+              class="id_computer_based_training id_industrial_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -655.477417,555.580872 C -466.025391,311.234314 184.672394,228.892502 429.018951,418.344513"
+              class="id_computer_based_training id_laboratories"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -655.477417,555.580872 C -625.460938,1013.340393 -1267.075317,1745.004395 -1724.834961,1775.020996"
+              class="id_computer_based_training id_on-the-job_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -655.477417,555.580872 C -533.557556,583.175659 -392.070068,807.447510 -419.664856,929.367371"
+              class="id_computer_based_training id_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -655.477417,555.580872 C -616.318909,642.712280 -688.278137,832.147278 -775.409546,871.305786"
+              class="id_computer_based_training id_vocational_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="28.222221"
+              d="M -432.111450,424.080994 C -473.423035,383.462402 -474.462524,260.567169 -433.843933,219.255600"
+              class="id_disasters id_emergency_management"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="6.4444447"
+              d="M -432.111450,424.080994 C -349.196320,234.235977 59.943977,73.841141 249.789001,156.756287"
+              class="id_disasters id_emergency_services"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="11.888889"
+              d="M -432.111450,424.080994 C -487.877258,507.072693 -696.013489,547.911560 -779.005188,492.145752"
+              class="id_disasters id_floods" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="11.888889"
+              d="M -433.843933,219.255600 C -309.617218,70.029144 100.562546,32.529556 249.789001,156.756287"
+              class="id_emergency_management id_emergency_services"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="11.888889"
+              d="M -433.843933,219.255600 C -243.590439,315.484253 -102.553238,745.207458 -198.781891,935.460938"
+              class="id_emergency_management id_fires"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -433.843933,219.255600 C -448.298157,342.865875 -655.394958,506.599976 -779.005188,492.145752"
+              class="id_emergency_management id_floods"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 249.789001,156.756287 C 505.031128,11.460678 1105.837646,176.380478 1251.133301,431.622620"
+              class="id_emergency_services id_emergency_traffic_control"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="6.4444447"
+              d="M 249.789001,156.756287 C 315.815735,402.211365 46.673210,869.434204 -198.781891,935.460938"
+              class="id_emergency_services id_fires" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -116.606987,2277.874756 C -401.524719,2025.826904 -450.829651,1220.378662 -198.781891,935.460938"
+              class="id_fire_protection id_fires" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -837.310974,587.154663 C -768.100464,631.604553 -730.959656,802.095276 -775.409546,871.305786"
+              class="id_industrial_training id_vocational_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#fb2eff" r="89.18197" cx="-205.2959"
+                class="id_computer_aided_instruction" cy="831.4724"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fb2eff" r="23.97329" cx="-655.4774"
+                class="id_computer_based_training" cy="555.5809"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f2eff" r="11.652755" cx="-432.11145"
+                class="id_disasters" cy="424.081" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f2eff" r="10.0" cx="-116.60699"
+                class="id_fire_protection" cy="2277.8748" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f2eff" r="10.751252" cx="-198.78189"
+                class="id_fires" cy="935.46094" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f2eff" r="10.0" cx="636.06805"
+                class="id_ambulances" cy="2028.3583" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fb2eff" r="12.2537565" cx="429.01895"
+                class="id_laboratories" cy="418.3445" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fb2eff" r="10.300501" cx="-775.40955"
+                class="id_vocational_training" cy="871.3058" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f2eff" r="11.352254" cx="249.789"
+                class="id_emergency_services" cy="156.75629" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fb2eff" r="10.0" cx="-1955.3588"
+                class="id_apprentices" cy="1449.6929" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fb2eff" r="10.450751" cx="-419.66486"
+                class="id_training" cy="929.3674" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fb2eff" r="11.502504" cx="-837.311"
+                class="id_industrial_training" cy="587.15466" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f2eff" r="11.953256" cx="-433.84393"
+                class="id_emergency_management" cy="219.2556" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f2eff" r="10.0" cx="-813.2917"
+                class="id_police" cy="12.640907" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fb2eff" r="10.15025" cx="-889.0628"
+                class="id_teacher_training" cy="2257.0674" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f2eff" r="10.450751" cx="-779.0052"
+                class="id_floods" cy="492.14575" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fb2eff" r="10.0" cx="-1724.835"
+                class="id_on-the-job_training" cy="1775.021" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f2eff" r="10.0" cx="-878.69476"
+                class="id_flames" cy="-739.4678" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fb2eff" r="10.0" cx="27.052414"
+                class="id_technical_presentation" cy="2717.343" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f2eff" r="10.0" cx="1251.1333"
+                class="id_emergency_traffic_control" cy="431.62262"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f2eff" r="10.0" cx="-2248.2957"
+                class="id_emergency_vehicles" cy="1266.9852" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="214" x="-205.2959" y="880.4096" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_computer_aided_instruction">
+            computer aided instruction
+        </text>
+        <text font-size="58" x="-655.4774" y="569.01416" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_computer_based_training">
+            computer based training
+        </text>
+        <text font-size="28" x="-432.11145" y="429.17377" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_disasters">
+            disasters
+        </text>
+        <text font-size="24" x="-116.60699" y="2283.4373" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fire_protection">
+            fire protection
+        </text>
+        <text font-size="26" x="-198.78189" y="940.2703" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fires">
+            fires
+        </text>
+        <text font-size="24" x="636.06805" y="2032.7235" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ambulances">
+            ambulances
+        </text>
+        <text font-size="29" x="429.01895" y="423.61917" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_laboratories">
+            laboratories
+        </text>
+        <text font-size="25" x="-775.40955" y="877.096" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_vocational_training">
+            vocational training
+        </text>
+        <text font-size="27" x="249.789" y="163.0097" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_emergency_services">
+            emergency services
+        </text>
+        <text font-size="24" x="-1955.3588" y="1455.1812" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_apprentices">
+            apprentices
+        </text>
+        <text font-size="25" x="-419.66486" y="935.1576" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_training">
+            training
+        </text>
+        <text font-size="28" x="-837.311" y="593.6397" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_industrial_training">
+            industrial training
+        </text>
+        <text font-size="29" x="-433.84393" y="225.8566" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_emergency_management">
+            emergency management
+        </text>
+        <text font-size="24" x="-813.2917" y="18.129189" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_police">
+            police
+        </text>
+        <text font-size="24" x="-889.0628" y="2262.626" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_teacher_training">
+            teacher training
+        </text>
+        <text font-size="25" x="-779.0052" y="496.77017" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_floods">
+            floods
+        </text>
+        <text font-size="24" x="-1724.835" y="1780.5796" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_on-the-job_training">
+            on-the-job training
+        </text>
+        <text font-size="24" x="-878.69476" y="-735.0283" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_flames">
+            flames
+        </text>
+        <text font-size="24" x="27.052414" y="2722.8313" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_technical_presentation">
+            technical presentation
+        </text>
+        <text font-size="24" x="1251.1333" y="437.25543" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_emergency_traffic_control">
+            emergency traffic control
+        </text>
+        <text font-size="24" x="-2248.2957" y="1272.5438" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_emergency_vehicles">
+            emergency vehicles
+        </text>
+    </g>
+</svg>

@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="4405.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-2440.000000 -2528.000000 4405.000000 4668.000000" height="4668.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M -681.069397,51.253334 C -259.737061,-174.249084 710.515076,119.495758 936.017456,540.828125"
+              class="id_accelerometers id_magnetometers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="50.0"
+              d="M -681.069397,51.253334 C -756.039856,-56.729454 -706.521484,-331.159393 -598.538696,-406.129913"
+              class="id_accelerometers id_sensor_fusion"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="50.0"
+              d="M -752.566650,217.822235 C -600.094299,62.153946 -137.883469,57.360031 17.784828,209.832367"
+              class="id_ambient_intelligence id_internet_of_things"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -752.566650,217.822235 C -781.724976,290.202484 -934.032776,355.035370 -1006.413025,325.877045"
+              class="id_ambient_intelligence id_strain_gauges"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.522644,-388.291901 C -271.510651,-271.849487 -813.656250,-464.667847 -930.098633,-709.655884"
+              class="id_calibration id_microsensors" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.522644,-388.291901 C -565.210632,-409.026459 -1342.140747,-1248.160156 -1321.406128,-1786.848145"
+              class="id_calibration id_rotation_measurement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="50.0"
+              d="M -26.522644,-388.291901 C -144.493439,-277.456299 -487.703094,-288.159119 -598.538696,-406.129913"
+              class="id_calibration id_sensor_fusion" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.522644,-388.291901 C -527.291382,-339.425934 -1351.743408,-1017.280029 -1400.609375,-1518.048828"
+              class="id_calibration id_sensor_placement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2328.268799,-819.479004 C -1984.824463,-1013.124634 -1179.189209,-788.426270 -985.543640,-444.981781"
+              class="id_cooling id_spatial_variables_measurement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2328.268799,-819.479004 C -1966.770630,-860.486084 -1363.013062,-379.749634 -1322.005981,-18.251587"
+              class="id_cooling id_temperature_sensors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -616.832642,213.153168 C -573.590698,-29.392563 -144.909210,-328.348267 97.636520,-285.106323"
+              class="id_electric_potential id_signal_processing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1543.943359,-1860.793945 C -1460.521484,-1851.816162 -1348.855347,-1713.216797 -1357.833130,-1629.794922"
+              class="id_feedforward id_low-pass_filters"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1543.943359,-1860.793945 C -1552.158203,-1792.166504 -1667.421753,-1701.547729 -1736.049194,-1709.762573"
+              class="id_feedforward id_sigma-delta_modulation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -357.643097,-1511.737915 C -306.672302,-1476.694092 -282.781921,-1347.671997 -317.825836,-1296.701172"
+              class="id_flow_sensors id_magneto-optical_sensors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 599.609802,581.048157 C 409.001648,623.169983 59.906654,400.440521 17.784828,209.832367"
+              class="id_industry_4.0 id_internet_of_things"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -23.023193,105.303246 C -360.822235,171.126984 -966.256348,-236.836014 -1032.080078,-574.635071"
+              class="id_infrared_detectors id_led_lamps"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -23.023193,105.303246 C -240.412903,118.119713 -585.722229,-188.740204 -598.538696,-406.129913"
+              class="id_infrared_detectors id_sensor_fusion"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -23.023193,105.303246 C -325.584290,187.750320 -903.096558,-142.420685 -985.543640,-444.981781"
+              class="id_infrared_detectors id_spatial_variables_measurement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="50.0"
+              d="M -972.214355,-280.903717 C -676.067322,-380.756348 -82.067780,-86.314682 17.784828,209.832367"
+              class="id_intelligent_sensors id_internet_of_things"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -972.214355,-280.903717 C -1176.626709,-167.545792 -1653.281860,-304.127258 -1766.639771,-508.539520"
+              class="id_intelligent_sensors id_motion_measurement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -972.214355,-280.903717 C -1343.748169,-97.163361 -2176.659424,-378.853607 -2360.399902,-750.387451"
+              class="id_intelligent_sensors id_pressure_measurement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -972.214355,-280.903717 C -965.727295,-217.243866 -1051.486450,-112.023460 -1115.146362,-105.536407"
+              class="id_intelligent_sensors id_pressure_sensors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 17.784828,209.832367 C 267.630524,92.384995 818.570068,290.982422 936.017456,540.828125"
+              class="id_internet_of_things id_magnetometers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 17.784828,209.832367 C 348.980835,462.700256 466.472961,1338.796143 213.605072,1669.992188"
+              class="id_internet_of_things id_mechatronics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 17.784828,209.832367 C -271.875183,373.344849 -951.633850,184.123596 -1115.146362,-105.536407"
+              class="id_internet_of_things id_pressure_sensors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 17.784828,209.832367 C -228.672333,209.904633 -598.466431,-159.672760 -598.538696,-406.129913"
+              class="id_internet_of_things id_sensor_fusion"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="50.0"
+              d="M 17.784828,209.832367 C 156.299973,99.168846 530.067932,140.946259 640.731506,279.461395"
+              class="id_internet_of_things id_sensor_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 17.784828,209.832367 C 223.828949,174.245453 586.275513,429.931305 621.862427,635.975403"
+              class="id_internet_of_things id_sensor_nodes"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="50.0"
+              d="M 17.784828,209.832367 C 41.928535,211.596954 75.497223,250.459396 73.732635,274.603088"
+              class="id_internet_of_things id_sensors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 17.784828,209.832367 C -416.988373,218.582748 -1082.273804,-420.451477 -1091.024170,-855.224670"
+              class="id_internet_of_things id_signal_classification"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 17.784828,209.832367 C -65.232574,94.874290 -17.321556,-202.088928 97.636520,-285.106323"
+              class="id_internet_of_things id_signal_processing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 17.784828,209.832367 C -163.845810,437.880859 -778.364563,507.507690 -1006.413025,325.877045"
+              class="id_internet_of_things id_strain_gauges"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 17.784828,209.832367 C -295.790131,432.173737 -1099.664673,295.323364 -1322.005981,-18.251587"
+              class="id_internet_of_things id_temperature_sensors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1032.080078,-574.635071 C -911.670776,-627.642334 -651.545898,-526.539185 -598.538696,-406.129913"
+              class="id_led_lamps id_sensor_fusion" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1357.833130,-1629.794922 C -1449.469849,-1570.145264 -1676.399536,-1618.125854 -1736.049194,-1709.762573"
+              class="id_low-pass_filters id_sigma-delta_modulation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1635.320068,980.973328 C 1407.430420,1032.804810 987.848877,768.717712 936.017456,540.828125"
+              class="id_magnetization id_magnetometers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1635.320068,980.973328 C 1565.078125,993.374207 1441.113892,906.612732 1428.713013,836.370789"
+              class="id_magnetization id_permanent_magnets"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1635.320068,980.973328 C 1181.728516,1152.016724 244.776062,728.194580 73.732635,274.603088"
+              class="id_magnetization id_sensors" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 936.017456,540.828125 C 1093.665039,501.397522 1389.282471,678.723145 1428.713013,836.370789"
+              class="id_magnetometers id_permanent_magnets"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 936.017456,540.828125 C 710.315491,660.040100 192.944580,500.305054 73.732635,274.603088"
+              class="id_magnetometers id_sensors" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -930.098633,-709.655884 C -1223.798584,-846.832886 -1458.583130,-1493.148193 -1321.406128,-1786.848145"
+              class="id_microsensors id_rotation_measurement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="50.0"
+              d="M -930.098633,-709.655884 C -803.081421,-715.262695 -604.145508,-533.147095 -598.538696,-406.129913"
+              class="id_microsensors id_sensor_fusion"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -930.098633,-709.655884 C -1185.879395,-777.232300 -1468.185791,-1262.268066 -1400.609375,-1518.048828"
+              class="id_microsensors id_sensor_placement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1766.639771,-508.539520 C -1933.761475,-438.157104 -2290.017578,-583.265869 -2360.399902,-750.387451"
+              class="id_motion_measurement id_pressure_measurement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1766.639771,-508.539520 C -1555.740479,-558.237549 -1164.844482,-316.435699 -1115.146362,-105.536407"
+              class="id_motion_measurement id_pressure_sensors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1428.713013,836.370789 C 1045.363403,995.013306 232.375153,657.952698 73.732635,274.603088"
+              class="id_permanent_magnets id_sensors" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2360.399902,-750.387451 C -1982.378906,-870.467957 -1235.226807,-483.557343 -1115.146362,-105.536407"
+              class="id_pressure_measurement id_pressure_sensors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1115.146362,-105.536407 C -908.503784,-384.006958 -180.834045,-491.748901 97.636520,-285.106323"
+              class="id_pressure_sensors id_signal_processing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1115.146362,-105.536407 C -1139.061401,-46.707520 -1263.177124,5.663376 -1322.005981,-18.251587"
+              class="id_pressure_sensors id_temperature_sensors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 330.924713,-1085.144287 C 444.274689,-878.479065 304.301758,-398.456299 97.636520,-285.106323"
+              class="id_radar_measurement id_signal_processing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2429.658203,429.815491 C -2396.662842,436.351013 -2356.973389,495.647278 -2363.508789,528.642578"
+              class="id_remote_sensing_by_radar id_synthetic_aperture_radar"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1321.406128,-1786.848145 C -900.688965,-1655.277954 -466.968506,-826.847046 -598.538696,-406.129913"
+              class="id_rotation_measurement id_sensor_fusion"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1321.406128,-1786.848145 C -1283.486938,-1717.247559 -1331.008789,-1555.968018 -1400.609375,-1518.048828"
+              class="id_rotation_measurement id_sensor_placement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -598.538696,-406.129913 C -981.336609,-468.099548 -1462.578979,-1135.250854 -1400.609375,-1518.048828"
+              class="id_sensor_fusion id_sensor_placement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -598.538696,-406.129913 C -586.579468,-262.755798 -783.701904,-29.755806 -927.076050,-17.796616"
+              class="id_sensor_fusion id_strain_sensors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 621.862427,635.975403 C 439.961975,673.326904 111.084122,456.503510 73.732635,274.603088"
+              class="id_sensor_nodes id_sensors" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 73.732635,274.603088 C 53.706024,93.030212 296.025421,-209.369019 477.598297,-229.395630"
+              class="id_sensors id_smoke" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 97.636520,-285.106323 C -132.921036,52.193115 -984.706543,212.305969 -1322.005981,-18.251587"
+              class="id_signal_processing id_temperature_sensors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -985.543640,-444.981781 C -813.324036,-670.996948 -215.971863,-751.690186 10.043278,-579.470581"
+              class="id_spatial_variables_measurement id_time_measurement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -322.099243,-1203.597778 C -301.197754,-1224.499268 -301.197754,-1182.696289 -322.099243,-1203.597778"
+              class="id_thermography" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#3e1fff" r="31.48581" cx="17.784828"
+                class="id_internet_of_things" cy="209.83237" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3e1fff" r="10.0" cx="1466.1202"
+                class="id_cognitive_radio" cy="-491.07474" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="260.7442"
+                class="id_acceleration_measurement" cy="1652.7361"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.901503" cx="-681.0694"
+                class="id_accelerometers" cy="51.253334" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.300501" cx="936.01746"
+                class="id_magnetometers" cy="540.8281" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="13.75626" cx="-598.5387"
+                class="id_sensor_fusion" cy="-406.1299" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.15025" cx="10.043278"
+                class="id_time_measurement" cy="-579.4706" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="19.465776" cx="-26.522644"
+                class="id_calibration" cy="-388.2919" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.450751" cx="-498.36157"
+                class="id_source_separation" cy="-1446.1205" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="-2132.6194"
+                class="id_vibration_measurement" cy="-1278.2023"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.15025" cx="-820.3772"
+                class="id_ultrasonic_measurement" cy="-722.0487"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3e1fff" r="11.953256" cx="599.6098"
+                class="id_industry_4.0" cy="581.04816" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.751252" cx="-32.69741"
+                class="id_spatial_light_modulators" cy="-1266.4202"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="11.502504" cx="43.28026"
+                class="id_remote_sensing" cy="168.04803" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="12.854757" cx="73.732635"
+                class="id_sensors" cy="274.6031" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.300501" cx="722.00616"
+                class="id_signal_detection" cy="410.01868" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3e1fff" r="10.300501" cx="-752.56665"
+                class="id_ambient_intelligence" cy="217.82224" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.15025" cx="-1006.413"
+                class="id_strain_gauges" cy="325.87704" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="-1543.9434"
+                class="id_feedforward" cy="-1860.794" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="-1357.8331"
+                class="id_low-pass_filters" cy="-1629.7949" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="-1736.0492"
+                class="id_sigma-delta_modulation" cy="-1709.7626"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.450751" cx="-558.2212"
+                class="id_ultrasonic_applications" cy="-967.08514"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="1635.3201"
+                class="id_magnetization" cy="980.9733" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="1428.713"
+                class="id_permanent_magnets" cy="836.3708" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.15025" cx="330.9247"
+                class="id_radar_measurement" cy="-1085.1443" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="11.502504" cx="97.63652"
+                class="id_signal_processing" cy="-285.10632" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.450751" cx="223.28525"
+                class="id_ultrasonics" cy="-935.3593" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3e1fff" r="10.0" cx="1238.6528"
+                class="id_incandescent_lamps" cy="-652.6566" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="11.051753" cx="640.7315"
+                class="id_sensor_networks" cy="279.4614" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="-239.12106"
+                class="id_artificial_satellites" cy="198.0663" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.450751" cx="-322.09924"
+                class="id_thermography" cy="-1203.5978" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.601002" cx="-750.6836"
+                class="id_radiofrequency_identification" cy="-14.0727215"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.300501" cx="1239.5255"
+                class="id_probes" cy="-68.38168" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.300501" cx="-1330.3185"
+                class="id_force_sensors" cy="-540.62366" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="-927.07605"
+                class="id_strain_sensors" cy="-17.796616" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="-1944.512"
+                class="id_signal_reconstruction" cy="-30.509464"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.300501" cx="-1115.1464"
+                class="id_pressure_sensors" cy="-105.53641" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="477.5983"
+                class="id_smoke" cy="-229.39563" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="-1861.3846"
+                class="id_velocity_measurement" cy="-1661.405" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.450751" cx="-23.023193"
+                class="id_infrared_detectors" cy="105.303246" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3e1fff" r="10.0" cx="-1032.0801"
+                class="id_led_lamps" cy="-574.6351" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.300501" cx="-871.9503"
+                class="id_capacitive_sensors" cy="-377.49414" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.15025" cx="-1091.0242"
+                class="id_signal_classification" cy="-855.2247" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.300501" cx="-972.21436"
+                class="id_intelligent_sensors" cy="-280.90372" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.15025" cx="-930.09863"
+                class="id_microsensors" cy="-709.6559" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="-1321.4061"
+                class="id_rotation_measurement" cy="-1786.8481" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="-1400.6094"
+                class="id_sensor_placement" cy="-1518.0488" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.15025" cx="-2328.2688"
+                class="id_cooling" cy="-819.479" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="-357.6431"
+                class="id_flow_sensors" cy="-1511.7379" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="-317.82584"
+                class="id_magneto-optical_sensors" cy="-1296.7012"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.450751" cx="-985.54364"
+                class="id_spatial_variables_measurement" cy="-444.98178"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.300501" cx="160.43523"
+                class="id_fading_channels" cy="-1448.5447" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.15025" cx="-1766.6398"
+                class="id_motion_measurement" cy="-508.53952" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="-2360.4"
+                class="id_pressure_measurement" cy="-750.38745" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.15025" cx="-1322.006"
+                class="id_temperature_sensors" cy="-18.251587" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="-1836.4069"
+                class="id_near_infrared_spectroscopy" cy="1520.7732"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="76.34986"
+                class="id_magnetic_variables_measurement" cy="2129.7107"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="77.34477"
+                class="id_smart_sensors" cy="782.7282" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="1954.189"
+                class="id_reverse_engineering" cy="-2050.4573" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="56.800697"
+                class="id_motion_sensors" cy="1036.9639" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.300501" cx="621.8624"
+                class="id_sensor_nodes" cy="635.9754" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="672.6472"
+                class="id_signal_distortion" cy="-966.825" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="1690.3292"
+                class="id_nonlinear_systems" cy="-1615.1229" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="1599.8789"
+                class="id_hysteresis" cy="-2224.1125" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="-616.83264"
+                class="id_electric_potential" cy="213.15317" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3e1fff" r="10.300501" cx="213.60507"
+                class="id_mechatronics" cy="1669.9922" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="-1072.9902"
+                class="id_kinetics" cy="-2354.069" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="-2429.6582"
+                class="id_remote_sensing_by_radar" cy="429.8155"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="-2363.5088"
+                class="id_synthetic_aperture_radar" cy="528.6426"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="-1608.7047"
+                class="id_impulse_response" cy="-1772.7311" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="-1268.5107"
+                class="id_millimetre_wave_radar" cy="405.6791" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="1015.0028"
+                class="id_ultrasonic_arrays" cy="-988.3233" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.300501" cx="922.0125"
+                class="id_sensory_feedback" cy="-588.53107" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="1884.1416"
+                class="id_spectrographs" cy="501.1654" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="-1804.3005"
+                class="id_phase_shift_keying" cy="-1648.0696" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="1378.3976"
+                class="id_radar_clutter" cy="967.7495" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="673.7399"
+                class="id_signaling" cy="-2517.9104" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#f52eff" r="10.0" cx="-220.32942"
+                class="id_photosensitivity" cy="-1963.5153" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="76" x="17.784828" y="227.66962" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_internet_of_things">
+            internet of things
+        </text>
+        <text font-size="24" x="1466.1202" y="-485.51614" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_cognitive_radio">
+            cognitive radio
+        </text>
+        <text font-size="24" x="260.7442" y="1657.1013" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_acceleration_measurement">
+            acceleration measurement
+        </text>
+        <text font-size="26" x="-681.0694" y="55.982338" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_accelerometers">
+            accelerometers
+        </text>
+        <text font-size="25" x="936.01746" y="546.5187" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_magnetometers">
+            magnetometers
+        </text>
+        <text font-size="33" x="-598.5387" y="-400.02567" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sensor_fusion">
+            sensor fusion
+        </text>
+        <text font-size="24" x="10.043278" y="-575.10535" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_time_measurement">
+            time measurement
+        </text>
+        <text font-size="47" x="-26.522644" y="-379.74332" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_calibration">
+            calibration
+        </text>
+        <text font-size="25" x="-498.36157" y="-1440.4036" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_source_separation">
+            source separation
+        </text>
+        <text font-size="24" x="-2132.6194" y="-1273.837" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_vibration_measurement">
+            vibration measurement
+        </text>
+        <text font-size="24" x="-820.3772" y="-717.6835" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ultrasonic_measurement">
+            ultrasonic measurement
+        </text>
+        <text font-size="29" x="599.6098" y="587.786" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_industry_4.0">
+            industry 4.0
+        </text>
+        <text font-size="26" x="-32.69741" y="-1260.3983" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_spatial_light_modulators">
+            spatial light modulators
+        </text>
+        <text font-size="28" x="43.28026" y="174.53307" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_remote_sensing">
+            remote sensing
+        </text>
+        <text font-size="31" x="73.732635" y="278.80353" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sensors">
+            sensors
+        </text>
+        <text font-size="25" x="722.00616" y="415.80887" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_signal_detection">
+            signal detection
+        </text>
+        <text font-size="25" x="-752.56665" y="223.61244" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ambient_intelligence">
+            ambient intelligence
+        </text>
+        <text font-size="24" x="-1006.413" y="331.43564" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_strain_gauges">
+            strain gauges
+        </text>
+        <text font-size="24" x="-1543.9434" y="-1856.3545" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_feedforward">
+            feedforward
+        </text>
+        <text font-size="24" x="-1357.8331" y="-1624.2324" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_low-pass_filters">
+            low-pass filters
+        </text>
+        <text font-size="24" x="-1736.0492" y="-1704.204" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sigma-delta_modulation">
+            sigma-delta modulation
+        </text>
+        <text font-size="25" x="-558.2212" y="-961.36816" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ultrasonic_applications">
+            ultrasonic applications
+        </text>
+        <text font-size="24" x="1635.3201" y="986.5319" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_magnetization">
+            magnetization
+        </text>
+        <text font-size="24" x="1428.713" y="841.8337" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_permanent_magnets">
+            permanent magnets
+        </text>
+        <text font-size="24" x="330.9247" y="-1080.779" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_radar_measurement">
+            radar measurement
+        </text>
+        <text font-size="28" x="97.63652" y="-278.6213" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_signal_processing">
+            signal processing
+        </text>
+        <text font-size="25" x="223.28525" y="-930.8122" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ultrasonics">
+            ultrasonics
+        </text>
+        <text font-size="24" x="1238.6528" y="-647.16833" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_incandescent_lamps">
+            incandescent lamps
+        </text>
+        <text font-size="27" x="640.7315" y="284.37228" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sensor_networks">
+            sensor networks
+        </text>
+        <text font-size="24" x="-239.12106" y="202.50575" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_artificial_satellites">
+            artificial satellites
+        </text>
+        <text font-size="25" x="-322.09924" y="-1197.8076" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_thermography">
+            thermography
+        </text>
+        <text font-size="25" x="-750.6836" y="-8.205209" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_radiofrequency_identification">
+            radiofrequency identification
+        </text>
+        <text font-size="25" x="1239.5255" y="-62.664722" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_probes">
+            probes
+        </text>
+        <text font-size="25" x="-1330.3185" y="-535.9992" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_force_sensors">
+            force sensors
+        </text>
+        <text font-size="24" x="-927.07605" y="-13.431381" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_strain_sensors">
+            strain sensors
+        </text>
+        <text font-size="24" x="-1944.512" y="-24.95087" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_signal_reconstruction">
+            signal reconstruction
+        </text>
+        <text font-size="25" x="-1115.1464" y="-100.97912" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_pressure_sensors">
+            pressure sensors
+        </text>
+        <text font-size="24" x="477.5983" y="-225.0304" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_smoke">
+            smoke
+        </text>
+        <text font-size="24" x="-1861.3846" y="-1655.8464" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_velocity_measurement">
+            velocity measurement
+        </text>
+        <text font-size="25" x="-23.023193" y="109.92767" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_infrared_detectors">
+            infrared detectors
+        </text>
+        <text font-size="24" x="-1032.0801" y="-569.1468" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_led_lamps">
+            led lamps
+        </text>
+        <text font-size="25" x="-871.9503" y="-371.7772" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_capacitive_sensors">
+            capacitive sensors
+        </text>
+        <text font-size="24" x="-1091.0242" y="-849.59186" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_signal_classification">
+            signal classification
+        </text>
+        <text font-size="25" x="-972.21436" y="-275.11353" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_intelligent_sensors">
+            intelligent sensors
+        </text>
+        <text font-size="24" x="-930.09863" y="-705.29065" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_microsensors">
+            microsensors
+        </text>
+        <text font-size="24" x="-1321.4061" y="-1782.4829" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_rotation_measurement">
+            rotation measurement
+        </text>
+        <text font-size="24" x="-1400.6094" y="-1512.5605" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sensor_placement">
+            sensor placement
+        </text>
+        <text font-size="24" x="-2328.2688" y="-813.9204" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_cooling">
+            cooling
+        </text>
+        <text font-size="24" x="-357.6431" y="-1507.2985" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_flow_sensors">
+            flow sensors
+        </text>
+        <text font-size="24" x="-317.82584" y="-1291.1426" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_magneto-optical_sensors">
+            magneto-optical sensors
+        </text>
+        <text font-size="25" x="-985.54364" y="-439.26483" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_spatial_variables_measurement">
+            spatial variables measurement
+        </text>
+        <text font-size="25" x="160.43523" y="-1442.6772" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fading_channels">
+            fading channels
+        </text>
+        <text font-size="24" x="-1766.6398" y="-504.1743" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_motion_measurement">
+            motion measurement
+        </text>
+        <text font-size="24" x="-2360.4" y="-744.9949" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_pressure_measurement">
+            pressure measurement
+        </text>
+        <text font-size="24" x="-1322.006" y="-12.859009" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_temperature_sensors">
+            temperature sensors
+        </text>
+        <text font-size="24" x="-1836.4069" y="1526.406" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_near_infrared_spectroscopy">
+            near infrared spectroscopy
+        </text>
+        <text font-size="24" x="76.34986" y="2135.2693" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_magnetic_variables_measurement">
+            magnetic variables measurement
+        </text>
+        <text font-size="24" x="77.34477" y="786.99774" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_smart_sensors">
+            smart sensors
+        </text>
+        <text font-size="24" x="1954.189" y="-2044.8987" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_reverse_engineering">
+            reverse engineering
+        </text>
+        <text font-size="24" x="56.800697" y="1041.3291" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_motion_sensors">
+            motion sensors
+        </text>
+        <text font-size="25" x="621.8624" y="640.5225" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sensor_nodes">
+            sensor nodes
+        </text>
+        <text font-size="24" x="672.6472" y="-961.2664" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_signal_distortion">
+            signal distortion
+        </text>
+        <text font-size="24" x="1690.3292" y="-1609.5643" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_nonlinear_systems">
+            nonlinear systems
+        </text>
+        <text font-size="24" x="1599.8789" y="-2218.554" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hysteresis">
+            hysteresis
+        </text>
+        <text font-size="24" x="-616.83264" y="218.64145" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_electric_potential">
+            electric potential
+        </text>
+        <text font-size="25" x="213.60507" y="1674.5393" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mechatronics">
+            mechatronics
+        </text>
+        <text font-size="24" x="-1072.9902" y="-2349.7039" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_kinetics">
+            kinetics
+        </text>
+        <text font-size="24" x="-2429.6582" y="435.37408" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_remote_sensing_by_radar">
+            remote sensing by radar
+        </text>
+        <text font-size="24" x="-2363.5088" y="534.2012" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_synthetic_aperture_radar">
+            synthetic aperture radar
+        </text>
+        <text font-size="24" x="-1608.7047" y="-1767.2428" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_impulse_response">
+            impulse response
+        </text>
+        <text font-size="24" x="-1268.5107" y="410.04434" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_millimetre_wave_radar">
+            millimetre wave radar
+        </text>
+        <text font-size="24" x="1015.0028" y="-982.7647" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ultrasonic_arrays">
+            ultrasonic arrays
+        </text>
+        <text font-size="25" x="922.0125" y="-582.6636" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sensory_feedback">
+            sensory feedback
+        </text>
+        <text font-size="24" x="1884.1416" y="506.724" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_spectrographs">
+            spectrographs
+        </text>
+        <text font-size="24" x="-1804.3005" y="-1642.4368" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_phase_shift_keying">
+            phase shift keying
+        </text>
+        <text font-size="24" x="1378.3976" y="972.11475" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_radar_clutter">
+            radar clutter
+        </text>
+        <text font-size="24" x="673.7399" y="-2512.3518" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_signaling">
+            signaling
+        </text>
+        <text font-size="24" x="-220.32942" y="-1957.9567" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_photosensitivity">
+            photosensitivity
+        </text>
+    </g>
+</svg>

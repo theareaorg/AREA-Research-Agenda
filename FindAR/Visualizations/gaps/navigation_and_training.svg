@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="4296.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1966.000000 -2022.000000 4296.000000 4750.000000" height="4750.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M -1005.617004,551.950867 C -815.248718,153.606415 67.820351,-158.357803 466.164795,32.010464"
+              class="id_cartography id_navigation" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.295898,831.472412 C -350.510529,866.330444 -620.619385,700.795471 -655.477417,555.580872"
+              class="id_computer_aided_instruction id_computer_based_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.295898,831.472412 C -380.562469,909.011902 -759.771484,762.421204 -837.310974,587.154663"
+              class="id_computer_aided_instruction id_industrial_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="50.0"
+              d="M -205.295898,831.472412 C -161.058502,621.983826 219.530396,374.107117 429.018951,418.344513"
+              class="id_computer_aided_instruction id_laboratories"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.295898,831.472412 C -360.384888,549.860107 -170.599930,-105.191795 111.012367,-260.280792"
+              class="id_computer_aided_instruction id_mapping"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="6.4444447"
+              d="M -205.295898,831.472412 C -56.930298,1253.344849 -467.190460,2108.701660 -889.062805,2257.067383"
+              class="id_computer_aided_instruction id_teacher_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="6.4444447"
+              d="M -205.295898,831.472412 C -311.351959,953.461792 -653.420166,977.361816 -775.409546,871.305786"
+              class="id_computer_aided_instruction id_vocational_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="39.11111"
+              d="M -655.477417,555.580872 C -685.529358,598.262329 -794.629517,617.206604 -837.310974,587.154663"
+              class="id_computer_based_training id_industrial_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -655.477417,555.580872 C -466.025391,311.234314 184.672394,228.892502 429.018951,418.344513"
+              class="id_computer_based_training id_laboratories"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -655.477417,555.580872 C -625.460938,1013.340393 -1267.075317,1745.004395 -1724.834961,1775.020996"
+              class="id_computer_based_training id_on-the-job_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -655.477417,555.580872 C -533.557556,583.175659 -392.070068,807.447510 -419.664856,929.367371"
+              class="id_computer_based_training id_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -655.477417,555.580872 C -616.318909,642.712280 -688.278137,832.147278 -775.409546,871.305786"
+              class="id_computer_based_training id_vocational_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -862.772095,-343.843018 C -804.453979,-448.650635 -559.765320,-518.384766 -454.957703,-460.066620"
+              class="id_computerised_navigation id_indoor_navigation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 220.193253,-1731.516357 C 261.538361,-1471.880005 -65.898575,-1020.407593 -325.535004,-979.062500"
+              class="id_direction-of-arrival_estimation id_time-of-arrival_estimation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -139.944061,-467.736450 C -90.701920,-400.421783 -117.810654,-225.586594 -185.125305,-176.344452"
+              class="id_distance_measurement id_indoor_environment"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="6.4444447"
+              d="M -139.944061,-467.736450 C -201.412827,-403.199768 -390.420990,-398.597839 -454.957703,-460.066620"
+              class="id_distance_measurement id_indoor_navigation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -139.944061,-467.736450 C -308.325195,-569.286438 -408.571960,-974.183044 -307.022003,-1142.564209"
+              class="id_distance_measurement id_radionavigation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -139.944061,-467.736450 C -279.327454,-532.883484 -390.682007,-839.679138 -325.535004,-979.062500"
+              class="id_distance_measurement id_time-of-arrival_estimation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="6.4444447"
+              d="M 820.162354,383.885681 C 678.987793,384.310120 466.589233,173.185028 466.164795,32.010464"
+              class="id_electronic_guidance_systems id_navigation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="6.4444447"
+              d="M -185.125305,-176.344452 C -295.836212,-179.122406 -457.735657,-349.355713 -454.957703,-460.066620"
+              class="id_indoor_environment id_indoor_navigation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -185.125305,-176.344452 C -373.750854,-308.806122 -457.996674,-790.436951 -325.535004,-979.062500"
+              class="id_indoor_environment id_time-of-arrival_estimation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -454.957703,-460.066620 C -561.870117,-626.153320 -473.108643,-1035.651855 -307.022003,-1142.564209"
+              class="id_indoor_navigation id_radionavigation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -454.957703,-460.066620 C -532.872314,-589.750305 -455.218719,-901.147827 -325.535004,-979.062500"
+              class="id_indoor_navigation id_time-of-arrival_estimation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -837.310974,587.154663 C -768.100464,631.604553 -730.959656,802.095276 -775.409546,871.305786"
+              class="id_industrial_training id_vocational_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 111.012367,-260.280792 C 387.456482,-251.101440 788.353638,177.333740 779.174316,453.777863"
+              class="id_mapping id_maps" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 111.012367,-260.280792 C 240.501099,-272.853027 453.592560,-97.478271 466.164795,32.010464"
+              class="id_mapping id_navigation" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 466.164795,32.010464 C 466.792267,20.986692 484.269135,5.392248 495.292908,6.019722"
+              class="id_navigation id_navigation_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 466.164795,32.010464 C 592.604248,-582.916016 1704.653076,-1315.646606 2319.579590,-1189.207153"
+              class="id_navigation id_random_errors" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 466.164795,32.010464 C 595.267517,261.444397 444.770752,799.249329 215.336838,928.352051"
+              class="id_navigation id_stairs" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 466.164795,32.010464 C 585.535828,-225.462662 1150.802002,-432.615784 1408.275146,-313.244751"
+              class="id_navigation id_uncertainty_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 495.292908,6.019722 C 764.138184,108.987091 1012.955078,666.706055 909.987732,935.551331"
+              class="id_navigation_systems id_radio_navigation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#e542ff" r="16.310518" cx="111.01237"
+                class="id_mapping" cy="-260.2808" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e542ff" r="17.662771" cx="466.1648"
+                class="id_navigation" cy="32.010464" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f35ff" r="89.18197" cx="-205.2959"
+                class="id_computer_aided_instruction" cy="831.4724"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e542ff" r="13.155259" cx="298.79007"
+                class="id_street_traffic_control" cy="69.561874"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f35ff" r="23.97329" cx="-655.4774"
+                class="id_computer_based_training" cy="555.5809"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e542ff" r="11.803005" cx="495.2929"
+                class="id_navigation_systems" cy="6.019722" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e542ff" r="12.704508" cx="-139.94406"
+                class="id_distance_measurement" cy="-467.73645" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e542ff" r="10.15025" cx="220.19325"
+                class="id_direction-of-arrival_estimation" cy="-1731.5164"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e542ff" r="10.751252" cx="-185.1253"
+                class="id_indoor_environment" cy="-176.34445" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e542ff" r="11.652755" cx="-454.9577"
+                class="id_indoor_navigation" cy="-460.06662" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e542ff" r="10.15025" cx="-325.535"
+                class="id_time-of-arrival_estimation" cy="-979.0625"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e542ff" r="10.15025" cx="1408.2751"
+                class="id_uncertainty_analysis" cy="-313.24475" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f35ff" r="12.2537565" cx="429.01895"
+                class="id_laboratories" cy="418.3445" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f35ff" r="10.300501" cx="-775.40955"
+                class="id_vocational_training" cy="871.3058" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e542ff" r="10.300501" cx="779.1743"
+                class="id_maps" cy="453.77786" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f35ff" r="10.0" cx="-1955.3588"
+                class="id_apprentices" cy="1449.6929" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e542ff" r="10.300501" cx="-1005.617"
+                class="id_cartography" cy="551.95087" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f35ff" r="10.450751" cx="-419.66486"
+                class="id_training" cy="929.3674" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f35ff" r="11.502504" cx="-837.311"
+                class="id_industrial_training" cy="587.15466" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e542ff" r="10.15025" cx="215.33684"
+                class="id_stairs" cy="928.35205" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e542ff" r="10.0" cx="-539.5861"
+                class="id_propellers" cy="-2011.2865" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e542ff" r="10.300501" cx="-307.022"
+                class="id_radionavigation" cy="-1142.5642" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e542ff" r="10.0" cx="909.98773"
+                class="id_radio_navigation" cy="935.55133" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e542ff" r="10.15025" cx="-862.7721"
+                class="id_computerised_navigation" cy="-343.84302"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e542ff" r="10.300501" cx="706.6066"
+                class="id_trajectories" cy="-166.02046" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f35ff" r="10.15025" cx="-889.0628"
+                class="id_teacher_training" cy="2257.0674" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f35ff" r="10.0" cx="-1724.835"
+                class="id_on-the-job_training" cy="1775.021" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e542ff" r="10.0" cx="2319.5796"
+                class="id_random_errors" cy="-1189.2072" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#1f35ff" r="10.0" cx="27.052414"
+                class="id_technical_presentation" cy="2717.343" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e542ff" r="10.0" cx="1820.3937"
+                class="id_range_finding" cy="-537.28015" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e542ff" r="10.300501" cx="820.16235"
+                class="id_electronic_guidance_systems" cy="383.88568"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="39" x="111.01237" y="-251.24808" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mapping">
+            mapping
+        </text>
+        <text font-size="42" x="466.1648" y="41.738003" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_navigation">
+            navigation
+        </text>
+        <text font-size="214" x="-205.2959" y="880.4096" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_computer_aided_instruction">
+            computer aided instruction
+        </text>
+        <text font-size="32" x="298.79007" y="75.48115" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_street_traffic_control">
+            street traffic control
+        </text>
+        <text font-size="58" x="-655.4774" y="569.01416" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_computer_based_training">
+            computer based training
+        </text>
+        <text font-size="28" x="495.2929" y="12.504748" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_navigation_systems">
+            navigation systems
+        </text>
+        <text font-size="30" x="-139.94406" y="-462.2799" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_distance_measurement">
+            distance measurement
+        </text>
+        <text font-size="24" x="220.19325" y="-1727.0769" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_direction-of-arrival_estimation">
+            direction-of-arrival estimation
+        </text>
+        <text font-size="26" x="-185.1253" y="-171.61545" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_indoor_environment">
+            indoor environment
+        </text>
+        <text font-size="28" x="-454.9577" y="-453.5816" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_indoor_navigation">
+            indoor navigation
+        </text>
+        <text font-size="24" x="-325.535" y="-974.62305" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_time-of-arrival_estimation">
+            time-of-arrival estimation
+        </text>
+        <text font-size="24" x="1408.2751" y="-307.68616" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_uncertainty_analysis">
+            uncertainty analysis
+        </text>
+        <text font-size="29" x="429.01895" y="423.61917" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_laboratories">
+            laboratories
+        </text>
+        <text font-size="25" x="-775.40955" y="877.096" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_vocational_training">
+            vocational training
+        </text>
+        <text font-size="25" x="779.1743" y="458.33514" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_maps">
+            maps
+        </text>
+        <text font-size="24" x="-1955.3588" y="1455.1812" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_apprentices">
+            apprentices
+        </text>
+        <text font-size="25" x="-1005.617" y="557.7411" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_cartography">
+            cartography
+        </text>
+        <text font-size="25" x="-419.66486" y="935.1576" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_training">
+            training
+        </text>
+        <text font-size="28" x="-837.311" y="593.6397" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_industrial_training">
+            industrial training
+        </text>
+        <text font-size="24" x="215.33684" y="932.7173" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_stairs">
+            stairs
+        </text>
+        <text font-size="24" x="-539.5861" y="-2005.7982" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_propellers">
+            propellers
+        </text>
+        <text font-size="25" x="-307.022" y="-1136.774" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_radionavigation">
+            radionavigation
+        </text>
+        <text font-size="24" x="909.98773" y="941.1099" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_radio_navigation">
+            radio navigation
+        </text>
+        <text font-size="24" x="-862.7721" y="-338.28442" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_computerised_navigation">
+            computerised navigation
+        </text>
+        <text font-size="25" x="706.6066" y="-160.23026" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_trajectories">
+            trajectories
+        </text>
+        <text font-size="24" x="-889.0628" y="2262.626" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_teacher_training">
+            teacher training
+        </text>
+        <text font-size="24" x="-1724.835" y="1780.5796" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_on-the-job_training">
+            on-the-job training
+        </text>
+        <text font-size="24" x="2319.5796" y="-1184.8419" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_random_errors">
+            random errors
+        </text>
+        <text font-size="24" x="27.052414" y="2722.8313" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_technical_presentation">
+            technical presentation
+        </text>
+        <text font-size="24" x="1820.3937" y="-531.64734" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_range_finding">
+            range finding
+        </text>
+        <text font-size="25" x="820.16235" y="389.67587" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_electronic_guidance_systems">
+            electronic guidance systems
+        </text>
+    </g>
+</svg>

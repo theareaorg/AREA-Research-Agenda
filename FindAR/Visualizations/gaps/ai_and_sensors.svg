@@ -1,0 +1,2788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="5146.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-2440.000000 -2528.000000 5146.000000 5069.000000" height="5069.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M -681.069397,51.253334 C -682.188843,-14.951630 -584.560547,-115.938217 -518.355591,-117.057655"
+              class="id_accelerometers id_correlation_methods"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -681.069397,51.253334 C -259.737061,-174.249084 710.515076,119.495758 936.017456,540.828125"
+              class="id_accelerometers id_magnetometers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -681.069397,51.253334 C -756.107178,5.133967 -799.484863,-176.601791 -753.365479,-251.639587"
+              class="id_accelerometers id_mean_square_error_methods"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M -681.069397,51.253334 C -756.039856,-56.729454 -706.521484,-331.159393 -598.538696,-406.129913"
+              class="id_accelerometers id_sensor_fusion"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -212.702118,-2188.221436 C 29.222321,-1851.055542 -113.640015,-982.419739 -450.806030,-740.495361"
+              class="id_adaptive_estimation id_bayes_methods"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -212.702118,-2188.221436 C 70.356445,-1908.636475 75.566879,-1064.671387 -204.018051,-781.612854"
+              class="id_adaptive_estimation id_wavelet_transforms"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 967.571106,147.897430 C 878.251221,289.026733 532.577332,366.740845 391.447998,277.420929"
+              class="id_adaptive_systems id_information_classification"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 967.571106,147.897430 C 832.053467,202.325836 547.134277,80.691940 492.705872,-54.825741"
+              class="id_adaptive_systems id_machine_learning"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M 585.162476,785.368408 C 513.632324,725.718262 495.812256,528.947815 555.462402,457.417664"
+              class="id_agents id_multi-agent_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1772.588135,1117.728271 C 1613.770996,1108.184570 1389.860840,855.643433 1399.404541,696.826294"
+              class="id_anomaly_detection id_information_clutter"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1772.588135,1117.728271 C 1717.783569,1117.830933 1635.422729,1035.777954 1635.320068,980.973328"
+              class="id_anomaly_detection id_magnetization"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1772.588135,1117.728271 C 1489.893921,1169.662354 987.951538,823.522278 936.017456,540.828125"
+              class="id_anomaly_detection id_magnetometers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1772.588135,1117.728271 C 1647.541626,1130.231812 1441.216553,961.417297 1428.713013,836.370789"
+              class="id_anomaly_detection id_permanent_magnets"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1772.588135,1117.728271 C 1264.192017,1288.874268 244.878677,782.999268 73.732635,274.603088"
+              class="id_anomaly_detection id_sensors" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1163.243042,-123.976265 C 991.647522,79.757195 428.654083,127.964157 224.920624,-43.631332"
+              class="id_approximation_algorithms id_computational_geometry"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1163.243042,-123.976265 C 1255.885010,-278.561554 1626.725708,-371.476624 1781.311035,-278.834717"
+              class="id_approximation_algorithms id_graph_algorithms"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1163.243042,-123.976265 C 1157.965698,113.858658 793.297363,462.695007 555.462402,457.417664"
+              class="id_approximation_algorithms id_multi-agent_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M -589.309875,138.064804 C -561.421509,-78.289177 -195.057953,-360.987579 21.296036,-333.099213"
+              class="id_approximation_theory id_computational_complexity"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -589.309875,138.064804 C -739.328125,-55.333672 -674.257813,-570.458801 -480.859375,-720.477051"
+              class="id_approximation_theory id_concave_programming"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -589.309875,138.064804 C -1059.872803,42.812347 -1622.838623,-805.910645 -1527.586182,-1276.473633"
+              class="id_approximation_theory id_deterministic_algorithms"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -589.309875,138.064804 C -690.206299,-99.774826 -484.791595,-607.878906 -246.951965,-708.775330"
+              class="id_approximation_theory id_matrix_algebra"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -589.309875,138.064804 C -629.756470,-87.490105 -352.093994,-486.492340 -126.539093,-526.938904"
+              class="id_approximation_theory id_principal_component_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -589.309875,138.064804 C -528.175354,29.231079 -273.222900,-42.317673 -164.389175,18.816879"
+              class="id_approximation_theory id_regression_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -589.309875,138.064804 C -858.478943,-13.018246 -1035.607910,-643.396423 -884.524902,-912.565491"
+              class="id_approximation_theory id_set_theory"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -589.309875,138.064804 C -887.957275,-196.961929 -833.388306,-1147.473145 -498.361572,-1446.120483"
+              class="id_approximation_theory id_source_separation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.648071,346.732819 C -98.545624,125.422455 161.573593,-278.389435 382.883972,-326.286987"
+              class="id_artificial_intelligence id_decision_trees"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M -50.648071,346.732819 C 6.981300,124.074814 427.412384,-123.468109 650.070374,-65.838737"
+              class="id_artificial_intelligence id_deep_learning"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M -50.648071,346.732819 C -45.222122,174.176682 221.751007,-76.518585 394.307129,-71.092636"
+              class="id_artificial_intelligence id_deep_neural_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.648071,346.732819 C -206.194244,271.938263 -327.321686,-73.572830 -252.527130,-229.119003"
+              class="id_artificial_intelligence id_graph_theory"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.648071,346.732819 C 226.205261,350.951691 635.156982,772.559937 630.938110,1049.413330"
+              class="id_artificial_intelligence id_informatics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.648071,346.732819 C 23.908764,244.451233 289.166412,202.864075 391.447998,277.420929"
+              class="id_artificial_intelligence id_information_classification"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.648071,346.732819 C -22.289001,157.750336 303.723389,-83.184814 492.705872,-54.825741"
+              class="id_artificial_intelligence id_machine_learning"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M -50.648071,346.732819 C -133.606262,193.347870 -27.966133,-161.166809 125.418800,-244.125000"
+              class="id_artificial_intelligence id_neural_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.648071,346.732819 C -156.510345,381.761108 -367.846130,275.510071 -402.874390,169.647797"
+              class="id_artificial_intelligence id_pattern_classification"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.648071,346.732819 C -33.614685,387.383881 -69.041229,473.910583 -109.692307,490.943970"
+              class="id_artificial_intelligence id_recommender_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.648071,346.732819 C -9.130920,114.479858 401.524231,-171.623886 633.777222,-130.106735"
+              class="id_artificial_intelligence id_recurrent_neural_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.648071,346.732819 C -138.979492,303.897858 -207.224152,107.148300 -164.389175,18.816879"
+              class="id_artificial_intelligence id_regression_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.648071,346.732819 C -16.702850,196.449036 259.640625,21.941238 409.924408,55.886459"
+              class="id_artificial_intelligence id_semantics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M -50.648071,346.732819 C -147.358978,190.708069 -58.388229,-188.395416 97.636520,-285.106323"
+              class="id_artificial_intelligence id_signal_processing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M -50.648071,346.732819 C 181.421753,326.618652 559.697754,644.552124 579.811890,876.621948"
+              class="id_artificial_intelligence id_software_agents"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.648071,346.732819 C -245.972214,533.714661 -819.431152,521.201172 -1006.413025,325.877045"
+              class="id_artificial_intelligence id_strain_gauges"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -239.121063,198.066299 C -244.463257,193.089767 -245.011749,177.611694 -240.035217,172.269501"
+              class="id_artificial_satellites id_fuzzy_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -239.121063,198.066299 C -297.130096,120.217354 -267.370270,-83.569611 -189.521332,-141.578659"
+              class="id_artificial_satellites id_learning_algorithms"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -239.121063,198.066299 C -239.350327,153.994537 -173.586548,87.542969 -129.514786,87.313705"
+              class="id_artificial_satellites id_natural_language_processing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M 553.353394,464.457275 C 658.055359,574.768005 649.642090,897.287109 539.331360,1001.989075"
+              class="id_autonomous_agents id_intelligent_agents"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 553.353394,464.457275 C 533.579346,452.682953 521.579834,405.360382 533.354126,385.586365"
+              class="id_autonomous_agents id_intelligent_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 553.353394,464.457275 C 258.145447,447.753967 -159.611496,-20.112961 -142.908173,-315.320923"
+              class="id_autonomous_agents id_iterative_methods"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 553.353394,464.457275 C 505.853363,460.948090 439.867096,384.434296 443.376282,336.934265"
+              class="id_autonomous_agents id_monte_carlo_methods"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M 553.353394,464.457275 C 552.367310,462.627533 553.632690,458.403778 555.462402,457.417664"
+              class="id_autonomous_agents id_multi-agent_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -450.806030,-740.495361 C -384.825165,-730.110474 -301.431213,-615.561890 -311.816071,-549.581055"
+              class="id_bayes_methods id_estimation_theory"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -450.806030,-740.495361 C -401.425507,-770.271973 -282.689819,-740.866211 -252.913177,-691.485718"
+              class="id_bayes_methods id_gaussian_processes"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -450.806030,-740.495361 C -278.765747,-672.968994 -121.994919,-313.618927 -189.521332,-141.578659"
+              class="id_bayes_methods id_learning_algorithms"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -450.806030,-740.495361 C -413.479492,-644.075745 -502.119110,-443.456451 -598.538696,-406.129913"
+              class="id_bayes_methods id_sensor_fusion"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -450.806030,-740.495361 C -409.671936,-798.076477 -261.599152,-822.746948 -204.018051,-781.612854"
+              class="id_bayes_methods id_wavelet_transforms"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.522644,-388.291901 C -5.920371,-386.817078 22.770836,-353.701477 21.296036,-333.099213"
+              class="id_calibration id_computational_complexity"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.522644,-388.291901 C 173.286591,-459.119873 579.242432,-265.647980 650.070374,-65.838737"
+              class="id_calibration id_deep_learning" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.522644,-388.291901 C 121.083176,-409.018005 373.581024,-218.698456 394.307129,-71.092636"
+              class="id_calibration id_deep_neural_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.522644,-388.291901 C -39.888962,-311.256409 -175.491653,-215.752686 -252.527130,-229.119003"
+              class="id_calibration id_graph_theory" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.522644,-388.291901 C -35.205555,-350.420593 -105.036873,-306.638031 -142.908173,-315.320923"
+              class="id_calibration id_iterative_methods"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M -26.522644,-388.291901 C -9.779736,-306.349518 -107.578949,-158.321564 -189.521332,-141.578659"
+              class="id_calibration id_learning_algorithms"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.16129"
+              d="M -26.522644,-388.291901 C -134.705200,-408.302704 -266.962799,-600.592773 -246.951965,-708.775330"
+              class="id_calibration id_matrix_algebra"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.522644,-388.291901 C -271.510651,-271.849487 -813.656250,-464.667847 -930.098633,-709.655884"
+              class="id_calibration id_microsensors" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M -26.522644,-388.291901 C 32.699024,-389.846802 123.863892,-303.346649 125.418800,-244.125000"
+              class="id_calibration id_neural_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.522644,-388.291901 C -565.210632,-409.026459 -1342.140747,-1248.160156 -1321.406128,-1786.848145"
+              class="id_calibration id_rotation_measurement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M -26.522644,-388.291901 C -144.493439,-277.456299 -487.703094,-288.159119 -598.538696,-406.129913"
+              class="id_calibration id_sensor_fusion" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -26.522644,-388.291901 C -527.291382,-339.425934 -1351.743408,-1017.280029 -1400.609375,-1518.048828"
+              class="id_calibration id_sensor_placement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1992.843994,-1236.456543 C 1852.885986,-732.430603 886.909912,-186.328888 382.883972,-326.286987"
+              class="id_classifiers id_decision_trees"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 894.003296,-1350.129883 C 962.244385,-1019.361877 568.453857,-420.848206 237.685791,-352.607178"
+              class="id_clustering_algorithms id_trees"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -714.406372,-1103.449341 C -414.143494,-992.513489 -130.153061,-375.715210 -241.088943,-75.452354"
+              class="id_clutter id_convolutional_neural_nets"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -752.177856,1969.084229 C -919.308838,1544.959106 -533.817444,658.074951 -109.692307,490.943970"
+              class="id_collaborative_filtering id_recommender_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 842.342407,-129.215790 C 816.563416,-78.085968 701.200195,-40.059738 650.070374,-65.838737"
+              class="id_complex_networks id_deep_learning"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 842.342407,-129.215790 C 764.359985,-27.984100 495.538818,6.889786 394.307129,-71.092636"
+              class="id_complex_networks id_deep_neural_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 842.342407,-129.215790 C 823.826050,-33.918148 653.104980,81.253738 557.807373,62.737366"
+              class="id_complex_networks id_mobile_agents"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 842.342407,-129.215790 C 675.975830,-8.812912 245.821686,-77.758438 125.418800,-244.125000"
+              class="id_complex_networks id_neural_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 842.342407,-129.215790 C 667.966797,-128.676239 405.593994,-389.430359 405.054443,-563.805969"
+              class="id_complex_networks id_particle_swarm_optimization"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 842.342407,-129.215790 C 741.982727,90.049400 262.545441,268.407684 43.280258,168.048035"
+              class="id_complex_networks id_remote_sensing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 842.342407,-129.215790 C 792.879272,-5.711746 533.428467,105.349609 409.924408,55.886459"
+              class="id_complex_networks id_semantics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 842.342407,-129.215790 C 883.755615,-7.158173 762.789124,238.048126 640.731506,279.461395"
+              class="id_complex_networks id_sensor_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 340.951599,407.751251 C 267.461365,514.518555 -2.924980,564.434204 -109.692307,490.943970"
+              class="id_computation_theory id_recommender_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 21.296036,-333.099213 C 119.914536,-315.930542 242.089294,-142.249832 224.920624,-43.631332"
+              class="id_computational_complexity id_computational_geometry"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 21.296036,-333.099213 C 20.348408,-229.092865 -137.082565,-74.504723 -241.088943,-75.452354"
+              class="id_computational_complexity id_convolutional_neural_nets"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 21.296036,-333.099213 C 17.436672,-252.631622 -109.053741,-137.719299 -189.521332,-141.578659"
+              class="id_computational_complexity id_learning_algorithms"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 21.296036,-333.099213 C 239.718781,-283.508575 492.966919,118.511528 443.376282,336.934265"
+              class="id_computational_complexity id_monte_carlo_methods"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 21.296036,-333.099213 C -113.469513,-377.739136 -248.657959,-646.847351 -204.018051,-781.612854"
+              class="id_computational_complexity id_wavelet_transforms"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M 224.920624,-43.631332 C 125.354515,43.206375 -154.251236,24.113762 -241.088943,-75.452354"
+              class="id_computational_geometry id_convolutional_neural_nets"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.16129"
+              d="M 224.920624,-43.631332 C 122.442764,19.667595 -126.222404,-39.100807 -189.521332,-141.578659"
+              class="id_computational_geometry id_learning_algorithms"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 224.920624,-43.631332 C 391.238800,-9.529884 589.563843,291.099487 555.462402,457.417664"
+              class="id_computational_geometry id_multi-agent_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 224.920624,-43.631332 C -5.169300,75.352783 -528.780273,-91.305939 -647.764404,-321.395874"
+              class="id_computational_geometry id_neural_net_architecture"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 224.920624,-43.631332 C 13.665535,-83.207642 -243.852600,-459.454742 -204.276276,-670.709839"
+              class="id_computational_geometry id_octrees"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M 224.920624,-43.631332 C 159.548294,46.720280 -74.037567,84.189209 -164.389175,18.816879"
+              class="id_computational_geometry id_regression_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -480.859375,-720.477051 C -303.900330,-639.426208 -160.038086,-252.411392 -241.088943,-75.452354"
+              class="id_concave_programming id_convolutional_neural_nets"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -480.859375,-720.477051 C -306.812073,-662.965027 -132.009262,-315.625946 -189.521332,-141.578659"
+              class="id_concave_programming id_learning_algorithms"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -480.859375,-720.477051 C -272.342407,-866.325562 259.205902,-772.322937 405.054443,-563.805969"
+              class="id_concave_programming id_particle_swarm_optimization"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -480.859375,-720.477051 C -371.287689,-752.633484 -158.695511,-636.510620 -126.539093,-526.938904"
+              class="id_concave_programming id_principal_component_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -480.859375,-720.477051 C -629.488464,-862.105286 -639.989807,-1297.491333 -498.361572,-1446.120483"
+              class="id_concave_programming id_source_separation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -241.088943,-75.452354 C -451.887115,-95.974846 -737.300659,-442.955780 -716.778137,-653.753967"
+              class="id_convolutional_neural_nets id_gradient_methods"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="40.51613"
+              d="M -241.088943,-75.452354 C -244.000687,-98.991135 -213.060120,-138.666916 -189.521332,-141.578659"
+              class="id_convolutional_neural_nets id_learning_algorithms"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M -241.088943,-75.452354 C -371.612732,-43.305962 -615.618042,-190.872055 -647.764404,-321.395874"
+              class="id_convolutional_neural_nets id_neural_net_architecture"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -241.088943,-75.452354 C -209.530991,-302.351746 178.155014,-595.363953 405.054443,-563.805969"
+              class="id_convolutional_neural_nets id_particle_swarm_optimization"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -241.088943,-75.452354 C -308.476288,-188.659637 -239.746368,-459.551575 -126.539093,-526.938904"
+              class="id_convolutional_neural_nets id_principal_component_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -241.088943,-75.452354 C -286.468353,-126.430923 -278.069580,-270.967896 -227.091034,-316.347290"
+              class="id_convolutional_neural_nets id_recurrent_neural_nets"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="7.322581"
+              d="M -241.088943,-75.452354 C -206.895142,-71.938461 -160.875275,-15.376922 -164.389175,18.816879"
+              class="id_convolutional_neural_nets id_regression_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -241.088943,-75.452354 C -378.714386,-70.097908 -593.184265,-268.504456 -598.538696,-406.129913"
+              class="id_convolutional_neural_nets id_sensor_fusion"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M -241.088943,-75.452354 C -108.113525,-68.405579 80.779404,141.627670 73.732635,274.603088"
+              class="id_convolutional_neural_nets id_sensors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -241.088943,-75.452354 C -366.755219,73.276215 -778.347534,107.869659 -927.076050,-17.796616"
+              class="id_convolutional_neural_nets id_strain_sensors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -241.088943,-75.452354 C -344.436646,-157.345200 -376.618958,-435.206024 -294.726135,-538.553772"
+              class="id_convolutional_neural_nets id_support_vector_machines"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -241.088943,-75.452354 C -374.906860,-224.098633 -352.664337,-647.794922 -204.018051,-781.612854"
+              class="id_convolutional_neural_nets id_wavelet_transforms"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 314.195984,-198.493439 C 407.901794,-239.137375 609.426453,-159.544556 650.070374,-65.838737"
+              class="id_convolutional_neural_networks id_deep_learning"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 314.195984,-198.493439 C 355.698364,-189.035507 403.765076,-112.595032 394.307129,-71.092636"
+              class="id_convolutional_neural_networks id_deep_neural_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 314.195984,-198.493439 C 333.321136,-71.001999 170.771698,148.922882 43.280258,168.048035"
+              class="id_convolutional_neural_networks id_remote_sensing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 314.195984,-198.493439 C 384.217651,-166.763153 441.654694,-14.135206 409.924408,55.886459"
+              class="id_convolutional_neural_networks id_semantics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 314.195984,-198.493439 C 463.070068,45.121143 320.959351,633.854126 77.344772,782.728210"
+              class="id_convolutional_neural_networks id_smart_sensors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2328.268799,-819.479004 C -1984.824463,-1013.124634 -1179.189209,-788.426270 -985.543640,-444.981781"
+              class="id_cooling id_spatial_variables_measurement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2328.268799,-819.479004 C -1966.770630,-860.486084 -1363.013062,-379.749634 -1322.005981,-18.251587"
+              class="id_cooling id_temperature_sensors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -518.355591,-117.057655 C -582.418396,-289.681915 -419.576233,-644.712463 -246.951965,-708.775330"
+              class="id_correlation_methods id_matrix_algebra"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 382.883972,-326.286987 C 488.410919,-327.634613 648.722778,-171.365677 650.070374,-65.838737"
+              class="id_decision_trees id_deep_learning"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 382.883972,-326.286987 C 266.364624,-404.167908 208.406967,-695.768250 286.287872,-812.287598"
+              class="id_decision_trees id_genetic_algorithms"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 382.883972,-326.286987 C 505.338348,-207.258209 510.476776,154.966553 391.447998,277.420929"
+              class="id_decision_trees id_information_classification"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 382.883972,-326.286987 C 790.810791,-324.968445 1400.723022,288.899475 1399.404541,696.826294"
+              class="id_decision_trees id_information_clutter"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 382.883972,-326.286987 C 118.379745,-440.596375 -106.912498,-1008.816772 7.396895,-1273.321045"
+              class="id_decision_trees id_random_forests"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 382.883972,-326.286987 C 464.726746,-255.260376 480.951019,-25.956327 409.924408,55.886459"
+              class="id_decision_trees id_semantics" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 382.883972,-326.286987 C 170.630844,-145.971039 -418.222748,-193.876770 -598.538696,-406.129913"
+              class="id_decision_trees id_sensor_fusion"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 382.883972,-326.286987 C 441.231750,-144.278687 255.740936,216.255341 73.732635,274.603088"
+              class="id_decision_trees id_sensors" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 382.883972,-326.286987 C 421.205109,-325.851593 478.033691,-267.716766 477.598297,-229.395630"
+              class="id_decision_trees id_smoke" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 382.883972,-326.286987 C 204.908600,-233.218338 -201.657471,-360.578369 -294.726135,-538.553772"
+              class="id_decision_trees id_support_vector_machines"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 382.883972,-326.286987 C 348.580292,-302.511383 261.461395,-318.303497 237.685791,-352.607178"
+              class="id_decision_trees id_trees" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="8.903226"
+              d="M 650.070374,-65.838737 C 597.866943,-15.736870 444.408997,-18.889206 394.307129,-71.092636"
+              class="id_deep_learning id_deep_neural_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M 650.070374,-65.838737 C 666.997803,54.537678 511.824432,260.493469 391.447998,277.420929"
+              class="id_deep_learning id_information_classification"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 650.070374,-65.838737 C 717.012146,47.789536 646.982422,318.644592 533.354126,385.586365"
+              class="id_deep_learning id_intelligent_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 650.070374,-65.838737 C 467.004059,86.931610 -36.750980,41.487656 -189.521332,-141.578659"
+              class="id_deep_learning id_learning_algorithms"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M 650.070374,-65.838737 C 620.800049,-32.163239 526.381348,-25.555437 492.705872,-54.825741"
+              class="id_deep_learning id_machine_learning"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="8.903226"
+              d="M 650.070374,-65.838737 C 509.482819,3.434319 194.691849,-103.537437 125.418800,-244.125000"
+              class="id_deep_learning id_neural_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 650.070374,-65.838737 C 504.109589,113.984291 15.433855,164.777664 -164.389175,18.816879"
+              class="id_deep_learning id_regression_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M 650.070374,-65.838737 C 636.243896,-114.633827 688.696838,-208.566147 737.491943,-222.392609"
+              class="id_deep_learning id_reinforcement_learning"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 650.070374,-65.838737 C 575.489685,102.296646 211.415634,242.628693 43.280258,168.048035"
+              class="id_deep_learning id_remote_sensing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.16129"
+              d="M 650.070374,-65.838737 C 626.386230,6.535496 482.298645,79.570618 409.924408,55.886459"
+              class="id_deep_learning id_semantics" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 650.070374,-65.838737 C 602.891174,117.517197 257.088562,321.782288 73.732635,274.603088"
+              class="id_deep_learning id_sensors" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 650.070374,-65.838737 C 582.864563,-64.055702 479.381348,-162.189835 477.598297,-229.395630"
+              class="id_deep_learning id_smoke" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 650.070374,-65.838737 C 510.239746,-40.715515 262.809021,-212.776566 237.685791,-352.607178"
+              class="id_deep_learning id_trees" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 394.307129,-71.092636 C 577.025085,-212.637085 1063.418579,-150.876846 1204.963013,31.841093"
+              class="id_deep_neural_networks id_inference_engines"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 394.307129,-71.092636 C 513.452332,-7.566229 596.880554,266.441162 533.354126,385.586365"
+              class="id_deep_neural_networks id_intelligent_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="13.645162"
+              d="M 394.307129,-71.092636 C 305.922974,-51.921444 144.589996,-155.740860 125.418800,-244.125000"
+              class="id_deep_neural_networks id_neural_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 394.307129,-71.092636 C 371.929871,46.940868 161.313766,190.425262 43.280258,168.048035"
+              class="id_deep_neural_networks id_remote_sensing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.16129"
+              d="M 394.307129,-71.092636 C 422.826385,-48.820271 432.196777,27.367184 409.924408,55.886459"
+              class="id_deep_neural_networks id_semantics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1527.586182,-1276.473633 C -1157.919678,-1419.060791 -389.539154,-1078.441895 -246.951965,-708.775330"
+              class="id_deterministic_algorithms id_matrix_algebra"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1527.586182,-1276.473633 C -995.888672,-1290.054932 -177.970459,-512.880615 -164.389175,18.816879"
+              class="id_deterministic_algorithms id_regression_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1527.586182,-1276.473633 C -1326.192261,-1332.304321 -940.355530,-1113.959351 -884.524902,-912.565491"
+              class="id_deterministic_algorithms id_set_theory"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -616.832642,213.153168 C -573.590698,-29.392563 -144.909210,-328.348267 97.636520,-285.106323"
+              class="id_electric_potential id_signal_processing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 542.015564,-1106.535522 C 397.297668,-1098.621338 168.349457,-1303.826782 160.435226,-1448.544678"
+              class="id_error_correction id_fading_channels"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 542.015564,-1106.535522 C 494.730469,-796.340149 -41.490112,-401.974854 -351.685455,-449.259949"
+              class="id_error_correction id_markov_processes"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 542.015564,-1106.535522 C 631.178345,-850.734070 381.220276,-333.287781 125.418800,-244.125000"
+              class="id_error_correction id_neural_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 542.015564,-1106.535522 C 846.808655,-1106.684937 1304.222412,-649.719482 1304.371948,-344.926392"
+              class="id_error_correction id_stochastic_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -311.816071,-549.581055 C -205.756638,-492.439545 -132.379807,-247.638092 -189.521332,-141.578659"
+              class="id_estimation_theory id_learning_algorithms"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2054.636475,-356.975586 C -1710.188354,-536.165100 -924.731995,-288.277191 -745.542480,56.170925"
+              class="id_evolutionary_computation id_fuzzy_set_theory"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 897.142883,-998.006165 C 1073.377686,-640.264771 801.117737,160.699493 443.376282,336.934265"
+              class="id_extended_kalman_filters id_monte_carlo_methods"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 160.435226,-1448.544678 C 257.868042,-1146.263672 -49.404373,-546.692749 -351.685455,-449.259949"
+              class="id_fading_channels id_markov_processes"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1543.943359,-1860.793945 C -1460.521484,-1851.816162 -1348.855347,-1713.216797 -1357.833130,-1629.794922"
+              class="id_feedforward id_low-pass_filters"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1543.943359,-1860.793945 C -1552.158203,-1792.166504 -1667.421753,-1701.547729 -1736.049194,-1709.762573"
+              class="id_feedforward id_sigma-delta_modulation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -163.723785,-398.739929 C -142.876862,-386.219238 -130.387482,-336.167847 -142.908173,-315.320923"
+              class="id_feedforward_neural_nets id_iterative_methods"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="8.903226"
+              d="M -163.723785,-398.739929 C -117.451050,-342.148163 -132.929565,-187.851395 -189.521332,-141.578659"
+              class="id_feedforward_neural_nets id_learning_algorithms"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -163.723785,-398.739929 C -59.671265,-308.371002 -39.145859,-16.738819 -129.514786,87.313705"
+              class="id_feedforward_neural_nets id_natural_language_processing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.16129"
+              d="M -163.723785,-398.739929 C -159.918701,-369.587952 -197.939056,-320.152344 -227.091034,-316.347290"
+              class="id_feedforward_neural_nets id_recurrent_neural_nets"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -163.723785,-398.739929 C -80.345497,-315.095490 -80.744743,-64.561401 -164.389175,18.816879"
+              class="id_feedforward_neural_nets id_regression_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -163.723785,-398.739929 C -252.164764,-313.254944 -513.053711,-317.688934 -598.538696,-406.129913"
+              class="id_feedforward_neural_nets id_sensor_fusion"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 149.184052,-760.275635 C 233.908401,-654.932251 202.979889,-369.830688 97.636520,-285.106323"
+              class="id_filtering_theory id_signal_processing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -357.643097,-1511.737915 C -306.672302,-1476.694092 -282.781921,-1347.671997 -317.825836,-1296.701172"
+              class="id_flow_sensors id_magneto-optical_sensors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -190.894867,-1159.525513 C -225.872070,-1047.572266 -446.267853,-932.107971 -558.221191,-967.085144"
+              class="id_forward_error_correction id_ultrasonic_applications"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2167.418701,-1089.529907 C -2118.525879,-1015.378662 -2156.413818,-830.812622 -2230.564941,-781.919861"
+              class="id_frequency_response id_simulated_annealing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M -984.916870,219.079163 C -969.623657,138.622635 -825.999023,40.877693 -745.542480,56.170925"
+              class="id_fuzzy_control id_fuzzy_set_theory"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -885.749817,294.791840 C -905.432556,219.026184 -821.308105,75.853645 -745.542480,56.170925"
+              class="id_fuzzy_logic id_fuzzy_set_theory"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -240.035217,172.269501 C -292.702057,99.397102 -262.393738,-88.911812 -189.521332,-141.578659"
+              class="id_fuzzy_systems id_learning_algorithms"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -240.035217,172.269501 C -234.922287,133.174255 -168.610031,82.200775 -129.514786,87.313705"
+              class="id_fuzzy_systems id_natural_language_processing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -252.913177,-691.485718 C -130.253387,-594.182617 -92.218292,-264.238434 -189.521332,-141.578659"
+              class="id_gaussian_processes id_learning_algorithms"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -252.913177,-691.485718 C -224.222473,-623.286133 -283.485840,-477.950653 -351.685455,-449.259949"
+              class="id_gaussian_processes id_markov_processes"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -252.913177,-691.485718 C -93.147858,-567.129944 -40.033463,-140.948441 -164.389175,18.816879"
+              class="id_gaussian_processes id_regression_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 286.287872,-812.287598 C 216.490601,-685.859192 -77.847893,-600.912537 -204.276276,-670.709839"
+              class="id_genetic_algorithms id_octrees"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 286.287872,-812.287598 C 138.302979,-848.716064 -29.031601,-1125.336182 7.396895,-1273.321045"
+              class="id_genetic_algorithms id_random_forests"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.16129"
+              d="M -716.778137,-653.753967 C -508.891724,-656.770264 -192.537659,-349.465088 -189.521332,-141.578659"
+              class="id_gradient_methods id_learning_algorithms"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -716.778137,-653.753967 C -725.442322,-685.549866 -690.744751,-746.239868 -658.948853,-754.904053"
+              class="id_gradient_methods id_motion_compensation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -716.778137,-653.753967 C -466.412964,-740.267578 38.905205,-494.490173 125.418800,-244.125000"
+              class="id_gradient_methods id_neural_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -716.778137,-653.753967 C -471.786194,-629.717590 -140.352798,-226.175079 -164.389175,18.816879"
+              class="id_gradient_methods id_regression_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -716.778137,-653.753967 C -956.631165,-809.515198 -1082.768799,-1402.936523 -927.007629,-1642.789551"
+              class="id_gradient_methods id_stochastic_processes"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -716.778137,-653.753967 C -747.733032,-748.131592 -652.598816,-936.130249 -558.221191,-967.085144"
+              class="id_gradient_methods id_ultrasonic_applications"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -252.527130,-229.119003 C -185.752640,-283.750519 -3.643613,-265.536041 50.987900,-198.761536"
+              class="id_graph_theory id_kalman_filters"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -252.527130,-229.119003 C -347.343353,-326.165283 -343.998260,-613.959106 -246.951965,-708.775330"
+              class="id_graph_theory id_matrix_algebra"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -252.527130,-229.119003 C -179.939163,-307.709381 46.828423,-316.712982 125.418800,-244.125000"
+              class="id_graph_theory id_neural_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -252.527130,-229.119003 C -328.849091,-130.711182 -590.943787,-97.582397 -689.351563,-173.904343"
+              class="id_graph_theory id_nonlinear_filters"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -252.527130,-229.119003 C -331.195129,-327.087341 -302.244629,-592.041809 -204.276276,-670.709839"
+              class="id_graph_theory id_octrees" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -390.979401,-1945.794678 C -183.448105,-1881.576172 31.521088,-1473.951416 -32.697411,-1266.420166"
+              class="id_hidden_feature_removal id_spatial_light_modulators"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -196.955536,-1667.521484 C -212.956558,-1562.960083 -393.800140,-1430.119385 -498.361572,-1446.120483"
+              class="id_independent_component_analysis id_source_separation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -196.955536,-1667.521484 C 9.283905,-1422.173828 -49.378464,-744.793213 -294.726135,-538.553772"
+              class="id_independent_component_analysis id_support_vector_machines"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -196.955536,-1667.521484 C -129.199539,-1549.708008 -204.285751,-1271.353882 -322.099243,-1203.597778"
+              class="id_independent_component_analysis id_thermography"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M -81.629898,4.458144 C -132.415543,-3.170933 -197.150406,-90.793007 -189.521332,-141.578659"
+              class="id_inference_mechanisms id_learning_algorithms"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -81.629898,4.458144 C -89.936783,-86.668228 34.292435,-235.818115 125.418800,-244.125000"
+              class="id_inference_mechanisms id_neural_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M 391.447998,277.420929 C 345.250244,190.720016 406.004944,-8.627981 492.705872,-54.825741"
+              class="id_information_classification id_machine_learning"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 391.447998,277.420929 C 233.932983,226.317596 74.315453,-86.609985 125.418800,-244.125000"
+              class="id_information_classification id_neural_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.16129"
+              d="M 391.447998,277.420929 C 350.836395,229.418762 361.922241,96.498070 409.924408,55.886459"
+              class="id_information_classification id_semantics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 391.447998,277.420929 C 327.341339,340.400452 136.712143,338.709717 73.732635,274.603088"
+              class="id_information_classification id_sensors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 391.447998,277.420929 C 484.079193,237.828857 682.414063,317.387482 722.006165,410.018677"
+              class="id_information_classification id_signal_detection"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 391.447998,277.420929 C 307.314758,158.827560 359.004913,-145.262375 477.598297,-229.395630"
+              class="id_information_classification id_smoke"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 391.447998,277.420929 C 234.689941,182.167755 142.432617,-195.849121 237.685791,-352.607178"
+              class="id_information_classification id_trees"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1399.404541,696.826294 C 1503.416992,706.472595 1644.966309,876.960815 1635.320068,980.973328"
+              class="id_information_clutter id_magnetization"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1399.404541,696.826294 C 1275.527588,758.304077 997.495178,664.705200 936.017456,540.828125"
+              class="id_information_clutter id_magnetometers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1399.404541,696.826294 C 1433.175171,718.873474 1450.760254,802.600220 1428.713013,836.370789"
+              class="id_information_clutter id_permanent_magnets"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1399.404541,696.826294 C 1449.387817,755.212341 1436.783691,917.766296 1378.397583,967.749512"
+              class="id_information_clutter id_radar_clutter"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1399.404541,696.826294 C 1049.825562,877.515991 254.422363,624.182129 73.732635,274.603088"
+              class="id_information_clutter id_sensors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -23.023193,105.303246 C 48.096821,-29.868362 357.534271,-125.945755 492.705872,-54.825741"
+              class="id_infrared_detectors id_machine_learning"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -23.023193,105.303246 C 61.254887,-73.138824 455.335144,-214.384811 633.777222,-130.106735"
+              class="id_infrared_detectors id_recurrent_neural_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -23.023193,105.303246 C -240.412903,118.119713 -585.722229,-188.740204 -598.538696,-406.129913"
+              class="id_infrared_detectors id_sensor_fusion"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -23.023193,105.303246 C -325.584290,187.750320 -903.096558,-142.420685 -985.543640,-444.981781"
+              class="id_infrared_detectors id_spatial_variables_measurement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 539.331360,1001.989075 C 414.855377,879.903992 411.269012,510.062347 533.354126,385.586365"
+              class="id_intelligent_agents id_intelligent_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 539.331360,1001.989075 C 387.129333,888.169128 329.556335,489.136261 443.376282,336.934265"
+              class="id_intelligent_agents id_monte_carlo_methods"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M 539.331360,1001.989075 C 433.643280,889.848633 443.321930,563.105713 555.462402,457.417664"
+              class="id_intelligent_agents id_multi-agent_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 539.331360,1001.989075 C 324.229431,838.649963 246.585251,270.988373 409.924408,55.886459"
+              class="id_intelligent_agents id_semantics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 539.331360,1001.989075 C 638.655212,1108.413818 628.003845,1417.036743 521.579041,1516.360718"
+              class="id_intelligent_agents id_swarm_intelligence"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -972.214355,-280.903717 C -1176.626709,-167.545792 -1653.281860,-304.127258 -1766.639771,-508.539520"
+              class="id_intelligent_sensors id_motion_measurement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -972.214355,-280.903717 C -1343.748169,-97.163361 -2176.659424,-378.853607 -2360.399902,-750.387451"
+              class="id_intelligent_sensors id_pressure_measurement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -972.214355,-280.903717 C -965.727295,-217.243866 -1051.486450,-112.023460 -1115.146362,-105.536407"
+              class="id_intelligent_sensors id_pressure_sensors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 533.354126,385.586365 C 437.142059,305.633575 412.753082,41.386337 492.705872,-54.825741"
+              class="id_intelligent_systems id_machine_learning"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 533.354126,385.586365 C 505.628174,393.851532 451.641449,364.660248 443.376282,336.934265"
+              class="id_intelligent_systems id_monte_carlo_methods"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 533.354126,385.586365 C 552.142029,395.530975 565.407043,438.629730 555.462402,457.417664"
+              class="id_intelligent_systems id_multi-agent_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 533.354126,385.586365 C 325.824768,341.231140 81.063576,-36.595650 125.418800,-244.125000"
+              class="id_intelligent_systems id_neural_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 533.354126,385.586365 C 373.550201,276.211823 297.906067,-127.555832 407.280609,-287.359772"
+              class="id_intelligent_systems id_supervised_learning"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.16129"
+              d="M -142.908173,-315.320923 C -117.482346,-271.249847 -145.450241,-167.004486 -189.521332,-141.578659"
+              class="id_iterative_methods id_learning_algorithms"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -142.908173,-315.320923 C -242.407822,-373.203064 -304.834106,-609.275696 -246.951965,-708.775330"
+              class="id_iterative_methods id_matrix_algebra"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M -142.908173,-315.320923 C -75.003601,-354.747131 85.992584,-312.029602 125.418800,-244.125000"
+              class="id_iterative_methods id_neural_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -142.908173,-315.320923 C -181.957947,-360.918335 -172.136505,-487.889099 -126.539093,-526.938904"
+              class="id_iterative_methods id_principal_component_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -142.908173,-315.320923 C -80.376816,-244.197159 -93.265411,-43.714481 -164.389175,18.816879"
+              class="id_iterative_methods id_regression_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -142.908173,-315.320923 C 41.899834,-351.645966 373.599365,-128.921539 409.924408,55.886459"
+              class="id_iterative_methods id_semantics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -142.908173,-315.320923 C -88.756310,-357.386963 55.570499,-339.258179 97.636520,-285.106323"
+              class="id_iterative_methods id_signal_processing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -142.908173,-315.320923 C -217.918335,-329.603912 -309.009125,-463.543610 -294.726135,-538.553772"
+              class="id_iterative_methods id_support_vector_machines"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -142.908173,-315.320923 C -359.747528,-261.172668 -766.229004,-505.209351 -820.377197,-722.048706"
+              class="id_iterative_methods id_ultrasonic_measurement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 50.987900,-198.761536 C -178.342331,-19.597992 -791.083008,-94.848022 -970.246582,-324.178253"
+              class="id_kalman_filters id_maximum_entropy_methods"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="5.7419353"
+              d="M 50.987900,-198.761536 C -92.108566,-45.722198 -536.312256,-30.807877 -689.351563,-173.904343"
+              class="id_kalman_filters id_nonlinear_filters"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 50.987900,-198.761536 C -120.391090,-110.329880 -510.107025,-234.750931 -598.538696,-406.129913"
+              class="id_kalman_filters id_sensor_fusion"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 50.987900,-198.761536 C -86.113350,-197.577164 -293.541779,-401.452515 -294.726135,-538.553772"
+              class="id_kalman_filters id_support_vector_machines"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1018.478882,433.450073 C -967.693115,152.652832 -470.318604,-192.364410 -189.521332,-141.578659"
+              class="id_knowledge_representation id_learning_algorithms"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.16129"
+              d="M -189.521332,-141.578659 C -35.725311,-260.673523 373.611023,-208.621765 492.705872,-54.825741"
+              class="id_learning_algorithms id_machine_learning"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M -189.521332,-141.578659 C 79.274712,-170.776154 526.264893,188.621613 555.462402,457.417664"
+              class="id_learning_algorithms id_multi-agent_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.521332,-141.578659 C -475.834717,-236.625671 -762.734192,-808.666260 -667.687195,-1094.979614"
+              class="id_learning_algorithms id_multilayer_perceptrons"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="5.7419353"
+              d="M -189.521332,-141.578659 C -131.741547,-107.801498 -95.737625,29.533924 -129.514786,87.313705"
+              class="id_learning_algorithms id_natural_language_processing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.521332,-141.578659 C 31.253098,-39.386871 209.127075,445.062439 106.935280,665.836853"
+              class="id_learning_algorithms id_nearest_neighbor_search"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="50.0"
+              d="M -189.521332,-141.578659 C -147.042572,-225.075943 41.921509,-286.603760 125.418800,-244.125000"
+              class="id_learning_algorithms id_neural_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.16129"
+              d="M -189.521332,-141.578659 C -169.946655,-36.662762 -297.958466,150.073120 -402.874390,169.647797"
+              class="id_learning_algorithms id_pattern_classification"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M -189.521332,-141.578659 C -253.996918,-231.247147 -216.207581,-462.463287 -126.539093,-526.938904"
+              class="id_learning_algorithms id_principal_component_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M -189.521332,-141.578659 C -47.051003,-31.039940 0.846413,348.473633 -109.692307,490.943970"
+              class="id_learning_algorithms id_recommender_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="8.903226"
+              d="M -189.521332,-141.578659 C -231.989014,-169.018433 -254.530823,-273.879608 -227.091034,-316.347290"
+              class="id_learning_algorithms id_recurrent_neural_nets"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="16.806452"
+              d="M -189.521332,-141.578659 C -152.415802,-114.525978 -137.336487,-18.288662 -164.389175,18.816879"
+              class="id_learning_algorithms id_regression_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.521332,-141.578659 C -20.281458,-343.144104 535.926514,-391.632477 737.491943,-222.392609"
+              class="id_learning_algorithms id_reinforcement_learning"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.521332,-141.578659 C -81.035667,-126.213638 58.645283,59.562366 43.280258,168.048035"
+              class="id_learning_algorithms id_remote_sensing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.521332,-141.578659 C -30.139164,-221.974777 329.528290,-103.495712 409.924408,55.886459"
+              class="id_learning_algorithms id_semantics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.521332,-141.578659 C -324.235046,-112.685432 -569.645508,-271.416199 -598.538696,-406.129913"
+              class="id_learning_algorithms id_sensor_fusion"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.521332,-141.578659 C 60.737228,-223.421204 558.888977,29.202835 640.731506,279.461395"
+              class="id_learning_algorithms id_sensor_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.521332,-141.578659 C -637.260864,-294.323608 -1079.752563,-1195.050049 -927.007629,-1642.789551"
+              class="id_learning_algorithms id_stochastic_processes"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="5.7419353"
+              d="M -189.521332,-141.578659 C -289.957306,-199.932724 -353.080200,-438.117798 -294.726135,-538.553772"
+              class="id_learning_algorithms id_support_vector_machines"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.521332,-141.578659 C -388.024597,-71.101990 -791.494385,-263.141846 -861.971069,-461.645111"
+              class="id_learning_algorithms id_unsupervised_learning"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1357.833130,-1629.794922 C -1449.469849,-1570.145264 -1676.399536,-1618.125854 -1736.049194,-1709.762573"
+              class="id_low-pass_filters id_sigma-delta_modulation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.16129"
+              d="M 492.705872,-54.825741 C 381.388580,-19.228172 161.016373,-132.807739 125.418800,-244.125000"
+              class="id_machine_learning id_neural_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 492.705872,-54.825741 C 505.863953,-98.096214 590.506714,-143.264801 633.777222,-130.106735"
+              class="id_machine_learning id_recurrent_neural_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="5.7419353"
+              d="M 492.705872,-54.825741 C 508.149719,-137.296326 655.021362,-237.836456 737.491943,-222.392609"
+              class="id_machine_learning id_reinforcement_learning"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 492.705872,-54.825741 C 367.635895,-21.867989 130.594269,-160.036331 97.636520,-285.106323"
+              class="id_machine_learning id_signal_processing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 492.705872,-54.825741 C 429.114014,-84.247498 377.858856,-223.767914 407.280609,-287.359772"
+              class="id_machine_learning id_supervised_learning"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1635.320068,980.973328 C 1407.430420,1032.804810 987.848877,768.717712 936.017456,540.828125"
+              class="id_magnetization id_magnetometers"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1635.320068,980.973328 C 1565.078125,993.374207 1441.113892,906.612732 1428.713013,836.370789"
+              class="id_magnetization id_permanent_magnets"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1635.320068,980.973328 C 1181.728516,1152.016724 244.776062,728.194580 73.732635,274.603088"
+              class="id_magnetization id_sensors" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 936.017456,540.828125 C 1093.665039,501.397522 1389.282471,678.723145 1428.713013,836.370789"
+              class="id_magnetometers id_permanent_magnets"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 936.017456,540.828125 C 710.315491,660.040100 192.944580,500.305054 73.732635,274.603088"
+              class="id_magnetometers id_sensors" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M -351.685455,-449.259949 C -35.434280,-451.033447 441.602783,20.683090 443.376282,336.934265"
+              class="id_markov_processes id_monte_carlo_methods"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -351.685455,-449.259949 C -220.610825,-393.103851 -108.233063,-112.257751 -164.389175,18.816879"
+              class="id_markov_processes id_regression_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -351.685455,-449.259949 C -214.480667,-547.803650 139.142105,-489.811981 237.685791,-352.607178"
+              class="id_markov_processes id_trees" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -246.951965,-708.775330 C -84.920959,-579.769470 -35.383286,-143.214127 -164.389175,18.816879"
+              class="id_matrix_algebra id_regression_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -246.951965,-708.775330 C -415.224579,-622.018799 -797.768372,-744.292847 -884.524902,-912.565491"
+              class="id_matrix_algebra id_set_theory" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -970.246582,-324.178253 C -884.012756,-350.302490 -715.475769,-260.138123 -689.351563,-173.904343"
+              class="id_maximum_entropy_methods id_nonlinear_filters"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -753.365479,-251.639587 C -753.298218,-313.503021 -660.402100,-406.197205 -598.538696,-406.129913"
+              class="id_mean_square_error_methods id_sensor_fusion"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -930.098633,-709.655884 C -1223.798584,-846.832886 -1458.583130,-1493.148193 -1321.406128,-1786.848145"
+              class="id_microsensors id_rotation_measurement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M -930.098633,-709.655884 C -803.081421,-715.262695 -604.145508,-533.147095 -598.538696,-406.129913"
+              class="id_microsensors id_sensor_fusion"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -930.098633,-709.655884 C -1185.879395,-777.232300 -1468.185791,-1262.268066 -1400.609375,-1518.048828"
+              class="id_microsensors id_sensor_placement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 557.807373,62.737366 C 617.737000,89.497345 667.491455,219.531769 640.731506,279.461395"
+              class="id_mobile_agents id_sensor_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 443.376282,336.934265 C 489.890198,338.613708 557.141846,410.903748 555.462402,457.417664"
+              class="id_monte_carlo_methods id_multi-agent_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -658.948853,-754.904053 C -681.239563,-817.485779 -620.802917,-944.794434 -558.221191,-967.085144"
+              class="id_motion_compensation id_ultrasonic_applications"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1766.639771,-508.539520 C -1933.761475,-438.157104 -2290.017578,-583.265869 -2360.399902,-750.387451"
+              class="id_motion_measurement id_pressure_measurement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1766.639771,-508.539520 C -1555.740479,-558.237549 -1164.844482,-316.435699 -1115.146362,-105.536407"
+              class="id_motion_measurement id_pressure_sensors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 555.462402,457.417664 C 644.173096,536.388672 658.782837,787.911255 579.811890,876.621948"
+              class="id_multi-agent_systems id_software_agents"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1980.687378,-1257.986084 C -1499.608643,-1451.291870 -488.031921,-1019.632507 -294.726135,-538.553772"
+              class="id_multilayer_neural_networks id_support_vector_machines"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 106.935280,665.836853 C 136.419434,481.802521 456.697205,249.977234 640.731506,279.461395"
+              class="id_nearest_neighbor_search id_sensor_networks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 125.418800,-244.125000 C -25.837189,-263.502930 -223.654221,-519.453857 -204.276276,-670.709839"
+              class="id_neural_networks id_octrees" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 125.418800,-244.125000 C 117.409737,-363.988312 285.191132,-555.796936 405.054443,-563.805969"
+              class="id_neural_networks id_particle_swarm_optimization"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.16129"
+              d="M 125.418800,-244.125000 C 102.514717,-55.711815 -214.461212,192.551880 -402.874390,169.647797"
+              class="id_neural_networks id_pattern_classification"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 125.418800,-244.125000 C 18.464439,-250.296204 -132.710297,-419.984558 -126.539093,-526.938904"
+              class="id_neural_networks id_principal_component_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="5.7419353"
+              d="M 125.418800,-244.125000 C 120.045578,-133.575027 -53.839203,24.190098 -164.389175,18.816879"
+              class="id_neural_networks id_regression_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 125.418800,-244.125000 C 191.425690,-145.262695 142.142578,102.041138 43.280258,168.048035"
+              class="id_neural_networks id_remote_sensing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 125.418800,-244.125000 C 242.322235,-241.023819 413.025574,-61.016968 409.924408,55.886459"
+              class="id_neural_networks id_semantics" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 125.418800,-244.125000 C -51.773689,-131.734497 -486.148193,-228.937439 -598.538696,-406.129913"
+              class="id_neural_networks id_sensor_fusion"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 125.418800,-244.125000 C 217.971008,-640.111877 950.779602,-1095.263916 1346.766479,-1002.711670"
+              class="id_neural_networks id_signal_denoising"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M 125.418800,-244.125000 C -17.495949,-218.981750 -269.582886,-395.639038 -294.726135,-538.553772"
+              class="id_neural_networks id_support_vector_machines"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 125.418800,-244.125000 C 500.743805,-777.887939 1864.375488,-1015.544800 2398.138428,-640.219849"
+              class="id_neural_networks id_wiener_filters"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -689.351563,-173.904343 C -717.634094,-238.512024 -663.146423,-377.847382 -598.538696,-406.129913"
+              class="id_nonlinear_filters id_sensor_fusion"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1065.506592,-862.822876 C 1067.235474,-452.203430 453.899689,166.319138 43.280258,168.048035"
+              class="id_parallel_algorithms id_remote_sensing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 405.054443,-563.805969 C 306.109161,-450.113861 -12.846977,-427.993622 -126.539093,-526.938904"
+              class="id_particle_swarm_optimization id_principal_component_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 405.054443,-563.805969 C 270.148773,-418.799438 -149.719574,-403.648071 -294.726135,-538.553772"
+              class="id_particle_swarm_optimization id_support_vector_machines"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.580645"
+              d="M -402.874390,169.647797 C -385.343506,91.784576 -242.252396,1.286022 -164.389175,18.816879"
+              class="id_pattern_classification id_regression_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1428.713013,836.370789 C 1045.363403,995.013306 232.375153,657.952698 73.732635,274.603088"
+              class="id_permanent_magnets id_sensors" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2360.399902,-750.387451 C -1982.378906,-870.467957 -1235.226807,-483.557343 -1115.146362,-105.536407"
+              class="id_pressure_measurement id_pressure_sensors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1115.146362,-105.536407 C -908.503784,-384.006958 -180.834045,-491.748901 97.636520,-285.106323"
+              class="id_pressure_sensors id_signal_processing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1115.146362,-105.536407 C -1139.061401,-46.707520 -1263.177124,5.663376 -1322.005981,-18.251587"
+              class="id_pressure_sensors id_temperature_sensors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -126.539093,-526.938904 C -104.531158,-464.710205 -164.862335,-338.355225 -227.091034,-316.347290"
+              class="id_principal_component_analysis id_recurrent_neural_nets"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -126.539093,-526.938904 C -384.739929,-636.410706 -607.833374,-1187.919678 -498.361572,-1446.120483"
+              class="id_principal_component_analysis id_source_separation"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -126.539093,-526.938904 C -162.499466,-495.624481 -263.411682,-502.593353 -294.726135,-538.553772"
+              class="id_principal_component_analysis id_support_vector_machines"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 330.924713,-1085.144287 C 444.274689,-878.479065 304.301758,-398.456299 97.636520,-285.106323"
+              class="id_radar_measurement id_signal_processing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -227.091034,-316.347290 C -147.517822,-261.854828 -109.896713,-60.756329 -164.389175,18.816879"
+              class="id_recurrent_neural_nets id_regression_analysis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -227.091034,-316.347290 C -319.337067,-260.014282 -542.205688,-313.883850 -598.538696,-406.129913"
+              class="id_recurrent_neural_nets id_sensor_fusion"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -164.389175,18.816879 C -494.692810,-23.432449 -926.774231,-582.261841 -884.524902,-912.565491"
+              class="id_regression_analysis id_set_theory"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 43.280258,168.048035 C 94.176773,72.286888 314.163269,4.989937 409.924408,55.886459"
+              class="id_remote_sensing id_semantics" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2429.658203,429.815491 C -2396.662842,436.351013 -2356.973389,495.647278 -2363.508789,528.642578"
+              class="id_remote_sensing_by_radar id_synthetic_aperture_radar"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1321.406128,-1786.848145 C -900.688965,-1655.277954 -466.968506,-826.847046 -598.538696,-406.129913"
+              class="id_rotation_measurement id_sensor_fusion"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1321.406128,-1786.848145 C -1283.486938,-1717.247559 -1331.008789,-1555.968018 -1400.609375,-1518.048828"
+              class="id_rotation_measurement id_sensor_placement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -598.538696,-406.129913 C -981.336609,-468.099548 -1462.578979,-1135.250854 -1400.609375,-1518.048828"
+              class="id_sensor_fusion id_sensor_placement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -598.538696,-406.129913 C -586.579468,-262.755798 -783.701904,-29.755806 -927.076050,-17.796616"
+              class="id_sensor_fusion id_strain_sensors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 621.862427,635.975403 C 439.961975,673.326904 111.084122,456.503510 73.732635,274.603088"
+              class="id_sensor_nodes id_sensors" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 73.732635,274.603088 C 53.706024,93.030212 296.025421,-209.369019 477.598297,-229.395630"
+              class="id_sensors id_smoke" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 73.732635,274.603088 C -18.918785,116.370407 79.453102,-259.955750 237.685791,-352.607178"
+              class="id_sensors id_trees" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 97.636520,-285.106323 C -132.921036,52.193115 -984.706543,212.305969 -1322.005981,-18.251587"
+              class="id_signal_processing id_temperature_sensors"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 477.598297,-229.395630 C 404.973480,-206.055435 261.026001,-279.982361 237.685791,-352.607178"
+              class="id_smoke id_trees" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -985.543640,-444.981781 C -813.324036,-670.996948 -215.971863,-751.690186 10.043278,-579.470581"
+              class="id_spatial_variables_measurement id_time_measurement"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 407.280609,-287.359772 C 118.573196,-68.366486 -642.977783,-172.937714 -861.971069,-461.645111"
+              class="id_supervised_learning id_unsupervised_learning"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -294.726135,-538.553772 C -325.196350,-605.307190 -270.771484,-751.142639 -204.018051,-781.612854"
+              class="id_support_vector_machines id_wavelet_transforms"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -322.099243,-1203.597778 C -301.197754,-1224.499268 -301.197754,-1182.696289 -322.099243,-1203.597778"
+              class="id_thermography" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#4250ff" r="17.963272" cx="-50.64807"
+                class="id_artificial_intelligence" cy="346.73282"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="12.554257" cx="224.92062"
+                class="id_computational_geometry" cy="-43.631332"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="11.2020035" cx="533.3541"
+                class="id_intelligent_systems" cy="385.58636" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="13.155259" cx="492.70587"
+                class="id_machine_learning" cy="-54.82574" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.15025" cx="633.7772"
+                class="id_recurrent_neural_networks" cy="-130.10674"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="14.808014" cx="409.9244"
+                class="id_semantics" cy="55.88646" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.15025" cx="407.2806"
+                class="id_supervised_learning" cy="-287.35977" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.601002" cx="237.68579"
+                class="id_trees" cy="-352.60718" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.751252" cx="-480.85938"
+                class="id_concave_programming" cy="-720.47705" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="39.148582" cx="-189.52133"
+                class="id_learning_algorithms" cy="-141.57866" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="23.372288" cx="125.4188"
+                class="id_neural_networks" cy="-244.125" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="1175.8676"
+                class="id_adaptive_algorithms" cy="-324.42325" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="14.657763" cx="650.0704"
+                class="id_deep_learning" cy="-65.83874" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.300501" cx="1304.372"
+                class="id_stochastic_systems" cy="-344.9264" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="260.7442"
+                class="id_acceleration_measurement" cy="1652.7361"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.901503" cx="-681.0694"
+                class="id_accelerometers" cy="51.253334" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.751252" cx="-518.3556"
+                class="id_correlation_methods" cy="-117.057655" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.300501" cx="936.01746"
+                class="id_magnetometers" cy="540.8281" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.450751" cx="-753.3655"
+                class="id_mean_square_error_methods" cy="-251.63959"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="13.75626" cx="-598.5387"
+                class="id_sensor_fusion" cy="-406.1299" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="11.2020035" cx="405.05444"
+                class="id_particle_swarm_optimization" cy="-563.80597"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="12.554257" cx="394.30713"
+                class="id_deep_neural_networks" cy="-71.092636" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="304.34747"
+                class="id_error_analysis" cy="494.18994" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.15025" cx="10.043278"
+                class="id_time_measurement" cy="-579.4706" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="19.465776" cx="-26.522644"
+                class="id_calibration" cy="-388.2919" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.450751" cx="-498.36157"
+                class="id_source_separation" cy="-1446.1205" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="-2132.6194"
+                class="id_vibration_measurement" cy="-1278.2023"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="1346.7665"
+                class="id_signal_denoising" cy="-1002.7117" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="18.564274" cx="-241.08894"
+                class="id_convolutional_neural_nets" cy="-75.452354"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="12.2537565" cx="-252.52713"
+                class="id_graph_theory" cy="-229.119" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.15025" cx="-820.3772"
+                class="id_ultrasonic_measurement" cy="-722.0487"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="14.958263" cx="-142.90817"
+                class="id_iterative_methods" cy="-315.32092" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="-212.70212"
+                class="id_adaptive_estimation" cy="-2188.2214" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.901503" cx="-450.80603"
+                class="id_bayes_methods" cy="-740.49536" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.901503" cx="-204.01805"
+                class="id_wavelet_transforms" cy="-781.61285" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.601002" cx="149.18405"
+                class="id_filtering_theory" cy="-760.27563" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.751252" cx="-32.69741"
+                class="id_spatial_light_modulators" cy="-1266.4202"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="967.5711"
+                class="id_adaptive_systems" cy="147.89743" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="12.2537565" cx="391.448"
+                class="id_information_classification" cy="277.42093"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.450751" cx="-252.91318"
+                class="id_gaussian_processes" cy="-691.4857" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="11.2020035" cx="-351.68546"
+                class="id_markov_processes" cy="-449.25995" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="13.455759" cx="-164.38918"
+                class="id_regression_analysis" cy="18.81688" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.751252" cx="-402.8744"
+                class="id_pattern_classification" cy="169.6478" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.751252" cx="585.1625"
+                class="id_agents" cy="785.3684" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="13.30551" cx="555.4624"
+                class="id_multi-agent_systems" cy="457.41766" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.450751" cx="314.19598"
+                class="id_convolutional_neural_networks" cy="-198.49344"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="11.2020035" cx="50.9879"
+                class="id_kalman_filters" cy="-198.76154" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="11.803005" cx="226.691"
+                class="id_photogrammetry" cy="-152.20047" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="11.502504" cx="43.28026"
+                class="id_remote_sensing" cy="168.04803" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="12.854757" cx="73.732635"
+                class="id_sensors" cy="274.6031" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="11.502504" cx="553.3534"
+                class="id_autonomous_agents" cy="464.45728" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="11.2020035" cx="539.33136"
+                class="id_intelligent_agents" cy="1001.9891" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="11.051753" cx="-589.3099"
+                class="id_approximation_theory" cy="138.0648" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.300501" cx="722.00616"
+                class="id_signal_detection" cy="410.01868" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.901503" cx="443.37628"
+                class="id_monte_carlo_methods" cy="336.93427" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.15025" cx="-1006.413"
+                class="id_strain_gauges" cy="325.87704" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="-1543.9434"
+                class="id_feedforward" cy="-1860.794" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="-1357.8331"
+                class="id_low-pass_filters" cy="-1629.7949" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="-1736.0492"
+                class="id_sigma-delta_modulation" cy="-1709.7626"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.450751" cx="-558.2212"
+                class="id_ultrasonic_applications" cy="-967.08514"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.751252" cx="579.8119"
+                class="id_software_agents" cy="876.62195" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="1772.5881"
+                class="id_anomaly_detection" cy="1117.7283" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.601002" cx="1399.4045"
+                class="id_information_clutter" cy="696.8263" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="1635.3201"
+                class="id_magnetization" cy="980.9733" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="1428.713"
+                class="id_permanent_magnets" cy="836.3708" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.15025" cx="1096.2433"
+                class="id_ant_colony_optimization" cy="-923.5917"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.15025" cx="330.9247"
+                class="id_radar_measurement" cy="-1085.1443" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="11.502504" cx="97.63652"
+                class="id_signal_processing" cy="-285.10632" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.450751" cx="737.49194"
+                class="id_reinforcement_learning" cy="-222.39261"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.450751" cx="223.28525"
+                class="id_ultrasonics" cy="-935.3593" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="12.554257" cx="-129.51479"
+                class="id_natural_language_processing" cy="87.313705"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.450751" cx="842.3424"
+                class="id_complex_networks" cy="-129.21579" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.300501" cx="1163.243"
+                class="id_approximation_algorithms" cy="-123.976265"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="1781.311"
+                class="id_graph_algorithms" cy="-278.83472" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="11.502504" cx="21.296036"
+                class="id_computational_complexity" cy="-333.0992"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="-1527.5862"
+                class="id_deterministic_algorithms" cy="-1276.4736"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="12.2537565" cx="-246.95197"
+                class="id_matrix_algebra" cy="-708.7753" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.751252" cx="-126.53909"
+                class="id_principal_component_analysis" cy="-526.9389"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="-884.5249"
+                class="id_set_theory" cy="-912.5655" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="11.051753" cx="640.7315"
+                class="id_sensor_networks" cy="279.4614" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.300501" cx="-196.95554"
+                class="id_independent_component_analysis" cy="-1667.5215"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="11.352254" cx="382.88397"
+                class="id_decision_trees" cy="-326.287" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.15025" cx="630.9381"
+                class="id_informatics" cy="1049.4133" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="11.953256" cx="-109.69231"
+                class="id_recommender_systems" cy="490.94397" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="-239.12106"
+                class="id_artificial_satellites" cy="198.0663" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="-240.03522"
+                class="id_fuzzy_systems" cy="172.2695" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.450751" cx="-322.09924"
+                class="id_thermography" cy="-1203.5978" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.300501" cx="-190.89487"
+                class="id_forward_error_correction" cy="-1159.5255"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="11.953256" cx="-294.72614"
+                class="id_support_vector_machines" cy="-538.5538"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.15025" cx="1663.0972"
+                class="id_convolutional_codes" cy="-330.5829" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="11.051753" cx="-745.5425"
+                class="id_fuzzy_set_theory" cy="56.170925" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.300501" cx="-861.97107"
+                class="id_unsupervised_learning" cy="-461.6451" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="12.404007" cx="-163.72379"
+                class="id_feedforward_neural_nets" cy="-398.73993"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="894.0033"
+                class="id_clustering_algorithms" cy="-1350.1299"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.300501" cx="897.1429"
+                class="id_extended_kalman_filters" cy="-998.00616"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.601002" cx="-750.6836"
+                class="id_radiofrequency_identification" cy="-14.0727215"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.15025" cx="-311.81607"
+                class="id_estimation_theory" cy="-549.58105" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="2695.6458"
+                class="id_bayesian_networks" cy="265.4883" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="11.502504" cx="340.9516"
+                class="id_computation_theory" cy="407.75125" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.15025" cx="938.7909"
+                class="id_intelligent_computing" cy="583.1724" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.300501" cx="-81.6299"
+                class="id_inference_mechanisms" cy="4.4581437" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.300501" cx="1239.5255"
+                class="id_probes" cy="-68.38168" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="-65.71797"
+                class="id_supercomputers" cy="2530.8804" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.300501" cx="-1330.3185"
+                class="id_force_sensors" cy="-540.62366" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="-927.07605"
+                class="id_strain_sensors" cy="-17.796616" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="-1944.512"
+                class="id_signal_reconstruction" cy="-30.509464"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.300501" cx="-1115.1464"
+                class="id_pressure_sensors" cy="-105.53641" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="477.5983"
+                class="id_smoke" cy="-229.39563" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="-1861.3846"
+                class="id_velocity_measurement" cy="-1661.405" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.751252" cx="-658.94885"
+                class="id_motion_compensation" cy="-754.90405" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.450751" cx="-23.023193"
+                class="id_infrared_detectors" cy="105.303246" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.300501" cx="-871.9503"
+                class="id_capacitive_sensors" cy="-377.49414" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.15025" cx="-1091.0242"
+                class="id_signal_classification" cy="-855.2247" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.300501" cx="-972.21436"
+                class="id_intelligent_sensors" cy="-280.90372" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="-980.9552"
+                class="id_self-organising_feature_maps" cy="684.62317"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.15025" cx="-930.09863"
+                class="id_microsensors" cy="-709.6559" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="-1321.4061"
+                class="id_rotation_measurement" cy="-1786.8481" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="-1400.6094"
+                class="id_sensor_placement" cy="-1518.0488" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.15025" cx="-2328.2688"
+                class="id_cooling" cy="-819.479" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="705.7608"
+                class="id_error_compensation" cy="-2404.5222" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="-357.6431"
+                class="id_flow_sensors" cy="-1511.7379" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.300501" cx="286.28787"
+                class="id_genetic_algorithms" cy="-812.2876" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="-317.82584"
+                class="id_magneto-optical_sensors" cy="-1296.7012"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="-667.6872"
+                class="id_multilayer_perceptrons" cy="-1094.9796"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="11.2020035" cx="-227.09103"
+                class="id_recurrent_neural_nets" cy="-316.3473" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.450751" cx="-985.54364"
+                class="id_spatial_variables_measurement" cy="-444.98178"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="1458.1442"
+                class="id_function_generators" cy="245.13539" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="11.051753" cx="-204.27628"
+                class="id_octrees" cy="-670.70984" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.300501" cx="160.43523"
+                class="id_fading_channels" cy="-1448.5447" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="1065.5066"
+                class="id_parallel_algorithms" cy="-862.8229" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="1992.844"
+                class="id_classifiers" cy="-1236.4565" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.15025" cx="-1766.6398"
+                class="id_motion_measurement" cy="-508.53952" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="-2360.4"
+                class="id_pressure_measurement" cy="-750.38745" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.300501" cx="-851.39014"
+                class="id_embeddings" cy="463.33347" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="11.051753" cx="-7.5142593"
+                class="id_information_analysis" cy="552.6829" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.15025" cx="-1322.006"
+                class="id_temperature_sensors" cy="-18.251587" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="-2245.357"
+                class="id_cluster_analysis" cy="-846.5882" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="-714.4064"
+                class="id_clutter" cy="-1103.4493" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="-1836.4069"
+                class="id_near_infrared_spectroscopy" cy="1520.7732"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="-752.17786"
+                class="id_collaborative_filtering" cy="1969.0842"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.300501" cx="557.8074"
+                class="id_mobile_agents" cy="62.737366" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="76.34986"
+                class="id_magnetic_variables_measurement" cy="2129.7107"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.15025" cx="-647.7644"
+                class="id_neural_net_architecture" cy="-321.39587"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="1204.963"
+                class="id_inference_engines" cy="31.841093" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.15025" cx="-1018.4789"
+                class="id_knowledge_representation" cy="433.45007"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.450751" cx="-689.35156"
+                class="id_nonlinear_filters" cy="-173.90434" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.15025" cx="-984.9169"
+                class="id_fuzzy_control" cy="219.07916" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.601002" cx="-716.77814"
+                class="id_gradient_methods" cy="-653.75397" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.15025" cx="7.3968954"
+                class="id_random_forests" cy="-1273.321" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="77.34477"
+                class="id_smart_sensors" cy="782.7282" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="1954.189"
+                class="id_reverse_engineering" cy="-2050.4573" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="56.800697"
+                class="id_motion_sensors" cy="1036.9639" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.300501" cx="621.8624"
+                class="id_sensor_nodes" cy="635.9754" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="672.6472"
+                class="id_signal_distortion" cy="-966.825" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.300501" cx="-885.7498"
+                class="id_fuzzy_logic" cy="294.79184" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="2509.851"
+                class="id_discrete_fourier_transforms" cy="-1318.598"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="1690.3292"
+                class="id_nonlinear_systems" cy="-1615.1229" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="1599.8789"
+                class="id_hysteresis" cy="-2224.1125" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="-616.83264"
+                class="id_electric_potential" cy="213.15317" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.15025" cx="106.93528"
+                class="id_nearest_neighbor_search" cy="665.83685"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.300501" cx="542.01556"
+                class="id_error_correction" cy="-1106.5355" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="-2054.6365"
+                class="id_evolutionary_computation" cy="-356.9756"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.15025" cx="-390.9794"
+                class="id_hidden_feature_removal" cy="-1945.7947"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="-1072.9902"
+                class="id_kinetics" cy="-2354.069" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="-2167.4187"
+                class="id_frequency_response" cy="-1089.5299" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.15025" cx="-2230.565"
+                class="id_simulated_annealing" cy="-781.91986" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="-1672.7998"
+                class="id_fuzzy_inference" cy="-1042.7721" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="-2429.6582"
+                class="id_remote_sensing_by_radar" cy="429.8155"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="-2363.5088"
+                class="id_synthetic_aperture_radar" cy="528.6426"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="-1608.7047"
+                class="id_impulse_response" cy="-1772.7311" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="-970.2466"
+                class="id_maximum_entropy_methods" cy="-324.17825"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="-1268.5107"
+                class="id_millimetre_wave_radar" cy="405.6791" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="-927.0076"
+                class="id_stochastic_processes" cy="-1642.7896" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="1015.0028"
+                class="id_ultrasonic_arrays" cy="-988.3233" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.300501" cx="922.0125"
+                class="id_sensory_feedback" cy="-588.53107" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="1884.1416"
+                class="id_spectrographs" cy="501.1654" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="-1980.6874"
+                class="id_multilayer_neural_networks" cy="-1257.9861"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="-1804.3005"
+                class="id_phase_shift_keying" cy="-1648.0696" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="1378.3976"
+                class="id_radar_clutter" cy="967.7495" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="521.57904"
+                class="id_swarm_intelligence" cy="1516.3607" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="673.7399"
+                class="id_signaling" cy="-2517.9104" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff61ef" r="10.0" cx="-220.32942"
+                class="id_photosensitivity" cy="-1963.5153" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4250ff" r="10.0" cx="2398.1384"
+                class="id_wiener_filters" cy="-640.21985" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="43" x="-50.64807" y="356.82495" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_artificial_intelligence">
+            artificial intelligence
+        </text>
+        <text font-size="30" x="224.92062" y="-36.68309" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_computational_geometry">
+            computational geometry
+        </text>
+        <text font-size="27" x="533.3541" y="391.83978" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_intelligent_systems">
+            intelligent systems
+        </text>
+        <text font-size="32" x="492.70587" y="-47.414284" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_machine_learning">
+            machine learning
+        </text>
+        <text font-size="24" x="633.7772" y="-125.7415" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_recurrent_neural_networks">
+            recurrent neural networks
+        </text>
+        <text font-size="36" x="409.9244" y="62.43431" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_semantics">
+            semantics
+        </text>
+        <text font-size="24" x="407.2806" y="-281.80118" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_supervised_learning">
+            supervised learning
+        </text>
+        <text font-size="25" x="237.68579" y="-348.15976" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_trees">
+            trees
+        </text>
+        <text font-size="26" x="-480.85938" y="-714.45526" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_concave_programming">
+            concave programming
+        </text>
+        <text font-size="94" x="-189.52133" y="-119.8075" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_learning_algorithms">
+            learning algorithms
+        </text>
+        <text font-size="56" x="125.4188" y="-233.93945" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_neural_networks">
+            neural networks
+        </text>
+        <text font-size="24" x="1175.8676" y="-318.86465" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_adaptive_algorithms">
+            adaptive algorithms
+        </text>
+        <text font-size="35" x="650.0704" y="-57.732456" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_deep_learning">
+            deep learning
+        </text>
+        <text font-size="25" x="1304.372" y="-339.1362" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_stochastic_systems">
+            stochastic systems
+        </text>
+        <text font-size="24" x="260.7442" y="1657.1013" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_acceleration_measurement">
+            acceleration measurement
+        </text>
+        <text font-size="26" x="-681.0694" y="55.982338" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_accelerometers">
+            accelerometers
+        </text>
+        <text font-size="26" x="-518.3556" y="-112.32865" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_correlation_methods">
+            correlation methods
+        </text>
+        <text font-size="25" x="936.01746" y="546.5187" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_magnetometers">
+            magnetometers
+        </text>
+        <text font-size="25" x="-753.3655" y="-245.92262" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mean_square_error_methods">
+            mean square error methods
+        </text>
+        <text font-size="33" x="-598.5387" y="-400.02567" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sensor_fusion">
+            sensor fusion
+        </text>
+        <text font-size="27" x="405.05444" y="-557.63165" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_particle_swarm_optimization">
+            particle swarm optimization
+        </text>
+        <text font-size="30" x="394.30713" y="-64.232285" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_deep_neural_networks">
+            deep neural networks
+        </text>
+        <text font-size="24" x="304.34747" y="499.74854" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_error_analysis">
+            error analysis
+        </text>
+        <text font-size="24" x="10.043278" y="-575.10535" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_time_measurement">
+            time measurement
+        </text>
+        <text font-size="47" x="-26.522644" y="-379.74332" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_calibration">
+            calibration
+        </text>
+        <text font-size="25" x="-498.36157" y="-1440.4036" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_source_separation">
+            source separation
+        </text>
+        <text font-size="24" x="-2132.6194" y="-1273.837" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_vibration_measurement">
+            vibration measurement
+        </text>
+        <text font-size="24" x="1346.7665" y="-997.1531" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_signal_denoising">
+            signal denoising
+        </text>
+        <text font-size="45" x="-241.08894" y="-67.26754" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_convolutional_neural_nets">
+            convolutional neural nets
+        </text>
+        <text font-size="29" x="-252.52713" y="-222.40237" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_graph_theory">
+            graph theory
+        </text>
+        <text font-size="24" x="-820.3772" y="-717.6835" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ultrasonic_measurement">
+            ultrasonic measurement
+        </text>
+        <text font-size="36" x="-142.90817" y="-308.77307" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_iterative_methods">
+            iterative methods
+        </text>
+        <text font-size="24" x="-212.70212" y="-2182.7332" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_adaptive_estimation">
+            adaptive estimation
+        </text>
+        <text font-size="26" x="-450.80603" y="-734.4736" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_bayes_methods">
+            bayes methods
+        </text>
+        <text font-size="26" x="-204.01805" y="-776.80347" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_wavelet_transforms">
+            wavelet transforms
+        </text>
+        <text font-size="25" x="149.18405" y="-754.4081" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_filtering_theory">
+            filtering theory
+        </text>
+        <text font-size="26" x="-32.69741" y="-1260.3983" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_spatial_light_modulators">
+            spatial light modulators
+        </text>
+        <text font-size="24" x="967.5711" y="153.45602" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_adaptive_systems">
+            adaptive systems
+        </text>
+        <text font-size="29" x="391.448" y="282.78528" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_information_classification">
+            information classification
+        </text>
+        <text font-size="25" x="-252.91318" y="-685.6955" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_gaussian_processes">
+            gaussian processes
+        </text>
+        <text font-size="27" x="-351.68546" y="-443.08563" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_markov_processes">
+            markov processes
+        </text>
+        <text font-size="32" x="-164.38918" y="26.228338" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_regression_analysis">
+            regression analysis
+        </text>
+        <text font-size="26" x="-402.8744" y="175.67383" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_pattern_classification">
+            pattern classification
+        </text>
+        <text font-size="26" x="585.1625" y="791.2865" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_agents">
+            agents
+        </text>
+        <text font-size="32" x="555.4624" y="464.82913" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_multi-agent_systems">
+            multi-agent systems
+        </text>
+        <text font-size="25" x="314.19598" y="-193.94632" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_convolutional_neural_networks">
+            convolutional neural networks
+        </text>
+        <text font-size="27" x="50.9879" y="-193.76715" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_kalman_filters">
+            kalman filters
+        </text>
+        <text font-size="28" x="226.691" y="-145.71544" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_photogrammetry">
+            photogrammetry
+        </text>
+        <text font-size="28" x="43.28026" y="174.53307" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_remote_sensing">
+            remote sensing
+        </text>
+        <text font-size="31" x="73.732635" y="278.80353" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sensors">
+            sensors
+        </text>
+        <text font-size="28" x="553.3534" y="470.83063" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_autonomous_agents">
+            autonomous agents
+        </text>
+        <text font-size="27" x="539.33136" y="1008.2425" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_intelligent_agents">
+            intelligent agents
+        </text>
+        <text font-size="27" x="-589.3099" y="144.31822" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_approximation_theory">
+            approximation theory
+        </text>
+        <text font-size="25" x="722.00616" y="415.80887" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_signal_detection">
+            signal detection
+        </text>
+        <text font-size="26" x="443.37628" y="341.66327" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_monte_carlo_methods">
+            monte carlo methods
+        </text>
+        <text font-size="24" x="-1006.413" y="331.43564" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_strain_gauges">
+            strain gauges
+        </text>
+        <text font-size="24" x="-1543.9434" y="-1856.3545" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_feedforward">
+            feedforward
+        </text>
+        <text font-size="24" x="-1357.8331" y="-1624.2324" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_low-pass_filters">
+            low-pass filters
+        </text>
+        <text font-size="24" x="-1736.0492" y="-1704.204" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sigma-delta_modulation">
+            sigma-delta modulation
+        </text>
+        <text font-size="25" x="-558.2212" y="-961.36816" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ultrasonic_applications">
+            ultrasonic applications
+        </text>
+        <text font-size="26" x="579.8119" y="882.7241" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_software_agents">
+            software agents
+        </text>
+        <text font-size="24" x="1772.5881" y="1123.2869" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_anomaly_detection">
+            anomaly detection
+        </text>
+        <text font-size="25" x="1399.4045" y="701.45074" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_information_clutter">
+            information clutter
+        </text>
+        <text font-size="24" x="1635.3201" y="986.5319" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_magnetization">
+            magnetization
+        </text>
+        <text font-size="24" x="1428.713" y="841.8337" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_permanent_magnets">
+            permanent magnets
+        </text>
+        <text font-size="24" x="1096.2433" y="-918.0331" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ant_colony_optimization">
+            ant colony optimization
+        </text>
+        <text font-size="24" x="330.9247" y="-1080.779" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_radar_measurement">
+            radar measurement
+        </text>
+        <text font-size="28" x="97.63652" y="-278.6213" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_signal_processing">
+            signal processing
+        </text>
+        <text font-size="25" x="737.49194" y="-216.52509" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_reinforcement_learning">
+            reinforcement learning
+        </text>
+        <text font-size="25" x="223.28525" y="-930.8122" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ultrasonics">
+            ultrasonics
+        </text>
+        <text font-size="30" x="-129.51479" y="94.26195" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_natural_language_processing">
+            natural language processing
+        </text>
+        <text font-size="25" x="842.3424" y="-123.49883" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_complex_networks">
+            complex networks
+        </text>
+        <text font-size="25" x="1163.243" y="-118.186066" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_approximation_algorithms">
+            approximation algorithms
+        </text>
+        <text font-size="24" x="1781.311" y="-273.27612" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_graph_algorithms">
+            graph algorithms
+        </text>
+        <text font-size="28" x="21.296036" y="-326.6142" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_computational_complexity">
+            computational complexity
+        </text>
+        <text font-size="24" x="-1527.5862" y="-1270.915" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_deterministic_algorithms">
+            deterministic algorithms
+        </text>
+        <text font-size="29" x="-246.95197" y="-702.0587" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_matrix_algebra">
+            matrix algebra
+        </text>
+        <text font-size="26" x="-126.53909" y="-520.9171" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_principal_component_analysis">
+            principal component analysis
+        </text>
+        <text font-size="24" x="-884.5249" y="-907.0069" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_set_theory">
+            set theory
+        </text>
+        <text font-size="27" x="640.7315" y="284.37228" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sensor_networks">
+            sensor networks
+        </text>
+        <text font-size="25" x="-196.95554" y="-1661.7313" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_independent_component_analysis">
+            independent component analysis
+        </text>
+        <text font-size="27" x="382.88397" y="-321.3761" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_decision_trees">
+            decision trees
+        </text>
+        <text font-size="24" x="630.9381" y="1053.8528" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_informatics">
+            informatics
+        </text>
+        <text font-size="29" x="-109.69231" y="497.6606" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_recommender_systems">
+            recommender systems
+        </text>
+        <text font-size="24" x="-239.12106" y="202.50575" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_artificial_satellites">
+            artificial satellites
+        </text>
+        <text font-size="24" x="-240.03522" y="177.90231" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fuzzy_systems">
+            fuzzy systems
+        </text>
+        <text font-size="25" x="-322.09924" y="-1197.8076" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_thermography">
+            thermography
+        </text>
+        <text font-size="25" x="-190.89487" y="-1154.9011" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_forward_error_correction">
+            forward error correction
+        </text>
+        <text font-size="29" x="-294.72614" y="-531.9221" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_support_vector_machines">
+            support vector machines
+        </text>
+        <text font-size="24" x="1663.0972" y="-326.21765" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_convolutional_codes">
+            convolutional codes
+        </text>
+        <text font-size="27" x="-745.5425" y="62.50784" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fuzzy_set_theory">
+            fuzzy set theory
+        </text>
+        <text font-size="25" x="-861.97107" y="-455.85492" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_unsupervised_learning">
+            unsupervised learning
+        </text>
+        <text font-size="30" x="-163.72379" y="-393.1906" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_feedforward_neural_nets">
+            feedforward neural nets
+        </text>
+        <text font-size="24" x="894.0033" y="-1344.5713" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_clustering_algorithms">
+            clustering algorithms
+        </text>
+        <text font-size="25" x="897.1429" y="-993.3817" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_extended_kalman_filters">
+            extended kalman filters
+        </text>
+        <text font-size="25" x="-750.6836" y="-8.205209" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_radiofrequency_identification">
+            radiofrequency identification
+        </text>
+        <text font-size="24" x="-311.81607" y="-544.02246" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_estimation_theory">
+            estimation theory
+        </text>
+        <text font-size="24" x="2695.6458" y="271.0469" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_bayesian_networks">
+            bayesian networks
+        </text>
+        <text font-size="28" x="340.9516" y="414.23627" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_computation_theory">
+            computation theory
+        </text>
+        <text font-size="24" x="938.7909" y="588.731" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_intelligent_computing">
+            intelligent computing
+        </text>
+        <text font-size="25" x="-81.6299" y="9.082574" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_inference_mechanisms">
+            inference mechanisms
+        </text>
+        <text font-size="25" x="1239.5255" y="-62.664722" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_probes">
+            probes
+        </text>
+        <text font-size="24" x="-65.71797" y="2536.273" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_supercomputers">
+            supercomputers
+        </text>
+        <text font-size="25" x="-1330.3185" y="-535.9992" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_force_sensors">
+            force sensors
+        </text>
+        <text font-size="24" x="-927.07605" y="-13.431381" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_strain_sensors">
+            strain sensors
+        </text>
+        <text font-size="24" x="-1944.512" y="-24.95087" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_signal_reconstruction">
+            signal reconstruction
+        </text>
+        <text font-size="25" x="-1115.1464" y="-100.97912" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_pressure_sensors">
+            pressure sensors
+        </text>
+        <text font-size="24" x="477.5983" y="-225.0304" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_smoke">
+            smoke
+        </text>
+        <text font-size="24" x="-1861.3846" y="-1655.8464" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_velocity_measurement">
+            velocity measurement
+        </text>
+        <text font-size="26" x="-658.94885" y="-748.95844" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_motion_compensation">
+            motion compensation
+        </text>
+        <text font-size="25" x="-23.023193" y="109.92767" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_infrared_detectors">
+            infrared detectors
+        </text>
+        <text font-size="25" x="-871.9503" y="-371.7772" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_capacitive_sensors">
+            capacitive sensors
+        </text>
+        <text font-size="24" x="-1091.0242" y="-849.59186" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_signal_classification">
+            signal classification
+        </text>
+        <text font-size="25" x="-972.21436" y="-275.11353" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_intelligent_sensors">
+            intelligent sensors
+        </text>
+        <text font-size="24" x="-980.9552" y="690.256" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_self-organising_feature_maps">
+            self-organising feature maps
+        </text>
+        <text font-size="24" x="-930.09863" y="-705.29065" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_microsensors">
+            microsensors
+        </text>
+        <text font-size="24" x="-1321.4061" y="-1782.4829" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_rotation_measurement">
+            rotation measurement
+        </text>
+        <text font-size="24" x="-1400.6094" y="-1512.5605" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sensor_placement">
+            sensor placement
+        </text>
+        <text font-size="24" x="-2328.2688" y="-813.9204" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_cooling">
+            cooling
+        </text>
+        <text font-size="24" x="705.7608" y="-2399.034" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_error_compensation">
+            error compensation
+        </text>
+        <text font-size="24" x="-357.6431" y="-1507.2985" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_flow_sensors">
+            flow sensors
+        </text>
+        <text font-size="25" x="286.28787" y="-806.4974" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_genetic_algorithms">
+            genetic algorithms
+        </text>
+        <text font-size="24" x="-317.82584" y="-1291.1426" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_magneto-optical_sensors">
+            magneto-optical sensors
+        </text>
+        <text font-size="24" x="-667.6872" y="-1089.421" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_multilayer_perceptrons">
+            multilayer perceptrons
+        </text>
+        <text font-size="27" x="-227.09103" y="-311.4364" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_recurrent_neural_nets">
+            recurrent neural nets
+        </text>
+        <text font-size="25" x="-985.54364" y="-439.26483" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_spatial_variables_measurement">
+            spatial variables measurement
+        </text>
+        <text font-size="24" x="1458.1442" y="250.7682" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_function_generators">
+            function generators
+        </text>
+        <text font-size="27" x="-204.27628" y="-665.9066" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_octrees">
+            octrees
+        </text>
+        <text font-size="25" x="160.43523" y="-1442.6772" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fading_channels">
+            fading channels
+        </text>
+        <text font-size="24" x="1065.5066" y="-857.2643" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_parallel_algorithms">
+            parallel algorithms
+        </text>
+        <text font-size="24" x="1992.844" y="-1232.0171" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_classifiers">
+            classifiers
+        </text>
+        <text font-size="24" x="-1766.6398" y="-504.1743" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_motion_measurement">
+            motion measurement
+        </text>
+        <text font-size="24" x="-2360.4" y="-744.9949" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_pressure_measurement">
+            pressure measurement
+        </text>
+        <text font-size="25" x="-851.39014" y="469.12366" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_embeddings">
+            embeddings
+        </text>
+        <text font-size="27" x="-7.5142593" y="559.01984" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_information_analysis">
+            information analysis
+        </text>
+        <text font-size="24" x="-1322.006" y="-12.859009" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_temperature_sensors">
+            temperature sensors
+        </text>
+        <text font-size="24" x="-2245.357" y="-841.0296" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_cluster_analysis">
+            cluster analysis
+        </text>
+        <text font-size="24" x="-714.4064" y="-1099.0841" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_clutter">
+            clutter
+        </text>
+        <text font-size="24" x="-1836.4069" y="1526.406" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_near_infrared_spectroscopy">
+            near infrared spectroscopy
+        </text>
+        <text font-size="24" x="-752.17786" y="1974.717" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_collaborative_filtering">
+            collaborative filtering
+        </text>
+        <text font-size="25" x="557.8074" y="68.527565" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mobile_agents">
+            mobile agents
+        </text>
+        <text font-size="24" x="76.34986" y="2135.2693" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_magnetic_variables_measurement">
+            magnetic variables measurement
+        </text>
+        <text font-size="24" x="-647.7644" y="-317.03064" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_neural_net_architecture">
+            neural net architecture
+        </text>
+        <text font-size="24" x="1204.963" y="37.473907" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_inference_engines">
+            inference engines
+        </text>
+        <text font-size="24" x="-1018.4789" y="439.00867" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_knowledge_representation">
+            knowledge representation
+        </text>
+        <text font-size="25" x="-689.35156" y="-169.2799" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_nonlinear_filters">
+            nonlinear filters
+        </text>
+        <text font-size="24" x="-984.9169" y="224.71198" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fuzzy_control">
+            fuzzy control
+        </text>
+        <text font-size="25" x="-716.77814" y="-647.96375" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_gradient_methods">
+            gradient methods
+        </text>
+        <text font-size="24" x="7.3968954" y="-1268.8816" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_random_forests">
+            random forests
+        </text>
+        <text font-size="24" x="77.34477" y="786.99774" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_smart_sensors">
+            smart sensors
+        </text>
+        <text font-size="24" x="1954.189" y="-2044.8987" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_reverse_engineering">
+            reverse engineering
+        </text>
+        <text font-size="24" x="56.800697" y="1041.3291" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_motion_sensors">
+            motion sensors
+        </text>
+        <text font-size="25" x="621.8624" y="640.5225" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sensor_nodes">
+            sensor nodes
+        </text>
+        <text font-size="24" x="672.6472" y="-961.2664" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_signal_distortion">
+            signal distortion
+        </text>
+        <text font-size="25" x="-885.7498" y="300.65936" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fuzzy_logic">
+            fuzzy logic
+        </text>
+        <text font-size="24" x="2509.851" y="-1314.1586" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_discrete_fourier_transforms">
+            discrete fourier transforms
+        </text>
+        <text font-size="24" x="1690.3292" y="-1609.5643" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_nonlinear_systems">
+            nonlinear systems
+        </text>
+        <text font-size="24" x="1599.8789" y="-2218.554" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hysteresis">
+            hysteresis
+        </text>
+        <text font-size="24" x="-616.83264" y="218.64145" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_electric_potential">
+            electric potential
+        </text>
+        <text font-size="24" x="106.93528" y="671.39545" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_nearest_neighbor_search">
+            nearest neighbor search
+        </text>
+        <text font-size="25" x="542.01556" y="-1101.9884" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_error_correction">
+            error correction
+        </text>
+        <text font-size="24" x="-2054.6365" y="-351.417" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_evolutionary_computation">
+            evolutionary computation
+        </text>
+        <text font-size="24" x="-390.9794" y="-1941.3552" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hidden_feature_removal">
+            hidden feature removal
+        </text>
+        <text font-size="24" x="-1072.9902" y="-2349.7039" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_kinetics">
+            kinetics
+        </text>
+        <text font-size="24" x="-2167.4187" y="-1083.8971" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_frequency_response">
+            frequency response
+        </text>
+        <text font-size="24" x="-2230.565" y="-776.36127" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_simulated_annealing">
+            simulated annealing
+        </text>
+        <text font-size="24" x="-1672.7998" y="-1037.1393" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fuzzy_inference">
+            fuzzy inference
+        </text>
+        <text font-size="24" x="-2429.6582" y="435.37408" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_remote_sensing_by_radar">
+            remote sensing by radar
+        </text>
+        <text font-size="24" x="-2363.5088" y="534.2012" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_synthetic_aperture_radar">
+            synthetic aperture radar
+        </text>
+        <text font-size="24" x="-1608.7047" y="-1767.2428" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_impulse_response">
+            impulse response
+        </text>
+        <text font-size="24" x="-970.2466" y="-318.61966" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_maximum_entropy_methods">
+            maximum entropy methods
+        </text>
+        <text font-size="24" x="-1268.5107" y="410.04434" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_millimetre_wave_radar">
+            millimetre wave radar
+        </text>
+        <text font-size="24" x="-927.0076" y="-1637.3013" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_stochastic_processes">
+            stochastic processes
+        </text>
+        <text font-size="24" x="1015.0028" y="-982.7647" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ultrasonic_arrays">
+            ultrasonic arrays
+        </text>
+        <text font-size="25" x="922.0125" y="-582.6636" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sensory_feedback">
+            sensory feedback
+        </text>
+        <text font-size="24" x="1884.1416" y="506.724" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_spectrographs">
+            spectrographs
+        </text>
+        <text font-size="24" x="-1980.6874" y="-1252.4275" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_multilayer_neural_networks">
+            multilayer neural networks
+        </text>
+        <text font-size="24" x="-1804.3005" y="-1642.4368" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_phase_shift_keying">
+            phase shift keying
+        </text>
+        <text font-size="24" x="1378.3976" y="972.11475" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_radar_clutter">
+            radar clutter
+        </text>
+        <text font-size="24" x="521.57904" y="1521.9193" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_swarm_intelligence">
+            swarm intelligence
+        </text>
+        <text font-size="24" x="673.7399" y="-2512.3518" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_signaling">
+            signaling
+        </text>
+        <text font-size="24" x="-220.32942" y="-1957.9567" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_photosensitivity">
+            photosensitivity
+        </text>
+        <text font-size="24" x="2398.1384" y="-635.7804" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_wiener_filters">
+            wiener filters
+        </text>
+    </g>
+</svg>
