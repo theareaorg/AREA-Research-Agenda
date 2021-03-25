@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="4818.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-2505.000000 -2778.000000 4818.000000 5506.000000" height="5506.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M 469.341339,-252.954285 C 424.868225,-499.678314 728.244568,-936.474121 974.968567,-980.947266"
+              class="id_accident_prevention id_chemical_detection"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 469.341339,-252.954285 C 459.558838,-340.726563 576.543518,-487.058838 664.315796,-496.841370"
+              class="id_accident_prevention id_monitoring"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 974.968567,-980.947266 C 1009.659180,-821.995544 823.267517,-531.531982 664.315796,-496.841370"
+              class="id_chemical_detection id_monitoring"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.295898,831.472412 C -350.510529,866.330444 -620.619385,700.795471 -655.477417,555.580872"
+              class="id_computer_aided_instruction id_computer_based_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.295898,831.472412 C -350.758026,834.892700 -574.081787,621.829956 -577.502075,476.367828"
+              class="id_computer_aided_instruction id_fault_diagnosis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.295898,831.472412 C -380.562469,909.011902 -759.771484,762.421204 -837.310974,587.154663"
+              class="id_computer_aided_instruction id_industrial_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="50.0"
+              d="M -205.295898,831.472412 C -161.058502,621.983826 219.530396,374.107117 429.018951,418.344513"
+              class="id_computer_aided_instruction id_laboratories"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.295898,831.472412 C -169.599579,1152.564697 -597.693481,1687.747681 -918.785767,1723.443970"
+              class="id_computer_aided_instruction id_natural_radioactivity_hazards"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.295898,831.472412 C -58.262466,1157.623901 -326.939575,1867.401367 -653.091064,2014.434692"
+              class="id_computer_aided_instruction id_oscilloscopes"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.295898,831.472412 C -161.251617,612.216980 233.697906,349.400269 452.953339,393.444580"
+              class="id_computer_aided_instruction id_quality_control"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.295898,831.472412 C -228.931168,1101.454468 -669.357178,1470.974731 -939.339233,1447.339355"
+              class="id_computer_aided_instruction id_radiation_protection"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.295898,831.472412 C -225.744431,930.228394 -404.551178,1047.689575 -503.307190,1027.241089"
+              class="id_computer_aided_instruction id_risk_management"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.295898,831.472412 C -160.238678,611.275513 237.642426,348.566071 457.839294,393.623291"
+              class="id_computer_aided_instruction id_surveys"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="6.4444447"
+              d="M -205.295898,831.472412 C -56.930298,1253.344849 -467.190460,2108.701660 -889.062805,2257.067383"
+              class="id_computer_aided_instruction id_teacher_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.295898,831.472412 C -54.754608,1153.101318 -311.386017,1861.356689 -633.014954,2011.897949"
+              class="id_computer_aided_instruction id_tensile_testing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="6.4444447"
+              d="M -205.295898,831.472412 C -311.351959,953.461792 -653.420166,977.361816 -775.409546,871.305786"
+              class="id_computer_aided_instruction id_vocational_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -655.477417,555.580872 C -655.724915,524.143188 -608.939758,476.615387 -577.502075,476.367828"
+              class="id_computer_based_training id_fault_diagnosis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="39.11111"
+              d="M -655.477417,555.580872 C -685.529358,598.262329 -794.629517,617.206604 -837.310974,587.154663"
+              class="id_computer_based_training id_industrial_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -655.477417,555.580872 C -466.025391,311.234314 184.672394,228.892502 429.018951,418.344513"
+              class="id_computer_based_training id_laboratories"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -655.477417,555.580872 C -675.632446,605.358826 -780.531799,649.793335 -830.309753,629.638306"
+              class="id_computer_based_training id_occupational_safety"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -655.477417,555.580872 C -625.460938,1013.340393 -1267.075317,1745.004395 -1724.834961,1775.020996"
+              class="id_computer_based_training id_on-the-job_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -655.477417,555.580872 C -533.557556,583.175659 -392.070068,807.447510 -419.664856,929.367371"
+              class="id_computer_based_training id_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -655.477417,555.580872 C -616.318909,642.712280 -688.278137,832.147278 -775.409546,871.305786"
+              class="id_computer_based_training id_vocational_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1081.279907,829.340820 C -1071.026489,739.206299 -920.444275,619.384766 -830.309753,629.638306"
+              class="id_electrical_safety id_occupational_safety"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 241.909683,-333.044495 C 430.429169,-230.896851 559.986938,205.103821 457.839294,393.623291"
+              class="id_eye_protection id_surveys" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="11.888889"
+              d="M -345.525574,501.143494 C -396.876007,542.583679 -536.061890,527.718262 -577.502075,476.367828"
+              class="id_failure_analysis id_fault_diagnosis"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -345.525574,501.143494 C -429.217712,496.415466 -547.663940,363.785217 -542.935913,280.093079"
+              class="id_failure_analysis id_inspection"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -577.502075,476.367828 C -609.843811,430.199646 -589.104065,312.434784 -542.935913,280.093079"
+              class="id_fault_diagnosis id_inspection"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -577.502075,476.367828 C -168.908295,827.060974 -82.057404,1965.991211 -432.750580,2374.584961"
+              class="id_fault_diagnosis id_safety-critical_software"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 331.753693,-267.737640 C 381.203491,-175.664001 317.267700,36.621155 225.194061,86.070953"
+              class="id_fire_extinguishers id_safety_devices"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 30.178215,314.764862 C -7.049156,496.192627 -335.031860,712.493225 -516.459656,675.265869"
+              class="id_hazards id_risk_analysis" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 30.178215,314.764862 C 65.976364,563.957214 -254.114868,991.442932 -503.307190,1027.241089"
+              class="id_hazards id_risk_management" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 30.178215,314.764862 C 23.442596,230.022888 140.452103,92.806572 225.194061,86.070953"
+              class="id_hazards id_safety_devices" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2302.850830,-798.962708 C 2224.894775,-386.609070 1489.430542,114.987381 1077.076904,37.031425"
+              class="id_industrial_hygiene id_occupational_risks"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -837.310974,587.154663 C -827.414001,594.251099 -823.213318,619.741333 -830.309753,629.638306"
+              class="id_industrial_training id_occupational_safety"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -837.310974,587.154663 C -803.769348,624.115112 -808.897461,729.868164 -845.857910,763.409790"
+              class="id_industrial_training id_product_quality"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -837.310974,587.154663 C -682.492920,608.371155 -482.090698,872.423035 -503.307190,1027.241089"
+              class="id_industrial_training id_risk_management"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -837.310974,587.154663 C -768.100464,631.604553 -730.959656,802.095276 -775.409546,871.305786"
+              class="id_industrial_training id_vocational_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -542.935913,280.093079 C -385.580597,421.596924 -361.803345,869.885803 -503.307190,1027.241089"
+              class="id_inspection id_risk_management"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 214.237122,79.550278 C 359.747162,425.274506 59.425888,1162.125854 -286.298340,1307.635986"
+              class="id_measurement id_quality_assurance"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 664.315796,-496.841370 C 889.943481,-373.689331 1043.656982,149.480240 920.505005,375.107941"
+              class="id_monitoring id_risk_assessment"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -918.785767,1723.443970 C -978.117432,1672.333740 -990.449463,1506.671021 -939.339233,1447.339355"
+              class="id_natural_radioactivity_hazards id_radiation_protection"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -829.611816,47.101196 C -713.243958,163.748199 -713.662720,513.270447 -830.309753,629.638306"
+              class="id_occupational_health id_occupational_safety"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -830.309753,629.638306 C -585.907898,656.435547 -259.501099,1063.234253 -286.298340,1307.635986"
+              class="id_occupational_safety id_quality_assurance"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 452.953339,393.444580 C 453.966278,392.503113 456.897827,392.610352 457.839294,393.623291"
+              class="id_quality_control id_surveys" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 452.953339,393.444580 C 576.684937,587.061340 471.857300,1063.083618 278.240601,1186.815308"
+              class="id_quality_control id_water_quality"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="6.4444447"
+              d="M -516.459656,675.265869 C -443.434113,743.030396 -435.542633,954.215576 -503.307190,1027.241089"
+              class="id_risk_analysis id_risk_management"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#052dff" r="89.18197" cx="-205.2959"
+                class="id_computer_aided_instruction" cy="831.4724"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="12.854757" cx="-114.08935"
+                class="id_quality_of_experience" cy="-506.7325" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="1578.235"
+                class="id_system_stability" cy="-206.63353" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="16.460768" cx="457.8393"
+                class="id_surveys" cy="393.6233" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#052dff" r="23.97329" cx="-655.4774"
+                class="id_computer_based_training" cy="555.5809"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="12.404007" cx="452.95334"
+                class="id_quality_control" cy="393.44458" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.751252" cx="469.34134"
+                class="id_accident_prevention" cy="-252.95428" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="974.96857"
+                class="id_chemical_detection" cy="-980.94727" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.450751" cx="664.3158"
+                class="id_monitoring" cy="-496.84137" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.300501" cx="692.5914"
+                class="id_accidents" cy="657.02704" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="1348.2161"
+                class="id_fault_tolerance" cy="-1192.4155" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="11.051753" cx="-503.3072"
+                class="id_risk_management" cy="1027.2411" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="14.056761" cx="-542.9359"
+                class="id_inspection" cy="280.09308" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.751252" cx="-830.30975"
+                class="id_occupational_safety" cy="629.6383" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.601002" cx="-286.29834"
+                class="id_quality_assurance" cy="1307.636" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.15025" cx="278.2406"
+                class="id_water_quality" cy="1186.8153" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.300501" cx="744.8315"
+                class="id_disaster_prevention" cy="264.73645" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="1116.2338"
+                class="id_quality_function_deployment" cy="704.3039"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.450751" cx="920.505"
+                class="id_risk_assessment" cy="375.10794" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="-918.78577"
+                class="id_natural_radioactivity_hazards" cy="1723.444"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="-939.33923"
+                class="id_radiation_protection" cy="1447.3394" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.15025" cx="272.79883"
+                class="id_safety_engineering" cy="1131.1445" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.15025" cx="696.4881"
+                class="id_risk_perception" cy="1668.9512" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.15025" cx="567.1897"
+                class="id_alignment" cy="-794.8614" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="1989.3135"
+                class="id_defects" cy="1600.105" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="-1081.2799"
+                class="id_electrical_safety" cy="829.3408" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#052dff" r="12.2537565" cx="429.01895"
+                class="id_laboratories" cy="418.3445" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="-1175.4281"
+                class="id_software_performance_evaluation" cy="1678.3386"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#052dff" r="10.300501" cx="-775.40955"
+                class="id_vocational_training" cy="871.3058" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="393.60864"
+                class="id_chemical_attack" cy="1201.7094" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#052dff" r="10.0" cx="-1955.3588"
+                class="id_apprentices" cy="1449.6929" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="1067.8772"
+                class="id_fault_detection" cy="1063.762" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.450751" cx="30.178215"
+                class="id_hazards" cy="314.76486" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.450751" cx="-699.84174"
+                class="id_safety" cy="415.94452" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.450751" cx="225.19406"
+                class="id_safety_devices" cy="86.07095" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#052dff" r="10.450751" cx="-419.66486"
+                class="id_training" cy="929.3674" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.300501" cx="759.278"
+                class="id_wear_of_materials" cy="473.4038" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="11.502504" cx="-577.5021"
+                class="id_fault_diagnosis" cy="476.36783" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#052dff" r="11.502504" cx="-837.311"
+                class="id_industrial_training" cy="587.15466" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.15025" cx="-1768.1768"
+                class="id_occupational_stress" cy="836.99744" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="-2149.4702"
+                class="id_total_quality_management" cy="354.29276"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="759.771"
+                class="id_quality_management" cy="1950.7852" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="1067.0879"
+                class="id_process_monitoring" cy="-423.93576" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="-1230.9672"
+                class="id_health_and_safety" cy="-60.4651" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="-2494.559"
+                class="id_stability" cy="-725.67114" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.300501" cx="1174.7692"
+                class="id_scalability" cy="344.12094" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.450751" cx="214.23712"
+                class="id_measurement" cy="79.55028" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.300501" cx="-845.8579"
+                class="id_product_quality" cy="763.4098" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.450751" cx="-829.6118"
+                class="id_occupational_health" cy="47.101196" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.15025" cx="331.7537"
+                class="id_fire_extinguishers" cy="-267.73764" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="-878.02386"
+                class="id_measurement_errors" cy="-314.1679" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="-205.67274"
+                class="id_negative_bias_temperature_instability" cy="-2767.3872"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="1455.8606"
+                class="id_climate_control" cy="410.89166" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="11.2020035" cx="-345.52557"
+                class="id_failure_analysis" cy="501.1435" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="-770.1894"
+                class="id_measurement_uncertainty" cy="-2351.6204"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="-1733.906"
+                class="id_radiation_shielding" cy="1329.6636" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="-1418.2798"
+                class="id_safety_systems" cy="319.5848" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="-955.6422"
+                class="id_systematic_errors" cy="-816.0854" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.300501" cx="241.90968"
+                class="id_eye_protection" cy="-333.0445" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="-653.09106"
+                class="id_oscilloscopes" cy="2014.4347" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#052dff" r="10.15025" cx="-889.0628"
+                class="id_teacher_training" cy="2257.0674" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="-633.01495"
+                class="id_tensile_testing" cy="2011.898" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.15025" cx="820.32513"
+                class="id_error_detection" cy="199.68651" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#052dff" r="10.0" cx="-1724.835"
+                class="id_on-the-job_training" cy="1775.021" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="1763.0394"
+                class="id_fault_tolerant_computer_systems" cy="-553.63965"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.15025" cx="1077.0769"
+                class="id_occupational_risks" cy="37.031425" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.450751" cx="-516.45966"
+                class="id_risk_analysis" cy="675.26587" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.15025" cx="-81.49158"
+                class="id_nondestructive_examination" cy="-1108.883"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="-1032.6935"
+                class="id_nondestructive_testing" cy="1818.6621"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="155.43527"
+                class="id_water_levels" cy="-2109.7825" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="-536.36365"
+                class="id_domestic_safety" cy="2261.2795" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.15025" cx="1177.2267"
+                class="id_operational_amplifiers" cy="-982.3797"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.15025" cx="686.90094"
+                class="id_reliability_analysis" cy="1599.8951" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.15025" cx="1236.1072"
+                class="id_testing" cy="1301.9691" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#052dff" r="10.0" cx="27.052414"
+                class="id_technical_presentation" cy="2717.343" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="1172.0814"
+                class="id_safety_factor" cy="1155.695" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.15025" cx="-432.75058"
+                class="id_safety-critical_software" cy="2374.585"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="-361.99396"
+                class="id_life_testing" cy="-1306.1019" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="-1013.7018"
+                class="id_mechanical_failure" cy="-2330.696" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.300501" cx="693.67505"
+                class="id_software_quality" cy="1358.6282" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="-1501.1053"
+                class="id_formal_verification" cy="-14.124925" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="-6.9267197"
+                class="id_wear" cy="1272.8245" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="2302.8508"
+                class="id_industrial_hygiene" cy="-798.9627" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="-497.25958"
+                class="id_health_hazards" cy="-2511.5474" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ec75ff" r="10.0" cx="1625.7924"
+                class="id_system_monitoring" cy="1293.0972" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="214" x="-205.2959" y="880.4096" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_computer_aided_instruction">
+            computer aided instruction
+        </text>
+        <text font-size="31" x="-114.08935" y="-499.4568" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_quality_of_experience">
+            quality of experience
+        </text>
+        <text font-size="24" x="1578.235" y="-201.07494" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_system_stability">
+            system stability
+        </text>
+        <text font-size="40" x="457.8393" y="401.03214" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_surveys">
+            surveys
+        </text>
+        <text font-size="58" x="-655.4774" y="569.01416" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_computer_based_training">
+            computer based training
+        </text>
+        <text font-size="30" x="452.95334" y="400.39282" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_quality_control">
+            quality control
+        </text>
+        <text font-size="26" x="469.34134" y="-247.00865" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_accident_prevention">
+            accident prevention
+        </text>
+        <text font-size="24" x="974.96857" y="-976.58203" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_chemical_detection">
+            chemical detection
+        </text>
+        <text font-size="25" x="664.3158" y="-491.05118" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_monitoring">
+            monitoring
+        </text>
+        <text font-size="25" x="692.5914" y="661.57416" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_accidents">
+            accidents
+        </text>
+        <text font-size="24" x="1348.2161" y="-1187.9761" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fault_tolerance">
+            fault tolerance
+        </text>
+        <text font-size="27" x="-503.3072" y="1033.4945" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_risk_management">
+            risk management
+        </text>
+        <text font-size="34" x="-542.9359" y="287.86813" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_inspection">
+            inspection
+        </text>
+        <text font-size="26" x="-830.30975" y="635.7405" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_occupational_safety">
+            occupational safety
+        </text>
+        <text font-size="25" x="-286.29834" y="1313.4261" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_quality_assurance">
+            quality assurance
+        </text>
+        <text font-size="24" x="278.2406" y="1192.3739" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_water_quality">
+            water quality
+        </text>
+        <text font-size="25" x="744.8315" y="270.4534" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_disaster_prevention">
+            disaster prevention
+        </text>
+        <text font-size="24" x="1116.2338" y="709.9367" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_quality_function_deployment">
+            quality function deployment
+        </text>
+        <text font-size="25" x="920.505" y="379.65506" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_risk_assessment">
+            risk assessment
+        </text>
+        <text font-size="24" x="-918.78577" y="1729.0026" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_natural_radioactivity_hazards">
+            natural radioactivity hazards
+        </text>
+        <text font-size="24" x="-939.33923" y="1452.8276" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_radiation_protection">
+            radiation protection
+        </text>
+        <text font-size="24" x="272.79883" y="1136.7773" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_safety_engineering">
+            safety engineering
+        </text>
+        <text font-size="24" x="696.4881" y="1674.4395" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_risk_perception">
+            risk perception
+        </text>
+        <text font-size="24" x="567.1897" y="-789.3028" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_alignment">
+            alignment
+        </text>
+        <text font-size="24" x="1989.3135" y="1604.5444" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_defects">
+            defects
+        </text>
+        <text font-size="24" x="-1081.2799" y="834.97363" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_electrical_safety">
+            electrical safety
+        </text>
+        <text font-size="29" x="429.01895" y="423.61917" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_laboratories">
+            laboratories
+        </text>
+        <text font-size="24" x="-1175.4281" y="1683.9011" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_software_performance_evaluation">
+            software performance evaluation
+        </text>
+        <text font-size="25" x="-775.40955" y="877.096" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_vocational_training">
+            vocational training
+        </text>
+        <text font-size="24" x="393.60864" y="1206.0746" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_chemical_attack">
+            chemical attack
+        </text>
+        <text font-size="24" x="-1955.3588" y="1455.1812" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_apprentices">
+            apprentices
+        </text>
+        <text font-size="24" x="1067.8772" y="1068.2014" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fault_detection">
+            fault detection
+        </text>
+        <text font-size="25" x="30.178215" y="319.31198" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_hazards">
+            hazards
+        </text>
+        <text font-size="25" x="-699.84174" y="421.812" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_safety">
+            safety
+        </text>
+        <text font-size="25" x="225.19406" y="91.93846" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_safety_devices">
+            safety devices
+        </text>
+        <text font-size="25" x="-419.66486" y="935.1576" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_training">
+            training
+        </text>
+        <text font-size="25" x="759.278" y="478.02823" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_wear_of_materials">
+            wear of materials
+        </text>
+        <text font-size="28" x="-577.5021" y="482.93945" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fault_diagnosis">
+            fault diagnosis
+        </text>
+        <text font-size="28" x="-837.311" y="593.6397" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_industrial_training">
+            industrial training
+        </text>
+        <text font-size="24" x="-1768.1768" y="842.4857" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_occupational_stress">
+            occupational stress
+        </text>
+        <text font-size="24" x="-2149.4702" y="359.85135" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_total_quality_management">
+            total quality management
+        </text>
+        <text font-size="24" x="759.771" y="1956.3438" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_quality_management">
+            quality management
+        </text>
+        <text font-size="24" x="1067.0879" y="-418.37717" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_process_monitoring">
+            process monitoring
+        </text>
+        <text font-size="24" x="-1230.9672" y="-54.832287" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_health_and_safety">
+            health and safety
+        </text>
+        <text font-size="24" x="-2494.559" y="-720.11255" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_stability">
+            stability
+        </text>
+        <text font-size="25" x="1174.7692" y="349.91113" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_scalability">
+            scalability
+        </text>
+        <text font-size="25" x="214.23712" y="83.9977" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_measurement">
+            measurement
+        </text>
+        <text font-size="25" x="-845.8579" y="769.2" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_product_quality">
+            product quality
+        </text>
+        <text font-size="25" x="-829.6118" y="52.818157" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_occupational_health">
+            occupational health
+        </text>
+        <text font-size="24" x="331.7537" y="-262.10483" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fire_extinguishers">
+            fire extinguishers
+        </text>
+        <text font-size="24" x="-878.02386" y="-309.89838" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_measurement_errors">
+            measurement errors
+        </text>
+        <text font-size="24" x="-205.67274" y="-2761.8286" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_negative_bias_temperature_instability">
+            negative bias temperature instability
+        </text>
+        <text font-size="24" x="1455.8606" y="415.2569" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_climate_control">
+            climate control
+        </text>
+        <text font-size="27" x="-345.52557" y="507.4804" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_failure_analysis">
+            failure analysis
+        </text>
+        <text font-size="24" x="-770.1894" y="-2346.0618" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_measurement_uncertainty">
+            measurement uncertainty
+        </text>
+        <text font-size="24" x="-1733.906" y="1335.2222" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_radiation_shielding">
+            radiation shielding
+        </text>
+        <text font-size="24" x="-1418.2798" y="325.21762" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_safety_systems">
+            safety systems
+        </text>
+        <text font-size="24" x="-955.6422" y="-810.5268" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_systematic_errors">
+            systematic errors
+        </text>
+        <text font-size="25" x="241.90968" y="-327.2543" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_eye_protection">
+            eye protection
+        </text>
+        <text font-size="24" x="-653.09106" y="2019.923" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_oscilloscopes">
+            oscilloscopes
+        </text>
+        <text font-size="24" x="-889.0628" y="2262.626" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_teacher_training">
+            teacher training
+        </text>
+        <text font-size="24" x="-633.01495" y="2017.4565" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_tensile_testing">
+            tensile testing
+        </text>
+        <text font-size="24" x="820.32513" y="204.05174" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_error_detection">
+            error detection
+        </text>
+        <text font-size="24" x="-1724.835" y="1780.5796" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_on-the-job_training">
+            on-the-job training
+        </text>
+        <text font-size="24" x="1763.0394" y="-548.00684" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_fault_tolerant_computer_systems">
+            fault tolerant computer systems
+        </text>
+        <text font-size="24" x="1077.0769" y="42.519707" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_occupational_risks">
+            occupational risks
+        </text>
+        <text font-size="25" x="-516.45966" y="681.0561" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_risk_analysis">
+            risk analysis
+        </text>
+        <text font-size="24" x="-81.49158" y="-1104.5178" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_nondestructive_examination">
+            nondestructive examination
+        </text>
+        <text font-size="24" x="-1032.6935" y="1824.2207" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_nondestructive_testing">
+            nondestructive testing
+        </text>
+        <text font-size="24" x="155.43527" y="-2105.4172" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_water_levels">
+            water levels
+        </text>
+        <text font-size="24" x="-536.36365" y="2266.9124" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_domestic_safety">
+            domestic safety
+        </text>
+        <text font-size="24" x="1177.2267" y="-976.8172" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_operational_amplifiers">
+            operational amplifiers
+        </text>
+        <text font-size="24" x="686.90094" y="1605.4537" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_reliability_analysis">
+            reliability analysis
+        </text>
+        <text font-size="24" x="1236.1072" y="1307.5277" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_testing">
+            testing
+        </text>
+        <text font-size="24" x="27.052414" y="2722.8313" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_technical_presentation">
+            technical presentation
+        </text>
+        <text font-size="24" x="1172.0814" y="1161.3278" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_safety_factor">
+            safety factor
+        </text>
+        <text font-size="24" x="-432.75058" y="2380.2178" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_safety-critical_software">
+            safety-critical software
+        </text>
+        <text font-size="24" x="-361.99396" y="-1300.4691" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_life_testing">
+            life testing
+        </text>
+        <text font-size="24" x="-1013.7018" y="-2326.2566" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mechanical_failure">
+            mechanical failure
+        </text>
+        <text font-size="25" x="693.67505" y="1364.4956" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_software_quality">
+            software quality
+        </text>
+        <text font-size="24" x="-1501.1053" y="-9.685472" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_formal_verification">
+            formal verification
+        </text>
+        <text font-size="24" x="-6.9267197" y="1276.0764" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_wear">
+            wear
+        </text>
+        <text font-size="24" x="2302.8508" y="-793.4041" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_industrial_hygiene">
+            industrial hygiene
+        </text>
+        <text font-size="24" x="-497.25958" y="-2507.1821" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_health_hazards">
+            health hazards
+        </text>
+        <text font-size="24" x="1625.7924" y="1298.6558" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_system_monitoring">
+            system monitoring
+        </text>
+    </g>
+</svg>

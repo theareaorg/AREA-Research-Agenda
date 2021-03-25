@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="4079.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-2186.000000 -2102.000000 4079.000000 4830.000000" height="4830.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M 1317.211914,-399.136444 C 1280.887695,34.711502 575.629578,630.997192 141.781616,594.673035"
+              class="id_anthropomorphic_robots id_intelligent_robots"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M 1317.211914,-399.136444 C 1165.127930,-180.847672 609.568787,-81.540543 391.280060,-233.624557"
+              class="id_anthropomorphic_robots id_robotics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 673.770020,685.078369 C 380.430481,844.393860 -298.552124,643.357788 -457.867615,350.018250"
+              class="id_biped_locomotion id_motion_control"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1136.230591,-752.128174 C -633.323608,-621.594971 -74.762695,328.565399 -205.295898,831.472412"
+              class="id_chaos id_computer_aided_instruction"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.295898,831.472412 C -350.510529,866.330444 -620.619385,700.795471 -655.477417,555.580872"
+              class="id_computer_aided_instruction id_computer_based_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.295898,831.472412 C -448.306152,665.745605 -564.231323,52.639984 -398.504517,-190.370285"
+              class="id_computer_aided_instruction id_cyber-physical_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.295898,831.472412 C -185.235153,537.549866 285.739746,126.757156 579.662292,146.817902"
+              class="id_computer_aided_instruction id_degrees_of_freedom"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="3.0416667"
+              d="M -205.295898,831.472412 C -415.795166,741.716797 -596.910583,291.334564 -507.154999,80.835304"
+              class="id_computer_aided_instruction id_human-robot_interaction"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.295898,831.472412 C -380.562469,909.011902 -759.771484,762.421204 -837.310974,587.154663"
+              class="id_computer_aided_instruction id_industrial_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="10.1875"
+              d="M -205.295898,831.472412 C -161.058502,621.983826 219.530396,374.107117 429.018951,418.344513"
+              class="id_computer_aided_instruction id_laboratories"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.295898,831.472412 C -379.352539,726.776733 -483.393860,308.648163 -378.698151,134.591537"
+              class="id_computer_aided_instruction id_mobile_robots"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -205.295898,831.472412 C -351.829590,717.103638 -400.077026,325.750092 -285.708313,179.216370"
+              class="id_computer_aided_instruction id_robot_programming"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M -205.295898,831.472412 C -56.930298,1253.344849 -467.190460,2108.701660 -889.062805,2257.067383"
+              class="id_computer_aided_instruction id_teacher_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M -205.295898,831.472412 C -311.351959,953.461792 -653.420166,977.361816 -775.409546,871.305786"
+              class="id_computer_aided_instruction id_vocational_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -655.477417,555.580872 C -834.590637,492.371246 -1008.446106,128.886963 -945.236450,-50.226295"
+              class="id_computer_based_training id_dexterous_manipulators"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="8.145833"
+              d="M -655.477417,555.580872 C -685.529358,598.262329 -794.629517,617.206604 -837.310974,587.154663"
+              class="id_computer_based_training id_industrial_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -655.477417,555.580872 C -466.025391,311.234314 184.672394,228.892502 429.018951,418.344513"
+              class="id_computer_based_training id_laboratories"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -655.477417,555.580872 C -625.460938,1013.340393 -1267.075317,1745.004395 -1724.834961,1775.020996"
+              class="id_computer_based_training id_on-the-job_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -655.477417,555.580872 C -744.813171,339.706055 -555.004578,-118.109711 -339.129761,-207.445450"
+              class="id_computer_based_training id_robot_vision"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -655.477417,555.580872 C -796.556030,347.661743 -696.295288,-175.834839 -488.376129,-316.913452"
+              class="id_computer_based_training id_service_robots"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -655.477417,555.580872 C -728.905212,428.123169 -647.860229,126.795006 -520.402527,53.367256"
+              class="id_computer_based_training id_telerobotics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -655.477417,555.580872 C -533.557556,583.175659 -392.070068,807.447510 -419.664856,929.367371"
+              class="id_computer_based_training id_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -655.477417,555.580872 C -616.318909,642.712280 -688.278137,832.147278 -775.409546,871.305786"
+              class="id_computer_based_training id_vocational_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1902.989136,-1019.842224 C -1517.515381,-1017.469604 -942.863770,-435.700012 -945.236450,-50.226295"
+              class="id_continuum_mechanics id_dexterous_manipulators"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1902.989136,-1019.842224 C -1427.737915,-1170.134766 -489.422241,-682.696655 -339.129761,-207.445450"
+              class="id_continuum_mechanics id_robot_vision"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -398.504517,-190.370285 C -365.993500,-114.399071 -431.183777,48.324280 -507.154999,80.835304"
+              class="id_cyber-physical_systems id_human-robot_interaction"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -398.504517,-190.370285 C -374.136597,-117.243172 -447.275391,28.999346 -520.402527,53.367256"
+              class="id_cyber-physical_systems id_telerobotics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2175.448242,785.093750 C -1982.641235,310.583405 -981.665344,-111.971680 -507.154999,80.835304"
+              class="id_decentralised_control id_human-robot_interaction"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 579.662292,146.817902 C 933.487488,84.489578 1557.717651,521.734863 1620.046021,875.560059"
+              class="id_degrees_of_freedom id_exoskeleton"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 579.662292,146.817902 C 529.953979,223.055725 341.034760,262.849976 264.796936,213.141647"
+              class="id_degrees_of_freedom id_industrial_manipulators"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 579.662292,146.817902 C 465.897339,108.405861 352.868042,-119.859627 391.280060,-233.624557"
+              class="id_degrees_of_freedom id_robotics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 579.662292,146.817902 C 527.139282,160.848602 427.308655,103.110107 413.277954,50.587067"
+              class="id_degrees_of_freedom id_visual_servoing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -945.236450,-50.226295 C -796.175171,55.664818 -731.419861,438.093384 -837.310974,587.154663"
+              class="id_dexterous_manipulators id_industrial_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -945.236450,-50.226295 C -767.442261,-136.243393 -371.725433,1.422211 -285.708313,179.216370"
+              class="id_dexterous_manipulators id_robot_programming"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -945.236450,-50.226295 C -855.458984,-202.891464 -491.794922,-297.222961 -339.129761,-207.445450"
+              class="id_dexterous_manipulators id_robot_vision"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -945.236450,-50.226295 C -839.550964,-114.474365 -584.650635,-52.318237 -520.402527,53.367256"
+              class="id_dexterous_manipulators id_telerobotics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -771.978271,-116.174202 C -562.941589,-107.409622 -262.533508,219.292236 -271.298096,428.328918"
+              class="id_end_effectors id_industrial_robots"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M -771.978271,-116.174202 C -831.983887,-67.711304 -994.686768,-85.025467 -1043.149658,-145.031143"
+              class="id_end_effectors id_manipulator_dynamics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -771.978271,-116.174202 C -849.229675,-3.114098 -1134.696899,50.598969 -1247.756958,-26.652424"
+              class="id_end_effectors id_manipulator_kinematics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M -771.978271,-116.174202 C -643.169128,-144.677078 -407.201050,5.782356 -378.698151,134.591537"
+              class="id_end_effectors id_mobile_robots"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M -771.978271,-116.174202 C -615.917664,-85.757843 -427.451263,193.957626 -457.867615,350.018250"
+              class="id_end_effectors id_motion_control"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -771.978271,-116.174202 C -728.048645,-16.274593 -812.003662,199.469238 -911.903259,243.398849"
+              class="id_end_effectors id_multi-robot_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -771.978271,-116.174202 C -1135.805664,37.768478 -1912.460693,-277.058533 -2066.403320,-640.885864"
+              class="id_end_effectors id_redundant_manipulators"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M -771.978271,-116.174202 C -615.646179,-154.350082 -323.884186,22.884270 -285.708313,179.216370"
+              class="id_end_effectors id_robot_programming"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M -771.978271,-116.174202 C -703.662842,-220.998154 -443.953705,-275.760895 -339.129761,-207.445450"
+              class="id_end_effectors id_robot_vision"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M -771.978271,-116.174202 C -687.754883,-132.581055 -536.809326,-30.856190 -520.402527,53.367256"
+              class="id_end_effectors id_telerobotics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1339.996582,-2091.308594 C 1521.790039,-1530.028442 952.560181,-415.418091 391.280060,-233.624557"
+              class="id_environmental_testing id_robotics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1795.508667,842.335449 C 1363.527588,1022.639038 445.100494,645.122742 264.796936,213.141647"
+              class="id_flexible_manipulators id_industrial_manipulators"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1795.508667,842.335449 C 1837.093262,849.073364 1889.363281,921.557129 1882.625366,963.141724"
+              class="id_flexible_manipulators id_modular_robots"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1795.508667,842.335449 C 1563.225098,821.763611 1245.657349,442.480469 1266.229248,210.196854"
+              class="id_flexible_manipulators id_robot_applications"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M -507.154999,80.835304 C -569.857178,54.547203 -624.478271,-78.938217 -598.190186,-141.640396"
+              class="id_human-robot_interaction id_humanoid_robots"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="6.1041665"
+              d="M -507.154999,80.835304 C -326.303345,-47.093811 136.867828,32.290009 264.796936,213.141647"
+              class="id_human-robot_interaction id_industrial_manipulators"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="8.145833"
+              d="M -507.154999,80.835304 C -390.484894,103.162643 -248.970764,311.658813 -271.298096,428.328918"
+              class="id_human-robot_interaction id_industrial_robots"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -507.154999,80.835304 C -274.600128,53.815506 114.761826,362.118164 141.781616,594.673035"
+              class="id_human-robot_interaction id_intelligent_robots"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="29.583334"
+              d="M -507.154999,80.835304 C -470.712372,65.895180 -393.638275,98.148918 -378.698151,134.591537"
+              class="id_human-robot_interaction id_mobile_robots"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="3.0416667"
+              d="M -507.154999,80.835304 C -443.460938,124.814430 -413.888489,286.324158 -457.867615,350.018250"
+              class="id_human-robot_interaction id_motion_control"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -507.154999,80.835304 C -338.111511,-54.922340 119.090225,-4.993561 254.847870,164.049942"
+              class="id_human-robot_interaction id_motion_planning"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="3.0416667"
+              d="M -507.154999,80.835304 C -555.591980,194.297668 -798.440918,291.835785 -911.903259,243.398849"
+              class="id_human-robot_interaction id_multi-robot_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -507.154999,80.835304 C -711.804810,187.399872 -1178.626343,40.272057 -1285.190918,-164.377731"
+              class="id_human-robot_interaction id_rescue_robots"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="9.166667"
+              d="M -507.154999,80.835304 C -443.189453,56.222183 -310.321442,115.250824 -285.708313,179.216370"
+              class="id_human-robot_interaction id_robot_programming"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="11.208333"
+              d="M -507.154999,80.835304 C -531.206116,-10.425903 -430.390961,-183.394348 -339.129761,-207.445450"
+              class="id_human-robot_interaction id_robot_vision"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="3.0416667"
+              d="M -507.154999,80.835304 C -390.359955,-161.743683 148.701080,-350.419586 391.280060,-233.624557"
+              class="id_human-robot_interaction id_robotics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -507.154999,80.835304 C -582.948975,-2.470221 -571.681641,-241.119476 -488.376129,-316.913452"
+              class="id_human-robot_interaction id_service_robots"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="3.0416667"
+              d="M -507.154999,80.835304 C -497.890259,-32.122540 -314.556335,-187.662140 -201.598511,-178.397385"
+              class="id_human-robot_interaction id_slam_robotics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="10.1875"
+              d="M -507.154999,80.835304 C -515.298096,77.991203 -523.246643,61.510372 -520.402527,53.367256"
+              class="id_human-robot_interaction id_telerobotics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M -507.154999,80.835304 C -425.312622,81.336243 -303.300446,204.851227 -303.801392,286.693604"
+              class="id_human-robot_interaction id_trajectory_control"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M -598.190186,-141.640396 C -499.045349,-130.292419 -367.350159,35.446747 -378.698151,134.591537"
+              class="id_humanoid_robots id_mobile_robots"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -598.190186,-141.640396 C -559.539124,-206.613495 -404.102844,-246.096527 -339.129761,-207.445450"
+              class="id_humanoid_robots id_robot_vision"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -598.190186,-141.640396 C -543.631104,-118.196396 -496.958557,-1.191810 -520.402527,53.367256"
+              class="id_humanoid_robots id_telerobotics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 264.796936,213.141647 C 120.387878,326.130676 -265.709137,279.000610 -378.698151,134.591537"
+              class="id_industrial_manipulators id_mobile_robots"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 264.796936,213.141647 C 738.362610,39.575989 1709.059692,489.576050 1882.625366,963.141724"
+              class="id_industrial_manipulators id_modular_robots"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 264.796936,213.141647 C 147.639359,385.049866 -285.959412,467.175842 -457.867615,350.018250"
+              class="id_industrial_manipulators id_motion_control"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M 264.796936,213.141647 C 464.494446,12.266220 1065.353760,10.499344 1266.229248,210.196854"
+              class="id_industrial_manipulators id_robot_applications"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M 264.796936,213.141647 C 147.910843,316.457642 -182.392319,296.102478 -285.708313,179.216370"
+              class="id_industrial_manipulators id_robot_programming"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M 264.796936,213.141647 C 59.894173,249.809570 -302.461853,-2.542694 -339.129761,-207.445450"
+              class="id_industrial_manipulators id_robot_vision"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M 264.796936,213.141647 C 200.740326,98.491776 276.630188,-169.567932 391.280060,-233.624557"
+              class="id_industrial_manipulators id_robotics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M 264.796936,213.141647 C 75.802170,338.226654 -395.317505,242.362015 -520.402527,53.367256"
+              class="id_industrial_manipulators id_telerobotics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 264.796936,213.141647 C 261.982208,150.934540 351.070831,53.401779 413.277954,50.587067"
+              class="id_industrial_manipulators id_visual_servoing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -271.298096,428.328918 C -352.735535,573.296631 -692.343262,668.592102 -837.310974,587.154663"
+              class="id_industrial_robots id_industrial_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -271.298096,428.328918 C -155.413330,378.981812 92.434494,478.788300 141.781616,594.673035"
+              class="id_industrial_robots id_intelligent_robots"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="7.125"
+              d="M -271.298096,428.328918 C -351.525574,391.061462 -415.965607,214.819031 -378.698151,134.591537"
+              class="id_industrial_robots id_mobile_robots"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -271.298096,428.328918 C -324.274139,449.980682 -436.215851,402.994293 -457.867615,350.018250"
+              class="id_industrial_robots id_motion_control"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M -271.298096,428.328918 C -30.202606,209.353119 659.904297,242.532654 878.880066,483.628143"
+              class="id_industrial_robots id_multipurpose_robots"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -271.298096,428.328918 C -19.999496,317.438660 523.283813,528.051147 634.174072,779.349731"
+              class="id_industrial_robots id_robot_learning"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="11.208333"
+              d="M -271.298096,428.328918 C -324.002655,381.388458 -332.648773,231.920929 -285.708313,179.216370"
+              class="id_industrial_robots id_robot_programming"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M -271.298096,428.328918 C -412.019318,314.740387 -452.718292,-66.724251 -339.129761,-207.445450"
+              class="id_industrial_robots id_robot_vision"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M -271.298096,428.328918 C -271.173157,163.422607 126.373734,-233.749481 391.280060,-233.624557"
+              class="id_industrial_robots id_robotics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -271.298096,428.328918 C -584.973328,492.288269 -1151.425171,117.714470 -1215.384521,-195.960754"
+              class="id_industrial_robots id_spraying"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -271.298096,428.328918 C -396.111328,403.157471 -545.573975,178.180481 -520.402527,53.367256"
+              class="id_industrial_robots id_telerobotics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -271.298096,428.328918 C -306.125824,406.502533 -325.627777,321.521332 -303.801392,286.693604"
+              class="id_industrial_robots id_trajectory_control"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -837.310974,587.154663 C -768.100464,631.604553 -730.959656,802.095276 -775.409546,871.305786"
+              class="id_industrial_training id_vocational_training"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="3.0416667"
+              d="M 141.781616,594.673035 C -54.330620,606.752686 -366.618500,330.703766 -378.698151,134.591537"
+              class="id_intelligent_robots id_mobile_robots"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 141.781616,594.673035 C 266.992310,425.044373 709.251404,358.417419 878.880066,483.628143"
+              class="id_intelligent_robots id_multipurpose_robots"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 141.781616,594.673035 C 277.195435,533.129883 572.630920,643.935852 634.174072,779.349731"
+              class="id_intelligent_robots id_robot_learning"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 141.781616,594.673035 C -114.824371,530.431641 -403.371185,49.160538 -339.129761,-207.445450"
+              class="id_intelligent_robots id_robot_vision"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.0625"
+              d="M 141.781616,594.673035 C 26.021774,379.113800 175.720840,-117.864716 391.280060,-233.624557"
+              class="id_intelligent_robots id_robotics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1843.049561,557.085205 C -1607.426514,238.635437 -776.317383,114.395264 -457.867615,350.018250"
+              class="id_legged_locomotion id_motion_control"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1843.049561,557.085205 C -1756.507324,291.439941 -1228.226318,22.785202 -962.581055,109.327332"
+              class="id_legged_locomotion id_robot_dynamics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1043.149658,-145.031143 C -1060.395386,-80.433937 -1183.159668,-9.406708 -1247.756958,-26.652424"
+              class="id_manipulator_dynamics id_manipulator_kinematics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1043.149658,-145.031143 C -854.334778,-221.996918 -455.663940,-54.223320 -378.698151,134.591537"
+              class="id_manipulator_dynamics id_mobile_robots"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M -1043.149658,-145.031143 C -827.083374,-163.077667 -475.914124,133.951965 -457.867615,350.018250"
+              class="id_manipulator_dynamics id_motion_control"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1043.149658,-145.031143 C -939.214417,-93.594421 -860.466553,139.463577 -911.903259,243.398849"
+              class="id_manipulator_dynamics id_multi-robot_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1043.149658,-145.031143 C -1346.971313,-39.551346 -1960.923462,-337.064148 -2066.403320,-640.885864"
+              class="id_manipulator_dynamics id_redundant_manipulators"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M -1043.149658,-145.031143 C -826.811890,-231.669907 -372.347107,-37.121399 -285.708313,179.216370"
+              class="id_manipulator_dynamics id_robot_programming"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1247.756958,-26.652424 C -1014.444946,-109.296143 -540.511353,116.706253 -457.867615,350.018250"
+              class="id_manipulator_kinematics id_motion_control"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1247.756958,-26.652424 C -1126.575928,-39.812908 -925.063721,122.217857 -911.903259,243.398849"
+              class="id_manipulator_kinematics id_multi-robot_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1247.756958,-26.652424 C -1014.173401,-177.888397 -436.944275,-54.367126 -285.708313,179.216370"
+              class="id_manipulator_kinematics id_robot_programming"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -908.332947,-884.468994 C -659.087585,-862.904907 -317.565674,-456.690796 -339.129761,-207.445450"
+              class="id_microrobots id_robot_vision" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -378.698151,134.591537 C -351.446716,193.510773 -398.948364,322.766815 -457.867615,350.018250"
+              class="id_mobile_robots id_motion_control"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M -378.698151,134.591537 C -246.097275,13.774010 134.030350,31.449059 254.847870,164.049942"
+              class="id_mobile_robots id_motion_planning"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="6.1041665"
+              d="M -378.698151,134.591537 C -463.577698,262.994019 -783.500793,328.278412 -911.903259,243.398849"
+              class="id_mobile_robots id_multi-robot_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -378.698151,134.591537 C -57.375168,-47.116791 697.171692,162.305145 878.880066,483.628143"
+              class="id_mobile_robots id_multipurpose_robots"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -378.698151,134.591537 C -619.790588,256.096252 -1163.686157,76.714676 -1285.190918,-164.377731"
+              class="id_mobile_robots id_rescue_robots"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -378.698151,134.591537 C -500.527588,246.315292 -850.857300,231.156769 -962.581055,109.327332"
+              class="id_mobile_robots id_robot_dynamics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -378.698151,134.591537 C -561.205200,257.646210 -1019.547729,168.467636 -1142.602417,-14.039412"
+              class="id_mobile_robots id_robot_kinematics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -378.698151,134.591537 C -47.172073,60.968704 560.551270,447.823608 634.174072,779.349731"
+              class="id_mobile_robots id_robot_learning"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="11.208333"
+              d="M -378.698151,134.591537 C -351.175232,124.918541 -295.381317,151.693436 -285.708313,179.216370"
+              class="id_mobile_robots id_robot_programming"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="50.0"
+              d="M -378.698151,134.591537 C -439.191895,58.270466 -415.450806,-146.951736 -339.129761,-207.445450"
+              class="id_mobile_robots id_robot_vision"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="3.0416667"
+              d="M -378.698151,134.591537 C -298.345703,-93.047333 163.641190,-313.976990 391.280060,-233.624557"
+              class="id_mobile_robots id_robotics" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M -378.698151,134.591537 C -490.934753,66.226135 -556.741516,-204.676865 -488.376129,-316.913452"
+              class="id_mobile_robots id_service_robots"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="26.520834"
+              d="M -378.698151,134.591537 C -405.876007,36.573833 -299.616211,-151.219528 -201.598511,-178.397385"
+              class="id_mobile_robots id_slam_robotics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -378.698151,134.591537 C -612.145874,235.818359 -1114.157715,37.487000 -1215.384521,-195.960754"
+              class="id_mobile_robots id_spraying" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="13.25"
+              d="M -378.698151,134.591537 C -423.283875,146.687561 -508.306488,97.952988 -520.402527,53.367256"
+              class="id_mobile_robots id_telerobotics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="3.0416667"
+              d="M -378.698151,134.591537 C -333.298401,150.032593 -288.360321,241.293839 -303.801392,286.693604"
+              class="id_mobile_robots id_trajectory_control"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -378.698151,134.591537 C -237.103821,-40.604576 238.081848,-91.007256 413.277954,50.587067"
+              class="id_mobile_robots id_visual_servoing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1882.625366,963.141724 C 1608.757202,935.831970 1238.919434,484.065063 1266.229248,210.196854"
+              class="id_modular_robots id_robot_applications"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -457.867615,350.018250 C -569.998596,419.501495 -842.419983,355.529846 -911.903259,243.398849"
+              class="id_motion_control id_multi-robot_systems"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -457.867615,350.018250 C -977.755615,473.544556 -1942.876953,-120.997864 -2066.403320,-640.885864"
+              class="id_motion_control id_redundant_manipulators"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M -457.867615,350.018250 C -606.948486,402.822754 -909.776550,258.408203 -962.581055,109.327332"
+              class="id_motion_control id_robot_dynamics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -457.867615,350.018250 C -667.626099,414.153687 -1078.467041,195.719086 -1142.602417,-14.039412"
+              class="id_motion_control id_robot_kinematics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="3.0416667"
+              d="M -457.867615,350.018250 C -457.596130,281.426025 -354.300537,178.944885 -285.708313,179.216370"
+              class="id_motion_control id_robot_programming"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -457.867615,350.018250 C -529.704834,303.195038 -567.225708,125.204437 -520.402527,53.367256"
+              class="id_motion_control id_telerobotics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -457.867615,350.018250 C -439.719299,306.540100 -347.279541,268.545288 -303.801392,286.693604"
+              class="id_motion_control id_trajectory_control"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 254.847870,164.049942 C 149.769913,275.194458 -174.563797,284.294312 -285.708313,179.216370"
+              class="id_motion_planning id_robot_programming"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M 254.847870,164.049942 C 202.599396,57.228600 284.458710,-181.376099 391.280060,-233.624557"
+              class="id_motion_planning id_robotics" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -911.903259,243.398849 C -799.500732,105.323357 -423.783783,66.813881 -285.708313,179.216370"
+              class="id_multi-robot_systems id_robot_programming"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M -911.903259,243.398849 C -887.517456,38.675293 -543.853271,-231.831299 -339.129761,-207.445450"
+              class="id_multi-robot_systems id_robot_vision"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M -911.903259,243.398849 C -854.201538,16.978653 -428.018707,-236.099075 -201.598511,-178.397385"
+              class="id_multi-robot_systems id_slam_robotics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 878.880066,483.628143 C 889.083130,591.713684 742.259644,769.146667 634.174072,779.349731"
+              class="id_multipurpose_robots id_robot_learning"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 878.880066,483.628143 C 637.909485,437.697601 345.349487,7.345985 391.280060,-233.624557"
+              class="id_multipurpose_robots id_robotics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -467.591064,-737.049500 C -335.977997,-656.820923 -258.901215,-339.058533 -339.129761,-207.445450"
+              class="id_recursive_filters id_robot_vision"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1285.190918,-164.377731 C -1016.575623,-295.555420 -416.886047,-89.398987 -285.708313,179.216370"
+              class="id_rescue_robots id_robot_programming"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1285.190918,-164.377731 C -1104.592163,-362.203522 -536.955566,-388.044159 -339.129761,-207.445450"
+              class="id_rescue_robots id_robot_vision"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1285.190918,-164.377731 C -1071.276367,-383.900146 -421.120911,-392.311951 -201.598511,-178.397385"
+              class="id_rescue_robots id_slam_robotics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="5.0833335"
+              d="M 1266.229248,210.196854 C 1002.475098,296.422424 477.505615,30.129593 391.280060,-233.624557"
+              class="id_robot_applications id_robotics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -962.581055,109.327332 C -813.228699,-12.069420 -407.105072,29.863998 -285.708313,179.216370"
+              class="id_robot_dynamics id_robot_programming"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -962.581055,109.327332 C -885.337341,9.699608 -620.030273,-23.876434 -520.402527,53.367256"
+              class="id_robot_dynamics id_telerobotics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1142.602417,-14.039412 C -1020.589111,-213.415161 -538.505493,-329.458771 -339.129761,-207.445450"
+              class="id_robot_kinematics id_robot_vision"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 634.174072,779.349731 C 383.000427,625.333679 237.264008,17.549095 391.280060,-233.624557"
+              class="id_robot_learning id_robotics" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M -285.708313,179.216370 C -373.724976,112.568291 -405.777832,-119.428795 -339.129761,-207.445450"
+              class="id_robot_programming id_robot_vision"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="4.0625"
+              d="M -285.708313,179.216370 C -232.878815,-38.749489 173.314209,-286.454041 391.280060,-233.624557"
+              class="id_robot_programming id_robotics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -285.708313,179.216370 C -425.467834,120.523964 -547.068542,-177.153931 -488.376129,-316.913452"
+              class="id_robot_programming id_service_robots"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -285.708313,179.216370 C -340.409119,90.871658 -289.943237,-123.696594 -201.598511,-178.397385"
+              class="id_robot_programming id_slam_robotics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M -285.708313,179.216370 C -357.816986,200.985382 -498.633514,125.475922 -520.402527,53.367256"
+              class="id_robot_programming id_telerobotics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -285.708313,179.216370 C -267.831482,204.330444 -278.687317,268.816772 -303.801392,286.693604"
+              class="id_robot_programming id_trajectory_control"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -339.129761,-207.445450 C -390.872620,-199.489777 -480.420471,-265.170563 -488.376129,-316.913452"
+              class="id_robot_vision id_service_robots"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="36.729168"
+              d="M -339.129761,-207.445450 C -305.813904,-229.142090 -223.295151,-211.713257 -201.598511,-178.397385"
+              class="id_robot_vision id_slam_robotics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="7.125"
+              d="M -339.129761,-207.445450 C -323.221771,-119.028366 -431.985443,37.459267 -520.402527,53.367256"
+              class="id_robot_vision id_telerobotics" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M -339.129761,-207.445450 C -233.236267,-115.683311 -212.039246,180.800110 -303.801392,286.693604"
+              class="id_robot_vision id_trajectory_control"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -339.129761,-207.445450 C -137.041702,-306.320496 314.402893,-151.500992 413.277954,50.587067"
+              class="id_robot_vision id_visual_servoing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M 925.754700,-478.360535 C 867.806946,-322.518402 547.122192,-175.676819 391.280060,-233.624557"
+              class="id_robotic_arms id_robotics" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="9.166667"
+              d="M 391.280060,-233.624557 C 435.320129,-277.664612 435.320129,-189.584488 391.280060,-233.624557"
+              class="id_robotics" stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="2.0208333"
+              d="M 391.280060,-233.624557 C 452.521942,-181.181824 465.720703,-10.654832 413.277954,50.587067"
+              class="id_robotics id_visual_servoing" stroke-opacity="0.7490196"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -488.376129,-316.913452 C -420.725250,-236.452026 -439.941101,-14.283609 -520.402527,53.367256"
+              class="id_service_robots id_telerobotics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -201.598511,-178.397385 C -219.006378,-68.283661 -410.288788,70.775131 -520.402527,53.367256"
+              class="id_slam_robotics id_telerobotics"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -303.801392,286.693604 C -207.606827,96.056412 222.640747,-45.607498 413.277954,50.587067"
+              class="id_trajectory_control id_visual_servoing"
+              stroke-opacity="0.7490196" stroke="#000000"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#fc57ff" r="13.005009" cx="579.6623"
+                class="id_degrees_of_freedom" cy="146.8179" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="29.081804" cx="-378.69815"
+                class="id_mobile_robots" cy="134.59154" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.0" cx="873.24664"
+                class="id_pneumatic_control" cy="1154.2261" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.901503" cx="925.7547"
+                class="id_robotic_arms" cy="-478.36053" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="22.020035" cx="391.28006"
+                class="id_robotics" cy="-233.62456" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0f6fff" r="89.18197" cx="-205.2959"
+                class="id_computer_aided_instruction" cy="831.4724"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.15025" cx="673.77"
+                class="id_biped_locomotion" cy="685.07837" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="11.652755" cx="-457.8676"
+                class="id_motion_control" cy="350.01825" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.751252" cx="413.27795"
+                class="id_visual_servoing" cy="50.587067" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0f6fff" r="23.97329" cx="-655.4774"
+                class="id_computer_based_training" cy="555.5809"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.15025" cx="1317.2119"
+                class="id_anthropomorphic_robots" cy="-399.13644"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.0" cx="1499.9957"
+                class="id_two_term_control_systems" cy="-1046.3499"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="11.953256" cx="264.79694"
+                class="id_industrial_manipulators" cy="213.14165"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="23.372288" cx="-339.12976"
+                class="id_robot_vision" cy="-207.44545" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.601002" cx="-303.8014"
+                class="id_trajectory_control" cy="286.6936" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="14.207012" cx="-520.4025"
+                class="id_telerobotics" cy="53.367256" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.901503" cx="-771.9783"
+                class="id_end_effectors" cy="-116.1742" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="14.808014" cx="-285.7083"
+                class="id_robot_programming" cy="179.21637" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="20.517529" cx="-507.155"
+                class="id_human-robot_interaction" cy="80.835304"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="11.2020035" cx="141.78162"
+                class="id_intelligent_robots" cy="594.67303" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="13.30551" cx="-271.2981"
+                class="id_industrial_robots" cy="428.32892" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0f6fff" r="12.2537565" cx="429.01895"
+                class="id_laboratories" cy="418.3445" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0f6fff" r="10.300501" cx="-775.40955"
+                class="id_vocational_training" cy="871.3058" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.0" cx="1620.046"
+                class="id_exoskeleton" cy="875.56006" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0f6fff" r="10.0" cx="-1955.3588"
+                class="id_apprentices" cy="1449.6929" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="20.818031" cx="-201.59851"
+                class="id_slam_robotics" cy="-178.39738" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0f6fff" r="10.450751" cx="-419.66486"
+                class="id_training" cy="929.3674" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="11.352254" cx="-398.50452"
+                class="id_cyber-physical_systems" cy="-190.37029"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.751252" cx="-945.23645"
+                class="id_dexterous_manipulators" cy="-50.226295"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0f6fff" r="11.502504" cx="-837.311"
+                class="id_industrial_training" cy="587.15466" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.601002" cx="254.84787"
+                class="id_motion_planning" cy="164.04994" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.0" cx="-908.33295"
+                class="id_microrobots" cy="-884.469" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.0" cx="-330.32626"
+                class="id_retroreflectors" cy="-1718.7314" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.300501" cx="878.88007"
+                class="id_multipurpose_robots" cy="483.62814" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.0" cx="634.1741"
+                class="id_robot_learning" cy="779.34973" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.0" cx="1339.9966"
+                class="id_environmental_testing" cy="-2091.3086"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.0" cx="-467.59106"
+                class="id_recursive_filters" cy="-737.0495" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.300501" cx="-598.1902"
+                class="id_humanoid_robots" cy="-141.6404" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.15025" cx="-1142.6024"
+                class="id_robot_kinematics" cy="-14.0394125" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.0" cx="-1215.3845"
+                class="id_spraying" cy="-195.96075" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="11.051753" cx="-911.90326"
+                class="id_multi-robot_systems" cy="243.39885" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.15025" cx="-1136.2306"
+                class="id_chaos" cy="-752.1282" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.751252" cx="-488.37613"
+                class="id_service_robots" cy="-316.91345" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.0" cx="-1902.9891"
+                class="id_continuum_mechanics" cy="-1019.8422" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.300501" cx="-1043.1497"
+                class="id_manipulator_dynamics" cy="-145.03114" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.0" cx="-2066.4033"
+                class="id_redundant_manipulators" cy="-640.88586"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0f6fff" r="10.15025" cx="-889.0628"
+                class="id_teacher_training" cy="2257.0674" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.0" cx="-1843.0496"
+                class="id_legged_locomotion" cy="557.0852" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.15025" cx="-962.58105"
+                class="id_robot_dynamics" cy="109.32733" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0f6fff" r="10.0" cx="-1724.835"
+                class="id_on-the-job_training" cy="1775.021" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.0" cx="-1285.1909"
+                class="id_rescue_robots" cy="-164.37773" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.0" cx="-2175.4482"
+                class="id_decentralised_control" cy="785.09375" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#0f6fff" r="10.0" cx="27.052414"
+                class="id_technical_presentation" cy="2717.343" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.0" cx="-1247.757"
+                class="id_manipulator_kinematics" cy="-26.652424"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.450751" cx="1266.2292"
+                class="id_robot_applications" cy="210.19685" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.0" cx="1795.5087"
+                class="id_flexible_manipulators" cy="842.33545" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fc57ff" r="10.0" cx="1882.6254"
+                class="id_modular_robots" cy="963.1417" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="31" x="579.6623" y="154.09361" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_degrees_of_freedom">
+            degrees of freedom
+        </text>
+        <text font-size="70" x="-378.69815" y="147.32347" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_mobile_robots">
+            mobile robots
+        </text>
+        <text font-size="24" x="873.24664" y="1159.7144" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_pneumatic_control">
+            pneumatic control
+        </text>
+        <text font-size="26" x="925.7547" y="-473.63153" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_robotic_arms">
+            robotic arms
+        </text>
+        <text font-size="53" x="391.28006" y="-223.98466" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_robotics">
+            robotics
+        </text>
+        <text font-size="214" x="-205.2959" y="880.4096" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_computer_aided_instruction">
+            computer aided instruction
+        </text>
+        <text font-size="24" x="673.77" y="690.56665" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_biped_locomotion">
+            biped locomotion
+        </text>
+        <text font-size="28" x="-457.8676" y="355.11102" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_motion_control">
+            motion control
+        </text>
+        <text font-size="26" x="413.27795" y="56.608875" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_visual_servoing">
+            visual servoing
+        </text>
+        <text font-size="58" x="-655.4774" y="569.01416" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_computer_based_training">
+            computer based training
+        </text>
+        <text font-size="24" x="1317.2119" y="-393.64816" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_anthropomorphic_robots">
+            anthropomorphic robots
+        </text>
+        <text font-size="24" x="1499.9957" y="-1040.7913" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_two_term_control_systems">
+            two term control systems
+        </text>
+        <text font-size="29" x="264.79694" y="219.77332" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_industrial_manipulators">
+            industrial manipulators
+        </text>
+        <text font-size="56" x="-339.12976" y="-197.2599" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_robot_vision">
+            robot vision
+        </text>
+        <text font-size="25" x="-303.8014" y="292.4838" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_trajectory_control">
+            trajectory control
+        </text>
+        <text font-size="34" x="-520.4025" y="59.55134" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_telerobotics">
+            telerobotics
+        </text>
+        <text font-size="26" x="-771.9783" y="-111.36479" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_end_effectors">
+            end effectors
+        </text>
+        <text font-size="36" x="-285.7083" y="187.55426" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_robot_programming">
+            robot programming
+        </text>
+        <text font-size="49" x="-507.155" y="89.74766" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_human-robot_interaction">
+            human-robot interaction
+        </text>
+        <text font-size="27" x="141.78162" y="600.92645" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_intelligent_robots">
+            intelligent robots
+        </text>
+        <text font-size="32" x="-271.2981" y="434.14923" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_industrial_robots">
+            industrial robots
+        </text>
+        <text font-size="29" x="429.01895" y="423.61917" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_laboratories">
+            laboratories
+        </text>
+        <text font-size="25" x="-775.40955" y="877.096" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_vocational_training">
+            vocational training
+        </text>
+        <text font-size="24" x="1620.046" y="879.9253" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_exoskeleton">
+            exoskeleton
+        </text>
+        <text font-size="24" x="-1955.3588" y="1455.1812" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_apprentices">
+            apprentices
+        </text>
+        <text font-size="50" x="-201.59851" y="-169.30315" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_slam_robotics">
+            slam robotics
+        </text>
+        <text font-size="25" x="-419.66486" y="935.1576" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_training">
+            training
+        </text>
+        <text font-size="27" x="-398.50452" y="-184.11687" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_cyber-physical_systems">
+            cyber-physical systems
+        </text>
+        <text font-size="26" x="-945.23645" y="-44.28066" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_dexterous_manipulators">
+            dexterous manipulators
+        </text>
+        <text font-size="28" x="-837.311" y="593.6397" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_industrial_training">
+            industrial training
+        </text>
+        <text font-size="25" x="254.84787" y="169.84015" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_motion_planning">
+            motion planning
+        </text>
+        <text font-size="24" x="-908.33295" y="-880.10376" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_microrobots">
+            microrobots
+        </text>
+        <text font-size="24" x="-330.32626" y="-1714.292" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_retroreflectors">
+            retroreflectors
+        </text>
+        <text font-size="25" x="878.88007" y="489.3451" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_multipurpose_robots">
+            multipurpose robots
+        </text>
+        <text font-size="24" x="634.1741" y="784.9083" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_robot_learning">
+            robot learning
+        </text>
+        <text font-size="24" x="1339.9966" y="-2085.75" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_environmental_testing">
+            environmental testing
+        </text>
+        <text font-size="24" x="-467.59106" y="-732.61005" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_recursive_filters">
+            recursive filters
+        </text>
+        <text font-size="25" x="-598.1902" y="-137.09328" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_humanoid_robots">
+            humanoid robots
+        </text>
+        <text font-size="24" x="-1142.6024" y="-9.674178" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_robot_kinematics">
+            robot kinematics
+        </text>
+        <text font-size="24" x="-1215.3845" y="-190.40216" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_spraying">
+            spraying
+        </text>
+        <text font-size="27" x="-911.90326" y="249.65227" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_multi-robot_systems">
+            multi-robot systems
+        </text>
+        <text font-size="24" x="-1136.2306" y="-747.76294" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_chaos">
+            chaos
+        </text>
+        <text font-size="26" x="-488.37613" y="-312.18445" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_service_robots">
+            service robots
+        </text>
+        <text font-size="24" x="-1902.9891" y="-1015.477" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_continuum_mechanics">
+            continuum mechanics
+        </text>
+        <text font-size="25" x="-1043.1497" y="-139.24094" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_manipulator_dynamics">
+            manipulator dynamics
+        </text>
+        <text font-size="24" x="-2066.4033" y="-635.3976" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_redundant_manipulators">
+            redundant manipulators
+        </text>
+        <text font-size="24" x="-889.0628" y="2262.626" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_teacher_training">
+            teacher training
+        </text>
+        <text font-size="24" x="-1843.0496" y="562.6438" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_legged_locomotion">
+            legged locomotion
+        </text>
+        <text font-size="24" x="-962.58105" y="114.885925" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_robot_dynamics">
+            robot dynamics
+        </text>
+        <text font-size="24" x="-1724.835" y="1780.5796" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_on-the-job_training">
+            on-the-job training
+        </text>
+        <text font-size="24" x="-1285.1909" y="-160.0125" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_rescue_robots">
+            rescue robots
+        </text>
+        <text font-size="24" x="-2175.4482" y="789.459" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_decentralised_control">
+            decentralised control
+        </text>
+        <text font-size="24" x="27.052414" y="2722.8313" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_technical_presentation">
+            technical presentation
+        </text>
+        <text font-size="24" x="-1247.757" y="-21.164143" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_manipulator_kinematics">
+            manipulator kinematics
+        </text>
+        <text font-size="25" x="1266.2292" y="215.91382" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_robot_applications">
+            robot applications
+        </text>
+        <text font-size="24" x="1795.5087" y="847.89795" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_flexible_manipulators">
+            flexible manipulators
+        </text>
+        <text font-size="24" x="1882.6254" y="967.50696" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_modular_robots">
+            modular robots
+        </text>
+    </g>
+</svg>
