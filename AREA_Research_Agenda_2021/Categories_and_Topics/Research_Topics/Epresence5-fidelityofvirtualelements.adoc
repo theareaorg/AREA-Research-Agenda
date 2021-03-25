@@ -4,11 +4,12 @@
 
 # Description
 Presence is a term used to describe the "feeling of being there" in a virtual environment. It can be cognitive, in that the users' mind is engaged in the virtual content, or it can be perceptual, in that the users' sensory systems perceive the virtual environment to be "real". In Augmented Reality (AR), this is represented by a seamless integration between the physical and virtual worlds.
-
 An area of research investigating presence involves the design of the virtual elements and the impact of fidelity. Does the level of fidelity of the virtual elements influence the reported experience of presence? For example, will an application that uses realistic 3D models result in higher levels of presence than lower fidelity (i.e., cartoon) 3D models?
 
 It is possible that the lower fidelity serves as a distraction to the user which may result in breaks in immersion and a reminder of artificial nature of the virtual world. This could, in turn, impact their sense of presence. A practical example of this issue is with the use of avatars in collaborative environments. How is presence affected by the appearance and customization of the avatars? If a user pays attention to a particular feature or abnormality due to low fidelity rendering, it may impact their ability to perform the task at hand. Another example may be dynamic elements in the virtual world, such as a bouncing ball or a spinning tire. How distinguishable, in appearance and in behavior, the object is from its physical counterpart may influence the level of reported presence.
 
+This research topic involves the examination of self-reported presence in AR environments with virtual elements of varying levels of fidelity.
+This may include, but is not limited to, elements found in industrial or medical environments using AR such as avatars, schematics, instructions, and/or patient imagery/data.
 # Prior Research
 To be generated via FindAR
 
@@ -33,16 +34,10 @@ Presence tends to be a self-report measure assessed by means of a questionnaire.
 Medium
 
 # Research Program
-///////
-NEED TO FILL IN HERE
-///////
-Text (take a look at some of the other topics for inspiration and you can also "borrow" where and as needed
+This topic is closely related to another proposed AREA Research Agenda topic on presence [Epresence5-amountofinformation]. The topics could be combined with other AR End User and User Experience topics to develop a full research program.
 
 # Miscellaneous Notes
-///////
-NEED TO FILL IN HERE
-///////
-Text (take a look at some of the other topics for inspiration and you can also "borrow" where and as needed
-
+Yoon, B., Kim, H. I., Lee, G. A., Billinghurst, M., & Woo, W. (2019, March). The effect of avatar appearance on social presence in an augmented reality remote collaboration. In 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR) (pp. 547-556). IEEE.
+Witmer, B. G., Jerome, C. J., & Singer, M. J. (2005). The factor structure of the presence questionnaire. Presence: Teleoperators & Virtual Environments, 14(3), 298-312.
 # Author
 ERAU Team

@@ -6,7 +6,7 @@
 Presence is a term used to describe the "feeling of being there" in a virtual environment. It can be cognitive, in that the users' mind is engaged in the virtual content, or it can be perceptual, in that the users' sensory systems perceive the virtual environment to be "real". In Augmented Reality (AR), this is represented by a seamless integration between the physical and virtual worlds.
 A question that arises in this area of research is whether there a minimum amount of virtual information needed in an AR environment to experience presence? In VR worlds, the user is immersed into a completely virtual world so presence is likely to be experienced if the application is successfully implemented. In AR environments, users are exposed to virtual elements in addition to their physical surroundings. If a user has to switch their attention between the two worlds to complete a task, the result can be disruptive and/or fatiguing due to the lack of presence. If the user can complete the task as if the virtual elements are part of the physical world, the result is a seamless, productive experience including presence. The main research question in this area is "How much virtual information is necessary in an AR environment to produce a sense of presence?"  This question is of interest at both ends of the quantity spectrum - how much is enough, and how much is too much? Too little and the user will not experience presence; too much and the user may become so immersed in the virtual elements that awareness of the physical world may be compromised.
 
-This research topic involves the examination of AR environments with differing amounts of virtual elements and the measurement of presence among users.
+This research topic involves the examination of AR environments with differing amounts of virtual elements, varying sized environments, and the measurement of presence among users.
 
 # Prior Research
 To be generated via FindAR
@@ -40,10 +40,8 @@ This topic is closely related to another proposed AREA Research Agenda topic on 
 
 
 # Miscellaneous Notes
-///////
-NEED TO FILL IN HERE
-///////
-Text (take a look at some of the other topics for inspiration and you can also "borrow" where and as needed
+Interesting article related to the amount of physical space in which AR application is used.
+Shin, J. E., Kim, H., Parker, C., Kim, H. I., Oh, S., & Woo, W. (2019, October). Is Any Room Really OK? The Effect of Room Size and Furniture on Presence, Narrative Engagement, and Usability During a Space-Adaptive Augmented Reality Game. In 2019 IEEE International Symposium on Mixed and Augmented Reality (ISMAR) (pp. 135-144). IEEE.
 
 # Author
 ERAU Team
