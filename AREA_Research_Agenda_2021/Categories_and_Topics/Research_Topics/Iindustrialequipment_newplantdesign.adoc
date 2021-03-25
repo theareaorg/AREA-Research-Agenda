@@ -1,0 +1,50 @@
+
+[[ra-Iindustrialequipment-newplantdesign]]
+
+# Remote Plant Design and Onboarding
+
+# Description
+As R&D centers increasingly focus on implementing scalable industrial solutions on a global scale, it becomes increasingly difficult to ensure that, once new technologies are created and tested, subject matter experts can always travel to all required plant locations as technology becomes operational across the globe.   +
+
+AR provides a unique opportunity to ensure that R&D SMEs can view the real-time set up and operation of new technology onsite, advising where necessary around specific operational decisions that must be taken due to the specific site configuration and requirements (e.g. best equipment layout to drive operational efficiency, adjustments due to specific environmental requirements or regulations, etc.). +
+This study would aim to specifically measure time and cost to new site operational readiness, as well as initial operational effectiveness, associated with AR- and non-AR assisted R&D commercialization projects. +
+
+# Prior Research
+1
+
+# Key Words
+Operational readiness, Operational effectiveness, Research and development, R&D, cost effectiveness, cost reduction, industrial research. technology, remote operations, decision support systems
+
+## FindAR Terms
+failure, indicators, just in time, mixed realities, optimisation, etc.....TBD
+
+# Research Agenda Categories
+Business, End Users, Use Cases
+
+# Stakeholders
+Operational excellence professionals, Chief Operating Officers, Safety and risk professionals, plant managers
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+Scalability of technological advancement is highly-dependent upon ability to commercialize and deploy innovation in areas in which production/labor cost is low, which in many cases does not correspond to the areas in which R&D hubs are located. Providing real-time support around decision-making associated with plant design and start-up via AR should decrease time to productive and safe operational ramp-up, while making possible global commercialization at a lower cost than traditional methods that rely heavily upon SME travel, availability, and familiarity with local languages, customs, and practices. +
+
+This is of particular interest in the current scenario, due to limited travel associated with COVID and could be of great significance to increased efforts to scale up vaccine manufacturing operations (and perhaps even distribution) across the globe in 2021-2022. +
+
+# Possible Methodologies
+The proposed research would need to identify key operational decisions and processes required for transfer from R&D to on-site operations. +
+Research would measure time and cost to site operation with AR-assisted intervention and compare to known historical ramp-up times and costs.  +
+
+# Expected Impact Timeframe
+Near
+
+# Research Program
+This study could link closely with existing research programs associated with metals and mining, oil and gas, aerospace, manufacturing, and operational excellence in general.
+
+# Miscellaneous Notes
+Example of use cases:
+https://www.cidrap.umn.edu/news-perspective/2021/02/who-pushes-covid-vaccine-production-scale-more-sharing +
+https://apnews.com/press-release/pr-newswire/business-technology-lifestyle-products-and-services-jewelry-0c4c7956edd2d3f918f330a29ef59567 +
+
+# Author
+Jennifer Rogers

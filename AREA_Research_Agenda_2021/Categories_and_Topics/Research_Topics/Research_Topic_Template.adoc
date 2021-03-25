@@ -1,0 +1,41 @@
+[[ra-Xxxxxx5-xxxxxxxxxxxx]]
+
+# Title
+
+# Description
+Text
+
+# Prior Research
+To be generated via FindAR
+
+# Key Words
+Enter your own
+
+## FindAR Terms
+Find them on the machine-assigned terms (.csv)
+
+# Research Agenda Categories
+Choose one or more of the seven categories
+
+# Stakeholders
+Text
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+Text (take a look at some of the other topics for inspiration and you can also "borrow" where and as needed)
+
+# Possible Methodologies
+Text (take a look at some of the other topics for inspiration and you can also "borrow" where and as needed)
+
+# Expected Impact Timeframe
+Choose "Near," "Medium," or "Long"
+
+# Research Program
+Text (take a look at some of the other topics for inspiration and you can also "borrow" where and as needed
+
+# Miscellaneous Notes
+Text (take a look at some of the other topics for inspiration and you can also "borrow" where and as needed
+
+# Author
+First Name Last Name

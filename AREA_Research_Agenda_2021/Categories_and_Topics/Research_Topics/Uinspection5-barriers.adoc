@@ -14,6 +14,9 @@ Inspection, quality, safety, compliance, policy, use cases
 ## FindAR Terms
 quality control, quality management, inspection, defects, fault detection, measurement, nondestructive examination, nondestructive testing, process monitoring, product quality, quality assurance, testing
 
+# Research Agenda Categories
+Industry, Use Cases
+
 # Stakeholders
 Business and production managers in any industry where inspections are performed for review and confirmation of meeting any quality and/or safety policies, Safety managers, compliance managers, quality managers
 

@@ -7,33 +7,40 @@ Combining live sensor data with AR displays enables many use cases. This topic s
 
 When an AR-assisted user is controlling connected tools to perform a task, they do not need to turn their attention away from the main task to receive tool data. In addition, there is the potential for back-end IIoT systems to contribute to the user's productivity by providing clear indicators of status.
 
+This research topic explores different approaches to visualize live sensor data from tools in an IIoT context to study usability. It also will examine integration of data from connected tools and users' devices with operational software to automatically track processes, quality control and recommendations for users and managers.
+
 # Prior Research
 To be generated via FindAR
 
 # Key Words
-Connected tools,
+Connected tools, AR display, Industrial Internet of Things (IIoT), SCADA, asset tracing, asset management, diagnostics, usability, perception, real time sensor data, tools
 
 ## FindAR Terms
-using machine-assigned terms list
+interactive systems and tools, Internet of Things,
+
+# Research Agenda Categories
+Business, Technology, Use Cases
 
 # Stakeholders
-Text
+Operators of manufacturing, repair, maintenance facilities, quality managers, managers of factories, providers of repair and maintenance services, oil and gas, power and energy, medical practitioners,
 
 # Position on X and Y axes (1-5)
 
 # Reasons this topic is important for AREA members
-text
+AREA members with manufacturing facilities for assembly, or providing repair or maintenance services, or field services where connected tools are used need better ways to visualize data and to provide instantaneous status information to users. By immediately visualizing feedback about the status of a tool or process, the user will save time and perform the task or process to criteria the first time.
 
 # Possible Methodologies
-Text
+An experimental environment using a range of connected tools and procedures will provide the suitable environment for this research. Users of Industrial Internet of Things (IIoT) systems will perform tasks under controlled conditions. Motion and time studies, quality inspection and other measurements of performance will be used to quantify impacts. Users will complete surveys about satisfaction and feedback on various visualizations.
 
 # Expected Impact Timeframe
-Text
+Medium
 
 # Research Program
-Text
+This research can be combined with studies of AR-enabled guidance, integration of AR with IoT, finding parts and supplies with AR, 3D user interfaces, live sensor visualization for other use cases, and other use cases in factory or field settings.
 
 # Miscellaneous Notes
+Two AREA members with financial support from both industry and government [MxD (in US) and the AMRC (in UK)] have the required experimental environments and have already begun studying the approaches in this topic.
+
 In December 2014, there was on https://www.plex.com/[the Plex web site] a blog post about the specific use case of a https://www.plex.com/blog/internet-making-things-connected-torque-wrench[connected torque wrench].
 
 # Author

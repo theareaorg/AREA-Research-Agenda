@@ -14,31 +14,35 @@ To be generated via FindAR
 thermal imaging, 3D data visualization, smart helmets, Personal Protective Equipment, fire fighting, route tracing, 3D data interaction
 
 ## FindAR Terms
-using machine-assigned terms list
+couldn't find any
+
+# Research Agenda Categories
+Industry, Display Devices, Technology
 
 # Stakeholders
-While the emergency responders and military use cases are the clear beneficiary of this research topic, there are also applications in automotive, such as displaying to a driver moving or stationary wildlife along a road side. Similarly, when mounted in field equipment, the AR display can alert a driver to the presence of people or animals in the path of the equipment. When the technology is miniaturized and highly reliable, it may be used in enterprise AR use cases including but not limited to medical industry or animal husbandry for diagnostics and therapeutics. If the cost and size of the technologies is sufficiently low, the feature could be used for
+While the emergency responders and military use cases are the clear beneficiaries of this research topic, there are also applications in automotive, such as displaying to a driver moving or stationary wildlife along a road side. Similarly, when mounted in field equipment, the AR display can alert a driver to the presence of people or animals in the path of the equipment. When the technology is miniaturized and highly reliable, it may be used in enterprise AR use cases including but not limited to medical industry or animal husbandry for diagnostics and therapeutics. If the cost and size of the technologies is sufficiently low, the feature could be used for
 
 # Position on X and Y axes (1-5)
 
 # Reasons this topic is important for AREA members
-AREA members in government, automotive, aviation, medical and other industries will find it valuable to have more use cases for their AR investments. Adding new and diverse sources of live data to an AR display can increase cost and power use, but also introduce new use cases for AREA members.
+When AR displays with thermal imaging are available for enterprise users,, AREA members in government, automotive, aviation, medical and other industries will find it valuable to have more use cases for their AR investments. Adding new and diverse sources of live data to an AR display can increase cost and power use, but also introduce new use cases for AREA members.
 
 # Possible Methodologies
-The study of thermal imaging and design of new sensors will involve experts in physics and engineering. Adapting new sensors to fit the AR display form factors for prototyping and user testing will require skills in electromechanical domains, semiconductors and industrial design. In addition to research about thermal sensors, there will need to be research on user interaction with 3D thermal images.
+The study of thermal imaging and design of new sensors for heat mapping will involve expertise in physics and engineering. Adapting new sensors to fit the AR display form factors for prototyping and user testing will require skills in electromechanical domains, semiconductors and industrial design. In addition to research about thermal sensors, there will need to be research on user interaction with 3D thermal images.
 
 # Expected Impact Timeframe
 Medium
 
 # Research Program
-This topic can be combined with studies of other sensors that permit users to visualize through water, atmospheric conditions, and physical obstructions (e.g., walls). The study of sensor integration could also be extended to span visualization of a user's vitals (heart beat, blood pressure, etc) and 3D interactions. 
+This topic can be combined with studies of other sensors that permit users to visualize through water, atmospheric conditions, and physical obstructions (e.g., walls). The study of sensor integration could also be extended to span visualization of a user's vitals (heart beat, blood pressure, etc) and 3D interactions.
 
 # Miscellaneous Notes
-This topic was the focus of work by students at EPFL in 2015. The students working on this project developed a thermal imaging smart visor in 2016 https://actu.epfl.ch/news/augmented-reality-for-firefighters/.
-There was also a peer-reviewed paper published by one of the EPFL faculty working on the above project in 2018 http://fayez.me/papers/ICIP-2018-Paper.pdf
-In 2019, Darix, the start-up that was created out of the EPFL research, was acquired by Bullard https://actu.epfl.ch/news/ic-spinoff-darix-acquired-by-bullard/
+This topic was the focus of work by students at EPFL (Switzerland) in 2015. The students working on this project https://actu.epfl.ch/news/augmented-reality-for-firefighters/[developed a thermal imaging smart visor] in 2016.
+There was also a http://fayez.me/papers/ICIP-2018-Paper.pdf[peer-reviewed journal paper] published by one of the EPFL faculty working on the above project in 2018.
 
-Longan Vision has been adapting their system for Covid https://spectrum.ieee.org/the-institute/ieee-member-news/startups-thermal-imaging-and-ar-system-for-firefighters-joins-the-covid19-fight
+In 2019, Darix, the start-up that was created out of the EPFL research, https://actu.epfl.ch/news/ic-spinoff-darix-acquired-by-bullard/[was acquired by Bullard].
+
+Longan Vision, another company in this field, has been https://spectrum.ieee.org/the-institute/ieee-member-news/startups-thermal-imaging-and-ar-system-for-firefighters-joins-the-covid19-fight[adapting their system for Covid].
 
 # Author
-Text
+Christine Perey

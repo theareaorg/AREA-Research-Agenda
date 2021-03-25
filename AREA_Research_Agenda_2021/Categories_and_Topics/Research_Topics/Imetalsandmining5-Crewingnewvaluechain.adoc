@@ -1,19 +1,24 @@
 
 [[ra-Imetalsandmining5-crewingnewvaluechain]]
 
-# New Employment and Crew Models in Metals and Mining Value Chain Utilizing AR Technology
+# New Employment and Crew Models in Metals and Mining Value Chain
 
 # Description
-As an industry that has thus far been slower to adapt to automation, mining finds itself at a crossroads with regards to the recent COVID pandemic, in that they must redesign working environments to accommodate for the a) lack of available on-site skilled labor available to sustain current operations, b) mandates to reduce proximity of individuals, and thus number of crew members on site, and c) retraining and upskilling of current workforce as automation accelerates. This study aims to describe the manner in which employment and crew models can be reconstructed to reduce risk to the overall mining value chain and preserve operational targets so as to prevent wide-scale economic impact to the world economy.
+As an industry that has thus far been slower to adapt to automation, mining finds itself at a crossroads with regards to the recent COVID pandemic, in that they must redesign working environments to accommodate for the a) lack of available on-site skilled labor available to sustain current operations, b) mandates to reduce proximity of individuals, and thus number of crew members on site, and c) retraining and upskilling of current workforce as automation accelerates.
+
+This research topic aims to describe the manner in which employment and crew models can be reconstructed to reduce risk to the overall mining value chain and preserve operational targets so as to prevent wide-scale economic impact to the world economy.
 
 # Prior Research
 1
 
 # Key Words
-metals and mining, employment, recovery, COVID, crew models, remote operations
+metals and mining, employment, recovery, COVID, crew models, remote operations, risk reduction
 
 ## FindAR Terms
-TBD
+human resources, metalworking, ore treatment,
+
+# Research Agenda Categories
+Industry, Business, End Users
 
 # Stakeholders
 Economists, Government officials in countries with heavy mining production, Senior executives in metals/mining, HR professionals, Social Performance professionals, Operational Excellence professionals

@@ -1,6 +1,8 @@
-[[ra-Usmartcities1-multilayer]]
+[[ra-Usmartcities5-multilayer]]
 
-# Multi-layered approach to public asset utilization in smart cities
+NOTE: Needs a little more work to finish
+
+# Multi-layered Approach to Public Asset Utilization in Smart Cities
 
 # Description
 There is a wide range of assets in urban environments :public spaces, buildings, concentrations of demography, utilities, history, movement of people and objects and so on. These assets carry significant value for all those interacting with them but the nature and manifestation of the value depends on the context and the interactor.
@@ -29,7 +31,7 @@ According to the UN, 68% of the world population projected to live in urban area
 Lab tests combining best practices of Information Architecture and Human Factors, followed by in-field trials
 
 # Expected Impact Timeframe
-long-term
+Long
 
 # Research Program
 Text
