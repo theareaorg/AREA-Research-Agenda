@@ -43,7 +43,6 @@ Rural farmers would need to be onboarded into the technology and potential ecosy
 
 Post-study outcomes could be analyzed and recommendations developed for future implementation.
 
-
 # Expected Impact Timeframe
 Near
 
@@ -53,7 +52,6 @@ This study could link closely with existing research programs associated with me
 # Miscellaneous Notes
 References related to crop preservation research recommendations:
 https://ec.europa.eu/research/participants/data/ref/h2020/wp/2018-2020/main/h2020-wp1820-energy_en.pdf +
-
 
 # Author
 Jennifer Rogers
