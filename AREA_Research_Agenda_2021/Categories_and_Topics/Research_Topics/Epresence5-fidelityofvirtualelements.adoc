@@ -39,5 +39,6 @@ This topic is closely related to another proposed AREA Research Agenda topic on 
 # Miscellaneous Notes
 Yoon, B., Kim, H. I., Lee, G. A., Billinghurst, M., & Woo, W. (2019, March). The effect of avatar appearance on social presence in an augmented reality remote collaboration. In 2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR) (pp. 547-556). IEEE.
 Witmer, B. G., Jerome, C. J., & Singer, M. J. (2005). The factor structure of the presence questionnaire. Presence: Teleoperators & Virtual Environments, 14(3), 298-312.
+
 # Author
 ERAU Team
