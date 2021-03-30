@@ -22,7 +22,7 @@ Point cloud, laser scanning, disaster scene, crime scene, law enforcement
 Technology, business
 
 # Stakeholders
-Public safety agencies such as police crime scene investigators, law enforcement, FEMA, OEM manufacturers. If techniques are widely published Independent Software Vendors could integrate the capability as a new feature in their existing applications and support more devices.
+Public safety agencies such as police crime scene investigators, law enforcement, FEMA, OEM manufacturers. If techniques are widely published, Independent Software Vendors could integrate the capability as a new feature in their existing applications and support more devices.
 
 # Position on X and Y axes (1-5)
 1
@@ -43,7 +43,7 @@ medium
 This research topic can be combined with other projects examining the tradeoffs between fidelity and function of large-scale 3D models.
 
 # Miscellaneous Notes
-There's an ISMAR 2019 paper about this topic.
+There's an ISMAR 2019 paper about how to use AR device to track the viewpoint of the scanner to ensure that an object is fully scanned in 3D. This research topic could be an extension to the prior published research.
 
 # Author
 Peter Orban
