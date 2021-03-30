@@ -1,9 +1,13 @@
 # About Groups and Categories
+To classify machine-generated terms, we establish a set of Groups and Categories.  In doing so, a strict tree hierarchy is formed, wherein Terms feed into Groups that feed into Categories.  The latest hierarchy can be https://github.com/theareaorg/AREA-Research-Agenda/blob/main/FindAR/Visualizations/treemap-full-taxonomy.html[visualized as a treemap].
 
 ## What are Groups?
-
+Groups are buckets of machine-generated terms that broadly describe a research domain.  Currently, there exist about 60 groups, which were agreed upon by subject matter experts.  For example, the Group "Emergency Responders" consists of the following terms: ambulances, disasters, emergency management, emergency services, emergency traffic control, emergency vehicles, fire protection, fires, flames, floods, and police.  Note that these groupings were created through subjective means and should not be held as "ground truth" for applications outside of the AREA Research Agenda.  That being said, we envision that this structured classification of terms could still be helpful for other industrial AR R&D projects.
 
 ## What are Categories?
+Categories are higher level buckets of the groups.  Currently, there exist 7 categories, which again were agreed upon by subject matter experts.  For example, the Category "Displays" consists of the following groups: wearables, display technology, optics, and device energy management.
 
+The assignment of machine-generated terms to groups and categories can be found https://github.com/theareaorg/AREA-Research-Agenda/blob/main/FindAR/Data/term-bucketing.csv[in this CSV file].
 
 ## Allocation and Assignment Methodology
+To be completed by Jessyca(?)
