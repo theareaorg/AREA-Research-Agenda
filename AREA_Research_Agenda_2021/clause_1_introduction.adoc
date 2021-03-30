@@ -28,5 +28,12 @@ Billinghurst concludes that in order to reach its full potential as a transforma
 The Future Today Institute publishes an annual analysis. The full
 https://www.dropbox.com/s/fm5c9mlmnwy9kgd/FTI_2021_Tech_Trends_Volume_All.pdf?dl=0[2021 Technology Trends Report] includes "books" focusing in different domains. One of the domains is called "New Realities" and the topics in https://www.dropbox.com/s/3esdwureqa5458f/FTI_2021_Tech_Trends_Volume_3_NewRealities_SynthMedia.pdf?dl=0[this book] and the domain of include the use of AR in enterprise
 
+# Research Quality
+An important aspect to consider in the planning and execution of any research is quality of the research and results. One of the most widely-accepted methods of ensuring that research meets or exceeds the quality threshold for a community or industry is peer review. The careful and critical review of submissions by a panel of peers ensures that, prior to public release, publications and conference papers reflect the latest research methods and that the results are sound.
+
+All the articles included in the FindAR data set and used in quantitative analyses for this research agenda have been peer reviewed and meet the industry standard for quality.
+
+As the field of Augmented Reality is quickly evolving, it is important for all of those intending or performing research on AR topics to contribute to development of new research methods and/or to follow the latest best practices. One source of peer-reviewed articles for methods is the https://www.igi-global.com/book/handbook-research-software-quality-innovation/259901[Handbook of Research on Software Quality Innovation in Interactive Systems] (published by IGI Global in March 2021).
+
 # Outreach/publications
-Once research is productive and reliable (reproducible) results need to be made available to a wide range of industry stakeholders who can deliver AR experiences that meet and exceed the requirements of end users.
+Once a research program is productive and reliable (reproducible) results are available, these need to be made available to a wide range of industry stakeholders who can deliver AR experiences that meet and exceed the requirements of end users. 
