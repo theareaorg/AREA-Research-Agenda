@@ -1,19 +1,33 @@
 # About Machine-Generated Terms
 
 ## What are Machine-Generated Terms?
-In this work, we define *machine-generated terms* as controlled keywords from two literature databases, namely Inspec and Compandex.  Note that Inspec and Compandex have different taxonomies to define their controlled keywords.  Hence, the first step to derive these terms is to first alias the terms so that we can compare them.  Simple examples of aliasing include overcoming British and American spelling (e.g., "visualisation" vs. "visualization") and merging singular and plural instances of the same concept (e.g., "sport" vs. "sports").
+In this work, we define *machine-generated terms* as controlled keywords from two literature databases, namely Inspec and Compandex.  The basis of machine-generated terms are "controlled vocabulary" from Engineering Village, a commercial publication querying tool.  The controlled vocabulary presented in the Engineering Village tool is defined as a taxonomy of terms based on Inspec and Compandex.  These terms are not curated by the authors or venues of the papers, but rather a commonized taxonomy per indexing service.
 
-We define all aliasing activities in https://github.com/theareaorg/AREA-Research-Agenda/blob/main/FindAR/Data/replacements-new.csv[this CSV file].
+Note that Inspec and Compandex have different taxonomies to define their controlled keywords.  This in itself triggers significant challenges for commonizing records for query and analysis.
 
-Is Low-Level terms what they are called by the system that assigned them? If not, we should use their technical (originally assigned) name.
+## Commonizing Machine-Generated Terms
 
-Make it clear that the low-level terms are different from key words (one or two words?) that are attributed by the author at time of submission.
+We define a list of aliasing rules for machine generated terms.  All aliasing rules are listed in https://github.com/theareaorg/AREA-Research-Agenda/blob/main/FindAR/Data/replacements-new.csv[this CSV file].  Simple examples of aliasing include overcoming British and American spelling (e.g., "visualisation" vs. "visualization") and merging singular and plural instances of the same concept (e.g., "sport" vs. "sports").
+
+## Removing Machine-Generated terms
+
+https://github.com/theareaorg/AREA-Research-Agenda/blob/main/FindAR/Data/replacements-new.csv[The alias ruleset] also includes rules for removing controlled vocabulary that has too much coverage across the database.  Such terms include "augmented reality" and "virtual reality."
+
+## Bucketing Machine-Generated Terms
+
+After the terms are aliased according to https://github.com/theareaorg/AREA-Research-Agenda/blob/main/FindAR/Data/replacements-new.csv[our set rules], we bucket the machine-generated terms into Groups.
+
+## Dealing with records without machine-generated terms
+
+There are two situations when records without machine-generated terms can be present in the database.  (1) We only consider entries from the controlled vocabulary listings from Engineering Village.  In other words, we never seed machine-generated terms beyond the rules defined above.  If Engineering Village provides 0 controlled vocabulary per record, we assign "other" as the sole machine-generated term.  (2) It is also possible that a record only includes one of the deleted terms (e.g., "augmented reality").  In this situation, we also assign "other" as the sole machine-generated term.
+
+The database is a living product.  We expect to update the database with new publication records in the future.  When new records are introduced, it is posible that additional terms are introduced.  Hence, part of the updating process is appending both the https://github.com/theareaorg/AREA-Research-Agenda/blob/main/FindAR/Data/replacements-new.csv[alias ruleset] and https://github.com/theareaorg/AREA-Research-Agenda/blob/main/FindAR/Data/term-bucketing.csv[bucketing rules].
 
 ## Usage in FindAR
 
-The FindAR tool provides users an easy way to search on low-level terms.
+The FindAR tool provides users an easy way to search on machine-generated terms.
 
-Low-level terms were grouped into mid-level terms. When a user searches on one low-level term, other terms in the same group are presented. The user can select one or more other low-level terms in the same group to explore (browse) related articles.
+Machine-generated terms are classified into Groups. When a user searches on one Machine-generated term, other terms in the same group are presented. The user can select one or more other machine-generate terms in the same group to explore (browse) related articles.
 
 ## Feedback/Drawbacks
 In the process of attributing low-level terms to groups, the research team discovered significant shortcomings:
