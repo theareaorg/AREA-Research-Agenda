@@ -1,6 +1,6 @@
 [[ra-Usmartcities5-multilayer]]
 
-NOTE: Needs a little more work to finish
+NOTE: Needs a little more work to finish: stakeholders, research program and miscellaneous notes
 
 # Multi-layered Approach to Public Asset Utilization in Smart Cities
 
@@ -20,7 +20,7 @@ public asset management, public services
 intelligent buildings, urban growth, town and country planning, urban planning, digital twin, smart cities, street lighting
 
 # Stakeholders
-Mayors, City CIOs & IT leaders, , ISVs
+Mayors, City CIOs & IT leaders, ISVs
 
 # Position on X and Y axes (1-5)
 

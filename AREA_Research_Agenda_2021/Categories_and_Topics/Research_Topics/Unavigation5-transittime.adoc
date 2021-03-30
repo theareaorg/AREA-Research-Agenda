@@ -5,7 +5,11 @@ NOTE: this is a placeholder!
 # Visualization of Routes and Transit Time in AR
 
 # Description
-Google Maps is a killer app for smartphones.
+Efficient navigation between locations is a challenge encountered in many use cases. Routing and guidance to a location is a killer app for smartphones. Using context to help users navigate to their destinations will also be valuable for AR users but more research is needed to integrate real time data in route calculation and further study on user interfaces will also benefit this use case.
+
+Traffic information from smart phone users contributes to calculations of routes for drivers. At a finer grain, real time data from captured video (e.g., on users and their devices) and stationary or mobile sensors could further improve route planning. Route planning could be made more efficient in workplaces and to remote locations.
+
+For example, in factories or warehouses, workers need to avoid moving through zones where robots are operating, where materials they are transporting do not fit through openings or through any space that is secure and requires credentials for entry/exit. Often the professional is expected to travel to a place which is unfamiliar/to which they have never been. Studies that train, with machine learning, algorithms to detect and use real world conditions would be highly beneficial. A professional may avoid unsafe or impassible routes.
 
 # Prior Research
 To be generated via FindAR

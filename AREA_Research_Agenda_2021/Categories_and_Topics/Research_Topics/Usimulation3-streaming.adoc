@@ -1,13 +1,14 @@
 [[ra-Usimulation3-streaming]]
 
-# Minimum useful fidelity of streamed large-scale 3D models over 5G
+# Minimum Useful Fidelity of Streamed Large-scale 3D Models over 5G
 
 
 # Description
-Large scale 3D models play an important role in many fields ranging from Simulation to Product Lifecycle Management to Digital Twins deployed on a plethora of AR-capable devices. But these models are not always or necessarily as close to the reality they purport to represent as possible, due to systems or resource limitations.
-Using AR it is possible to stream these models to assist of processes performed by human operators. Generally speaking the simpler the model (i.e. the lower the fidelity) the less resource is required for streaming However, if simplification goes too far, utility suffers, possibly preventing the operator from performing the intended task.
-The research scope should include comparative studies measuring the exact impact of simplification due to streaming, possibly expressed by the decrease in polygon count vs the time required and error rates achieved in a particular operations. Measurement methods would be developed to ensure accuracy within 5% margin of error.
+Large scale 3D models play an important role in many fields ranging from simulation to Product Lifecycle Management to digital twins deployed on a plethora of AR-capable devices. However, due to systems or resource limitations, these models are not always as close to the reality as they purport to be.
 
+Using AR, it is possible to stream these models to a device to assist processes performed by human operators or technicians. Generally speaking the simpler the model (i.e. the lower the fidelity), the less resource is required for streaming. However, if simplification goes too far, utility suffers, possibly preventing the operator from performing the intended task.
+
+The research scope should include comparative studies measuring the exact impact of model simplification due to streaming, possibly expressed by the decrease in polygon count vs the time required and error rates achieved in a particular operations. Measurement methods would be developed to ensure accuracy within 5% margin of error.
 
 # Prior Research
 To be generated via FindAR
@@ -17,7 +18,6 @@ Point cloud, large-scale 3D models, polygons
 
 ## FindAR Terms
 Surfaces, finite element method, computer simulation, digital simulation, computational mechanics, computer aided engineering, discrete event simulation, virtualization
-
 
 # Research Agenda Categories
 Technology, business
@@ -29,11 +29,10 @@ Operations leaders, financial management, OEM manufacturers, Independent Softwar
 3
 
 # Reasons this topic is important for AREA members
-Large-scale models play an increasingly important across various verticals, requiring the justification of the necessary amount of investment.
-The AREA members need ways to manage this investment by cross-optimizing model fidelity and utility delivering model quality that is fit for the purpose but not better.
+Large-scale models play an increasingly important role across various verticals of interest and importance to AREA members, requiring the justification of the investment at one or more levels. AREA members will benefit from having ways to manage this investment by cross-optimizing model fidelity and utility delivering model quality that is fit for the purpose but not better.
 
 # Possible Methodologies
-This research project will make a statistically significant number of comparisons between versions  of different fidelity of the same large-scale 3D model point clouds and will examine their impact on the performance aided by said models. Examining the relationship between model fidelity and human performance will inform the investment process for large-scale 3D models.
+This research project will make a statistically significant number of comparisons between versions of different fidelity of the same large-scale 3D model point clouds and will examine their impact on the performance aided by said models. Examining the relationship between model fidelity and human performance will inform the investment process for large-scale 3D models.
 
 # Expected Impact Timeframe
 Medium
