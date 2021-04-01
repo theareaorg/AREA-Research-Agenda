@@ -2,7 +2,7 @@
 
 NOTE: this is a placeholder!
 
-# Visualization of Routes and Transit Time in AR
+# Visualization of Routes, Risks and Transit Time in AR
 
 # Description
 Efficient navigation between locations is a challenge encountered in many use cases. Routing and guidance to a location is a killer app for smartphones. Using context to help users navigate to their destinations will also be valuable for AR users but more research is needed to integrate real time data in route calculation and further study on user interfaces will also benefit this use case.
