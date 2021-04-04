@@ -1,6 +1,4 @@
-[[ra-Unavigation5-transittime]]
-
-NOTE: this is a placeholder!
+[[ra-Unavigation5-routesriskstransittime]]
 
 # Visualization of Routes, Risks and Transit Time in AR
 
