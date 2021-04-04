@@ -78,7 +78,13 @@ include::clause_1_introduction.adoc[]
 Exactly where the "how to use this guide" section is still undecided.
 ////
 
-include::clause_1-1_usage.adoc[]
+include::clause_1-1_target_audiences.adoc[]
+
+include::clause_1-2_usage.adoc[]
+
+include::clause_1-3_other_research_agendas.adoc[]
+
+include::clause_1-4_research_quality.adoc[]
 
 include::clause_2_scope.adoc[]
 
@@ -95,18 +101,17 @@ Foundation concepts are basic concepts which are important for the use of the st
 [[ra-research-agenda-foundations-section]]
 == AREA Research Agenda Foundations
 
-include::clause_6_foundations.adoc[]
+include::clause_6_methodology.adoc[]
 
-include::clause_6_1_foundation-concept.adoc[]
+include::clause_6-1_first_method.adoc[]
 
-include::clause_6_2_foundation-concept.adoc[]
+include::clause_6-2_second_method.adoc[]
 
 ////
 This section should mirror the normative sections of the standard. External links should resolve here. The goal is to provide a landing zone with access to incrementally more detail as the user navigates deeper into the Users Guide.
 ////
 
-[[ra-categories-section]]
-== AREA Research Agenda 2021 Categories
+include::clause_7_research_topics.adoc[]
 
 include::clause_7_1_package.adoc[]
 
@@ -116,11 +121,13 @@ include::clause_7_2_package.adoc[]
 This section contains normative content from the standard which would be useful to users of this Users Guide. The sole purpose of this is to make life easier for the user. In this case it is the data dictionary for the Standard.
 ////
 
-include::clause_8_data-dictionary.adoc[]
+include::clause_8_placeholder.adoc[]
 
 ////
 Commonly used annexes
 ////
+
+include::annex-a.adoc[]
 
 include::annex-history.adoc[]
 

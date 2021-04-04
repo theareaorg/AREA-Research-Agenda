@@ -1,0 +1,4 @@
+[[ra-research-topics-section]]
+
+#
+Describe how each research topic is structured using a template.

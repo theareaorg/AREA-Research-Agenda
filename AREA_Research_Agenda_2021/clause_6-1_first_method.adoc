@@ -1,0 +1,4 @@
+[[ra-first-method-section]]
+=== Title of this section
+
+Describe the method here.

@@ -1,5 +1,5 @@
 
-List of standards development organizations (SDOs) that the AREA is monitoring for development of relevant standards.
+The AREA Interoperability and Standards Program is monitoring the following Standards Development Organizations (SDOs) for development of relevant standards.
 
 3GPP
 ASME

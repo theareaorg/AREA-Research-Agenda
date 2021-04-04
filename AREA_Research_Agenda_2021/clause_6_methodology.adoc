@@ -1,0 +1,6 @@
+[[ra-methodology-section]]
+== Methodology
+
+This section is introductory text for the methodologies.
+
+This file may be omitted if you have nothing to say.
