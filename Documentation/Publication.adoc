@@ -2,6 +2,6 @@
 
 The AREA Research Agendas are published on the web in HTML and in PDF.
 
-To generate the HTML of the Research Agenda run in a terminal window on a computer on which Asciidoctor is running the following where the letters YEAR are replaced by the year or edition `asciidoctor --safe -a data-uri -o AREA-Research-Agenda-YEAR.html GAREA-Research-Agenda-YEAR.adoc`
+To generate the HTML of the Research Agenda run in a terminal window on a computer on which Asciidoctor is running the following where the letters YEAR are replaced by the year or edition `asciidoctor --safe -a data-uri -o AREA-Research-Agenda-YEAR.html AREA-Research-Agenda-YEAR.adoc`
 
 To produce the PDF of the Research Agenda run in a terminal window on a computer on which Asciidoctor is running the following where the letters YEAR are replaced by the year or edition `asciidoctor-pdf --safe -o AREA-Research-Agenda-YEAR.pdf AREA-Research-Agenda-YEAR.adoc`
