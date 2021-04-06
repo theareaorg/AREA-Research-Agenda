@@ -10,4 +10,4 @@ Categories are higher level buckets of the groups.  Currently, there exist 7 cat
 The assignment of machine-generated terms to groups and categories can be found https://github.com/theareaorg/AREA-Research-Agenda/blob/main/FindAR/Data/term-bucketing.csv[in this CSV file].
 
 ## Allocation and Assignment Methodology
-To be completed by Jessyca(?)
+Categories were assigned using a card sorting technique. A team of professionals knowledgeable within the field of AR were presented with machine-assigned terms or group names and asked to sort these items into groupings based on similarity. The team then examined the percentage of agreement between all the groupings that were created. Any groupings that were not highly agreed upon were discussed until a decision for placement or the creation of a new category was finalized. The card sorts were completed using Optimal Workshop (https://www.optimalworkshop.com/).
