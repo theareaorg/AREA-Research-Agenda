@@ -74,10 +74,6 @@ include::clause_0_front_material.adoc[]
 
 include::clause_1_introduction.adoc[]
 
-////
-Exactly where the "how to use this guide" section is still undecided.
-////
-
 include::clause_1-1_target_audiences.adoc[]
 
 include::clause_1-2_usage.adoc[]
@@ -88,46 +84,23 @@ include::clause_1-4_research_quality.adoc[]
 
 include::clause_2_scope.adoc[]
 
-include::clause_3_references.adoc[]
+include::clause_3_terms_and_definitions.adoc[]
 
-include::clause_4_terms_and_definitions.adoc[]
+include::clause_4_methodology.adoc[]
 
-include::clause_5_conventions.adoc[]
+include::clause_4-1_first_method.adoc[]
 
-////
-Foundation concepts are basic concepts which are important for the use of the standard. The contents of this section are referenced from within this Users Guide. Exterior links should not resolve in this section.
-////
+include::clause_4-2_second_method.adoc[]
 
-[[ra-research-agenda-foundations-section]]
-== AREA Research Agenda Foundations
+include::clause_5_research_topics.adoc[]
 
-include::clause_6_methodology.adoc[]
+include::clause_5-1_topics.adoc[]
 
-include::clause_6-1_first_method.adoc[]
+include::clause_5-2_topics.adoc[]
 
-include::clause_6-2_second_method.adoc[]
+include::clause_6_looking_ahead.adoc[]
 
-////
-This section should mirror the normative sections of the standard. External links should resolve here. The goal is to provide a landing zone with access to incrementally more detail as the user navigates deeper into the Users Guide.
-////
-
-include::clause_7_research_topics.adoc[]
-
-include::clause_7_1_package.adoc[]
-
-include::clause_7_2_package.adoc[]
-
-////
-This section contains normative content from the standard which would be useful to users of this Users Guide. The sole purpose of this is to make life easier for the user. In this case it is the data dictionary for the Standard.
-////
-
-include::clause_8_placeholder.adoc[]
-
-////
-Commonly used annexes
-////
-
-include::annex-a.adoc[]
+include::annex-a_groups_and_categories.adoc[]
 
 include::annex-history.adoc[]
 
