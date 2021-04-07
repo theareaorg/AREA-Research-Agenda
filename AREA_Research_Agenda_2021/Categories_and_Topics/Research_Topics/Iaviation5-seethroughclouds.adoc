@@ -17,7 +17,7 @@ Situational awareness, night vision, non-visual scanning in real time, aviation 
 aircraft navigation, avionics, aircraft displays, air navigation, aircraft detection
 
 # Research Agenda Categories
-Industry, Display Devices, Technology
+Industry, Displays, Technology
 
 # Stakeholders
 AR experience developers, operators and owners/users of commercial, private or military aircraft

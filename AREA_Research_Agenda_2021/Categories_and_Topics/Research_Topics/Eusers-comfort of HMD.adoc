@@ -1,0 +1,46 @@
+[[ra-Eusers-comfortofHMD]]
+
+# Understanding Individual Differences and the Impact of HMD Comfort on User Acceptance
+
+# Description
+Mixed reality head mounted dispays (HMDs) tend to be heavy, cumbersome to don and doff, and hot after extended periods of use. The extent to which this impacts user perceptions varies by individual due to different head sizes, head shape, visual acuity & accommodation, inter-pupillary distance, and the use of corrective lenses or safety glasses/safety helmets. While advances in the technology that accomodate wider ranges of humans are rapidly being deployed, industry adoption can be hampered by poor user acceptance due to general discomfort.
+
+This research topic involves the examination of individual differences that contribute to user satisfaction and acceptance of a variety of HMD devices and enterprise applications.
+
+# Prior Research
+To be generated via FindAR
+
+# Key Words
+comfort, eye strain, fatigue, simulation sickness, heat tolerance, headgear weight tolerance
+
+## FindAR Terms
+subjective testing, behavioral research, thermal comfort, environmental factors, comfort
+
+## Research Agenda Categories
+End Users and User Experience, Industries, Technology
+
+# Stakeholders
+Developers, users, operators, users of AR head mouted displays (HMDs)
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+This topic is of interest to AREA members because it helps to understand the role of HMD comfort on user acceptance of AR in the workplace. It also contributes to our understading of what factors/individual differences are still not addressed by the various HMD technologies.
+
+# Possible Methodologies
+Comfort can be measured both objectively and subjectively. Objective measures include pupil diameter to assess workload or cogntiive effort, EEG, and GSR. Subjective measures include Likert scales querying perceived comfort, exertion (i.e., Borg Scale or Perceived Exertion), assessments of HMD weight, thermal comfort, and acceptable length of use, and general acceptance.
+
+# Expected Impact Timeframe
+Medium
+
+
+# Research Program
+This topic is potentially related to another proposed AREA Research Agenda topic on Users and User Experience [Einput-textinput] in that comfort is a key component to user acceptance of various text input methods. The topics could be combined with other AR End User and User Experience topics to develop a full research program.
+
+
+# Miscellaneous Notes
+Interesting article regarding the design decisions of the HoloLens 1 to accomodate individual differences:
+Kress, B. C., & Cummings, W. J. (2017, May). 11‐1: Invited paper: Towards the ultimate mixed reality experience: HoloLens display architecture choices. In SID symposium digest of technical papers (Vol. 48, No. 1, pp. 127-131).
+
+# Author
+ERAU Team
