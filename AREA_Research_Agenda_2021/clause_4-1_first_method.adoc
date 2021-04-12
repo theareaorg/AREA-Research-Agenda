@@ -10,3 +10,22 @@ To assemble a research agenda, it is first necessary to properly capture the sta
 We leverage a well-known technical document search tool, called Engineering Village.  Engineering Village covers ``high-quality, relevant and cross-disciplinary content, enabling engineers and researchers to perform thorough and effective literature reviews, analyze the research landscape, and solve problems'' [Cite: https://www.elsevier.com/solutions/engineering-village/content].  For our initial search, we consider journal publications and conference proceedings and exclude standards, patents, books, and engineering dissertations.  We restricted our initial database of work to the last 5 years, i.e., 2017--2021.  If ``augmented reality'' appeared in any metadata fields, e.g., abstract, keywords, and title, we store records of metadata, including but not limited to a DOI, abstract, set of keywords, publication year, and venue, related to each returned publication.
 
 ==== Aligning differences in underlying publication indexing services
+Engineering Village leverages existing publication indexing services, most notably Inspec and Compandex.  In the field of Augmented Reality, Inspec and Compandex are by the far the biggest contributors to the publication database.  To align these two databases, we had to adopt a data-driven methodology.
+
+*Discuss aliasing
+*Discuss unifying
+*Discuss bucketing
+
+Note: link to documentation of About-Low-Level-Terms.adoc and About-Mid-And-High-Level-Terms.adoc
+
+==== Defining and building a hierarchy of terms for data analysis
+
+==== Judging relevance of each publication record to AREA members
+
+==== Judging relatedness of every record in the publication databases
+
+==== Identifying gaps and trends of prior AR researchers
+
+===== Frequency and co-occurrence charts based on term hierarchy
+
+===== Network-based understanding of terms
