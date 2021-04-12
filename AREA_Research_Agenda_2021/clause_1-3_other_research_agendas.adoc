@@ -1,5 +1,23 @@
 [[ra-other-research-agendas-section]]
 == Other Research Agendas
+NOTE: Needs to be cleaned up
+
+Research agendas differ widely in their methodologies, target audiences, scope, depth and the length of time they seek to address or influence.
+
+This section compiles research agendas, related tools and resources which can offer perspectives and insights for those developing policies which will impact AR and funding AR research.
+
+2020 Request link for ECORYS report report
+
+2019 or 2020 Oct: XR 4ALL Research Agenda - request link from Oliver Schreer (Fraunhofer Institute, HHI)
+
+2018 Dec: https://uwe-repository.worktribe.com/OutputFile/1493581[Research Agenda for VR and AR in UK AEC industry] University of West England, Bristol
+
+2018 Sept:	https://ec.europa.eu/growth/tools-databases/dem/monitor/content/augmented-and-virtual-reality[Augmented and Virtual Reality in Operations] Report by Capgemini Research Institute (www.capgemini.com)
+
+2017 Oct: 	https://ec.europa.eu/growth/tools-databases/dem/monitor/content/augmented-and-virtual-reality[Digital Transformation Monitor: Augmented and Virtual Reality] Report prepared by the consortium composed of PwC, CARSA, IDATE and ESN under the 		contract Digital Entrepreneurship Monitor (EASME/COSME/2014/004)
+
+2017 May:	https://ec.europa.eu/futurium/en/system/files/ged/vr_ecosystem_eu_report_0.pdf[Virtual reality and its potential for Europe] ECORYS report
+
 
 ## European Union
 This report, entitled https://www.standict.eu/sites/default/files/2021-02/McKinsey%20report.pdf[Shaping the Digital Transformation in Europe] (published Sept 2020, prepared by McKinsey & Company), outlines nine actions that set a high bar and that directly address the four objectives for Europe’s digital transformation.
