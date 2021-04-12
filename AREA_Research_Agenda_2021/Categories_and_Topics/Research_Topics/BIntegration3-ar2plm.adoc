@@ -1,0 +1,33 @@
+[[ra-BIntegration3-ar2plm]]
+
+# Systems Integration between PLM systems and AR
+
+# Description
+
+# Prior Research
+
+
+# Key Words
+
+## FindAR Terms
+
+# Research Agenda Categories
+
+
+# Stakeholders
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+
+# Possible Methodologies
+
+# Expected Impact Timeframe
+
+
+# Research Program
+
+# Miscellaneous Notes
+
+# Authors
+Bill Bernstein

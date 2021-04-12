@@ -1,0 +1,35 @@
+[[ra-SInteroperability3-digitalmodels]]
+
+# Harmonization of Standard Industrial Data with Lightweight 3D Models
+
+# Key Words
+
+
+## FindAR Terms
+
+
+# Research Agenda Categories
+
+
+# Stakeholders
+
+
+# Position on X and Y axes (1-5)
+
+# Reasons this topic is important for AREA members
+
+
+# Possible Methodologies
+
+
+# Expected Impact Timeframe
+
+
+# Research Program
+
+
+# Miscellaneous Notes
+
+
+# Authors
+Bill Bernstein
