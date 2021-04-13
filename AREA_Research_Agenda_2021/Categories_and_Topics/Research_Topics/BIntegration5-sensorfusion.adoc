@@ -1,17 +1,18 @@
 [[ra-BIntegration5-sensorfusion]]
 
-# Off-Device Fusion of Streaming Data from Diverse Sensors
+# Dynamic Distribution of Processing capacity via a Mesh network of Wearable Devices
 
 # Description
-Deploying enterprise AR solutions via head-mounted displays (HMD) is inherently advantageous when simultaneous use of both hands is required. However, currently HMD performance is limited due to technological constraints, such as battery life or heat dissipation needs. When integrated on the display device, cameras and other sensors for user context acquisition  consume valuable resources. An alternative to integrating all sensors, computational and power resources on a single HMD is to distribute sensors, processors and power across other devices designed to be worn by the user (e.g., wrist, dedicated sensors, exoskeletons, etc) or in close proximity (edge network). To provide a coherent context for detection of triggers and delivery of AR experiences, real time data from a ‘mesh’ of distributed and synchronized sensors needs to be cleaned and fused using AI on high-performance computational resources and reliable power sources.
+Deploying Enterprise AR solutions via head mounted displays is inherently advantageous when simultaneous use of both hands is required. However, currently HMD performance is limited due to technological constraints, such as battery life or heat dissipation needs. One solution is to offload and distribute sensor data collection dynamically across other devices worn by the user (wrist, dedicated sensors, exoskeletons, etc.) into a ‘mesh network’ of wearables. This would not only to decrease processing requirements but also enrich data feeds necessary and would provide additional data about the wearer and the environment. (e.g. pose/posture of different body parts). This however presents challenges in reintegrating separate data streams into a cohesive model either on the edge or in the mist/fog/cloud.
 
-This research project will study the use of off-display sensors and advanced data processing to integrate sensor data from multiple sources that will not only decrease display device processing requirements but also provide additional context about the wearer and its environment (e.g., pose/posture of different body parts). This research project will explore approaches to address challenges in sensor data synchronization and sensor fusion in different network architectures to produce a cohesive model of a user's context. The cost/benefit ratio of different approaches across different sensor, processing and network configurations will need to be calculated to develop recommendations for HMD manufacturers and systems integrators.
+This topic will include in its scope calculating the utility/benefit ratio of different approaches focusing modeling optimums across different configurations.
+
 
 # Prior Research
 To be generated via FindAR
 
 # Key Words
-Body sensor networks, sensor configuration, sensor control, head-mounted display device, wearables, distributed computing, cloud computing, sensor fusion, optimization, body area networks, off-display sensors, off-display processing
+Body-worn mesh networks, sensor configuration, sensor control, head-mounted display device, wearables, distributed computing, cloud computing, sensor fusion, optimization, body area networks, off-display sensors, off-display processing
 
 ## FindAR Terms
 body sensor networks, personal area networks, mobile cloud computing, distributed computing, body area networks, wireless sensor networks, sensor fusion
