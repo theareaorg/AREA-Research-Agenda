@@ -32,7 +32,7 @@ Lab tests combining best practices of Information Architecture and Human Factors
 Long
 
 # Research Program
-This otpic is a good fit with most topics focused on Smart Cities and long-range outdoor positioning.
+This topic is a good fit with most topics focused on Smart Cities and long-range outdoor positioning.
 
 # Miscellaneous Notes
 https://www.un.org/development/desa/en/news/population/2018-revision-of-world-urbanization-prospects.html#:~:text=News-,68%25%20of%20the%20world%20population%20projected%20to%20live%20in,areas%20by%202050%2C%20says%20UN&text=Today%2C%2055%25%20of%20the%20world's,increase%20to%2068%25%20by%202050.
