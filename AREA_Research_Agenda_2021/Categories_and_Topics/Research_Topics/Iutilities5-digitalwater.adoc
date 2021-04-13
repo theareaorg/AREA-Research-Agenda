@@ -41,7 +41,7 @@ Long
 Leakage and issues with obstructed pipes are not unique to utilities. The research techniques developed for this topic can be adapted for use in other industries where resources are sent using linear assets and infrastructure. The research platform could be commercialized into products or services to increase safety, reduce waste and optimize operations of infrastructure.
 
 # Miscellaneous Notes
-In October 2019, research about this topic https://www.researchgate.net/publication/336238139_DEVELOPMENT_OF_AUGMENTED_REALITY_PIPELINE_VISUALISER_ARPV_APPLICATION_FOR_VISUALISING_UNDERGROUND_WATER_PIPELINE[has been published in the International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences].
+In October 2019, research about an subset of this topi https://www.researchgate.net/publication/336238139_DEVELOPMENT_OF_AUGMENTED_REALITY_PIPELINE_VISUALISER_ARPV_APPLICATION_FOR_VISUALISING_UNDERGROUND_WATER_PIPELINE[has been published in the International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences].
 
 # Authors
 Peter Orban, Christine Perey
