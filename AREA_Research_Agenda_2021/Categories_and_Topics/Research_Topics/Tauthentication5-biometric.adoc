@@ -26,28 +26,23 @@ access control, data protection, security systems,  authentication, message auth
 Display Devices, End User, Technology
 
 # Stakeholders
-///THIS NEEDS TO BE UPDATED/IMPROVED///
-CIOs, IT and Security managers, OEMs, ISVs
+All stakeholder in corporate security organizations but priomarily CISOs, CIOs, IT and Security managers. On the vendor side OEMs, Solutions Providers, System Integrators and Independent Voftware Vendors
 
 # Position on X and Y axes (1-5)
 
 # Reasons this topic is important for AREA members
-///THIS NEEDS TO BE UPDATED/IMPROVED///
-Securing endpoints in the Enterprise is a critical step in preventing a breach of Enterprise Systems. The appearance of a new device class raise legitimate authentication, Human Factors and Privacy concerns related this new and highly personal modality
+Securing endpoints in the Enterprise is a critical step in preventing compromised security of Enterprise Systems. Therefore the appearance of a new device class and a new highly personal modality modalities of authentication raise legitimate authentication, Human Factors and Privacy concerns. 
 
 # Possible Methodologies
-///THIS NEEDS TO BE UPDATED/IMPROVED///
-Lab tests combining best practices of Human Factors and Security research , followed by in-field trials
+Rigorous laboratory tests, deployed via multiple cells of different modalities and best practices can establish a baseline. This will be followed by Human Factors and Security research, culminating in field trials.
 
 # Expected Impact Timeframe
 medium-term
 
 # Research Program
-///THIS NEEDS TO BE UPDATED/IMPROVED///
-Text
+This can be part of or be leading all biometrics related research initiatives.
 
 # Miscellaneous Notes
-///THIS NEEDS TO BE UPDATED/IMPROVED///
 Text
 
 # Author
