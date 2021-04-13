@@ -2,13 +2,8 @@
 ### Title of this section
 Since there is insufficient guidance in the research community and from other public resources, the AREA Research Committee developed the methodology described below as part of the 8th AREA Research Project. The Research Committee will adapt the process and update this section in subsequent editions.
 
-image:https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/figures/overall_methodology.png[alt="not bad.",width=128,height=128]
+image:https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/figures/overall_methodology.png[alt="not bad.",width=1280,height=720]
 
-image::figures/overall_methdology.png[Overview of the methodology]
-[#img-methods]
-.Methodology
-[link=https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/figures/overall_methodology.png]
-image::figures/overall_methdology.png[Sunset,300,200]
 
 
 ### Investigating prior published works related to industrial AR
