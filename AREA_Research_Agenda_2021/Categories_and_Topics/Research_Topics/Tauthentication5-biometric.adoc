@@ -40,7 +40,7 @@ Rigorous laboratory tests, deployed via multiple cells of different modalities a
 medium-term
 
 # Research Program
-This can be part of or be leading all biometrics related research initiatives.
+This topic is closely related to another proposed AREA Research Agenda topic on end user biometric authentication for security purposes [Tauthentication5-biometric]. The topics could be combined with other AR security topics to develop a full research program.
 
 # Miscellaneous Notes
 Text
