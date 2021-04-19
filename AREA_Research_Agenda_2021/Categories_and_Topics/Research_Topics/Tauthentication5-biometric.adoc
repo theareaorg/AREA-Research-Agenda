@@ -1,6 +1,6 @@
 [[ra-Tauthentication5-biometric]]
 
-NOTE: NEEDS MORE WORK and is very close to facial obfuscation [DISAGREE -OP] topic and Tsecurity5-multiusedisplays.adoc [THIS TOPIC INCLUDES TWO LOSELY RELATED SUBJECTS: CLEANING DEVICES AND AUTHENTICATING USERS. PERHAPS FOCUS THIS ON ONLY CLEANING?]
+NOTE: NEEDS MORE WORK and is very close to facial obfuscation [DISAGREE -OP] topic and Tsecurity5-multiusedisplays.adoc [THAT TOPIC INCLUDES TWO LOOSELY RELATED SUBJECTS: CLEANING DEVICES AND AUTHENTICATING USERS. PERHAPS FOCUS IT ON ONLY CLEANING?]
 
 # Biometric identification of Wearable Enterprise AR device users
 
@@ -31,7 +31,7 @@ All stakeholder in corporate security organizations but priomarily CISOs, CIOs, 
 # Position on X and Y axes (1-5)
 
 # Reasons this topic is important for AREA members
-Securing endpoints in the Enterprise is a critical step in preventing compromised security of Enterprise Systems. Therefore the appearance of a new device class and a new highly personal modality modalities of authentication raise legitimate authentication, Human Factors and Privacy concerns. 
+Securing endpoints in the Enterprise is a critical step in preventing compromised security of Enterprise Systems. Therefore the appearance of a new device class and a new highly personal modality modalities of authentication raise legitimate authentication, Human Factors and Privacy concerns.
 
 # Possible Methodologies
 Rigorous laboratory tests, deployed via multiple cells of different modalities and best practices can establish a baseline. This will be followed by Human Factors and Security research, culminating in field trials.
