@@ -1,9 +1,16 @@
 [[ra-SInteroperability3-digitalmodels]]
 
 # Harmonization of Standard Industrial Data with Lightweight 3D Models
+Computer-aided design (CAD) platforms provide a broad suite of tools for constructing highly precise digital three-dimensional (3D) representations of parts, assemblies, and structures. Many engineering teams and organizations adhere to a single CAD platform for formally representing geometric dimensioning and tolerancing (GD&T) requirements, optimizing design performance through detailed simulations, and developing initial process plans for manufacturing the parts.  With the increasing emphasis on model-based engineering across industry, more value is embedded in these digital models every day.
+
+To allow for native 3D models to be displayed on AR modalities, model translation is necessary into more efficient digital models.  Previous work has focused on model tessellation and decimation to make sure that the models are perceptually accurate.  Inherently, there is a loss in geometry and topology precision in the translation process.  However, for most AR use cases, there is no need for such a high level of accuracy in the presentation of part and assembly geometries.  These translation methods do not currently port supporting information, such as GD&T and other Product Manufacturing Information (PMI), in a platform-agnostic manner.
+
+There is a research opportunity for leveraging existing industrial data standards that enable the exchange of part and assembly information with limited loss of information.  One particular use case of interest is dealing with engineering change management.  In theory, model-based engineering facilitates better management of engineering change, as the native CAD model serves as a reference for all product lifecycle functions and processes.  Let's consider assembly animations and their use in a AR-assisted assembly workstation.  If there is a persistent link or pipeline between the native 3D models and animation with the tessellated model to be used in XR, theoretically, the AR-assisted workstation could be agile and updatable based on upstream engineering changes.
+
+Additional work is required in fundamental mappings between standard data representations, both from the domain perspective such as manufacturing and the AR standard community such as glTF animations.  In general, such work has been characterized as standards harmonization.
 
 # Key Words
-
+Digital Enterprise, Model Translation, Interoperability, Product Manufacturing Information, Geometric Dimensioning and Tolerancing, Assembly Animation, Engineering Change Management, Updatable AR, Maintainable AR, Transferrable AR, Agile AR
 
 ## FindAR Terms
 
