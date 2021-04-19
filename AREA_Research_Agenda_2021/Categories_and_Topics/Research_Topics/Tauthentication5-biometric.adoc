@@ -1,6 +1,6 @@
 [[ra-Tauthentication5-biometric]]
 
-NOTE: NEEDS MORE WORK and is very close to facial obfuscation topic and Tsecurity5-multiusedisplays.adoc.
+NOTE: NEEDS MORE WORK and is very close to facial obfuscation [DISAGREE -OP] topic and Tsecurity5-multiusedisplays.adoc.
 
 # Biometric identification of Wearable Enterprise AR device users
 
