@@ -13,30 +13,33 @@ Additional work is required in fundamental mappings between standard data repres
 Digital Enterprise, Model Translation, Interoperability, Product Manufacturing Information, Geometric Dimensioning and Tolerancing, Assembly Animation, Engineering Change Management, Updatable AR, Maintainable AR, Transferrable AR, Agile AR
 
 ## FindAR Terms
-
+knowledge representation, ontologies (artificial intelligence), information management, production planning, metadata, application programming interfaces, systems engineering, cad/cam, cad, computer aided design, integration, industry 4.0, 3d modeling, assembly, manufacturing data processing, product life cycle management, computer aided engineering, Interoperability, standardization, protocols
 
 # Research Agenda Categories
-
+Standards, Technology, Industries
 
 # Stakeholders
-
+OEM manufacturers, integrated solution and software developers, CAD/CAM providers, engineering design teams
 
 # Position on X and Y axes (1-5)
+TBD
 
 # Reasons this topic is important for AREA members
-
+Lots of development time and efforts is spent in model translation.  If better tools existed for translating native models into AR-ready representations, industrial end-users would benefit directly.  The strong design and manufacturing focus of the AREA sit at the center of this potential research area's benefits.
 
 # Possible Methodologies
-
+Existing model translators and standard data representations provide a strong starting point for investigation.  Focusing on handling PMI and properly spatially anchoring them in the tessellated model would be a good choice for an initial project.
 
 # Expected Impact Timeframe
-
+Short-term
 
 # Research Program
-
+This topic would directly benefit construction and manufacturing industries.  Luckily, lots of the existing domain-specific standards cut across these two industries. Working together to develop application domain extensions for AR standards would be a good first step.
 
 # Miscellaneous Notes
-
+* https://www.cax-if.org/[https://www.cax-if.org/]
+* https://www.khronos.org/gltf/[https://www.khronos.org/gltf/]
+* https://www.asme.org/topics-resources/content/y14-standards-overview[https://www.asme.org/topics-resources/content/y14-standards-overview]
 
 # Authors
 Bill Bernstein
