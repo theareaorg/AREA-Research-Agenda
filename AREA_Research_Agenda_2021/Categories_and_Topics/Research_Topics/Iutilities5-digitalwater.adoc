@@ -1,9 +1,9 @@
 [[ra-Iutilities5-digitalwater]]
 
-# Reconciling Discrepancies of Physical and Documented locations of Water Pipeline Networks via HMDs s
+# Reconciling Discrepancies Documented and Actual Locations of Water Pipeline Networks via HMDs
 
 # Description
-Municipal water systems can be major beneficiaries of Digital Water Services: a combination of Source Monitoring, Production & Quality management, Leak Detection, Water Balance & Network Monitoring/Modeling and Process Control. In order to deploy these services, the first step is to create a digital representation of the pipeline network by reconciling the pipeline network documentation through on-site measurement and validation.
+Municipal water systems can be major beneficiaries of Digital Water Services: a combination of Source Monitoring, Production & Quality management, Leak Detection, Water Balance & Network Monitoring/Modeling and Process Control. In order to be able to deploy these services, the first step is to create a digital representation of the pipeline network However, documentation of pipeline networks are not always kept up-to-date, or precise enough therefore  said documentation must be validated or corrected by physical, on-site measurement and documentation.
 
 Largely a manual process of measurement and photographic documentation, this first step represents significant time and human resource investment and is prone to errors.
 
@@ -32,7 +32,7 @@ This research will be valuable to the operators of municipal water systems, wast
 Some AREA members build, operate and manage large public and private infrastructure for clean and waste water. Systemic loss in water networks ranges from 20-90% (globally). Improving the digital representation of these systems with accurate and automatic measurement technologies will reduce loss and create a more sustainable water management system.
 
 # Possible Methodologies
-Platforms equipped with volumetric capture systems will be developed for this research. Using areas that have reliable, manually measured flow parameters, the AR-enabled prototype system will be tested in the field. Various data extraction methodologies are used to compare the AR-assisted platforms with ground truth.
+Initial lab testing of various volumetric capture solutions will evaluate candidate solutions, followed by in-field  test comparing said solutions with  physical ground truth. This will be supported by test of various data extraction methodologies.
 
 # Expected Impact Timeframe
 Long
