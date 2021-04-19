@@ -1,6 +1,6 @@
 [[ra-Tauthentication5-biometric]]
 
-NOTE: NEEDS MORE WORK and is very close to facial obfuscation [DISAGREE -OP] topic and Tsecurity5-multiusedisplays.adoc.
+NOTE: NEEDS MORE WORK and is very close to facial obfuscation [DISAGREE -OP] topic and Tsecurity5-multiusedisplays.adoc [THIS TOPIC INCLUDES TWO LOSELY RELATED SUBJECTS: CLEANING DEVICES AND AUTHENTICATING USERS. PERHAPS FOCUS THIS ON ONLY CLEANING?]
 
 # Biometric identification of Wearable Enterprise AR device users
 
@@ -40,7 +40,7 @@ Rigorous laboratory tests, deployed via multiple cells of different modalities a
 medium-term
 
 # Research Program
-This topic is closely related to another proposed AREA Research Agenda topic on end user biometric authentication for security purposes [Tauthentication5-biometric]. The topics could be combined with other AR security topics to develop a full research program.
+This topic is closely related to another proposed AREA Research Agenda topic on cleaning and authenticating multi-user devices end user [Tsecurity5-multiuserdisplays.adoc] The topics could be combined with other AR security topics to develop a full research program.
 
 # Miscellaneous Notes
 Text
