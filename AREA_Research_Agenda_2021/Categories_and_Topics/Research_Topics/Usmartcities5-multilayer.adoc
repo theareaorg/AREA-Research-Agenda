@@ -17,6 +17,9 @@ public asset management, public services
 ## FindAR Terms
 intelligent buildings, urban growth, town and country planning, urban planning, digital twin, smart cities, street lighting
 
+# Research Agenda Categories
+Technology, business
+
 # Stakeholders
 Elected and professional urban leaders: Mayors, CIOs and CISOs of urban infrastructure, Independent Software Vendors, Geospatila infrastructure providers
 
