@@ -2,7 +2,11 @@
 
 # Systems Integration between PLM systems and AR
 
+Note: This research topic significantly overlaps with the Digital Model Interoperability topic[https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/Categories_and_Topics/Research_Topics/SInteroperability3-digialmodels.adoc].
+
 # Description
+
+
 
 # Prior Research
 
