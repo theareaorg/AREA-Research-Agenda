@@ -4,8 +4,6 @@ Since there is insufficient guidance in the research community and from other pu
 
 image:https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/figures/overall_methodology.png[width=800,height=400]
 
-
-
 ### Investigating prior published works related to industrial AR
 To assemble a research agenda, it is first necessary to properly capture the status quo of on-going and past research across academia and industry.  A key challenge is building a holistic landscape of industrial research activities.  In other words, trends in research and development across industry are difficult to asses with minimal bias since a company's publishing on their latest developments directly conflicts with their competitive advantage.  On the other hand, academic efforts are much easier to track since AR methods and technology developments are reported through academic venues, such as journals and conference proceedings. As a result, we only consider academic work for baselining the current research landscape for industrial AR.
 

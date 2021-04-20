@@ -1,6 +1,10 @@
 [[ra-SInteroperability3-digitalmodels]]
 
 # Harmonization of Standard Industrial Data with Lightweight 3D Models
+
+Note: This research topic significantly overlaps with https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/Categories_and_Topics/Research_Topics/BIntegration3-ar2plm.adoc[the AR to PLM research topic].  There are distinct in that this research topic is specific to the manufacturing industry.  The other research topic relates to developing a standard data model for ingesting PLM data, such as sustainment data for maintaining digital twins.
+
+# Description
 Computer-aided design (CAD) platforms provide a broad suite of tools for constructing highly precise digital three-dimensional (3D) representations of parts, assemblies, and structures. Many engineering teams and organizations adhere to a single CAD platform for formally representing geometric dimensioning and tolerancing (GD&T) requirements, optimizing design performance through detailed simulations, and developing initial process plans for manufacturing the parts.  With the increasing emphasis on model-based engineering across industry, more value is embedded in these digital models every day.
 
 To allow for native 3D models to be displayed on AR modalities, model translation is necessary into more efficient digital models.  Previous work has focused on model tessellation and decimation to make sure that the models are perceptually accurate.  Inherently, there is a loss in geometry and topology precision in the translation process.  However, for most AR use cases, there is no need for such a high level of accuracy in the presentation of part and assembly geometries.  These translation methods do not currently port supporting information, such as GD&T and other Product Manufacturing Information (PMI), in a platform-agnostic manner.
