@@ -2,14 +2,14 @@
 
 # Systems Integration between PLM systems and AR
 
-Note: This research topic significantly overlaps with https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/Categories_and_Topics/Research_Topics/SInteroperability3-digialmodels.adoc[the Digital Model Interoperability research topic].
+Note: This research topic significantly overlaps with https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/Categories_and_Topics/Research_Topics/SInteroperability3-digialmodels.adoc[the Digital Model Interoperability research topic].  There are distinct in that this research topic is specific to the manufacturing industry.  The other research topic relates more generally to 3D asset translation and can be applied to other domains, such as construction.
 
 # Description
-
+Significant AR application development effort and time is dedicated to coordinating AR scene development with domain-specific information.  This is especially true in the manufacturing industry.  Data for
 
 
 # Prior Research
-
+TBD
 
 # Key Words
 
