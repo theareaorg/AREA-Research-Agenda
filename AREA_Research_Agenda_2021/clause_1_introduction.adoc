@@ -27,7 +27,7 @@ The lack of overarching principles and absence of data-driven gap and needs anal
 . those funding the research cannot use science and data to choose those projects most likely to result in addressing large enterprise AR customer needs and driving adoption,
 . Researchers and research funding organizations cannot contribute directly to one or more overarching, multi-project vision and roadmap.
 
-NOTE: Do the next three paragraphs say the same thing (repeat the same ideas)? Is there another order that would improve the flow?
+NOTE: Do the next two paragraphs say the same thing (repeat the same ideas)? Is there another order that would improve the flow?
 
 A “Research Agenda” is a living resource that focuses the attention of stakeholders and helps to establish priorities for research organizations, governmental and non-governmental funding organizations and planners who serve research stakeholders in other capacities. Once published, it can be maintained and/or used to measure progress against stakeholder-generated issues and gaps in knowledge or tools that can be addressed through research.
 
