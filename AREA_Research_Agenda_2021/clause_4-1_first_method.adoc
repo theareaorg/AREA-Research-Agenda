@@ -1,15 +1,16 @@
 [[ra-first-method-section]]
-=== Title of this section
+### Title of this section
 Since there is insufficient guidance in the research community and from other public resources, the AREA Research Committee developed the methodology described below as part of the 8th AREA Research Project. The Research Committee will adapt the process and update this section in subsequent editions.
 
+image:https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/figures/overall_methodology.png[width=800,height=400]
 
-=== Investigating prior published works related to industrial AR
+### Investigating prior published works related to industrial AR
 To assemble a research agenda, it is first necessary to properly capture the status quo of on-going and past research across academia and industry.  A key challenge is building a holistic landscape of industrial research activities.  In other words, trends in research and development across industry are difficult to asses with minimal bias since a company's publishing on their latest developments directly conflicts with their competitive advantage.  On the other hand, academic efforts are much easier to track since AR methods and technology developments are reported through academic venues, such as journals and conference proceedings. As a result, we only consider academic work for baselining the current research landscape for industrial AR.
 
-==== Developing a systems boundary for what to consider in academic publications
-We leverage a well-known technical document search tool, called Engineering Village.  Engineering Village covers ``high-quality, relevant and cross-disciplinary content, enabling engineers and researchers to perform thorough and effective literature reviews, analyze the research landscape, and solve problems'' [Cite: https://www.elsevier.com/solutions/engineering-village/content].  For our initial search, we consider journal publications and conference proceedings and exclude standards, patents, books, and engineering dissertations.  We restricted our initial database of work to the last 5 years, i.e., 2017--2021.  If ``augmented reality'' appeared in any metadata fields, e.g., abstract, keywords, and title, we store records of metadata, including but not limited to a DOI, abstract, set of keywords, publication year, and venue, related to each returned publication.
+#### Developing a systems boundary for what to consider in academic publications
+We leverage a well-known technical document search tool, called Engineering Village.  Engineering Village covers "high-quality, relevant and cross-disciplinary content, enabling engineers and researchers to perform thorough and effective literature reviews, analyze the research landscape, and solve problems" [Cite: https://www.elsevier.com/solutions/engineering-village/content].  For our initial search, we consider journal publications and conference proceedings and exclude standards, patents, books, and engineering dissertations.  We restricted our initial database of work to the last 5 years, i.e., 2017--2021.  If "augmented reality" appeared in any metadata fields, e.g., abstract, keywords, and title, we store records of metadata, including but not limited to a DOI, abstract, set of keywords, publication year, and venue, related to each returned publication.
 
-==== Aligning differences in underlying publication indexing services
+#### Aligning differences in underlying publication indexing services
 Engineering Village leverages existing publication indexing services, most notably Inspec and Compandex.  In the field of Augmented Reality, Inspec and Compandex are by the far the biggest contributors to the publication database.  To align these two databases, we had to adopt a data-driven methodology.
 
 *Discuss aliasing
@@ -18,14 +19,19 @@ Engineering Village leverages existing publication indexing services, most notab
 
 Note: link to documentation of About-Low-Level-Terms.adoc and About-Mid-And-High-Level-Terms.adoc
 
-==== Defining and building a hierarchy of terms for data analysis
+#### Defining and building a hierarchy of terms for data analysis
 
-==== Judging relevance of each publication record to AREA members
 
-==== Judging relatedness of every record in the publication databases
+#### Judging relevance of each publication record to AREA members
 
-==== Identifying gaps and trends of prior AR researchers
+#### Judging relatedness of every record in the publication databases
 
-===== Frequency and co-occurrence charts based on term hierarchy
+#### Identifying gaps and trends of prior AR researchers
 
-===== Network-based understanding of terms
+#### Frequency and co-occurrence charts based on term hierarchy
+
+#### Network-based understanding of terms
+
+#### Identifying research opportunities
+
+#### Ranking research opportunities based on amount of relevant prior art

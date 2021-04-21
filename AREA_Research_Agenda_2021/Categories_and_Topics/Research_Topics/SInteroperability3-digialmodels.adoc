@@ -2,34 +2,51 @@
 
 # Harmonization of Standard Industrial Data with Lightweight 3D Models
 
-# Key Words
+Note: This research topic significantly overlaps with https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/Categories_and_Topics/Research_Topics/BIntegration3-ar2plm.adoc[the AR to PLM research topic].  There are distinct in that this research topic is specific to the manufacturing industry.  The other research topic relates to developing a standard data model for ingesting PLM data, such as sustainment data for maintaining digital twins.
 
+# Description
+Computer-aided design (CAD) platforms provide a broad suite of tools for constructing highly precise digital three-dimensional (3D) representations of parts, assemblies, and structures. Many engineering teams and organizations adhere to a single CAD platform for formally representing geometric dimensioning and tolerancing (GD&T) requirements, optimizing design performance through detailed simulations, and developing initial process plans for manufacturing the parts.  With the increasing emphasis on model-based engineering across industry, more value is embedded in these digital models every day.
+
+To allow for native 3D models to be displayed on AR modalities, model translation is necessary into more efficient digital models.  Previous work has focused on model tessellation and decimation to make sure that the models are perceptually accurate.  Inherently, there is a loss in geometry and topology precision in the translation process.  However, for most AR use cases, there is no need for such a high level of accuracy in the presentation of part and assembly geometries.  These translation methods do not currently port supporting information, such as GD&T and other Product Manufacturing Information (PMI), in a platform-agnostic manner.
+
+There is a research opportunity for leveraging existing industrial data standards that enable the exchange of part and assembly information with limited loss of information.  One particular use case of interest is dealing with engineering change management.  In theory, model-based engineering facilitates better management of engineering change, as the native CAD model serves as a reference for all product lifecycle functions and processes.  Let's consider assembly animations and their use in a AR-assisted assembly workstation.  If there is a persistent link or pipeline between the native 3D models and animation with the tessellated model to be used in XR, theoretically, the AR-assisted workstation could be agile and updatable based on upstream engineering changes.
+
+Additional work is required in fundamental mappings between standard data representations, both from the domain perspective such as manufacturing and the AR standard community such as glTF animations.  In general, such work has been characterized as standards harmonization.
+
+# Prior Research
+TBD
+
+# Key Words
+Digital Enterprise, Model Translation, Interoperability, Product Manufacturing Information, Geometric Dimensioning and Tolerancing, Assembly Animation, Engineering Change Management, Updatable AR, Maintainable AR, Transferrable AR, Agile AR
 
 ## FindAR Terms
-
+knowledge representation, ontologies (artificial intelligence), information management, production planning, metadata, application programming interfaces, systems engineering, cad/cam, cad, computer aided design, integration, industry 4.0, 3d modeling, assembly, manufacturing data processing, product life cycle management, computer aided engineering, Interoperability, standardization, protocols
 
 # Research Agenda Categories
-
+Standards, Technology, Industries
 
 # Stakeholders
-
+OEM manufacturers, integrated solution and software developers, CAD/CAM providers, engineering design teams
 
 # Position on X and Y axes (1-5)
+TBD
 
 # Reasons this topic is important for AREA members
-
+Lots of development time and efforts is spent in model translation.  If better tools existed for translating native models into AR-ready representations, industrial end-users would benefit directly.  The strong design and manufacturing focus of the AREA sit at the center of this potential research area's benefits.
 
 # Possible Methodologies
-
+Existing model translators and standard data representations provide a strong starting point for investigation.  Focusing on handling PMI and properly spatially anchoring them in the tessellated model would be a good choice for an initial project.
 
 # Expected Impact Timeframe
-
+Short-term
 
 # Research Program
-
+This topic would directly benefit construction and manufacturing industries.  Luckily, lots of the existing domain-specific standards cut across these two industries. Working together to develop application domain extensions for AR standards would be a good first step.
 
 # Miscellaneous Notes
-
+* https://www.cax-if.org/[https://www.cax-if.org/]
+* https://www.khronos.org/gltf/[https://www.khronos.org/gltf/]
+* https://www.asme.org/topics-resources/content/y14-standards-overview[https://www.asme.org/topics-resources/content/y14-standards-overview]
 
 # Authors
 Bill Bernstein
