@@ -13,25 +13,31 @@ We leverage a well-known technical document search tool, called Engineering Vill
 #### Aligning differences in underlying publication indexing services
 Engineering Village leverages existing publication indexing services, most notably Inspec and Compandex.  In the field of Augmented Reality, Inspec and Compandex are by the far the biggest contributors to the publication database.  To align these two databases, we had to adopt a data-driven methodology.
 
-*Discuss aliasing
-*Discuss unifying
-*Discuss bucketing
+Engineering Village offers three columns of keyword types, including "controlled/subject terms," "uncontrolled terms," and "classification code." We chose to leverage "controlled/subject terms" as the ground truth keywords for the rest of our analysis, since the terms adhere to a term taxonomy defined by the two indexing services (unlike "uncontrolled terms") yet exhibit low-level specificity to delineated critical topics (unlike "classification code").
 
-Note: link to documentation of About-Low-Level-Terms.adoc and About-Mid-And-High-Level-Terms.adoc
+As a team, we manually created aliasing rules to (1) align terms from one indexing service to another with the same meaning, (2) remove British spelling and adhere to US English conventions, and (3) unify plural versions of terms with their singular versions.  Interested readers can review the aliasing rules in https://github.com/theareaorg/AREA-Research-Agenda/blob/main/FindAR/Data/replacements-new.csv[this CSV file].
+
+Note: Further discussion about https://github.com/theareaorg/AREA-Research-Agenda/blob/main/Documentation/About-Low-Level-Terms.adoc[machine-generated terms], https://github.com/theareaorg/AREA-Research-Agenda/blob/main/Documentation/About-Mid-And-High-Level-Terms.adoc[groups and categories] can be found here.
 
 #### Defining and building a hierarchy of terms for data analysis
 
 
 #### Judging relevance of each publication record to AREA members
 
+
 #### Judging relatedness of every record in the publication databases
+
 
 #### Identifying gaps and trends of prior AR researchers
 
+
 #### Frequency and co-occurrence charts based on term hierarchy
+
 
 #### Network-based understanding of terms
 
+
 #### Identifying research opportunities
+
 
 #### Ranking research opportunities based on amount of relevant prior art
