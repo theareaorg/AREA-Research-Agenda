@@ -2,8 +2,6 @@
 
 # Systems Integration between PLM systems and AR
 
-Note: This research topic significantly overlaps with https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/Categories_and_Topics/Research_Topics/SInteroperability3-digialmodels.adoc[the Digital Model Interoperability research topic].  There are distinct in that this research topic is specific to the manufacturing industry.  The other research topic relates more generally to 3D asset translation and can be applied to other domains, such as construction.
-
 # Description
 Significant AR application development effort and time is dedicated to coordinating AR scene development with domain-specific information.  This is especially true in the manufacturing industry.  Product Lifecycle Management (PLM) software systems curate design, manufacturing, and lifecycle sustainment related to a product system (ideally) throughout its entire lifecycle.  Leveraging such data across PLM systems for industrial AR has mainly become a platform-specific exercise.  Commercial PLM software vendors provide industrial AR solutions that leverage their application programming interfaces (APIs) to help establish AR scenes.  However, since most large original equipment manufacturers (OEMs) operate in complex, global, and heavily distributed supply chains.  In other words, in many cases, OEMs subscribe to every major commercial PLM software platform to handle the variety of data representations provided by their suppliers.  This is especially important if the end users aims to truly create a digital twin of a product system.
 
@@ -36,7 +34,7 @@ Existing standard data representations provide a strong starting point for inves
 Short-term
 
 # Research Program
-OEMs with complex and heavily distributed supply chains should be a center point for the project.  Program managers and technical advisors in such organizations understand the issue of cumbersome technical data packages.  
+OEMs with complex and heavily distributed supply chains should be a center point for the project.  Program managers and technical advisors in such organizations understand the issue of cumbersome technical data packages.  This research topic significantly overlaps with https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/Categories_and_Topics/Research_Topics/SInteroperability3-digialmodels.adoc[the Digital Model Interoperability research topic].  There are distinct in that this research topic is specific to the manufacturing industry.  The other research topic relates more generally to 3D asset translation and can be applied to other domains, such as construction.
 
 # Miscellaneous Notes
 * https://www.cax-if.org/[https://www.cax-if.org/]

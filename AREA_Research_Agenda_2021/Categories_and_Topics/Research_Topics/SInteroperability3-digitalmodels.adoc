@@ -2,8 +2,6 @@
 
 # Harmonization of Standard Industrial Data with Lightweight 3D Models
 
-Note: This research topic significantly overlaps with https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/Categories_and_Topics/Research_Topics/BIntegration3-ar2plm.adoc[the AR to PLM research topic].  There are distinct in that this research topic is specific to the manufacturing industry.  The other research topic relates to developing a standard data model for ingesting PLM data, such as sustainment data for maintaining digital twins.
-
 # Description
 Computer-aided design (CAD) platforms provide a broad suite of tools for constructing highly precise digital three-dimensional (3D) representations of parts, assemblies, and structures. Many engineering teams and organizations adhere to a single CAD platform for formally representing geometric dimensioning and tolerancing (GD&T) requirements, optimizing design performance through detailed simulations, and developing initial process plans for manufacturing the parts.  With the increasing emphasis on model-based engineering across industry, more value is embedded in these digital models every day.
 
@@ -41,7 +39,7 @@ Existing model translators and standard data representations provide a strong st
 Short-term
 
 # Research Program
-This topic would directly benefit construction and manufacturing industries.  Luckily, lots of the existing domain-specific standards cut across these two industries. Working together to develop application domain extensions for AR standards would be a good first step.
+This topic would directly benefit construction and manufacturing industries.  Luckily, lots of the existing domain-specific standards cut across these two industries. Working together to develop application domain extensions for AR standards would be a good first step.  This research topic significantly overlaps with https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/Categories_and_Topics/Research_Topics/BIntegration3-ar2plm.adoc[the AR to PLM research topic].  There are distinct in that this research topic is specific to the manufacturing industry.  The other research topic relates to developing a standard data model for ingesting PLM data, such as sustainment data for maintaining digital twins.
 
 # Miscellaneous Notes
 * https://www.cax-if.org/[https://www.cax-if.org/]
