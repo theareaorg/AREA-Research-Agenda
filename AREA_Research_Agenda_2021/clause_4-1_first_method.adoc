@@ -8,19 +8,29 @@ image:https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research
 To assemble a research agenda, it is first necessary to properly capture the status quo of on-going and past research across academia and industry.  A key challenge is building a holistic landscape of industrial research activities.  In other words, trends in research and development across industry are difficult to asses with minimal bias since a company's publishing on their latest developments directly conflicts with their competitive advantage.  On the other hand, academic efforts are much easier to track since AR methods and technology developments are reported through academic venues, such as journals and conference proceedings. As a result, we only consider academic work for baselining the current research landscape for industrial AR.
 
 #### Developing a systems boundary for what to consider in academic publications
-We leverage a well-known technical document search tool, called Engineering Village.  Engineering Village covers "high-quality, relevant and cross-disciplinary content, enabling engineers and researchers to perform thorough and effective literature reviews, analyze the research landscape, and solve problems" [Cite: https://www.elsevier.com/solutions/engineering-village/content].  For our initial search, we consider journal publications and conference proceedings and exclude standards, patents, books, and engineering dissertations.  We restricted our initial database of work to the last 5 years, i.e., 2017--2021.  If "augmented reality" appeared in any metadata fields, e.g., abstract, keywords, and title, we store records of metadata, including but not limited to a DOI, abstract, set of keywords, publication year, and venue, related to each returned publication.
+As shown in Figure X-1, we leverage a well-known technical document search tool, called Engineering Village.  Engineering Village covers "high-quality, relevant and cross-disciplinary content, enabling engineers and researchers to perform thorough and effective literature reviews, analyze the research landscape, and solve problems" [Cite: https://www.elsevier.com/solutions/engineering-village/content].  For our initial search, we consider journal publications and conference proceedings and exclude standards, patents, books, and engineering dissertations.  We restricted our initial database of work to the last 5 years, i.e., 2017--2021.  If "augmented reality" appeared in any metadata fields, e.g., abstract, keywords, and title, we store records of metadata, including but not limited to a DOI, abstract, set of keywords, publication year, and venue, related to each returned publication.
 
 #### Aligning differences in underlying publication indexing services
 Engineering Village leverages existing publication indexing services, most notably Inspec and Compandex.  In the field of Augmented Reality, Inspec and Compandex are by the far the biggest contributors to the publication database.  To align these two databases, we had to adopt a data-driven methodology.
 
 Engineering Village offers three columns of keyword types, including "controlled/subject terms," "uncontrolled terms," and "classification code." We chose to leverage "controlled/subject terms" as the ground truth keywords for the rest of our analysis, since the terms adhere to a term taxonomy defined by the two indexing services (unlike "uncontrolled terms") yet exhibit low-level specificity to delineated critical topics (unlike "classification code").
 
-As a team, we manually created aliasing rules to (1) align terms from one indexing service to another with the same meaning, (2) remove British spelling and adhere to US English conventions, and (3) unify plural versions of terms with their singular versions.  Interested readers can review the aliasing rules in https://github.com/theareaorg/AREA-Research-Agenda/blob/main/FindAR/Data/replacements-new.csv[this CSV file].
+As shown in Figure X-2, our team manually created aliasing rules to (1) align terms from one indexing service to another with the same meaning, (2) remove British spelling and adhere to US English conventions, and (3) unify plural versions of terms with their singular versions.  Interested readers can review the aliasing rules in https://github.com/theareaorg/AREA-Research-Agenda/blob/main/FindAR/Data/replacements-new.csv[this CSV file].
 
-Note: Further discussion about https://github.com/theareaorg/AREA-Research-Agenda/blob/main/Documentation/About-Low-Level-Terms.adoc[machine-generated terms], https://github.com/theareaorg/AREA-Research-Agenda/blob/main/Documentation/About-Mid-And-High-Level-Terms.adoc[groups and categories] can be found here.
+#### Term bucketing: building a hierarchy of terms for data analysis
+The final stage of Figure X-2 is the bucketing of terms within "groups" and "categories." Further discussion about https://github.com/theareaorg/AREA-Research-Agenda/blob/main/Documentation/About-Low-Level-Terms.adoc[machine-generated terms], https://github.com/theareaorg/AREA-Research-Agenda/blob/main/Documentation/About-Mid-And-High-Level-Terms.adoc[groups and categories] can be found here.
 
-#### Defining and building a hierarchy of terms for data analysis
+Our team collaboratively assigned each machine-generated term to a one group.  Note that we restrict to one-to-one mappings between terms and groups to simplify this particular task.  We then assigned each group to seven high-level categories: Technology, Industries, End Users and User Experience, Use Cases, Displays, Industries, and Standards.  All publication records that do not have any machine-assigned terms after employing deletion rules are placed in the "other" group and category.
 
+#### Frequency and co-occurrence charts based on term hierarchy
+
+#### Identifying gaps and trends of prior AR researchers
+
+#### Vectorizing records language through natural language processing
+Natural language represents most of the data in our dataset.  Natural language presents itself as publication titles, abstracts, and keywords.
+
+
+image:https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/figures/tfidf-general.png[width=800,height=400]
 
 #### Judging relevance of each publication record to AREA members
 
@@ -28,10 +38,10 @@ Note: Further discussion about https://github.com/theareaorg/AREA-Research-Agend
 #### Judging relatedness of every record in the publication databases
 
 
-#### Identifying gaps and trends of prior AR researchers
 
 
-#### Frequency and co-occurrence charts based on term hierarchy
+
+
 
 
 #### Network-based understanding of terms
