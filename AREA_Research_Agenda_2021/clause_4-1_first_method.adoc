@@ -23,14 +23,18 @@ The final stage of Figure X-2 is the bucketing of terms within "groups" and "cat
 Our team collaboratively assigned each machine-generated term to a one group.  Note that we restrict to one-to-one mappings between terms and groups to simplify this particular task.  We then assigned each group to seven high-level categories: Technology, Industries, End Users and User Experience, Use Cases, Displays, Industries, and Standards.  All publication records that do not have any machine-assigned terms after employing deletion rules are placed in the "other" group and category.
 
 #### Frequency and co-occurrence charts based on term hierarchy
+Indicated by Figure X-3, after the machine-assigned terms are bucketed within group and categories, frequencies are calculated for all terms across individual records.  Co-occurrences of terms across records are also calculated.  Based on the frequencies and co-occurrences, we then generate a set of visualizations to provide insight into the data.  We use sorted barcharts to convey absolute frequencies of terms.
 
 #### Identifying gaps and trends of prior AR researchers
 
 #### Vectorizing records language through natural language processing
-Natural language represents most of the data in our dataset.  Natural language presents itself as publication titles, abstracts, and keywords.
-
+Natural language represents most of the data in our dataset, including publication titles, abstracts, and keywords.  To draw insights across publicaiton records, we deploy common natural language techniques.  The foundation for these techniques is term frequency-inverse document frequency (TF-IDF).  TF-IDF is a statistical measure that evaluates the importance of a word with respect to a record within a collection of records.  TF-IDF takes into account the prevalence of a particular word within a record of interest and also the importance of that same word across the entirety of all the records.
 
 image:https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/figures/tfidf-general.png[width=800,height=400]
+
+Figure Y shows a simplified view of TF-IDF vectorization, where the collection of records is represented by a large unified vector of all possible words.  Representing records as numerical values, instead of strings, also increases efficiencies of subsequent data processing.
+
+
 
 #### Judging relevance of each publication record to AREA members
 
