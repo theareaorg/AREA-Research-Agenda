@@ -36,7 +36,7 @@ Figure Y shows a simplified view of TF-IDF vectorization, where the collection o
 
 Before we employ TF-IDF vectorization to the publication dataset, we removed all "stop words" from each record's abstract.  We leverage the existing stopwords corpus form the https://www.nltk.org/book/ch02.html[NLTK Python library].  We then "hyphenate" each individual keyword in all records and concatenate each record's hyphenated keywords to the truncated abstract.  In doing so, all subsequent data processing stages treat each multi-word keyword as a single word.  Figure Z shows an example of the result of concatenating a record's cleaned abstract with its hyphenated keywords.
 
-image:https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/figures/tagAbstract.png[width=800,height=400]
+image:https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/figures/tagAbstract.png[width=750,height=400]
 
 #### Judging relevance of each publication record to AREA members
 
