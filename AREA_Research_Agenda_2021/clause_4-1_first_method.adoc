@@ -25,7 +25,11 @@ Our team collaboratively assigned each machine-generated term to a one group.  N
 #### Frequency and co-occurrence charts based on term hierarchy
 Indicated by Figure X-3, after the machine-assigned terms are bucketed within group and categories, frequencies are calculated for all terms across individual records.  Co-occurrences of terms across records are also calculated.  Based on the frequencies and co-occurrences, we then generate a set of visualizations to provide insight into the data.  We use sorted barcharts to convey absolute frequencies of terms.
 
-#### Identifying gaps and trends of prior AR researchers
+#### Network-based understanding of terms
+Based on the co-occurrence values for each two-term pairing, we constructed a graph that represents term-term relationships.  In this graph, each node represents a term and each edge represents a co-occurrence.  Leveraging spatial layout algorithms, we can then understand closeness of term clusters based on node and cluster proximity.  We used https://gephi.org/[Gephi], an open graphic visualization platform, to manipulate the graphs, create sub-graphs, and encode different visual variables, including hue and color, on the nodes and edges to enhance sense-making.  In doing so, we created graphs that serve as an alternative view of the dataset compared with the barcharts.
+
+#### Identifying research opportunities
+Based on the barcharts and graph visualizations, our team identified research gaps and opportunities based on lowly represented terms and clusters.  This portion of the methodology was done subjectively, relying on our team's expertise in understanding the current AR research landscape.
 
 #### Vectorizing records language through natural language processing
 Natural language represents most of the data in our dataset, including publication titles, abstracts, and keywords.  To draw insights across publication records, we deploy common natural language techniques.  The foundation for these techniques is term frequency-inverse document frequency (TF-IDF).  TF-IDF is a statistical measure that evaluates the importance of a word with respect to a record within a collection of records.  TF-IDF takes into account the prevalence of a particular word within a record of interest and also the importance of that same word across the entirety of all the records.
@@ -34,26 +38,17 @@ image:https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research
 
 Figure Y shows a simplified view of TF-IDF vectorization, where the collection of records is represented by a large unified vector of all possible words.  Representing records as numerical values, instead of strings, also increases efficiencies of subsequent data processing.
 
-Before we employ TF-IDF vectorization to the publication dataset, we removed all "stop words" from each record's abstract.  We leverage the existing stopwords corpus form the https://www.nltk.org/book/ch02.html[NLTK Python library].  We then "hyphenate" each individual keyword in all records and concatenate each record's hyphenated keywords to the truncated abstract.  In doing so, all subsequent data processing stages treat each multi-word keyword as a single word.  Figure Z shows an example of the result of concatenating a record's cleaned abstract with its hyphenated keywords.
+Before we employ TF-IDF vectorization to the publication dataset, we removed all "stopwords" from each record's abstract.  We leverage the existing stopwords corpus form the https://www.nltk.org/book/ch02.html[NLTK Python library].  We then "hyphenate" each individual keyword in all records and concatenate each record's hyphenated keywords to the truncated abstract.  In doing so, all subsequent data processing stages treat each multi-word keyword as a single word.  Figure Z shows an example of the result of concatenating a record's cleaned abstract with its hyphenated keywords.
 
 image:https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/figures/tagAbstract.png[width=750,height=400]
 
 #### Judging relevance of each publication record to AREA members
+With each record's abstract and keywords vectorized through TF-IDF, we can then leverage machine learning based techniques to deepen understanding of the dataset.
 
+To support the usability of FindAR, we first aimed to semi-automatically classify which publications would be of most interest to AREA membership.  To do so, we employed an active learning approach, wherein a set of experts labeled about 20% of all publication records as either relevant or not.  We then used a https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDClassifier.html[Stochastic Gradient Descent Classifier] to predict the relevance of the remaining unlabeled data.  Paper relevance was based on the TF-IDF vectorization of the cleaned abstract alone over 1000 iterations then leveraged the keywords to predict the rest.
 
 #### Judging relatedness of every record in the publication databases
-
-
-
-
-
-
-
-
-#### Network-based understanding of terms
-
-
-#### Identifying research opportunities
-
+With the TF-IDF vectorization of the concatenation of the clean abstract and hyphenated keywords, we measured the cosine similarity of each record's corpus against all other records. In doing so, we report the top-20 most related (or similar) records for the FindAR tool.
 
 #### Ranking research opportunities based on amount of relevant prior art
+After the research topics were written up, we used the same cosine similarity-based technique to judge the similarity of the research topic write-ups against all records in the publicaiton dataset.  We then build a distribution of those similarity scores to judge the basis of prior art.  STILL NEED TO FINISH
