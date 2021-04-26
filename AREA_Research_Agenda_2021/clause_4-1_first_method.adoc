@@ -28,13 +28,15 @@ Indicated by Figure X-3, after the machine-assigned terms are bucketed within gr
 #### Identifying gaps and trends of prior AR researchers
 
 #### Vectorizing records language through natural language processing
-Natural language represents most of the data in our dataset, including publication titles, abstracts, and keywords.  To draw insights across publicaiton records, we deploy common natural language techniques.  The foundation for these techniques is term frequency-inverse document frequency (TF-IDF).  TF-IDF is a statistical measure that evaluates the importance of a word with respect to a record within a collection of records.  TF-IDF takes into account the prevalence of a particular word within a record of interest and also the importance of that same word across the entirety of all the records.
+Natural language represents most of the data in our dataset, including publication titles, abstracts, and keywords.  To draw insights across publication records, we deploy common natural language techniques.  The foundation for these techniques is term frequency-inverse document frequency (TF-IDF).  TF-IDF is a statistical measure that evaluates the importance of a word with respect to a record within a collection of records.  TF-IDF takes into account the prevalence of a particular word within a record of interest and also the importance of that same word across the entirety of all the records.
 
 image:https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/figures/tfidf-general.png[width=800,height=400]
 
 Figure Y shows a simplified view of TF-IDF vectorization, where the collection of records is represented by a large unified vector of all possible words.  Representing records as numerical values, instead of strings, also increases efficiencies of subsequent data processing.
 
+Before we employ TF-IDF vectorization to the publication dataset, we removed all "stop words" from each record's abstract.  We leverage the existing stopwords corpus form the https://www.nltk.org/book/ch02.html[NLTK Python library].  We then "hyphenate" each individual keyword in all records and concatenate each record's hyphenated keywords to the truncated abstract.  In doing so, all subsequent data processing stages treat each multi-word keyword as a single word.  Figure Z shows an example of the result of concatenating a record's cleaned abstract with its hyphenated keywords.
 
+image:https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/figures/tagAbstract.png[width=800,height=400]
 
 #### Judging relevance of each publication record to AREA members
 
