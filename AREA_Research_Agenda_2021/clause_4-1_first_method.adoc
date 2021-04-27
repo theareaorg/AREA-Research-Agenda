@@ -49,7 +49,7 @@ Before we employ TF-IDF vectorization to the publication dataset, we removed all
 .Example of a record's cleaned abstract concatenated with its hyphenated keywords
 [#img-tagAbstract]
 [caption="Figure 3: "]
-image:https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/figures/tagAbstract.png[tfidf,750,400]
+image::https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/figures/tagAbstract.png[tfidf,750,400]
 
 #### Judging relevance of each publication record to AREA members
 With each record's abstract and keywords vectorized through TF-IDF, we can then leverage machine learning based techniques to deepen understanding of the dataset.
