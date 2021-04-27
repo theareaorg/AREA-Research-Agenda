@@ -2,10 +2,10 @@
 ### Title of this section
 Since there is insufficient guidance in the research community and from other public resources, the AREA Research Committee developed the methodology described below as part of the 8th AREA Research Project. The Research Committee will adapt the process and update this section in subsequent editions.
 
-.A mountain sunset
-[#img-sunset]
-[caption="Figure 1: ",link=https://www.flickr.com/photos/javh/5448336655]
-image::https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/figures/overall_methodology.png[Sunset,200,100]
+.Overall methodology of deriving decisions from a broad publication dataset
+[#img-methodology]
+[caption="Figure 1: "]
+image::https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/figures/overall_methodology.png[Methodology,800,400]
 
 image:https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/figures/overall_methodology.png[width=800,height=400]
 
