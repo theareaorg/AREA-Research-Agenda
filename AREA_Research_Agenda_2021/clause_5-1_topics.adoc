@@ -42,9 +42,11 @@ NOTE: these classes are commonly used in OGC standards. They were left in the te
 
 CityGML builds on the ISO 19100 family of standards. The applicable standards are identified in <<ISO-in-CityGML-diagram>>. A <<ISO-classes-dd,Data dictionary>> is also included for all of the ISO-defined classes explicitly referenced in the CityGML UML model. These data dictionaries are provided for the convenience of the user. The ISO standards are the normative source.
 
+////
 [[ISO-in-CityGML-diagram,Figure {counter:figure-num}]]
 .Use of ISO Standards in CityGML
 /// image::../standard/figures/Core/ISOandOASISstandardsinCityGML.png[align="center"]
+////
 
 [[ug-iso-classes-section]]
 *Classes*
@@ -91,9 +93,11 @@ NOTE Most geometric primitives are decomposable infinitely many times. Adding a 
 
 Any geometric object that is used to describe a feature is a collection of <<ug-gm_primitive-section,geometric primitives>>. A homogeneous collection of geometric primitives may be a multi-primitive (GM_MultiPrimitive). Geometric complexes have additional properties specific to the type of <<ug-gm_primitive-section,geometric primitive>> they aggregate.
 
+////
 [[gm_aggregate-figure,Figure {counter:figure-num}]]
 .GM_MultiPrimitive Context Diagram
 image::figures/GM_Aggregate.png[align="center"]
+////
 
 [[ug-gm_complex-section]]
 ===== GM_Complex
@@ -102,9 +106,11 @@ A GM_Complex is a set of disjoint geometric primitives (<<ug-gm_primitive-sectio
 
 Any geometric object that is used to describe a feature is a collection of <<ug-gm_primitive-section,geometric primitives>>. A collection of geometric primitives may be a geometric complex (GM_Complex). Geometric complexes have additional properties such as closure by boundary operations and mutually exclusive component parts.
 
+////
 [[gm_complex-figure,Figure {counter:figure-num}]]
 .GM_Complex Context Diagram
 image::figures/GM_Complex.png[align="center"]
+////
 
 <<ug-gm_primitive-section,GM_Primitive>> and GM_Complex share most semantics, in the meaning of operations, attributes and associations. There is an exception in that a GM_Primitive shall not contain its boundary (except in the trivial case of GM_Point where the boundary is empty), while a GM_Complex shall contain its boundary in all cases. This means that if an instantiated object implements GM_Object operations both as GM_Primitive and as a GM_Complex, the semantics of each set theoretic operation is determined by the its name resolution. Specifically, for a particular object such as GM_CompositeCurve, GM_Primitive::contains (returns FALSE for end points) is different from GM_Complex::contains (returns TRUE for end points). Further, if that object is cast as a GM_Primitive value and as a GM_Complex value, then the two values need not be equal as GM_Objects.
 
@@ -119,9 +125,11 @@ Note that the geometric primitives in the set are mutually exclusive in the sens
 
 GM_Composite is a subclass of <<ug-gm_complex-section,GM_Complex>>. Like <<ug-gm_complex-section,GM_Complex>>, it has an association with <<ug-gm_primitive-section,GM_Primitives>>. In this case this is an `composition` association with a `composite` role (GM_Composite) and a `generator` role (GM_Primitive). As with the GM_Complex, the GM_Primitve may be associated with more than one GM_Composite.
 
+////
 [[gm_composite-figure,Figure {counter:figure-num}]]
 .GM_Composite Context Diagram
 image::figures/GM_Composite.png[align="center"]
+////
 
 [[ug-gm_composite-surface-section]]
 ===== GM_CompositeSurface
@@ -130,9 +138,11 @@ A GM_Composite where the <<ug-gm_primitive-section,GM_Primitives>> is a <<ug-gm_
 
 A GM_CompositeSurface is also a subclass of <<ug-gm_primitive-section,GM_Primitives>> is a <<ug-gm_orientable-surface-section,GM_OrientatableSurface>>. One of the few examples of multiple inheritance.
 
+////
 [[gm_composite-surface-figure,Figure {counter:figure-num}]]
 .GM_CompositeSurface Context Diagram
 image::figures/GM_CompositeSurface.png[align="center"]
+////
 
 [[ug-gm_orientable-surface-section]]
 ===== GM_OrientatableSurface
@@ -152,9 +162,11 @@ The `generator` is a GM_OrientableCurve.
 
 A GM_CompositCurve is also a subclass of GM_OrientatableCurve. One of the few examples of multiple inheritance.
 
+////
 [[gm_composite-curve-figure,Figure {counter:figure-num}]]
 .GM_CompositeCurve Context Diagram
 image::figures/GM_CompositeCurve.png[align="center"]
+////
 
 [[ug-gm_orientable-curve-section]]
 ===== GM_OrientatableCurve
@@ -174,9 +186,11 @@ The `generator` is a <<ug-gm_solid-section,GM_Solid>>.
 
 A GM_CompositSolid is also a subclass of <<ug-gm_solid-section,GM_Solid>>. One of the few examples of multiple inheritance.
 
+////
 [[gm_composite-solid-figure,Figure {counter:figure-num}]]
 .GM_CompositeSolid Context Diagram
 image::figures/GM_CompositeSolid.png[align="center"]
+////
 
 [[ug-city-objects-section]]
 ==== City Models and City Objects

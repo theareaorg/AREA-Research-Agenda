@@ -1,46 +1,50 @@
+
+
 [[ra-first-method-section]]
-### Title of this section
 Since there is insufficient guidance in the research community and from other public resources, the AREA Research Committee developed the methodology described below as part of the 8th AREA Research Project. The Research Committee will adapt the process and update this section in subsequent editions.
+
+Author-year references can use different styles such as: cite:[palmarini2018systematic] or
+citenp:[palmarini2018systematic].
 
 .Overall methodology of deriving decisions from a broad publication dataset
 [#img-methodology]
 [caption="Figure 1: "]
-image::https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/figures/overall_methodology.png[Methodology,800,400]
+image::figures/overall_methodology.png[Methodology,800,400]
 
-### Investigating prior published works related to industrial AR
+## Investigating prior published works related to industrial AR
 To assemble a research agenda, it is first necessary to properly capture the status quo of on-going and past research across academia and industry.  A key challenge is building a holistic landscape of industrial research activities.  In other words, trends in research and development across industry are difficult to asses with minimal bias since a company's publishing on their latest developments directly conflicts with their competitive advantage.  On the other hand, academic efforts are much easier to track since AR methods and technology developments are reported through academic venues, such as journals and conference proceedings. As a result, we only consider academic work for baselining the current research landscape for industrial AR.
 
-#### Developing a systems boundary for what to consider in academic publications
+### Developing a systems boundary for what to consider in academic publications
 As shown in Figure X-1, we leverage a well-known technical document search tool, called Engineering Village.  Engineering Village covers "high-quality, relevant and cross-disciplinary content, enabling engineers and researchers to perform thorough and effective literature reviews, analyze the research landscape, and solve problems" [Cite: https://www.elsevier.com/solutions/engineering-village/content].  For our initial search, we consider journal publications and conference proceedings and exclude standards, patents, books, and engineering dissertations.  We restricted our initial database of work to the last 5 years, i.e., 2017--2021.  If "augmented reality" appeared in any metadata fields, e.g., abstract, keywords, and title, we store records of metadata, including but not limited to a DOI, abstract, set of keywords, publication year, and venue, related to each returned publication.
 
-#### Aligning differences in underlying publication indexing services
+### Aligning differences in underlying publication indexing services
 Engineering Village leverages existing publication indexing services, most notably Inspec and Compandex.  In the field of Augmented Reality, Inspec and Compandex are by the far the biggest contributors to the publication database.  To align these two databases, we had to adopt a data-driven methodology.
 
 Engineering Village offers three columns of keyword types, including "controlled/subject terms," "uncontrolled terms," and "classification code." We chose to leverage "controlled/subject terms" as the ground truth keywords for the rest of our analysis, since the terms adhere to a term taxonomy defined by the two indexing services (unlike "uncontrolled terms") yet exhibit low-level specificity to delineated critical topics (unlike "classification code").
 
 As shown in Figure X-2, our team manually created aliasing rules to (1) align terms from one indexing service to another with the same meaning, (2) remove British spelling and adhere to US English conventions, and (3) unify plural versions of terms with their singular versions.  Interested readers can review the aliasing rules in https://github.com/theareaorg/AREA-Research-Agenda/blob/main/FindAR/Data/replacements-new.csv[this CSV file].
 
-#### Term bucketing: building a hierarchy of terms for data analysis
+### Term bucketing: building a hierarchy of terms for data analysis
 The final stage of Figure X-2 is the bucketing of terms within "groups" and "categories." Further discussion about https://github.com/theareaorg/AREA-Research-Agenda/blob/main/Documentation/About-Low-Level-Terms.adoc[machine-generated terms], https://github.com/theareaorg/AREA-Research-Agenda/blob/main/Documentation/About-Mid-And-High-Level-Terms.adoc[groups and categories] can be found here.
 
 Our team collaboratively assigned each machine-generated term to a one group.  Note that we restrict to one-to-one mappings between terms and groups to simplify this particular task.  We then assigned each group to seven high-level categories: Technology, Industries, End Users and User Experience, Use Cases, Displays, Industries, and Standards.  All publication records that do not have any machine-assigned terms after employing deletion rules are placed in the "other" group and category.
 
-#### Frequency and co-occurrence charts based on term hierarchy
+### Frequency and co-occurrence charts based on term hierarchy
 Indicated by Figure X-3, after the machine-assigned terms are bucketed within group and categories, frequencies are calculated for all terms across individual records.  Co-occurrences of terms across records are also calculated.  Based on the frequencies and co-occurrences, we then generate a set of visualizations to provide insight into the data.  We use sorted barcharts to convey absolute frequencies of terms.
 
-#### Network-based understanding of terms
+### Network-based understanding of terms
 Based on the co-occurrence values for each two-term pairing, we constructed a graph that represents term-term relationships.  In this graph, each node represents a term and each edge represents a co-occurrence.  Leveraging spatial layout algorithms, we can then understand closeness of term clusters based on node and cluster proximity.  We used https://gephi.org/[Gephi], an open graphic visualization platform, to manipulate the graphs, create sub-graphs, and encode different visual variables, including hue and color, on the nodes and edges to enhance sense-making.  In doing so, we created graphs that serve as an alternative view of the dataset compared with the barcharts.
 
-#### Identifying research opportunities
+### Identifying research opportunities
 Based on the barcharts and graph visualizations, our team identified research gaps and opportunities based on lowly represented terms and clusters.  This portion of the methodology was done subjectively, relying on our team's expertise in understanding the current AR research landscape.
 
-#### Vectorizing records language through natural language processing
+### Vectorizing records language through natural language processing
 Natural language represents most of the data in our dataset, including publication titles, abstracts, and keywords.  To draw insights across publication records, we deploy common natural language techniques.  The foundation for these techniques is term frequency-inverse document frequency (TF-IDF).  TF-IDF is a statistical measure that evaluates the importance of a word with respect to a record within a collection of records.  TF-IDF takes into account the prevalence of a particular word within a record of interest and also the importance of that same word across the entirety of all the records.
 
 .Schematic and example of how TF-IDF transforms natural language into numerical vectors
 [#img-tfidf]
 [caption="Figure 2: "]
-image::https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/figures/tfidf-general.png[tfidf,800,400]
+image::figures/tfidf-general.png[tfidf,800,400]
 
 Figure Y shows a simplified view of TF-IDF vectorization, where the collection of records is represented by a large unified vector of all possible words.  Representing records as numerical values, instead of strings, also increases efficiencies of subsequent data processing.
 
@@ -49,15 +53,18 @@ Before we employ TF-IDF vectorization to the publication dataset, we removed all
 .Example of a record's cleaned abstract concatenated with its hyphenated keywords
 [#img-tagAbstract]
 [caption="Figure 3: "]
-image::https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/figures/tagAbstract.png[tfidf,750,400]
+image::figures/tagAbstract.png[tfidf,750,400]
 
-#### Judging relevance of each publication record to AREA members
+### Judging relevance of each publication record to AREA members
 With each record's abstract and keywords vectorized through TF-IDF, we can then leverage machine learning based techniques to deepen understanding of the dataset.
 
 To support the usability of FindAR, we first aimed to semi-automatically classify which publications would be of most interest to AREA membership.  To do so, we employed an active learning approach, wherein a set of experts labeled about 20% of all publication records as either relevant or not.  We then used a https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDClassifier.html[Stochastic Gradient Descent Classifier] to predict the relevance of the remaining unlabeled data.  Paper relevance was based on the TF-IDF vectorization of the cleaned abstract alone over 1000 iterations then leveraged the keywords to predict the rest.
 
-#### Judging relatedness of every record in the publication databases
+### Judging relatedness of every record in the publication databases
 With the TF-IDF vectorization of the concatenation of the clean abstract and hyphenated keywords, we measured the cosine similarity of each record's corpus against all other records. In doing so, we report the top-20 most related (or similar) records for the FindAR tool.
 
-#### Ranking research opportunities based on amount of relevant prior art
+### Ranking research opportunities based on amount of relevant prior art
 After the research topics were written up, we used the same cosine similarity-based technique to judge the similarity of the research topic write-ups against all records in the publicaiton dataset.  We then build a distribution of those similarity scores to judge the basis of prior art.  STILL NEED TO FINISH
+
+=== Bibliography
+bibliography::[]

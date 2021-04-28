@@ -11,7 +11,7 @@ This folder contains all files for the AREA Research Agenda 2021
 
 ## Building
 
-To produce the HTML of the Research Agenda 2021 run `asciidoctor --safe -a data-uri -o
+To produce the HTML of the Research Agenda 2021 run `asciidoctor -r asciidoctor-bibliography --safe -a data-uri -o
 AREA-Research-Agenda-2021.html AREA-Research-Agenda-2021.adoc`
 
 To produce the PDF of the Research Agenda 2021 run `asciidoctor-pdf --safe -o

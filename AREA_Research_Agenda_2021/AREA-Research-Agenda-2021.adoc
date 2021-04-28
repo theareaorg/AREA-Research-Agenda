@@ -9,7 +9,8 @@
 :numbered:
 :sectanchors:
 :sectnums:
-
+:bibliography-database: references.bib
+:bibliography-style: apa
 <<<
 [cols = ">",frame = "none",grid = "none"]
 |===
