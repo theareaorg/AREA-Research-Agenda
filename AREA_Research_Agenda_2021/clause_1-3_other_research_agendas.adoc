@@ -6,7 +6,7 @@ Research agendas differ widely in their methodologies, target audiences, scope, 
 
 This section compiles research agendas, related tools and resources which can offer perspectives and insights for those developing policies which will impact AR and funding AR research.
 
-2020 Request link for ECORYS report report
+2021 April: Ecorys partnered with the XR Association and released the https://xreuropepotential.com/assets/pdf/ecorys-xr-2021-report.pdf[XR in Europe 2021 Report] which includes an assessment of XR developments by region of Europe. It also highlights gaps and areas in need of greater investment. 
 
 2019 or 2020 Oct: XR 4ALL Research Agenda - request link from Oliver Schreer (Fraunhofer Institute, HHI)
 
