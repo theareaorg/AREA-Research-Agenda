@@ -4,11 +4,9 @@
 # Impact of Spatial Vision on Visual Encoding and Memory Anchoring
 
 # Description
-The human brain relies heavily on optic nerves and receptors for capturing and processing the world around it. According to a https://link.springer.com/referenceworkentry/10.1007%2F978-3-540-79567-4_8[2012 journal article on the topic], the term "spatial vision encompasses all things related to seeing the space around us. This definition is so broad that it includes everything related to vision; however, it is usually restricted to visual perception of non-moving two-dimensional luminance patterns. With this restriction the terms spatial vision, pattern vision, and pattern perception become interchangeable." Spatial vision contributes to user comprehension and retention of spatially-relevant concepts, and fundamental cognitive functions such as maintaining orientation within a spatial environment.
+Spatial vision enabled by stereoscopy appears to greatly help comprehension and retention of spatially relevant concepts.  Although technology today enables spatial vision, frequently it requires some level of compromise around performance, wearability or resource requirements.
 
-Performing tasks with AR-assisted platforms is being evaluated for the study of spatial memory and spatial orientation. In addition, with AR experiences, the scope of spatial vision research can be extended to include perception in 3 dimensions and enhanced with stereoscopic displays. Research using AR to assist users in the study of object location, bi-dimensional map-pointing, spatial orientation and self-reported spatial strategies.
-
-This research topic focuses on studying the impact of binocular (vs monocular) displays on sensory input, specifically on the spatial vision of a user, and how different AR display form factors and devices impact encoding of memories in the brain. The scope of the topic includes but isn't limited to "memory anchoring" which enables effective retrieval of spatial information without assistance.
+This research topic includes experiments and – possibly – studies of the impact of binocular (vs monocular) vision) on memory encoding: the process changing the sensory input into a form so it can be stored in the brain and memory anchoring which enables effective retrieval.
 
 # Prior Research
 To be generated via FindAR

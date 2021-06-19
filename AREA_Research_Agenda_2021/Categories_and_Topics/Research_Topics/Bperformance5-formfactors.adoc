@@ -1,12 +1,14 @@
 
 [[ra-Bperformance5-formfactors]]
 
-# Wearable vs Handheld: Quantifying the Impact of HMDs on Manual Procedures
+# Wearable vs Handheld vs Projection: Quantifying the Impact of AR modality on Manual Procedures
 
 # Description
-Tablets, mobile phones and other handheld devices have been widely deployed in the enterprise, including frontline workers, who use these devices to access contextually-relevant information while executing work procedures.  Although hugely useful, their interaction paradigm forces said workers to choose between carrying out the actual steps of a work procedure or interacting with the device.
+Tablets, mobile phones and other handheld devices have been widely deployed in the Enterprise, including frontline workers, who use these devices to access contextually relevant information while executing work procedures.  Although hugely useful, their interaction paradigm forces said workers to choose between carrying out the actual steps of a work procedure or interacting with the device. This paradigm can also present safety risks.
 
-Commercially-available wearable (Head-mounted) displays enable frontline workers to consume context relevant information while executing work procedures using both hands, thereby – theoretically – speeding up work. This research topic focuses on the development of objective, quantitative assessments of the economic impacts of wearable, HMDs for AR-assisted procedures.
+Commercially available Wearable (Head mounted) Displays enable frontline workers to consume context relevant information while executing work procedures using both hands thereby – theoretically – speeding up work. The same could be true for projection-based AR approaches. And both approaches may decrease or completely mitigate safety risks innate to handheld devices. However, there is no independent assessment of the potential economic or safety benefits  of these new modalities.
+
+This research topic focuses on the development of objective, quantitative assessments of the economic impact of HMDs and projection-based AR approaches compared to work procedures assisted by handheld devices.
 
 The research scope should include comparative studies measuring the exact impact of wearable modality vs the handheld baseline across industries, use cases and horizontal use case categories. Measurement methods would be developed to ensure accuracy with 95% Confidence Interval.
 

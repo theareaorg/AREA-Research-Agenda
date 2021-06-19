@@ -1,11 +1,11 @@
 # [[ra-Ddisplaytechnology5-videovsopticalsee-through]]
 
-# Impacts of Display Technology on Peripheral Vision
+# Video passthrough vs. see-through optics: Impacts of Display Technology on Peripheral Vision
 
 # Description
-Head-Mounted AR displays (HMD) blend simulated reality with the real world while the user wears the displays and uses both hands. Some displays employ a ‘video passthrough' approach, wher image processing and graphics rendering blend and displayphysical and generated reality in real time - an approach that is used in all handheld AR display systems. Due to technology limitations, video passthroug wearable devices provide a Field of View (Fov) between 90 and 120 degrees, thereby limiting the users peripheral vision.
+Head-Mounted AR displays (HMD) blend simulated reality with the real world while the user wears the displays and uses both hands. Some displays employ a ‘video passthrough' approach, (e.g. Oculus Quest) where image processing and graphics rendering blend and display physical and generated reality in real time - an approach that is used in all handheld AR display systems. Due to technology limitations, video passthrough wearable devices provide a Field of View (Fov) between 90 and 120 degrees, thereby limiting the users peripheral vision.
 
-In contrast, wearable AR display devices based on optical see-through technology vary in the degree to which - if at all – they impact a user's physical world FoV. As peripheral vision is important for user safety, maintaining partial or full peripheral vision is required in many situations.
+In contrast, wearable AR display devices based on optical see-through technology (e.g. Lenovo A6) vary in the degree to which - if at all – they impact a user's physical world FoV. As peripheral vision is important for user safety, maintaining partial or full peripheral vision is required in many situations.
 
 This research topic focuses on determining the minimum FoV required for wearable video see-through AR display devices to meet workplace safety requirements. The result will provide HMD designers guidance with respect to the minimum FoV (possibly foveated) that must be supported in video see-through in order to provide user experience comparable to the best-in-class optical see-through AR displays.
 
