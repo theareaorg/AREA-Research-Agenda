@@ -1,6 +1,8 @@
 [[ra_terms-and-definitions_section]]
 == Terms and Definitions
 
+NOTE: Some terms that are specific to the AREA research agenda: machine-assigned terms, groups, categories, research topic, research program (these are used in the research topic descriptions). See About Low-Level Terms for more details...
+
 For the purposes of this document, the following additional terms and definitions apply.
 
 NOTE: This clause currently contains some placeholders that remain from the template on which this document is based (OGC CityGML Users Guide). As part of the development of the Research Agenda, we will remove the placeholders and define all the mid-level and high-level terms created for the FindAR tool and used as the basis for analyses generating the thought leadership in the AREA Research Agenda.

@@ -1,25 +1,32 @@
 
 The AREA Interoperability and Standards Program is monitoring the following Standards Development Organizations (SDOs) for development of relevant standards.
 
+Primary
+
 3GPP
-ASME
-ASTM
 BSI
-DMSC
-DTC
 ETSI ISG ARF
 IEEE SA
-IPC
-ISA
 ISO/IEC JTC1
 ISO/IEC
 Khronos Group
-MIPI Alliance
-MTConnect
-OAGi
 OGC
-OPC
 OMG
 SAE
 Underwriters Lab
 W3C
+
+Secondary (Domain Specific?)
+ASME (Bill?)
+ASTM (Bill?)
+DMSC (Bill?)
+DTC (Bill?)
+IPC (Bill?)
+ISA (Bill?)
+MTConnect (now an ISO standard...)
+OAGi (Bill?)
+OPC (Bill?)
+
+MIPI Alliance
+
+Any domain bodies in Power and Energy

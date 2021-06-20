@@ -1,5 +1,3 @@
-
-
 [[ra-first-method-section]]
 Since there is insufficient guidance in the research community and from other public resources, the AREA Research Committee developed the methodology described below as part of the 8th AREA Research Project. The Research Committee will adapt the process and update this section in subsequent editions.
 
