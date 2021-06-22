@@ -1,7 +1,5 @@
 [[ra-Tauthentication5-biometric]]
 
-NOTE: NEEDS MORE WORK and is very close to facial obfuscation [DISAGREE -OP] topic and Tsecurity5-multiusedisplays.adoc [THAT TOPIC INCLUDES TWO LOOSELY RELATED SUBJECTS: CLEANING DEVICES AND AUTHENTICATING USERS. PERHAPS FOCUS IT ON ONLY CLEANING?]
-
 # Biometric identification of Wearable Enterprise AR device users
 
 # Description
@@ -9,7 +7,7 @@ AR’s utility in the enterprise is rapidly growing, driving further penetration
 
 Driven by a human-centric approach, a critical step in ensuring compliance with existing security policies and systems is to balance the rigor needed for an accurate user authentication and ultra-low-friction user input.
 
-Biometric identification methods, ranging from palm-prints, voice-prints, iris scanning to heartbeat detection offer a plethora of opportunities for identification of wearable enterprise AR device users before providing access to enterprise work orders and data.
+Biometric identification methods, ranging from palm-prints, voice-prints, iris scanning, gait to heartbeat detection offer a plethora of opportunities for identification of wearable enterprise AR device users before providing access to enterprise work orders and data.
 
 This research topic compares different modalities of biometric identification and classifies them the based on accuracy, cost and ease-of-use.
 

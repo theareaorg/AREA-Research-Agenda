@@ -10,7 +10,7 @@ By taking advantage of advancements in DSP and audiology, a new class of devices
 
 This topic will include in its scope, measurement of the spatial audio technology resource requirements. Studies will compare spatial audio requirements to vision-only AR experiences on the basis of accuracy, speed, battery life, bandwidth requirements, processor performance, wearer comfort and pricing.
 
-This research topic includes comparative studies of human performance aided by varying blends of spatial technology ranging from “audio-only” to “video-only” and various combinations of both.
+This research topic includes comparative studies of human cognitive performance aided by varying blends of spatial technology ranging from “audio-only” to “video-only” and various combinations of both.
 
 # Prior Research
 To be generated via FindAR

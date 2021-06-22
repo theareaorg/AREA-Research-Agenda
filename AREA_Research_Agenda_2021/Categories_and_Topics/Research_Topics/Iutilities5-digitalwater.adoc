@@ -1,6 +1,6 @@
 [[ra-Iutilities5-digitalwater]]
 
-# Reconciling Discrepancies Documented and Actual Locations of Water Pipeline Networks via HMDs
+# Reconciling Discrepancies between Documented and Actual Locations of Water Pipeline Networks via HMDs
 
 # Description
 Municipal water systems can be major beneficiaries of Digital Water Services: a combination of Source Monitoring, Production & Quality management, Leak Detection, Water Balance & Network Monitoring/Modeling and Process Control. In order to be able to deploy these services, the first step is to create a digital representation of the pipeline network However, documentation of pipeline networks are not always kept up-to-date, or precise enough therefore  said documentation must be validated or corrected by physical, on-site measurement and documentation.
