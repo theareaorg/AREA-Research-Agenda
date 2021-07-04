@@ -1,6 +1,6 @@
 # [[ra-Ddisplaytechnology5-videovsopticalsee-through]]
 
-# Video passthrough vs. see-through optics: Impacts of Display Technology on Peripheral Vision
+# Video Passthrough vs. See-through Optics: Impacts of Display Technology on Peripheral Vision
 
 # Description
 Head-Mounted AR displays (HMD) blend simulated reality with the real world while the user wears the displays and uses both hands. Some displays employ a ‘video passthrough' approach, (e.g. Oculus Quest) where image processing and graphics rendering blend and display physical and generated reality in real time - an approach that is used in all handheld AR display systems. Due to technology limitations, video passthrough wearable devices provide a Field of View (Fov) between 90 and 120 degrees, thereby limiting the users peripheral vision.

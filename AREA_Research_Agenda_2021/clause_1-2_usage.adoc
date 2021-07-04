@@ -1,12 +1,10 @@
 [[ra_usage_section]]
 == How To Use This Resource
 
-The AREA Research Agenda is NOT intended to map/chart/plan new research projects on which the AREA (the organization itself) seeks or plans to conduct or fund future research. It is provided solely in order for researchers and research funding organizations to:
+The AREA Research Agenda is published in order for researchers and research funding organizations to:
 
 . Focus their future efforts on the topics most likely to result in rapid technology transfers from research to high impact commercial or community-based solutions serving their target audiences and/or
 . Contribute directly and indirectly to one or more overarching multi-project visions and/or research roadmaps.
-
-Although nothing prevents it, this resource is not designed to be read from start to finish. The core of the AREA Research Agenda, and where the user will dedicate most of their attention, is in section 5-Research Topics.
 
 Those new to this Research Agenda may begin by examining the tables (or figures) in which topics are sorted:
 
@@ -16,4 +14,10 @@ Those new to this Research Agenda may begin by examining the tables (or figures)
 
 Once in a research topic description, the user can follow links embedded in the text to other topics in this Research Agenda.
 
-The topics proposed are intended to serve as suggestions. Researchers and research funding organizations are expected to adapt and extend or narrow the focus of their efforts using these topics only as inspiration and points of departure. 
+Although nothing prevents it, this resource is not designed to be read from start to finish. The core of the AREA Research Agenda, and where the user will dedicate most of their attention, is in section 5-Research Topics.
+
+The topics proposed are intended to serve as suggestions. Researchers and research funding organizations are expected to adapt and extend or narrow the focus of their efforts using these topics only as inspiration and points of departure.
+
+The Research Agenda does not provide implementation details or business scenarios which could emerge as a result of a group pursuing any topic. It is assumed that a wide range of organizations could be involved in proposed research topics and, subsequently, could roll out and offer value to enterprise AR ecosystem segments, based on the results of investigations in response to the recommended research topics.
+
+While the AREA may explore topics of interest in this Research Agenda as part of its research activities, the AREA Research Agenda topics are larger in scale and more complex in scope than the AREA's limited research budget can address. In addition, most of the research topics described could uncover new business opportunities which the AREA (the organization itself) is unable to bring to fruition.

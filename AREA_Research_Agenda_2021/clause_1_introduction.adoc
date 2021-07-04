@@ -27,6 +27,11 @@ The lack of overarching principles and absence of data-driven gap and needs anal
 . those funding the research cannot use science and data to choose those projects most likely to result in addressing large enterprise AR customer needs and driving adoption,
 . Researchers and research funding organizations cannot contribute directly to one or more overarching, multi-project vision and roadmap.
 
+# Private or Public Resources
+In cases where investment to study the research topics identified in this Research Agenda is using corporate funding or investors seeking to gain a return on their investments, results of research could yield significant commercial advantage. Companies that study impacts of barriers and build new value that addresses the challenges facing enterprise AR adoption will be able to promote their offerings and command higher prices.
+
+If, when and where the research is conducted with the support of public funding sources (e.g., NSF, DoD, European Commission), the intellectual properties generated as part of the research may be released for the benefit of the enterprise AR ecosystem. Even when public funding sources are used for research, the agency may not mandate a full release of research results to the public domain. In these circumstances, some implementation details or intellectual properties may be protected and the basis for innovative new products and services.
+
 NOTE: Do the next two paragraphs say the same thing (repeat the same ideas)? Is there another order that would improve the flow?
 
 A “Research Agenda” is a living resource that focuses the attention of stakeholders and helps to establish priorities for research organizations, governmental and non-governmental funding organizations and planners who serve research stakeholders in other capacities. Once published, it can be maintained and/or used to measure progress against stakeholder-generated issues and gaps in knowledge or tools that can be addressed through research.

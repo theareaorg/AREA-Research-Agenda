@@ -4,15 +4,15 @@
 # Impact of Spatial Vision on Visual Encoding and Memory Anchoring
 
 # Description
-Spatial vision enabled by stereoscopy appears to greatly help comprehension and retention of spatially relevant concepts.  Although technology today enables spatial vision, frequently it requires some level of compromise around performance, wearability or resource requirements.
+Some complex instructions or illustrations introduced in training or on the job require greater time and cognitive load for workers to understand, retain and use when displayed in planar mode (2D). Three-dimensional representations and spatial vision, enabled by stereoscopy, has been shown to increase comprehension of spatially-relevant concepts and increases their encoding and retention in memory. Although technology today enables spatial vision, frequently it requires some level of compromise around performance, wearability or resource requirements.
 
-This research topic includes experiments and – possibly – studies of the impact of binocular (vs monocular) vision) on memory encoding: the process changing the sensory input into a form so it can be stored in the brain and memory anchoring which enables effective retrieval.
+This research topic focuses on measuring the impact of binocular (vs monocular) vision on short and long term memory encoding (i.e., the process of changing sensory inputs into forms that are stored in the brain and anchored in such a way that enables effective retrieval).
 
 # Prior Research
 To be generated via FindAR
 
 # Key Words
-Spatial vision, spatial memory, visual encoding, memory anchoring, Spatial Frequency, Receptive Field. Modulation Transfer Function, High Spatial Frequency, Threshold Contrast, spatial strategies, spatial orientation, object location
+Spatial vision, spatial memory, visual encoding, memory anchoring, spatial frequency, receptive Field, modulation transfer function, high spatial frequency, threshold contrast, spatial strategies, spatial orientation, object location
 
 ## FindAR Terms
 stereo image processing, image coding
@@ -26,10 +26,10 @@ User experience designers, AR experience developers, human resources professiona
 # Position on X and Y axes (1-5)
 
 # Reasons this topic is important for AREA members
-All AREA members seek to reduce cognitive load, increase performance and memory encoding of workers during the performance of complex tasks. To date, the role of stereoscopic vision in AR experiences in spatial understanding and memory has not been studied. When better understood and impacts quantified, designers of experiences and interfaces will be able to accelerate memory anchoring and spatial awareness. Determining the specific contributions of AR to human memory and cogntivie functions will contribute to calculating return on investment on AR in enteprise, justifying investments and removing enterprise AR adoption barriers.
+All AREA members seek to reduce cognitive load, increase performance and memory encoding of workers during the performance of complex tasks. To date, the role of stereoscopic vision in AR experiences in spatial understanding and memory has not been studied. When better understood and impacts quantified, designers of experiences and interfaces will be able to accelerate memory anchoring and spatial awareness. Determining the specific contributions of AR to human memory and cognitive functions will contribute to calculating return on investment on AR in enteprise, justifying investments and removing enterprise AR adoption barriers.
 
 # Possible Methodologies
-The research topic would need for the experts to develop and/or use a combination of existing neuro-analytical tools (tools that measure neurological brain activity) and biometric tools that infer neurological responses by proxy. The former includes EEG, fMRI, and Steady State Topography (SST), all of which directly measure brain activity related to specific brain functions. For instance, SST measures the speed of electrical activity on the surface of the brain, linking changes in certain areas to specific metrics like engagement and memory encoding. The latter includes eye tracking, facial coding, and biometric data like heart rate monitoring. These techniques, however, are not, strictly speaking, neuroscience. This research will analyze data for broader interpretation, offering insights into the use and impacts of AR, compared to measurements made by technology like SST and fMRI.
+The research topic would need for the experts to develop and/or use a combination of existing neuro-analytical tools (tools that measure neurological brain activity) and biometric tools that infer neurological responses by proxy. The former includes EEG, fMRI (functional MRI), fNIRS (functional near-infared spectroscopy) and Steady State Topography (SST), all of which directly measure brain activity related to specific brain functions. For instance, SST measures the speed of electrical activity on the surface of the brain, linking changes in certain areas to specific metrics like engagement and memory encoding. The latter includes eye tracking, facial coding, and biometric data like heart rate monitoring. These techniques, however, are not, strictly speaking, neuroscience. This research will analyze data for broader interpretation, offering insights into the use and impacts of 3D spatial viewing with AR, compared to measurements made by technology like SST and fMRI.
 
 # Expected Impact Timeframe
 Near
@@ -38,7 +38,7 @@ Near
 This research topic can be integrated with fundamental research on brain function. It could also be combined with studies of specific use cases in which the system recalls the users' spatial vision strategies and enhances those selectively. User experience design would also benefit from studies of this and related neuro-analytical tools and topics.
 
 # Miscellaneous Notes
-There has been research published on the topics of https://www.sciencedirect.com/topics/neuroscience/spatial-vision[Spatial Vision], and more specifically on AR and https://www.frontiersin.org/articles/10.3389/fnhum.2019.00113/full[memory encoding].
+There has been research published on the topics of https://www.sciencedirect.com/topics/neuroscience/spatial-vision[spatial vision], and more specifically on AR and https://www.frontiersin.org/articles/10.3389/fnhum.2019.00113/full[memory encoding].
 
 https://www.frontiersin.org/articles/10.3389/fnhum.2019.00113/full[This 2019 article published in Frontiers in Human Neuroscience] reports on research conducted using AR to assess impact of gender on spatial vision and anxiety.
 

@@ -11,7 +11,7 @@ Specifically, the proposed topic will research, build and test implementations o
 To be generated via FindAR
 
 # Key Words
-power use, power consumption, power production, AR device energy sources, energy capture, energy production, AR device energy transfer, energy consumption, energy management, electromechanical, solar energy, friction, power storage for AR displays
+power use, power consumption, power production, AR device energy sources, energy capture, energy production, AR device energy transfer, energy consumption, energy management, electromechanical, solar energy, friction, power storage for AR displays, human factors, weight, usability, portability
 
 ## FindAR Terms
 computational efficiency, low power electronics, electric batteries, power consumption, power conversion, power aware computing
