@@ -1,6 +1,6 @@
 [[ra-S3Dcapture5-streamlineauthoring]]
 
-# Using 3D Standards to Streamline AR Experience Production
+# Using 3D and World Mapping Standards to Streamline AR Experience Production
 
 # Description
 Creating AR experiences using existing authoring environments is a time-consuming process even for highly-trained developers. One of the greatest hurdles is the specification of real world features to which AR assets are attached/anchored. An alternative to manually defining anchors for AR assets is to adapt the outputs of real world 3D capture systems used in enterprises.
@@ -11,7 +11,7 @@ New interfaces and data encodings for 3D capture systems to make those systems d
 1
 
 # Key Words
-3D world capture, depth sensing, liDAR, AR experience authoring, AR assets, anchoring
+3D world capture, depth sensing, liDAR, AR experience authoring, AR assets, anchoring, world mapping, SLAM, simultaneous localization and mapping, standards, data preparation
 
 ## FindAR Terms
 object-oriented programming, open systems, authoring systems, shape recognition, feature extraction, 3d modeling

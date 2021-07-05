@@ -5,7 +5,7 @@
 # Description
 Most municipal water supply pipe networks require a manual operation of various control units in case of scheduled maintenance or an emergency. Crews operating gate valves to isolate sections of the network greatly benefit from updated information on the flow and quality of the water in these sections.
 
-This research topic includes a field test of handheld or wearable devices capable of visualizing water flow and water quality  the data received from the control center.
+This research topic includes a field test of handheld or wearable devices capable of visualizing water flow and water quality  the data received from the control center. It also could be connected to the control room, or substations, where there are multiple water pipes and sensor stations to view.
 
 # Prior Research
 To be generated via FindAR
@@ -31,7 +31,7 @@ Some AREA members build, operate and manage large public and private infrastruct
 To model and visualize the behavior of liquid inside the pipeline, computational fluid dynamic simulations will be employed. Using areas that have reliable, manually measured flow parameters, the AR-enabled prototype system will be tested in the field. Various data extraction methodologies are used to compare the AR-assisted platforms with ground truth.
 
 # Expected Impact Timeframe
-Long
+Medium
 
 # Research Program
 Leakage and issues with obstructed pipes are not unique to utilities. The research techniques developed for this topic can be adapted for use in other industries where resources are sent using linear assets and infrastructure. The research platform could be commercialized into products or services to increase safety, reduce waste and optimize operations of infrastructure.

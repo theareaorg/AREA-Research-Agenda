@@ -1,12 +1,12 @@
 
 [[ra-Ioil5-sensors]]
 
-# Chemical and Radiation Sensors for AR displays
+# Chemical and Radiation Sensors for AR Devices
 
 # Description
-Existing AR displays do not have sensors to detect gases, radiation or other elements in the user's environment. In Oil and Gas industry as well as chemical industry, there needs to be research into the types and integration of existing chemical sensing technologies with the AR display or wearable computing system or to develop standard interfaces with IoT sensors to display readings in real time.
+Existing AR display devices do not have sensors to detect gases, radiation or other elements in the user's environment. For many use cases of interest to the oil and gas industry as well as, mining, emergency responder and chemical industries, there needs to be research into the types and integration of existing chemical sensing technologies with the AR display or wearable computing system or to develop standard interfaces with IoT sensors to display readings in real time.
 
-This resarch topic is a concrete example of a more fundamental research topic: the detection of an AR system user's context beyond what can be done with existing sensors (cameras, microphone, IMU, etc).
+This research topic is a concrete example of a more fundamental research topic: the detection of an AR system user's context beyond what can be done with existing sensors (cameras, microphone, IMU, etc).
 
 # Prior Research
 1
@@ -40,7 +40,7 @@ This topic or theme of research overlap with the topic of visualizing conditions
 # Miscellaneous Notes
 In 2012, the U.S. Department of Energy Office of Scientific and Technical Information (OSTI) funded research conducted at Department of Nuclear Engineering & Radiological Sciences, University of Michigan, on this topic. Preliminary results were reported in a https://www.osti.gov/servlets/purl/1405263[poster about visualization of radiation in AR].
 
-A https://indico.cern.ch/event/717796/contributions/2949592/attachments/1715219/2766824/PresentationGoriniSchool_MeasurementsForRobotics.pdf[2017 presentation about research on related topics conducted at CERN] using HoloLens in particle accelerator environments. 
+A https://indico.cern.ch/event/717796/contributions/2949592/attachments/1715219/2766824/PresentationGoriniSchool_MeasurementsForRobotics.pdf[2017 presentation about research on related topics conducted at CERN] using HoloLens in particle accelerator environments.
 
 # Author
 Christine Perey

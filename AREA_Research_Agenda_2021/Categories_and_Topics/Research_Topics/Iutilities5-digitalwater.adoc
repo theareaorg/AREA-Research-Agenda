@@ -3,13 +3,13 @@
 # Reconciling Discrepancies between Documented and Actual Locations of Water Pipeline Networks via HMDs
 
 # Description
-Municipal water systems can be major beneficiaries of Digital Water Services: a combination of Source Monitoring, Production & Quality management, Leak Detection, Water Balance & Network Monitoring/Modeling and Process Control. In order to be able to deploy these services, the first step is to create a digital representation of the pipeline network However, documentation of pipeline networks are not always kept up-to-date, or precise enough therefore  said documentation must be validated or corrected by physical, on-site measurement and documentation.
+Municipal water systems can be major beneficiaries of Digital Water Services: a combination of source monitoring, production and quality management, leak detection, water balance and network monitoring/modeling and process control. In order to be able to deploy these services, the first step is to create a digital representation of the pipeline network. However, documentation of pipeline networks are not always kept up-to-date, or precise enough, therefore, said documentation must be validated or corrected by physical, on-site measurement and documentation.
 
 Largely a manual process of measurement and photographic documentation, this first step represents significant time and human resource investment and is prone to errors.
 
-Head-mounted AR displays equipped with camera systems, SLAM (TOFL/LiDAR) and GPS sensors could speed up this process by performing volumetric capture of the exposed water network assets, interpolating the underground portions. This can validate geographic and dimensional data while  eliminate errors.
+Head-mounted AR displays equipped with camera systems, SLAM (TOFL/LiDAR) and GPS sensors could speed up this process by performing volumetric capture of the exposed water network assets, interpolating the underground portions. This can validate geographic and dimensional data while eliminating or reducing errors.
 
-This research explores the use of HMD headsets mounted with different camera and SLAM sensory systems using manual measurement as a baseline.
+This research explores the use of AR devices mounted with different camera and SLAM sensory systems using manual measurements as a baseline.
 
 # Prior Research
 To be generated via FindAR
@@ -35,10 +35,10 @@ Some AREA members build, operate and manage large public and private infrastruct
 Initial lab testing of various volumetric capture solutions will evaluate candidate solutions, followed by in-field  test comparing said solutions with  physical ground truth. This will be supported by test of various data extraction methodologies.
 
 # Expected Impact Timeframe
-Long
+Medium
 
 # Research Program
-Leakage and issues with obstructed pipes are not unique to utilities. The research techniques developed for this topic can be adapted for use in other industries where resources are sent using linear assets and infrastructure. The research platform could be commercialized into products or services to increase safety, reduce waste and optimize operations of infrastructure.
+Leakage and issues with obstructed pipes are not unique to water utilities. The research techniques developed for this topic can be adapted for use in other types of utilities and industries where resources are sent using linear assets and infrastructure. The research platform could be commercialized into products or services to increase safety, reduce waste and optimize operations of infrastructure.
 
 # Miscellaneous Notes
 In October 2019, research about an subset of this topic https://www.researchgate.net/publication/336238139_DEVELOPMENT_OF_AUGMENTED_REALITY_PIPELINE_VISUALISER_ARPV_APPLICATION_FOR_VISUALISING_UNDERGROUND_WATER_PIPELINE[has been published in the International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences].

@@ -1,9 +1,13 @@
 [[ra-Sdataintegration5-hazardreporting]]
 
-# Capture and Reporting of Hazardous Incidents
+# Capture and Reporting of Hazardous Incidents in Augmented Reality
 
 # Description
-In many industries, corporate, public or industry policies require documenting the circumstances of a hazardous incident and steps taken by an individual or group to reduce or eliminate risks to equipment, employees or others. In order to comply with such policies, it is valuable to have user-worn (user perspective) recording systems automatically triggered and the observations of all sensors encrypted for secure reporting. This research topic contributes technical requirements and potential solutions to be submitted for standardization in one or more bodies for the purpose of reducing the complexity of integrating AR-assisted automatic incident capture into the IT infrastructure of appropriate authorities.
+In many industries, corporate, public or industry policies require documenting the circumstances of a hazardous incident and steps taken by an individual or group to reduce or eliminate risks to equipment, employees or others. In order to comply with such policies, it is valuable to have user-worn (user perspective) recording systems automatically triggered and the observations of all sensors encrypted for secure reporting. In some circumstances, a user can self-report incidents by completing an AR-enhanced report form through gestures and auditory commands which are then uploaded and recorded, possibly disseminated to appropriate functions within the organization for corrective actions (Facilities, EHS, etc.)
+
+Alternatively, a constant recording buffer on a user device could be implemented. This could be paired with an artificial intelligence to recognize incidents and/or corrective actions. This may automatically default to an on-premise/centralized or cloud-based management system. For there to be consistent and compliant recording and reporting, AR devices could comply with a capture trigger specification, a capture and encryption protocol and, perhaps, produce reports in standard formats that are acceptable for regulatory and compliance tracing.
+
+This research topic contributes technical requirements and potential solutions to be submitted for standardization in one or more bodies for the purpose of reducing the complexity of integrating AR-assisted automatic incident capture into the IT infrastructure of appropriate authorities.
 
 The topic includes definition of automatic AR-assisted or enabled capture technology types suitable for hazardous incident reporting, resolutions of and compression rates for video and audio, data types to be captured (e.g., location data, temporal parameters, identities of nearby people and other), local and remote security to comply with anti-tampering precautions, and other relevant parameters, regardless of the maker of the AR display devices used.
 
