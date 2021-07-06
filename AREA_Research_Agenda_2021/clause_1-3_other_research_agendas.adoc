@@ -1,5 +1,5 @@
 [[ra-other-research-agendas-section]]
-== Other Research Agendas
+=== Other Research Agendas
 NOTE: Needs to be cleaned up. Bill will help to make the sources cited in this section be formatted with BibTec widget/plugin (we agreed to keep the source citations with the section, not have the in an annex at the end)
 
 Research agendas differ widely in their methodologies, target audiences, scope, depth and the length of time they seek to address or influence.
@@ -19,10 +19,10 @@ This section compiles research agendas, related tools and resources which can of
 2017 May:	https://ec.europa.eu/futurium/en/system/files/ged/vr_ecosystem_eu_report_0.pdf[Virtual reality and its potential for Europe] ECORYS report
 
 
-## European Union
+=== European Union
 This report, entitled https://www.standict.eu/sites/default/files/2021-02/McKinsey%20report.pdf[Shaping the Digital Transformation in Europe] (published Sept 2020, prepared by McKinsey & Company), outlines nine actions that set a high bar and that directly address the four objectives for Europe’s digital transformation.
 
-## Grand Challenges
+=== Grand Challenges
 In Mark Billinghursts' March 2021 article in Frontiers for VR, "Grand Challenges for Augmented Reality" https://www.frontiersin.org/articles/10.3389/frvir.2021.578080/full The DOI is https://doi.org/10.3389/frvir.2021.578080
 
 He identifies the following areas as having high need for deeper research:
@@ -36,6 +36,6 @@ He identifies the following areas as having high need for deeper research:
 
 Billinghurst concludes that in order to reach its full potential as a transformative technology, the above areas will need to receive far greater resources and attention.
 
-## Future Today Institute
+=== Future Today Institute
 The Future Today Institute publishes an annual analysis. The full
 https://www.dropbox.com/s/fm5c9mlmnwy9kgd/FTI_2021_Tech_Trends_Volume_All.pdf?dl=0[2021 Technology Trends Report] includes "books" focusing in different domains. One of the domains is called "New Realities" and the topics in https://www.dropbox.com/s/3esdwureqa5458f/FTI_2021_Tech_Trends_Volume_3_NewRealities_SynthMedia.pdf?dl=0[this book] and the domain of include the use of AR in enterprise

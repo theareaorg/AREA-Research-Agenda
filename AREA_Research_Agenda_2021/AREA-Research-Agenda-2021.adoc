@@ -97,14 +97,14 @@ include::clause_5_research_topics.adoc[]
 
 include::clause_5-1_topics.adoc[]
 
-include::clause_5-2_topics.adoc[]
+////include::clause_5-2_topics.adoc[]
 
 include::clause_6_looking_ahead.adoc[]
 
-include::annex-a_groups_and_categories.adoc[]
+////include::annex-a_groups_and_categories.adoc[]
 
-include::annex-history.adoc[]
+////include::annex-history.adoc[]
 
-include::annex-glossary.adoc[]
+////include::annex-glossary.adoc[]
 
-include::annex-bibliography.adoc[]
+////include::annex-bibliography.adoc[]

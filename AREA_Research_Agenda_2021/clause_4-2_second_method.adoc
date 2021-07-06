@@ -1,5 +1,5 @@
 [[ra-second-method-section]]
-=== Title of this section
+=== Research Agenda Preparation
 
 NOTE: this section describes how the AREA Research Agenda was developed.
 
@@ -12,7 +12,7 @@ Since January 2017 AREA members have responded to nine calls for research projec
 
 In parallel with the publication of this research agenda, members are solicited to complete a simple Web form with additional research topics. During conference calls among AREA members, additional topics or inputs were identified.
 
-## Other sources
+==== Other sources
 Other potential topics of importance:
 
 . AR and 5G, Edge-computing
@@ -107,5 +107,5 @@ Visualization and image rendering
 
 NOTE: INSERT path to the sections in "documentation" folder
 
-# Publication
+==== Publication
 The AREA Research Agendas are published on the Web (in HTML) and in PDF.

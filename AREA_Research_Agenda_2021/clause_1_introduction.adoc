@@ -1,7 +1,7 @@
 [[ra_introduction_section]]
 == Introduction
 
-# Current status [do we need this heading?]
+=== Current status [do we need this heading?]
 In many settings and use cases, enterprise AR is gaining traction. Business line leaders in large enterprises are partnering with their innovation and IT departments to evaluate AR-enabling technologies in controlled settings such as a laboratory and training center. As experience with AR increases, customers seek to expand the range of AR use cases they may evaluate, streamline time- and labor-intensive phases and increase ROI.
 
 While AR shows promise, adoption continues to face many challenges. It is difficult for customers to develop solutions to address their specific challenges. Customers must choose to:
@@ -13,7 +13,7 @@ While AR shows promise, adoption continues to face many challenges. It is diffic
 
 A combination of these approaches is often used to reduce risk of relying on any one strategy.
 
-# Problem Statement [suggestions for better heading?]
+=== Problem Statement [suggestions for better heading?]
 Engineering organizations, commercial AR technology and solution providers and research groups in public and privately funded institutions who seek to address enterprise AR challenges through basic or applied research lack specific guidance from customers encountering challenges to real world adoption.
 
 Research about topics pertaining to Augmented Reality adoption conducted in academia is often driven by a doctoral candidate’s choice of novel domains or methodology and a group’s need to quickly generate many peer-reviewed journal publications.
@@ -27,7 +27,7 @@ The lack of overarching principles and absence of data-driven gap and needs anal
 . those funding the research cannot use science and data to choose those projects most likely to result in addressing large enterprise AR customer needs and driving adoption,
 . Researchers and research funding organizations cannot contribute directly to one or more overarching, multi-project vision and roadmap.
 
-# Private or Public Resources
+=== Private or Public Resources
 In cases where investment to study the research topics identified in this Research Agenda is using corporate funding or investors seeking to gain a return on their investments, results of research could yield significant commercial advantage. Companies that study impacts of barriers and build new value that addresses the challenges facing enterprise AR adoption will be able to promote their offerings and command higher prices.
 
 If, when and where the research is conducted with the support of public funding sources (e.g., NSF, DoD, European Commission), the intellectual properties generated as part of the research may be released for the benefit of the enterprise AR ecosystem. Even when public funding sources are used for research, the agency may not mandate a full release of research results to the public domain. In these circumstances, some implementation details or intellectual properties may be protected and the basis for innovative new products and services.
@@ -38,11 +38,11 @@ A “Research Agenda” is a living resource that focuses the attention of stake
 
 A Research Agenda is a framework to guide research priorities and funding so that these focus on the most urgent needs of the greatest communities and target the obstacles to meet goals of those communities. Most researchers would prefer to address the “pain points” of customers or future customers than to invent new approaches or shed light on solutions to problems of their own invention. By providing curated descriptions of an ecosystem’s needs based on gaps and assessments compiled using objective methodologies research agendas can reduce the time required to align resources to needs and reduce the risks of making poorly-informed choices.
 
-# Organization of this document
+=== Organization of this document
 
 ////
 this is a placeholder
 ////
 
-# Outreach/publications
+=== Outreach/publications
 Once a research program is productive and reliable (reproducible) results are available, these need to be made available to a wide range of industry stakeholders who can deliver AR experiences that meet and exceed the requirements of end users.
