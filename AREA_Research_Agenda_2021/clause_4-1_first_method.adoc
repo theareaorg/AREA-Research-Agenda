@@ -1,12 +1,11 @@
 [[ra-first-method-section]]
-TESTING COMPILE!
 
 === Meta-Analysis of Related Work
-Since there is insufficient guidance in the research community and from other public resources, the AREA Research Committee developed the methodology described below as part of the 8th AREA Research Project. The Research Committee will adapt the process and update this section in subsequent editions.
+Since there is insufficient guidance in the research community and from other public resources, the AREA Research Committee developed this methodology as part of the 8th AREA Research Project. The Research Committee will adapt the process and update this section in subsequent editions.
 
-Footnote testfootnote:[The double hail-and-rainbow level makes my toes tingle.]
+////Footnote testfootnote:[The double hail-and-rainbow level makes my toes tingle.]
 
-Author-year references can use different styles such as: cite:[Feynman1963118] or
+////Author-year references can use different styles such as: cite:[Feynman1963118] or
 citenp:[palmarini2018systematic].
 
 .Overall methodology of deriving decisions from a broad publication dataset
