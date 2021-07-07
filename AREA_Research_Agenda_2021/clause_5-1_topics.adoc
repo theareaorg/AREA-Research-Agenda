@@ -23,6 +23,7 @@ The AREA Research Agenda.
 |<<ug-core-b-e-c-section,Types, Enumerations, and Codelist>> |Defines the little things which make this model work.
 |===
 
+
 [[ra-key-concepts-section]]
 ==== Key Concepts
 

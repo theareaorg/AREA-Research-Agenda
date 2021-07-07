@@ -1,8 +1,8 @@
-# Groups of Research Topics
+=== Groups of Research Topics
 
 In this section, groups used in the literature classification for the FindAR tool, are defined.
 
-## Definitions
+==== Definitions
 
 The groups of research topics for the 2021 edition of the Research Agenda are defined in the table below.
 

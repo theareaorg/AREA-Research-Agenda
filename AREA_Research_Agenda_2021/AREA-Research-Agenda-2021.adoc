@@ -95,7 +95,13 @@ include::clause_4-2_second_method.adoc[]
 
 include::clause_5_research_topics.adoc[]
 
-include::clause_5-1_topics.adoc[]
+include::Categories_and_Topics/Categories_of_Research_Topic_Groups.adoc[]
+
+include::Categories_and_Topics/Groups_of_Research_Topics.adoc[]
+
+include::Categories_and_Topics/Naming_of_Research_Topics.adoc[]
+
+////include::clause_5-1_topics.adoc[]
 
 ////include::clause_5-2_topics.adoc[]
 

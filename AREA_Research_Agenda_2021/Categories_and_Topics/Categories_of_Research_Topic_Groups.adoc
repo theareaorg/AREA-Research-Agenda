@@ -1,10 +1,10 @@
-# AREA Research Agenda - Categories of Research Topic Groups
+=== AREA Research Agenda - Categories of Research Topic Groups
 
 Categories are the highest level of the AREA Research Agenda organizational structure.
 
 NOTE: Create and insert here a figure showing the three levels of the hierarchy.
 
-## Definitions
+==== Definitions
 The objective of the category structure is to define research themes of approximately equal importance or value to growth of a strong enterprise AR ecosystem. If and when any category is less well studied than others, it represents (or suggests?) a potential need for investment. Although any group is assigned to only one category, it is inaccurate to think of categories as mutually exclusive; some topics could in multiple groups, some groups could be in multiple categories.
 
 The categories for the 2021 edition of the Research Agenda appear in the table below.
@@ -29,7 +29,7 @@ NOTE: The AREA Use Cases "catalog" (Marketplace project) has seven additional us
 
 |===
 
-## Methodology
+==== Methodology
 The categories were agreed upon by the 8th Research Project team members. Over 2,700 machine-assigned terms ("machine-assigned terms" needs to be linked to the anchor where the machine-assigned terms are described) served as the starting point of the category development process. Machine-assigned terms were manually clustered into 58 groups ("58 groups" needs to be linked to the anchor where the group terms are described). The names of the groups were developed and agreed upon by the team and assignments to groups was made primarily on the basis of reading the abstracts of articles labelled with the same machine-assigned term.
 
 In parallel with the use of machine-assigned terms, member-driven inputs contribute to the structure. Since January 2017, the AREA has been soliciting research topics from its members. Topics have been submitted via a web-based form in five categories which align closely with those used in this edition of the Research Agenda.
@@ -40,7 +40,7 @@ The source of quantitative data for this research agenda is to be considered (li
 
 Every effort will be made to identify and include new sources of articles with machine-assigned terms in the future.   And, Research categories and groups will be reviewed and may be revised and updated when preparing future editions of the AREA Research Agenda.
 
-## How to Use Categories and Groups
+==== How to Use Categories and Groups
 Categories permit researchers and research analysts to quantify the number of recently published peer-reviewed papers and diversity of groups of research topics within a category.
 
 A category containing relatively few groups within it suggests that there is need for increased attention on classifications within groups and research topics within groups. First, it is valuable to explore the namings of groups and their definitions (link "their definitions" to the section with group term definitions). There are groups within a category which are not parallel in concept, or name. Detection of such trends and exploring ways to address these can themselves be the focus of research efforts. Further, many categories are recognized as incomplete. In order to bring value to the ecosystem, leadership of research programs are encouraged consider the reasons for unequal emphasis or depth in a category or group. If there are opportunities for advancement that could be addressed and valuable to the ecosystem, leadership teams can dedicate greater their research resources or encourage other entities to make additional investments to fill gaps or strengthen groups or topics.

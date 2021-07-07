@@ -29,81 +29,82 @@ Topics proposed by Bill (NIST)
 . Curation/exchange representations of virtual models for AR that are technology agnostic. We have an on-going research collaboration about producing a new exchange data format that includes machine kinematics (for example) and other asset data to make the AR scene more ready and meaningful after import. Understanding the minimal information model around this idea would help drive this work.
 
 The following topics are listed in the call for participation of the IEEE International Symposium on Mixed and Augmented Reality 2019 conference (note that the abbreviation XR has been replaced by AR for the purpose of their consideration for inclusion in the AREA Research Agenda. Also, these topics are listed in alphabetical order and will need to be grouped thematically):
-● AI for AR
-● Camera and Projector-Camera Calibration
-● Collaborative AR interfaces
-● Computer Vision for AR
-● Content creation / authorinģ and content management for AR
-● Conversational and Speech Interfaces for AR
-● Display technologies (e.g., eyewear, smart watches, projectors)
-● Ethical issues
-● Ergonomics and human factors
-● Haptic and tactile interfaces, wearable haptics, passive haptics, pseudo haptics for AR
-● Human augmentations
-● Human-Computer Interaction for AR
-● Immersive Visual Analytics
-● Localization, spatial registration and tracking for AR
-● Locomotion and navigation techniques
-● Machine Learning for AR
-● Mediated and Diminished Reality
-● Multimodal input and output for AR
-● Omnidirectional, 360, immersive Videos for AR
-● Perception in AR
-● Presence, body ownership, and agency
-● Real-time performance issues
-● Rendering techniques for AR
-● Sensor fusion
-● Spatial audio for AR, auditory perception and psychoacoustics
-● Spatial AR, Projection mapping, Projector-camera systems
-● System architectures for AR, distributed and online systems
-● Touch, tangible and gesture interfaces
-● Technology acceptance and social implications of AR
-● Teleoperation and telepresence
-● User experience, Usability studies and human-subjects experiments for AR
-● Video processing and streaming for AR
-● VR simulations of AR/MR/XR
-● Visual effects / video processing
-● Virtual Humans and Avatars
-● Visualization techniques for AR
-● AR applications from domains such as
-○ Architecture
-○ Art, cultural heritage, education and training
-○ Automotive and aerospace
-○ Entertainment, sports broadcast
-○ Health, wellbeing, and medical applications
-○ Industrial, military, emergency response
-○ Therapy and rehabilitation
-○ Further domains not listed above
+
+* AI for AR
+* Camera and Projector-Camera Calibration
+* Collaborative AR interfaces
+* Computer Vision for AR
+* Content creation / authorinģ and content management for AR
+* Conversational and Speech Interfaces for AR
+* Display technologies (e.g., eyewear, smart watches, projectors)
+* Ethical issues
+* Ergonomics and human factors
+* Haptic and tactile interfaces, wearable haptics, passive haptics, pseudo haptics for AR
+* Human augmentations
+* Human-Computer Interaction for AR
+* Immersive Visual Analytics
+* Localization, spatial registration and tracking for AR
+* Locomotion and navigation techniques
+* Machine Learning for AR
+* Mediated and Diminished Reality
+* Multimodal input and output for AR
+* Omnidirectional, 360, immersive Videos for AR
+* Perception in AR
+* Presence, body ownership, and agency
+* Real-time performance issues
+* Rendering techniques for AR
+* Sensor fusion
+* Spatial audio for AR, auditory perception and psychoacoustics
+* Spatial AR, Projection mapping, Projector-camera systems
+* System architectures for AR, distributed and online systems
+* Touch, tangible and gesture interfaces
+* Technology acceptance and social implications of AR
+* Teleoperation and telepresence
+* User experience, Usability studies and human-subjects experiments for AR
+* Video processing and streaming for AR
+* VR simulations of AR/MR/XR
+* Visual effects / video processing
+* Virtual Humans and Avatars
+* Visualization techniques for AR
+* AR applications from domains such as
+** Architecture
+** Art, cultural heritage, education and training
+** Automotive and aerospace
+** Entertainment, sports broadcast
+** Health, wellbeing, and medical applications
+** Industrial, military, emergency response
+** Therapy and rehabilitation
+** Further domains not listed above
 
 
 The following topics are listed on the call for participation page of the 11th International Conference on Virtual, Augmented and Mixed Reality, an affiliated conference of the HCI International Conference provides a forum for researchers and practitioners to disseminate and exchange scientific and technical information on VAMR-related topics in various applications.
-Interaction and navigation in VAMR
-Avatar instantiation
-Human factors
-Immersion
-Locomotion
-Orientation and navigation
-Teleoperation, puppeteering, and autonomy
-Issues in development and use of VAMR
-Distributed environments
-Embodiment
-Fidelity
-Occlusion
-Performance measurement
-Platform requirements
-Presence in VAMR (Criteria and measurement; Design issues)
-Sensory and perception
-Simulator sickness
-Situational awareness
-Underlying & supporting technologies
-Alternative computing environments (Wearable; Pervasive computing)
-CAVE and multi-participant environments (Head mounted displays; Field of view; Resolution; Rendering speed; Parallax and perspective)
-Mobile systems
-Multimodal interfaces
-Sensory substitution
-Telepresence systems
-Tracking technologies
-Visualization and image rendering
+
+* Interaction and navigation in VAMR
+* Human factors
+* Immersion
+* Locomotion
+* Orientation and navigation
+* Teleoperation, puppeteering, and autonomy
+* Issues in development and use of VAMR
+* Distributed environments
+* Embodiment
+* Fidelity
+* Occlusion
+* Performance measurement
+* Platform requirements
+* Presence in VAMR (Criteria and measurement; Design issues)
+* Sensory and perception
+* Simulator sickness
+* Situational awareness
+* Underlying & supporting technologies
+* Alternative computing environments (Wearable; Pervasive computing)
+* CAVE and multi-participant environments (Head mounted displays; Field of view; Resolution; Rendering speed; Parallax and perspective)
+* Mobile systems
+* Multimodal interfaces
+* Sensory substitution
+* Telepresence systems
+* Tracking technologies
+* Visualization and image rendering
 
 NOTE: INSERT path to the sections in "documentation" folder
 
