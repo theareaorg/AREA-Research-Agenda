@@ -1,6 +1,6 @@
 [[ra-BIntegration3-ar2plm]]
 
-# Systems Integration between PLM systems and AR
+# Systems Integration between PLM Systems and AR
 
 # Description
 Significant AR application development effort and time is dedicated to [BB: what does this mean?: coordinating AR scene development] with domain-specific information. This is especially true in the manufacturing industry. Product Lifecycle Management (PLM) software systems curate design, manufacturing, and lifecycle sustainment related to a product system (ideally) throughout its entire lifecycle. Leveraging such data across PLM systems for industrial AR has mainly become a platform-specific exercise.  Commercial PLM software vendors provide industrial AR solutions that leverage their application programming interfaces (APIs) to help establish AR scenes.  However, since most large original equipment manufacturers (OEMs) operate in complex, global, and heavily distributed supply chains.  In other words, in many cases, OEMs subscribe to every major commercial PLM software platform to handle the variety of data representations provided by their suppliers.  This is especially important if the end users aims to truly create a digital twin of a product system.
