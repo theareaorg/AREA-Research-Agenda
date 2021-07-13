@@ -40,7 +40,7 @@ Medium
 This research topic can be combined with other projects examining the tradeoffs between fidelity and function of large-scale 3D models.
 
 # Miscellaneous Notes
-Several AREA members are already working in this field and the 7th AREA research project performed a comparison of commercial solutions available for model decimation although did not study the streaming aspect of this research topic.
+Several AREA members are already working in this field and the 7th AREA research project performed a comparison of commercial solutions available for model decimation although did not study the streaming aspect of this research topic. The MxD is interested in collaborating to use its mmWave 5G infrastructure in a factory setting to study this topic further.
 
 # Author
 Peter Orban

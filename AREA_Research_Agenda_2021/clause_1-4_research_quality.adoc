@@ -1,6 +1,8 @@
 [[ra-research-quality-section]]
 === Research Quality
 
+Carl Byers: One thing I noted going through these is the ‘flexibility’ of the definition of ‘research’. Some are very applied (more like prototype demonstrations and testbeds) while others are much more emergent. Maybe that is captured in your ‘position on X-Y axes entry? If not, some rating to character the research on a spectrum would be useful.
+
 An important aspect to consider in the planning and execution of any research is quality of the research and results. One of the most widely-accepted methods of ensuring that research meets or exceeds the quality threshold for a community or industry is peer review. The careful and critical review of submissions by a panel of peers ensures that, prior to public release, publications and conference papers reflect the latest research methods and that the results are sound.
 
 All the articles included in the FindAR data set and used in quantitative analyses for this research agenda have been peer reviewed and meet the industry standard for quality.
