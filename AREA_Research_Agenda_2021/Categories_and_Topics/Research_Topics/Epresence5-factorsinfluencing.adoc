@@ -3,7 +3,7 @@
 # Factors Influencing Perceptions of Presence in AR
 
 # Description
-Presence is a term used to describe the "feeling of being there" in a virtual environment. It can be cognitive, in that the users' mind is engaged in the virtual content, or it can be perceptual, in that the users' sensory systems perceive the virtual environment to be "real". In Augmented Reality (AR), this is represented by a seamless integration between the physical and virtual worlds.
+Presence is a term used to describe the "feeling of being there" in an environment. It can be cognitive, in that the users' mind is engaged in the content, or it can be perceptual, in that the users' sensory systems perceive the digital assets to be "real." In AR, this is represented by a seamless integration between the physical and virtual worlds.
 
 A question that arises in this area of research is what factors of the virtual environment influence the perceptions of presence? Is there a minimum amount of virtual information needed in an AR environment? Does the level of fidelity of the virtual elements influence the reported experience of presence? For example, will an application that uses realistic 3D models result in higher levels of presence than lower fidelity (i.e., cartoon) 3D models?
 
