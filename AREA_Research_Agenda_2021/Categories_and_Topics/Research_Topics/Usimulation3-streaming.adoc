@@ -24,9 +24,6 @@ Technology, business
 # Stakeholders
 Operations leaders, financial management, OEM manufacturers, Independent Software Vendors, Cloud Service Providers
 
-# Position on X and Y axes (1-5)
-3
-
 # Reasons this topic is important for AREA members
 Large-scale models play an increasingly important role across various verticals of interest and importance to AREA members, requiring the justification of the investment at one or more levels. AREA members will benefit from having ways to manage this investment by cross-optimizing model fidelity and utility delivering model quality that is fit for the purpose but not better.
 
