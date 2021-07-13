@@ -32,8 +32,6 @@ Display Devices, Technology
 # Stakeholders
 AR display designers, AR display manufacturers, original equipment manufacturers (OEM) of semiconductors for AR displays, AR systems integrators
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 Most of the leading AR display component and system manufacturers are AREA members. While their research in this topic has certainly led to substantial improvements in performance, there has been a lack of peer-reviewed literature published on the topic. There must be greater research investment and publication of results focused on the challenges of power consumption and computational complexity in order to create new business opportunities that can benefit all AR display manufacturers. AREA customer segment members will also benefit from lower cost, lower power consuming systems and integrated AR display devices as a result of advancements in this field.
 

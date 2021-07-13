@@ -29,8 +29,6 @@ Business, End Users, Industry, Policy
 # Stakeholders
 Government officials and policymakers in World Bank Group and UN nations, Social Performance/Impact executives in large, global organizations, particularly those with a large social license to operate, Sustainability/innovation groups in large corporations, Agriculture executives and sales teams
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 Food security and crop preservation are important sustainability issues that ultimately contribute to the health of our global economy. AR would provide a vital channel with which to establish a vibrant ecosystem positioned to support and connect rural farmers across the world. Large impact can be made by utilizing existing soil/plant photography databases and AI-driven, AR-facilitated guidance, as well as incorporation of IoT data pertaining to water availability, as many food-insecure nations experience hardship associated with frequent drought. +
 

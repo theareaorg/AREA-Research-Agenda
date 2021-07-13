@@ -26,8 +26,6 @@ Display Devices, End User, Technology
 # Stakeholders
 All stakeholder in corporate security organizations but primarily CISOs, CIOs, IT and security managers. On the vendor side, OEMs, solutions providers, system integrators and independent software vendors will be impacted by this research.
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 Securing endpoints in the enterprise is a critical step in preventing compromised security of enterprise systems. Therefore, the appearance of a new device class and new, highly personal modalities of authentication raise legitimate authentication, human factors and privacy concerns. These issues must be measured and best practices developed to reduce the negative impacts of slow and unreliable user authentication and inputs.
 

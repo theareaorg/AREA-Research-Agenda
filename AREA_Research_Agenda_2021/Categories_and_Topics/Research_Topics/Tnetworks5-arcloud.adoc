@@ -22,8 +22,6 @@ Technology
 # Stakeholders
 Network operators, network managers, enterprise IT managers, AR display designers, AR display manufacturers, AR experience authoring platforms, AR developers
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 Before introducing new architectures in their networks, AREA member organizations must understand the potential benefits and ensure that they are not locked into one vendor's vertically-integrated technology silo. The members need to better understand the potential risks and opportunities of introducing AR Cloud in enterprise networks. In addition AREA members seek research that will develop practical guidelines and permit them to keep up with and evaluate this trend over the coming months and years.
 

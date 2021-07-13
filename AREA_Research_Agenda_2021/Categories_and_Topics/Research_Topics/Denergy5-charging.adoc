@@ -22,8 +22,6 @@ Display Devices, Technology
 # Stakeholders
 All users of wearable AR display devices and those who manage their use in the workplace will benefit from longer duration between recharges. Introducing or integrating novel power production, transfer or storage technologies will have impacts on the costs of display devices which could effect the number of devices purchased.
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 Most of the leading AR display component and system manufacturers are AREA members. Use of wearable AR displays in AREA member settings is limited by many factors, one of which is the size and weight of the display needed in order to store sufficient energy to power the computational processing requirements of AR experiences. The issues of power storage to deliver energy for a full work shift can be addressed through reducing local (on-device) processing and power requirements, and increasing storage capacity. Having continuously generated power from a source such as the movements or environment of the user is an approach that has not received extensive study but could introduce an attractive alternative to removing a device from use for charging.
 

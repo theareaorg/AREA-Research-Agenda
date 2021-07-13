@@ -23,8 +23,6 @@ Standards, Technology
 # Stakeholders
 Standards bodies, Safety officers, employees working in high risk jobs
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 Saving lives and reducing risk to which employees are exposed is a high priority and represents a significant cost to operations. Reducing the risk through technology use brings immediate return on investments, in many industries. The specification of AI systems connected to AR displays for risk detection, and the sequence of triggers leading to an alert being provided to the user, is valuable regardless of the manufacturer of the sensors or AR display.
 

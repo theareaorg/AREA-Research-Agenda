@@ -1,6 +1,6 @@
 [[ra-Tiot5-coldchain]
 
-NOTE: DO NOT USE THIS. The text of the description and the keywords have been moved over to Imarine5-containermanagement.adoc 
+NOTE: DO NOT USE THIS. The text of the description and the keywords have been moved over to Imarine5-containermanagement.adoc
 
 # Identification of Cold Chain Governance using AR
 
@@ -26,8 +26,6 @@ Industry, Technology, Business
 
 # Stakeholders
 Port and shipping managers, Air cargo forwarding managers, IT managers, field work force, ISVs
-
-# Position on X and Y axes (1-5)
 
 # Reasons this topic is important for AREA members
 Securing the safety of global freight is important and every measure aiming to decrease risk can lead to a decrease in insurance and shipping costs.

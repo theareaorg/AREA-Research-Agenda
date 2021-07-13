@@ -24,8 +24,6 @@ Business, End Users
 # Stakeholders
 Government officials and policymakers in World Bank Group and UN nations, Social Performance/Impact executives in large, global organizations, particularly those with a large social license to operate - preference to industries in which corporations provide educational and healthcare services for many aspects of community life (e.g. metals and mining), Education policy makers/professionals
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 The Multidimensional Poverty Index (MPI) "measures the complexities of poor people's lives, individually and collectively, each year." The measure was co-developed between the Oxford Poverty and Human Development Initiative at the University of Oxford and the Human Development Report Office of the United Nations Development Programme in 2010. It is a key measure for developing countries with regards to progress toward eliminating world poverty. Importantly, this specific measure accounts for many elements of non-monetary poverty to calculate an overall score, comprised of three dimensions: Health, Education, and Standard of Living. According to 2020 report "Charting pathways out of multidimensional poverty: achieving the SDGs", "This is a key moment to study how non-monetary poverty goes down. It is 10 years before 2030, the due date of the Sustainable Development Goals (SDGs), whose first goal is to end poverty in all its forms everywhere. And it is a year when a pandemic and economic slowdown are pushing many more into poverty, while the spectre of racism still haunts, and environmental threats such as locusts surge". +
 

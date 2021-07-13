@@ -22,8 +22,6 @@ Industry, Use Cases
 # Stakeholders
 Business and production managers in any industry where inspections are performed for review and confirmation of meeting any quality and/or safety policies, Safety managers, compliance managers, quality managers
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 Research in this area wold permit effectively transferring or adapting existing AR procedures and technologies from existing use cases to AR-assisted inspection. This would leverage existing infrastructure investments and knowledge about AR implementation (increase AR ROI) and reduce time and costs of existing inspection processes to increase compliance and ability to document compliance in the workplace
 

@@ -25,8 +25,6 @@ Technology, End Users, Displays
 # Stakeholders
 AR experience designers, developers of integrated sensor and world capture components, human factors researchers
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 Spatial vision makes instinctive sense in a number of situations but it is not always as practical, comfortable or affordable way to produce AR experiences that help reach use case objectives. If performance requirements on vision-based AR delivery can be reduced using spatial audio components or solutions, enterprises may have more options and greater flexibility when sourcing their AR experience delivery devices. In addition, spatial audio-based solutions may lower total resourcing needs, reducing the financial barriers of enterprise adoption. It may also increase the impact of AR experiences in which there is interference or occlusion of the user's vision.
 

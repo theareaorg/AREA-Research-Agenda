@@ -22,8 +22,6 @@ End Users and User Experience, Industries, Technology
 # Stakeholders
 Developers, users, operators, users of AR head mounted displays (HMDs)
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 This topic is of interest to AREA members because it helps to understand the role of HMD comfort on user acceptance of AR in the workplace. It also contributes to our understanding of what factors/individual differences are still not addressed by the various HMD technologies.
 

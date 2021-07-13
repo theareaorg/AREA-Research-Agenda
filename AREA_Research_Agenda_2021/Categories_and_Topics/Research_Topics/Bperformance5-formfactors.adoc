@@ -27,8 +27,6 @@ Display Devices, Business
 # Stakeholders
 Operations leaders, financial management, OEM manufacturers, Independent Software Vendors,
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 Wearable AR displays provide frontline workers in AREA member companies with information without requiring the user to hold a display in their hands or look away from their tasks while obtaining instructions. However, deploying display devices with entirely different form factors than those widely adopted, developing and deploying appropriate software, integrating and training users on the new devices introduces time and expenses – particularly if handhelds have been well integrated in the current procedures.
 

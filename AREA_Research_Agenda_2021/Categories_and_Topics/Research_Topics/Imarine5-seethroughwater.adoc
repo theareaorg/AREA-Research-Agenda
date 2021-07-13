@@ -20,8 +20,6 @@ Industry, Technology
 # Stakeholders
 Developers, operators and owners/users of commercial, private or military water craft
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 Almost all existing products for situational awareness rely on RGB or RGBD cameras for real time environment acquisition yet the visualization of obstacles or other salient features of the physical world are important and would serve as the basis for decision making for users when operating equipment in conditions unsuitable to vision-based sensors.
 

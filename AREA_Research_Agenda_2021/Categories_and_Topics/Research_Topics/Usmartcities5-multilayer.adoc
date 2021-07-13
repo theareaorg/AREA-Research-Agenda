@@ -26,8 +26,6 @@ Technology, business
 # Stakeholders
 Elected and professional urban leaders: Mayors, CIOs and CISOs of urban infrastructure, Independent Software Vendors, geospatial infrastructure providers, points of interest publishers
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 According to the UN, 68% of the world population projected to live in urban areas by 2050. This will put an increased strain on most public assets to optimizing how to unlock their value will be critical for resident quality of life and visitor experiences. Best practices developed in urban design, information architecture and human factors will be extended by the results of this research.
 

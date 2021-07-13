@@ -24,8 +24,6 @@ Display Devices, Technology, End Users
 # Stakeholders
 Operations leaders, HMD designers, Safety & IT managers, OEM manufacturers, ISVs
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 Most of the leading AR display component and system manufacturers are AREA members. Video passthrough displays using existing technologies for graphics overlay on video is less expensive to develop than optical see-through displays. AREA members would benefit from having objectively-defined measures of the impact of head-worn video see-through displays on the user's peripheral vision.
 

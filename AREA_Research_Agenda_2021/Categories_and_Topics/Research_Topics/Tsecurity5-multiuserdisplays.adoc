@@ -28,8 +28,6 @@ Display Devices, End User, Technology
 # Stakeholders
 Workplace safety managers and officers, IT security managers, employees working in facilities driven by work orders, AR managers, AR experience developers, AR interface designers who would develop prompts and procedures for easy login
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 Enterprises cannot purchase sufficient AR display hardware to have every employee have their own, personal device for a full shift. AREA members will be looking for ways to distribute display hardware across multiple users. They will need systems to reduce risk of contamination and transmission of skin or respiratory conditions between users. Further, they must provide a way for users to reliably, easily and quickly log into their personal account. Very little is known or documented about possible impacts of the issues around these topics.
 

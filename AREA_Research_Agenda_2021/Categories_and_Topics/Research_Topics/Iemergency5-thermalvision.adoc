@@ -22,8 +22,6 @@ Industry, Display Devices, Technology
 # Stakeholders
 While the emergency responders and military use cases are the clear beneficiaries of this research topic, there are also applications in automotive, such as displaying to a driver moving or stationary wildlife along a road side or forklift drivers "seeing" the thermal image of pedestrians in a warehouse or in a manufacturing environment. Additional imaging could prevent hazardous interactions. Similarly, when mounted in field equipment, the AR display can alert a driver to the presence of people or animals in the path of the equipment. When the technology is miniaturized and highly reliable, it may be used in enterprise AR use cases including but not limited to medical industry or animal husbandry for diagnostics and therapeutics. If the cost and size of the technologies is sufficiently low, the feature could be used for non-industrial applications, such as in games or education.
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 When AR displays with thermal imaging are available for enterprise users, AREA members in government, automotive, aviation, medical, agriculture and other industries will find it valuable to have more use cases for their AR investments. Adding new and diverse sources of live data to an AR display can increase cost and power use, but also introduce new use cases for AREA members.
 

@@ -24,8 +24,6 @@ Use Cases, End User and User Experience
 # Stakeholders
 Many use cases include the need for a user to walk or drive between locations. When conditions are apt to change between locations or the exact destination is new each time, an automatic, real-time and AR-enabled navigation support technology can ensure the most efficient and safest routes are followed. Visualization in AR removes the need to look at another device for route information. When small incremental improvements in efficiency are compounded over thousands of users, following optimized routes can impact workforce productivity and lower risk.
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 AREA customer segment organizations have large workforces with diverse needs for movement. Reducing transit times while also increasing safety are ways to improve operational efficiencies. AR providers could integrate navigation support into other use cases, permitting the user to receive value from the wearable AR device investment between other stationary/non-mobile activities and use cases.
 

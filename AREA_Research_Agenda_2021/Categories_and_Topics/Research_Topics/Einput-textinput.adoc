@@ -22,8 +22,6 @@ End Users and User Experience, Industries, Technology
 # Stakeholders
 Developers, users, operators, users of mixed reality applications with required user input
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 This topic is of interest to AREA members because almost all AR applications used with HMDs require some level of user input. Optimizing this input so that it is easy to use, efficient, and not prone to error will provide for better user experience and acceptance.
 

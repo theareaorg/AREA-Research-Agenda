@@ -15,7 +15,7 @@ Additional work is required in fundamental mappings between standard data repres
 TBD
 
 # Key Words
-Digital Enterprise, Model Translation, Interoperability, Product Manufacturing Information, Geometric Dimensioning and Tolerancing, Assembly Animation, Engineering Change Management, Updatable AR, Maintainable AR, Transferrable AR, Agile AR
+digital enterprise, model translation, interoperability, product manufacturing information, geometric dimensioning and tolerancing, assembly animation, engineering change management, updatable AR, maintainable AR, transferrable AR, agile AR
 
 ## FindAR Terms
 knowledge representation, ontologies (artificial intelligence), information management, production planning, metadata, application programming interfaces, systems engineering, cad/cam, cad, computer aided design, integration, industry 4.0, 3d modeling, assembly, manufacturing data processing, product life cycle management, computer aided engineering, Interoperability, standardization, protocols

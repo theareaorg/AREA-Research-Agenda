@@ -24,8 +24,6 @@ Technology, End Users
 # Stakeholders
 This research is relevant to designers and managers of enterprise 3D assets, 3D asset platform publishers, AR experience developers, AR program managers, AR authoring platform publishers
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 AR experience developers and employees in AREA customer segment companies will have many use cases involving the selection and manipulation of 3D models. However, the acceptance and value of 3D models will be low until there are improvements in how models are prepared, presented and manipulated during AR experiences. The proposed research topic will benefit AREA members by increasing 3D model usability, lowering cognitive load and increasing the impact of 3D models in the workplace and workflows.
 

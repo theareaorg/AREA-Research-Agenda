@@ -24,8 +24,6 @@ Business, End Users, Use Cases
 # Stakeholders
 Operational excellence professionals, Chief Operating Officers, Safety and risk professionals, plant managers
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 Scalability of technological advancement is highly-dependent upon ability to commercialize and deploy innovation in areas in which production/labor cost is low, which in many cases does not correspond to the areas in which R&D hubs are located. Providing real-time support around decision-making associated with plant design and start-up via AR should decrease time to productive and safe operational ramp-up, while making possible global commercialization at a lower cost than traditional methods that rely heavily upon SME travel, availability, and familiarity with local languages, customs, and practices. +
 
