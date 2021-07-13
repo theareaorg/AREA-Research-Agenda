@@ -11,7 +11,7 @@ This research project will focus on definition of requirements and development o
 To be generated via FindAR
 
 # Key Words
-Edge computing, spatial computing, AR cloud, cloud computing, 3D mapping, computer vision, object tracking, localization, relocalization,
+edge computing, spatial computing, AR cloud, cloud computing, 3D mapping, computer vision, object tracking, localization, relocalization
 
 ## FindAR Terms
 edge computing, cloud computing, distributed computing, network architecture

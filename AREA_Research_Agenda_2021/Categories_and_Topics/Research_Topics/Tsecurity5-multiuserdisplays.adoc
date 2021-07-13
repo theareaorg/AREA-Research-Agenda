@@ -1,15 +1,17 @@
 [[ra-Esecurity5-multiuserdisplays]]
 
-# Safe and Secure Management Systems for Multi-User Wearable AR Displays
+# Safe and Secure Multi-User Wearable AR Display Management Systems
 
 # Description
-Wearable AR displays are expensive to purchase and, once they are tested and configured for AR experiences in the enterprise, they are be highly valuable, limited resources. One of the issues AR managers encounter when seeking funding to purchase wearable AR displays is that no single user needs to have the display for all their tasks during a shift. In fact, until many more AR experiences are published and accepted, display devices are in use only a fraction of a work day.
+Wearable AR displays are expensive to purchase and, once they are tested and configured for AR experiences in the enterprise, they are highly valuable, limited resources. One of the issues AR managers encounter when seeking funding to purchase wearable AR displays is that no single user needs to have the display for all their tasks during a shift. In fact, until many more AR experiences are published and accepted, display devices are in use for only a fraction of a work day.
 
 In principle, different workplace roles could use the same AR display during different parts of a process or a shift, thereby distributing the fixed cost of the hardware across multiple users and procedures, and ensuring that the system is not idle for significant time.
 
-This research topic focuses on development of solutions to address two issues that currently prevent wearable AR displays from serving as multi-user resources. The first challenge is that unless procedures for cleaning AR displays are tested and proven to the workforce to be effective and safe for them, employees are uncomfortable using a shared personal device. Sensitivity to this issue is even greater since the emergence of Covid-19.
+This research topic focuses on development of solutions to address two issues that currently prevent wearable AR displays from serving as multi-user resources. The first challenge is an environmental health and safety issue. Unless procedures for cleaning AR displays are tested and proven to the workforce to be effective and safe for them, employees are uncomfortable using a shared personal device. Sensitivity to this issue is even greater since the emergence of Covid-19.
 
-The second issue that presents a barrier is the easy, effective and secure authentication of users who share a display. User authentication, without typing in user names and passwords, is required in order that the user wearing the AR display at any time receive only those work orders and information that match the employee's current work order, level of training and roles on the job site.
+The second issue that presents a barrier is the extension of mobile devide management (MDM) to AR displays. There must be easy-to-use, reliable, effective and secure authentication of users who share wearable AR displays. User authentication, without typing in user names and passwords, is required in order that the user wearing the AR display at any time receive only those work orders and information that match the employee's current work order, level of training and roles on the job site.
+
+The scope of this research straddles two fields that are not easily combined. The two topics could be studied separately.
 
 # Prior Research
 To be generated via FindAR

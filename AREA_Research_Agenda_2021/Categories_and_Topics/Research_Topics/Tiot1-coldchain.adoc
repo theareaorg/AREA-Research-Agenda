@@ -1,6 +1,6 @@
 [[ra-Tiot5-coldchain]
 
-NOTE: The text of the description and the keywords have been moved over to Imarine5-containermanagement.adoc 
+NOTE: DO NOT USE THIS. The text of the description and the keywords have been moved over to Imarine5-containermanagement.adoc 
 
 # Identification of Cold Chain Governance using AR
 

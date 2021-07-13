@@ -1,7 +1,5 @@
 [[ra-Tcomputervision5-obfuscationoffacialdata]]
 
-NOTE: need to beef up Stakeholders section
-
 # Automatic Detection and Obfuscation of Facial and/or Personal Data of People in AR User Vicinity
 
 # Description
@@ -13,16 +11,16 @@ This research topic includes using automatic detection of faces in an AR camera'
 To be generated via FindAR
 
 # Key Words
-Face detection, facial identification, obfuscation of region of interest, personal information, privacy, privacy protection
+face detection, facial identification, obfuscation of region of interest, personal information, privacy, privacy protection, security, compliance
 
 ## FindAR Terms
-biometrics
+biometrics, data security, access protocols
 
 # Research Agenda Categories
 Technology, End Users, Business
 
 # Stakeholders
-Privacy managers, workplace policy managers, risk managers
+All stakeholders in corporate security organizations including but not limited to privacy managers, workplace policy managers and risk managers. In order for obfuscation to be implemented in commercial systems, the research would need to take into account the requirements of the AR display ecosystem players (e.g., OEMs, solutions providers, system integrators and independent software vendors) who could leverage the results.
 
 # Position on X and Y axes (1-5)
 
@@ -38,7 +36,7 @@ This topic may also involve introducing systems that interrupt an AR-assisted pr
 Medium
 
 # Research Program
-This topic can be combined with the study of automatic detection and management of other sensitive data types. For example, the license plates of cars, names of people appearing in semi-public places (e.g. postal box), and voices of people in proximity of the AR-enabled user could be selectively removed based on the local regulations and privacy policies.
+This topic can be combined with the study of automatic detection and management of other sensitive data types. For example, the license plates of cars, names of people appearing in semi-public places (e.g. postal box), and voices of people in proximity of the AR-enabled user could be selectively removed based on the local regulations and privacy policies. It could also be combined with the research [ra-Tauthentication5-biometric][on biometric authentication for AR display users].
 
 # Miscellaneous Notes
 A 2014 peer-reviewed paper https://www.researchgate.net/publication/323372332_Face_Recognition_and_Privacy_in_the_Age_of_Augmented_Reality[describes tests performed and highlights the implications of the convergence of face recognition technology and use of AR].

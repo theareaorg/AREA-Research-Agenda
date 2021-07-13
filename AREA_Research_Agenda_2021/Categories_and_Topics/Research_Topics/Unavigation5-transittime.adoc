@@ -13,10 +13,10 @@ For example, in factories or warehouses, workers need to avoid moving through zo
 To be generated via FindAR
 
 # Key Words
-Geospatial AR, GPS, global positioning system, location, position, orientation, route, route optimization, navigation, planning, guidance
+geospatial AR, GPS, global positioning system, location, position, orientation, route, route optimization, navigation, planning, guidance, routing
 
 ## FindAR Terms
-computerised navigation, global positioning system, navigation, navigation systems,
+computerised navigation, global positioning system, navigation, navigation systems
 
 # Research Agenda Categories
 Use Cases, End User and User Experience

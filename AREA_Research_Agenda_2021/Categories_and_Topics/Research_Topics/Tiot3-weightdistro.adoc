@@ -1,6 +1,6 @@
 [[ra-Tiot3-weightdistro]]
 
-NOTE: The description and key words of this topic has been added to the Imarine5-containertechnologies topic.
+NOTE: DO NOT USE THIS. The description and key words of this topic has been added to the Imarine5-containertechnologies topic.
 
 # Ensuring proper weight distribution during cargo loading and unloading
 

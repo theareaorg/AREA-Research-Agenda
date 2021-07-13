@@ -1,18 +1,18 @@
 
 [[ra-Tcybersecurity5-riskassessmentreduction]]
 
-# Cybersecurity Risk Assessment and Reduction
+# Cybersecurity Risk Assessment and Reduction for AR Environments
 
 # Description
 Sensitive enterprise or customer data could be exposed to threats from hostile actors when in field of view of AR-enabled cameras, and/or when sent to users' AR device in order to support their task performance. The hostile actors may interfere with transmission of sensitive data, interrupt or distort its presentation to the user in the AR display, or could operate without detection while "scraping" enterprise or customer data for other users. Cybersecurity threat identification and assessment, and mitigation measures for those managing the AR displays in a company are critical to integration of AR in mission critical environments and need to be studied.
 
-Approaches to reducing risk and increasing resilience of AR display devices can be tested and industry guidelines and best practices published by and for cybersecurity experts.
+Approaches to reducing risk and increasing resilience of AR display devices can be tested and industry guidelines and best practices published by and for cybersecurity experts. The scope of the research could include comparisons of device vs wireless network security.
 
 # Prior Research
-1
+FindAR generated value
 
 # Key Words
-Cybersecurity, risk, encryption, distributed ledger technologies, integration
+Cybersecurity, risk, encryption, distributed ledger technologies, integration, data interception
 
 ## FindAR Terms
 network security, security of data, computer crime, computer network security, computer privacy, cryptographic protocols, fraud, intrusion detection, data protection, blockchain, access control
@@ -32,7 +32,7 @@ Enterprises cannot integrate and deploy technologies that introduce risk to thei
 This project will require laboratory or bench studies with cybersecurity threats into commercial wearable AR displays will highlight vulnerabilities. Tests of commercial or experimental software to manage sensitive data can be conducted in simulated environments. Further, after the tests in simulation, there should be research on the use of the threat mitigation systems in live environments.
 
 # Expected Impact Timeframe
-Near
+Medium
 
 # Research Program
 This topic or theme of research can be combined with assessments of geofencing, biomarkers for user authentication and other methods to reduce risks to enterprise data.

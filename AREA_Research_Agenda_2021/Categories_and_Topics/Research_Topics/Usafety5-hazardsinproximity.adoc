@@ -1,6 +1,6 @@
 [[ra-Usafety5-hazardsinproximity]]
 
-# Informing Users About Hazards in Proximity
+# Informing AR Users About Hazards in Proximity
 
 # Description
 In many industries, workplaces contain a plethora of hazards. When known or anticipated, hazard management protocols reduce the risks associated with a user's encountering a hazard when performing tasks or fulfilling a work order. However, there are also hazards which, even if made aware of them, the user is untrained to treat or has insufficient time to avoid or deescalate. Alerts can provide the user time to react. On the other hand, there may be hazards that do not require any specific user actions.

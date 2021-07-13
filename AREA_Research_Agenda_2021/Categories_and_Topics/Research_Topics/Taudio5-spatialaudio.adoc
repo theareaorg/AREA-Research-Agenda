@@ -4,25 +4,23 @@
 # Trade-off and Substitution: Stereoscopic Vision for Spatial Audio
 
 # Description
-Stereoscopic vision has long been considered the best type of visualization in terms of matching physical and simulated realities. Producing a perfect 3D visualization and registration of AR assets is difficult using standard AR displays. Solutions that may address the shortcomings of existing AR displays will have a price point that will be prohibitively high and present a financial barrier to AR adoption in enterprises.
+Stereoscopic vision has long been considered the best type of visualization in terms of matching physical and simulated realities. While stereoscopic vision is the goal, producing a perfect 3D visualization and registration of AR assets is difficult using current technologies. Addressing the shortcomings of current AR displays will be prohibitively high and present a financial barrier to AR adoption in enterprises.
 
-By taking advantage of advancements in DSP and audiology, a new class of devices are emerging. Spatially-aware audio transducers can help determine the exact position of posture/pose of the wearer as well as generate simulated sound field that match the physical environment. Such systems need to be combined with existing vision-centric displays for high fidelity enterprise AR experiences.
+Leveraging advancements in Digital Signal Processing (DSP) and audiology, a new class of devices are emerging. Spatially-aware audio transducers can help determine the exact position and posture/pose of the wearer as well as generate a simulated sound field that matches the physical environment. Such systems could be combined with existing vision-centric displays for high fidelity enterprise AR experiences.
 
-This topic will include in its scope, measurement of the spatial audio technology resource requirements. Studies will compare spatial audio requirements to vision-only AR experiences on the basis of accuracy, speed, battery life, bandwidth requirements, processor performance, wearer comfort and pricing.
-
-This research topic includes comparative studies of human cognitive performance aided by varying blends of spatial technology ranging from “audio-only” to “video-only” and various combinations of both.
+The scope of this topic includes measurement of the spatial audio technology resource requirements and impacts of combining visual cues with spatial audio on user performance. Comparative studies of human cognitive performance aided by varying blends of spatial technology ranging from “audio-only” to “video-only” and various combinations of both are also in scope.
 
 # Prior Research
 To be generated via FindAR
 
 # Key Words
-Spatial Audio, effectiveness, spatial vision, 3D audio
+spatial audio, effectiveness, spatial vision, 3D audio
 
 ## FindAR Terms
 perception, audio signal processing, acoustic waves, active noise control
 
 # Research Agenda Categories
-Technology, End Users
+Technology, End Users, Displays
 
 # Stakeholders
 AR experience designers, developers of integrated sensor and world capture components, human factors researchers
@@ -30,10 +28,10 @@ AR experience designers, developers of integrated sensor and world capture compo
 # Position on X and Y axes (1-5)
 
 # Reasons this topic is important for AREA members
-Spatial vision makes instinctive sense in a number of situations but it is not always as practical, comfortable or affordable way to produce AR experiences that help reach use case objectives. If performance requirements on vision-based AR delivery can be reduced using spatial audio solution, enterprises may have more options and greater flexibility when sourcing their AR experience delivery devices. In addition, spatial audio-based solutions may lower total resourcing needs, reducing the financial barriers of enterprise adoption.
+Spatial vision makes instinctive sense in a number of situations but it is not always as practical, comfortable or affordable way to produce AR experiences that help reach use case objectives. If performance requirements on vision-based AR delivery can be reduced using spatial audio components or solutions, enterprises may have more options and greater flexibility when sourcing their AR experience delivery devices. In addition, spatial audio-based solutions may lower total resourcing needs, reducing the financial barriers of enterprise adoption. It may also increase the impact of AR experiences in which there is interference or occlusion of the user's vision.
 
 # Possible Methodologies
-Series of experiments potentially scaled up to time-motion studies using standardized, public and well-documented processes typical of industry verticals, use cases and horizontal use case categories.
+This research topic will require development of visual and audio AR experiences to be produced in a highly controlled laboratory environment within which a series of experiments can be conducted and reproduced. Studies will compare spatial audio requirements to vision-only AR experiences on the basis of accuracy, speed, battery life, bandwidth requirements, processor performance, wearer comfort and pricing. In addition to user perception assessments through surveys and interviews, methods could be expanded to include time-motion studies using standardized, public and well-documented processes typical of industry verticals, use cases and horizontal use case categories.
 
 # Expected Impact Timeframe
 Medium
