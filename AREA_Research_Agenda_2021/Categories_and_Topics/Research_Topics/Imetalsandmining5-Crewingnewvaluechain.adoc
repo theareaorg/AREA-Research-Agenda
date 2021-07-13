@@ -23,8 +23,6 @@ Industry, Business, End Users
 # Stakeholders
 Economists, Government officials in countries with heavy mining production, Senior executives in metals/mining, HR professionals, Social Performance professionals, Operational Excellence professionals
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 Mining is an industry that is incredibly important to the world economy and has been challenged greatly by the recent COVID pandemic. Lessons learned tell us that the industry needs to do a much better job of preparing for "black swan" events and the challenges that it presents to the entire mining value chain. By identifying crew models that reduce physical proximity and allow for reduction of risk across the mining value chain, many recommendations recently put forth by the Intergovernmental Forum on Mining, Minerals, Metals, and Sustainable Development can be immediately put into practice. From the IGF report, "Large-scale mining plays a critical economic and social role in remote areas. Large-scale mining activities are localized in remote areas with underdeveloped or few major alternative economic sectors. Mining plays a critical role for host communities, where it is often the largest—if not the sole—job creator and provider of vital services, including a variety of social services, such as health care and education. Large-scale mining creates more business in host countries. Mining activities have significant multiplier effects on the local and national economy through the creation of indirect and induced employment and business opportunities. ICMM3 estimates those opportunities can contribute up to 15% of national income in certain countries."
 

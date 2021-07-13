@@ -23,8 +23,6 @@ Industry, Technology
 # Stakeholders
 Developers, operators and employees working in places where invisible gases may pose a risk, regulatory agencies, compliance officers
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 Real time display of IoT sensor readings provide user context, beyond those that rely on RGB or RGBD cameras for real time environment acquisition. The lack of connection with sensors represents a gap which can be addressed through research and could contribute to the development of standards. The visualization of gases and other salient chemical or radioactive features of the physical world are important and would serve as the basis for decision making for users when operating equipment in conditions unsuitable to vision-based sensors.
 

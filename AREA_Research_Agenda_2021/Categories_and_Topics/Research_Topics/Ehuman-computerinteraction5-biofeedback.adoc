@@ -22,8 +22,6 @@ End Users, Technology
 # Stakeholders
 Companies monitor and manage workplaces for their suitability to employees. This research will be valuable to all workplace health and safety professionals, wellness specialists, human resources managers, user data privacy policy analysts, employees and their managers
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 Employees of AREA members may work in conditions that are highly stressful and/or require postures that introduce risk of injuries. Others must concentrate while working in environmental conditions that are known or anticipated to produce risks to employee well-being (e.g., vibrations, loud machines). Body-worn sensors can detect abnormal behaviors in the workers' involuntary systems, posture and use of body parts. The implementation of body-worn sensors could be controversial if their ability to protect user data privacy is not clearly demonstrated. By using a body-area network and connecting it with their AR display, an employee will be able to see any anomalies in their real time and historical biometrics without distracting them from their task or releasing their personal data. With  biometric information in their field of view, the AREA employee can modify their behaviors (e.g., reduce stress, change posture and other adjustments to manage their body's response to conditions in their workplace).
 

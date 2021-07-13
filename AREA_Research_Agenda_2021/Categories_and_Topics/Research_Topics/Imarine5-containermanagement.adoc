@@ -31,8 +31,6 @@ Industry, Business, Technology
 # Stakeholders
 Operators of any cargo service including but not limited to shipping services, pilots, naval captains, shipping operations managers, quality managers, security managers, workers performing repair and maintenance on shipping containers, port operations, customs agents
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 Many AREA customer segment members produce and distribute products globally. Some products are sensitive and must be shipped under controlled conditions. Other AREA members build and/or operate fleets of vessels (air, sea and land) and have operational responsibilities for the containers and their contents. Finally, AREA provider segment members producing software and display devices may wish to expand their offerings, based on precise use cases and requirements, in markets where the potential to impact safety, security and quality are high.
 

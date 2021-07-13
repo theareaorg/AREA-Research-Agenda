@@ -27,8 +27,6 @@ End Users and User Experience, Industries, Technology
 # Stakeholders
 Developers, users, operators, users of collaborative virtual environments
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 This topic is of interest to AREA members because it helps to define effective AR application environments from the end user perspective. Any time the immersion is broken, the operator must shift their attention, which may cause cognitive tunneling which can be associated with decreased awareness of critical elements in either environment, higher perceptions of mental workload, safety issues, and decreased productivity. Exploration of this research topic is of interest to developers and users of AR applications for both productivity and training purposes. Understanding the level of fidelity necessary to achieve optimal presence will help developers know the appropriate effort and resources necessary. Impact of fidelity also may be task dependent. For simple assembly tasks, for example, the level of fidelity may matter less than for collaboration tasks where several avatars work together to solve a problem.
 

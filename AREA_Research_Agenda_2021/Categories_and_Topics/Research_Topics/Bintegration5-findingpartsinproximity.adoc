@@ -26,8 +26,6 @@ Business, Technology, Use Cases, End Users
 # Stakeholders
 Operators of manufacturing, repair, employees and technicians in manufacturing facilities or on sites where parts and materials are distributed, maintenance managers, quality managers, managers of factories, providers of repair and maintenance services, supply chain managers
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 AREA members with manufacturing facilities for assembly, or providing repair or maintenance services, or field services where materials must be combined with a worker's skills and availabilities need better ways to visualize data in situ and, based on AI, predict and plan work accordingly. Traditional ERP solutions for supply chain and work order management do not display or alert users to status updates in their visual field so, while they may provide real-time information, the technician must get information from other sources to act upon the change in status. AR systems connected to data processing for parts and supplies on a work site could provide instantaneous status information and guidance, even navigation, to users. By immediately visualizing where materials are to be found, or if limited, the user will lower time wasted waiting for materials, and perform the task or process necessary to move parts or supplies to their optimal positions with respect to tasks.
 

@@ -22,8 +22,6 @@ Standards, Technology
 # Stakeholders
 This research is relevant to AR experience developers, AR managers, AR authoring platform publishing companies, AR service providers,
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 This research will provide AREA members and their technology providers insights into how standards used in real world capture may streamline AR authoring pipelines. If AR authoring can be semi or fully-automated this will reduce costs, time and errors that are inherent when humans are required to custom engineer AR experiences.
 

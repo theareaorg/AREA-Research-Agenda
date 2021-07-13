@@ -22,8 +22,6 @@ Industry, Technology, Business
 # Stakeholders
 Safety managers, workplace designers, risk managers
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 This research will provide AREA members insights into the workplace of industrial employees and could furnish protocols to include in AR systems when integrating with enterprise safety and risk management systems.
 

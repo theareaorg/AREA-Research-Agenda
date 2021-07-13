@@ -21,8 +21,6 @@ Industry, Technology, Business
 # Stakeholders
 Business and production managers, operational excellence personnel, and HSE professionals in high-risk, high-compliance industries and/or industries where risk tolerance must be low (e.g. aviation and aerospace, healthcare, oil and gas, metals and mining, manufacturing, etc.). It may be helpful to consider individuals in a position to expose the organization to financial, safety, health, environmental, legal or regulatory, social, or reputational risk.
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 As LTIR and TRIR are recorded and reported to OSHA each year (in US), it is essential to maintain these statistics so as to ensure a balanced scorecard. These metrics are carefully scrutinized at the C-Suite level and substantial budget is provided to help sustain/improve these metrics. Identification of operational contexts with the lowest risk appetite subsequently identifies specific opportunities for tangible outcomes that may be delivered via AR intervention. This, in turn, should result in tangible ROI and scalability that should stimulate further investment in the use of AR, and potentially even AR as a PPE mandate, in some operational processes and contexts worldwide.
 

@@ -24,9 +24,6 @@ Technology, business
 # Stakeholders
 Public safety agencies such as police crime scene investigators, law enforcement, FEMA, OEM manufacturers. If techniques are widely published, Independent Software Vendors could integrate the capability as a new feature in their existing applications and support more devices.
 
-# Position on X and Y axes (1-5)
-1
-
 # Reasons this topic is important for AREA members
 Laser scanning plays an important role in preserving the physical reality in a digital format, which in turn can inform critical legal decisions or strategic plans. However, any error in the scanning process could significantly deteriorate its utility or render it completely useless. Therefore, it is important to ascertain the quality of the scan even before the point cloud itself gets processed offsite.
 

@@ -26,8 +26,6 @@ Standards, Technology
 # Stakeholders
 Standards bodies, end users, AR experience developers, AR authoring platform publishers, AR tracking library developers, computer vision scientists and developers
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 AR experience developers and the users of those are unable to specify all future use conditions. If and when conditions change in user contexts or tasks, or new vision tracking libraries are published, the process of changing libraries requires returning to the beginning of the authoring. The proposed research and resulting standard would make it possible for developers to switch between different library quickly, perhaps automatically, and with confidence that the libraries are available when needed.
 

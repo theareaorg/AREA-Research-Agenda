@@ -22,8 +22,6 @@ Technology, End Users, Business
 # Stakeholders
 All stakeholders in corporate security organizations including but not limited to privacy managers, workplace policy managers and risk managers. In order for obfuscation to be implemented in commercial systems, the research would need to take into account the requirements of the AR display ecosystem players (e.g., OEMs, solutions providers, system integrators and independent software vendors) who could leverage the results.
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 Employees of AREA member companies may use their AR-enabled systems, including cameras and microphones, in public spaces or in the presence of customers, employees of partner organizations or elsewhere that are not in their exclusive control. If an employee is using an AR device in the presence of people who have not granted permission for their personal information, including but not limited to facial features, to be stored and used by the company, the company may be exposed to penalties for breaching privacy data protection regulations. Technology components that remove or reduce this type of risk will increase compliance without the user's needing to take action or interrupt the processes they are following to perform a task.
 

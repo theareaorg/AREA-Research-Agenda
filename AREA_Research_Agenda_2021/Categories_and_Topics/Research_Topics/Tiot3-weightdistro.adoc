@@ -24,8 +24,6 @@ Industry, Technology, Business
 # Stakeholders
 Port and shipping managers, IT managers, field work force, ISVs
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 Securing the safety of global freight is important and every measure aiming to decrease risk can lead to a decrease in insurance and shipping costs.
 

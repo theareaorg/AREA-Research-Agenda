@@ -22,8 +22,6 @@ Industry, Technology, Use Cases
 # Stakeholders
 This research will be valuable to the operators of municipal or regional water systems, waste management systems and the IT managers, field work force, and partners performing maintenance and repairs of utilities infrastructure.
 
-# Position on X and Y axes (1-5)
-
 # Reasons this topic is important for AREA members
 Some AREA members build, operate and manage large public and private infrastructure for clean and waste water. Systemic loss in water networks ranges from 20-90% (globally). Improving the digital representation of these systems with accurate and automatic measurement technologies will reduce loss and create a more sustainable water management system.
 

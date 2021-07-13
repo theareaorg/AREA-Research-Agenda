@@ -22,8 +22,6 @@ Industry, Displays, Technology
 # Stakeholders
 AR experience developers, operators and owners/users of commercial, private or military aircraft
 
-# Position on X and Y axes (1-5):
-
 # Reasons this topic is important for AREA members
 AREA members with use cases in industries which could use AR in environments with low visibility are not currently able to extend their AR investments to assist employees in those environments. Almost all existing AR products for outdoor situational awareness rely on RGB or RGBD cameras for real time environment acquisition yet the visualization of obstacles or other salient features of the physical world are important and would serve as the basis for decision making for users when operating equipment in atmospheric conditions unsuitable to vision-based sensors.
 
