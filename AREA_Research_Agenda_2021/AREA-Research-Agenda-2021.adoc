@@ -101,9 +101,9 @@ include::Categories_and_Topics/Groups_of_Research_Topics.adoc[]
 
 include::Categories_and_Topics/Naming_of_Research_Topics.adoc[]
 
-////include::clause_5-1_topics.adoc[]
+include::clause_5-1_topics.adoc[]
 
-////include::clause_5-2_topics.adoc[]
+include::clause_5-2_topics.adoc[]
 
 include::clause_6_looking_ahead.adoc[]
 
