@@ -1,6 +1,6 @@
 [[ra-Bintegration5-findingpartsinproximity]]
 
-# Material Management and/or Supply Chain Flow with Work Orders
+# AR for Material Management and/or Supply Chain Flow with Work Orders
 
 # Description
 Many industries track supply chains and juggle limited supplies of components, ingredients or materials when planning the work orders in a system. Combining data with AR displays could provide up-to-date information to users while on the job and assist in distributing human resources according to availability of materials. In Industrial Internet of Things (IIoT), a facility or job site that is nearing the end of materials or has just received a shipment of materials, can bring this status information into the AR-assisted user's field of view with updated work orders, reducing delays and optimizing use of resources and distribution or assignment of workers.
@@ -15,7 +15,7 @@ This research topic explores different approaches to communicate and to visualiz
 To be generated via FindAR
 
 # Key Words
-Logistics data processing, materials management, supply chain management, logistics, asset tracing, asset tracking, asset management, Industrial Internet of Things (IIoT), usability, perception, work orders, productivity, navigation
+logistics data processing, materials management, supply chain management, logistics, asset tracing, asset tracking, asset management, Industrial Internet of Things (IIoT), usability, perception, work orders, productivity, navigation
 
 ## FindAR Terms
 interactive systems and tools, Internet of Things, supply chain, time difference of arrival, warehouse automation, logistics data processing, pallets, supply chain management, manufacturing, mapping
@@ -24,7 +24,7 @@ interactive systems and tools, Internet of Things, supply chain, time difference
 Business, Technology, Use Cases, End Users
 
 # Stakeholders
-Operators of manufacturing, repair, employees and technicians in manufacturing facilities or on sites where parts and materials are distributed, maintenance managers, quality managers, managers of factories, providers of repair and maintenance services, supply chain managers
+operators of manufacturing, repair, employees and technicians in manufacturing facilities or on sites where parts and materials are distributed, maintenance managers, quality managers, managers of factories, providers of repair and maintenance services, supply chain managers
 
 # Reasons this topic is important for AREA members
 AREA members with manufacturing facilities for assembly, or providing repair or maintenance services, or field services where materials must be combined with a worker's skills and availabilities need better ways to visualize data in situ and, based on AI, predict and plan work accordingly. Traditional ERP solutions for supply chain and work order management do not display or alert users to status updates in their visual field so, while they may provide real-time information, the technician must get information from other sources to act upon the change in status. AR systems connected to data processing for parts and supplies on a work site could provide instantaneous status information and guidance, even navigation, to users. By immediately visualizing where materials are to be found, or if limited, the user will lower time wasted waiting for materials, and perform the task or process necessary to move parts or supplies to their optimal positions with respect to tasks.
@@ -36,7 +36,7 @@ An experimental environment using a range of manufacturing conditions, materials
 Medium
 
 # Research Program
-This research can be combined with studies of AR-enabled guidance, 3D user interfaces, live sensor visualization for other use cases in factory and field settings and visualization of connected objects (e.g., tools) and IoT data streams.
+This research topic can be combined with studies of AR-enabled guidance, 3D user interfaces, live sensor visualization for other use cases in factory and field settings and visualization of connected objects (e.g., tools) and IoT data streams.
 
 # Miscellaneous Notes
 Three non-commercial AREA members with financial support from both industry and government [MxD (in US), the Manufacturing Technology Center (The MTC, in UK) and the Advanced Manufacturing Research Center with Boeing (AMRC in UK)] have the required experimental environments and have already begun studying the approaches in this topic.

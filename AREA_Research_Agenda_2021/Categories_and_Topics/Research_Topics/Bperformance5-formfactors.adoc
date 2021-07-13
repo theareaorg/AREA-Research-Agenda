@@ -1,7 +1,7 @@
 
 [[ra-Bperformance5-formfactors]]
 
-# Wearable vs Handheld vs Projection: Methods for Quantifying the Impact of AR Modality on Manual Procedures
+# Wearable vs Handheld vs Projection: Methods for Quantifying the Impact of AR Modality
 
 # Description
 Tablets, mobile phones and other handheld devices have been widely deployed in the enterprise, including frontline workers, who use these devices to access contextually-relevant information while executing work procedures.  Although hugely useful, their interaction paradigm forces said workers to choose between carrying out the actual steps of a work procedure or interacting with the device. The choices the user makes can also present safety risks.

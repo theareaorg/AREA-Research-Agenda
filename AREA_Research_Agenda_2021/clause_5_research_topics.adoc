@@ -1,10 +1,4 @@
 [[ra-research-topics-section]]
 
 === Overview
-To support a rapid use and navigation, the AREA Research Agenda topic are sorted in three ways:
-
-- Alphabetically by Title and Categories (the topics are rows and the categories are columns)
-- By novelty scores (FindAR similarity rating)
-- By Primary Category
-
-In all the tables, every topic can be reached with one click on the topic title.
+All AREA Research Agenda topics are listed in the table below. In the Web page for the Research Agenda, the column headings can be used to sort the topics. Once a topic of interest is identified, it can be reached with one click on the topic title.
