@@ -1,6 +1,6 @@
 [[ra-BIntegration3-ar2plm]]
 
-NOTE: should this be a Standardization Topic instead of business issue?
+NOTE: should this be a Standardization Topic instead of business issue? If so, change from "B" at the start to "S" and give it a new name and anchor.
 
 # Systems Integration between PLM Systems and AR
 
@@ -23,8 +23,6 @@ Standards, Technology, Industries
 
 # Stakeholders
 OEM manufacturers, integrated solution and software developers, CAD/CAM providers, engineering design teams, PLM software publishers
-
-# Position on X and Y axes (1-5)
 
 # Reasons this topic is important for AREA members
 [BB: NEEDS TO BE REVISED based on edits to first paragraph in description] Product design and manufacturing is the focus of many AREA customer segment members. Resources invested in connecting domain-specific models, such as those stored with PLM systems, to proprietary AR engines and presentation systems increase cost and the time to reaching positive RoI on AR investments in manufacturing. If a standard data model to represent AR-related data in manufacturing for use in PLM were adopted, systems integrators would increase use of AR in their solutions and members would have lower risk and investment to re-use existing or new engineering assets in AR experience.
