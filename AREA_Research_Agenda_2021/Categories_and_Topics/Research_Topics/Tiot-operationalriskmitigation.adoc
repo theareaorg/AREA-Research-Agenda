@@ -17,13 +17,13 @@ This study would aim to specifically measure the tangible operational processes 
 Automation, resklling, skill development, augmentation, superjobs, superteams, operational excellence, IoT, process improvement, augmented reality
 
 ## FindAR Terms
-augmented reality, failure, indicators, just in time, mixed realities, optimisation, etc.....TBD
+augmented reality, failure, indicators, just in time, mixed realities, optimization
 
 # Research Agenda Categories
-Business, Endusers, Usecases, Displays
+Business, End Users, Use Cases, Displays
 
 # Stakeholders
-Operational excellence professionals, Chief Operating Officers, Board of Directors, Safety and risk professionals
+Operational excellence professionals, chief operating officers, board of directors, safety and risk professionals
 
 # Reasons this topic is important for AREA members
 Automation introduces new workforce compositions and behaviors and, in order to adapt, organizations will need to deploy augmented support for humans in the workforce that encourages higher-level cognitive processes and decision making, in partnership with automated technology and data at the worksite. As data analysis and technological literacy varies greatly among operational workforces globally, some degree of intervention and support will be necessary to ensure that productivity and safety targets are achieved in a new age of work. AR is uniquely positioned to deliver this guidance and development to the workforce in the "flow of work", as it does not require hand-held or mounted displays that compromise safety and efficiency by directing human hands and eyes away from the production cycle itself.+
