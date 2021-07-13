@@ -9,6 +9,9 @@ For the purposes of this document, the following additional terms and definition
 
 NOTE: This clause currently contains some placeholders that remain from the template on which this document is based (OGC CityGML Users Guide). As part of the development of the Research Agenda, we will remove the placeholders and define all the mid-level and high-level terms created for the FindAR tool and used as the basis for analyses generating the thought leadership in the AREA Research Agenda.
 
+Comment from Carl Byers: One thing I noted when going through the research topics is the ‘flexibility’ of the definition of ‘research’. Some topics are very applied (more like prototype demonstrations and testbeds) while others are much more emergent. Maybe that is captured in your ‘position on X-Y axes entry? If not, some rating to character the research on a spectrum would be useful.
+
+
 [[d2d-data-definition]]
 *2D data* +
 geometry of features is represented in a two-dimensional space +
