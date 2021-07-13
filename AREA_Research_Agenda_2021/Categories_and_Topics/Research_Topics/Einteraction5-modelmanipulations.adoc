@@ -1,6 +1,6 @@
 [[ra-Einteraction5-modelmanipulation]]
 
-# Facilitated User Interactions for Selecting and Manipulating 3D Models
+# Facilitated User Interactions for Selecting and Manipulating 3D Models in AR
 
 # Description
 Computer-generated models and models derived from scans of objects are increasingly part of product designs and testing activities. They are also valuable in diagnostics, and guiding assembly, repair and maintenance procedures. Today, many AR experiences use only 2D targets and display registered 2D line drawings, text or images. However, in the future 3D models will increasingly be used for object recognition, tracking and registration of experiences. Models will also be displayed over real world objects for instructions, or "hanging" in space when two or more collaborators need to examine the same object. Users will need to manipulate and interact with the models.
@@ -26,7 +26,6 @@ This research is relevant to designers and managers of enterprise 3D assets, 3D 
 
 # Reasons this topic is important for AREA members
 AR experience developers and employees in AREA customer segment companies will have many use cases involving the selection and manipulation of 3D models. However, the acceptance and value of 3D models will be low until there are improvements in how models are prepared, presented and manipulated during AR experiences. The proposed research topic will benefit AREA members by increasing 3D model usability, lowering cognitive load and increasing the impact of 3D models in the workplace and workflows.
-
 
 # Possible Methodologies
 The research will build and publish a set of 3D models that objectively represent those most often found or could be used in workplace settings where AR is used or plans to be introduced. The models will be designed with features such as anchors and handles. Studies will compare approaches developed in commercial software for 2D screens with those proposed in AR and VR game engines and experience authoring platforms. In laboratory settings, users will be given tasks to perform with 3D models while using different models of wearable AR displays. In addition to time-motion studies and ergonomics, user testing will measure strain and cognitive effort when performing tasks that require model selection and manipulation.

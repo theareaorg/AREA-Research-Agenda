@@ -12,7 +12,7 @@ This research topic focuses on measuring the impact of binocular (vs monocular) 
 To be generated via FindAR
 
 # Key Words
-Spatial vision, spatial memory, visual encoding, memory anchoring, spatial frequency, receptive Field, modulation transfer function, high spatial frequency, threshold contrast, spatial strategies, spatial orientation, object location
+spatial vision, spatial memory, visual encoding, memory anchoring, spatial frequency, receptive Field, modulation transfer function, high spatial frequency, threshold contrast, spatial strategies, spatial orientation, object location
 
 ## FindAR Terms
 stereo image processing, image coding
@@ -21,7 +21,7 @@ stereo image processing, image coding
 Display Devices, Technology, End Users
 
 # Stakeholders
-User experience designers, AR experience developers, human resources professionals, AR display designers, AR display manufacturers, researchers studying cognition and performance of users in the workplace
+user experience designers, AR experience developers, human resources professionals, AR display designers, AR display manufacturers, researchers studying cognition and performance of users in the workplace
 
 # Reasons this topic is important for AREA members
 All AREA members seek to reduce cognitive load, increase performance and memory encoding of workers during the performance of complex tasks. To date, the role of stereoscopic vision in AR experiences in spatial understanding and memory has not been studied. When better understood and impacts quantified, designers of experiences and interfaces will be able to accelerate memory anchoring and spatial awareness. Determining the specific contributions of AR to human memory and cognitive functions will contribute to calculating return on investment on AR in enteprise, justifying investments and removing enterprise AR adoption barriers.

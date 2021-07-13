@@ -16,10 +16,10 @@ The research scope could be expanded to include performing comparative studies m
 To be generated via FindAR
 
 # Key Words
-Efficiency, handheld, projection AR, wearable displays, head-mounted displays, usability, user perception, human factors
+efficiency, handheld, projection AR, wearable displays, head-mounted displays, usability, user perception, human factors
 
 ## FindAR Terms
-using machine-assigned terms list
+head worn displays, wearable computers, 
 
 # Research Agenda Categories
 Display Devices, Business
