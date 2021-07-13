@@ -6,11 +6,7 @@ The AREA Research Agenda is published in order for researchers and research fund
 . Focus their future efforts on the topics most likely to result in rapid technology transfers from research to high impact commercial or community-based solutions serving their target audiences and/or
 . Contribute directly and indirectly to one or more overarching multi-project visions and/or research roadmaps.
 
-Those new to this Research Agenda may begin by examining the tables (or figures) in which topics are sorted:
-
-- Alphabetically by Title and Categories (the topics are rows and the categories are columns)
-- By novelty scores (FindAR similarity rating)
-- By Primary Category
+Those new to this Research Agenda should begin by examining the topics through sorting of rows in the table provided.
 
 Once in a research topic description, the user can follow links embedded in the text to other topics in this Research Agenda.
 
