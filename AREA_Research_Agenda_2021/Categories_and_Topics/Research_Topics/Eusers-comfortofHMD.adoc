@@ -37,7 +37,7 @@ This topic is potentially related to another proposed AREA Research Agenda topic
 
 
 # Miscellaneous Notes
-Interesting article regarding the design decisions of the HoloLens 1 to accomodate individual differences:
+Interesting article regarding the design decisions of the HoloLens 1 to accommodate individual differences:
 Kress, B. C., & Cummings, W. J. (2017, May). 11‐1: Invited paper: Towards the ultimate mixed reality experience: HoloLens display architecture choices. In SID symposium digest of technical papers (Vol. 48, No. 1, pp. 127-131).
 
 # Author
