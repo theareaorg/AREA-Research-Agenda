@@ -1,7 +1,9 @@
 
 [[ra-Imarine5-containertechnologies]]
 
-NOTE: Maybe change the assignment to Marine industry. Also could discuss the possibility of this topic being considered a "logistics" example.
+# Cargo Container Loading, Inspection and Management with AR 
+
+NOTE: Discuss the possibility of this topic being considered a "logistics" example.
 
 # Description
 Containers play an important role in the transportation of goods by sea and air. There are a variety of ways that AR can assist employees to track and manage containers on a vessel, airplane or in port. Where there are risks there are also opportunities. By having information about the status of containers, as well as the weight, shape and type of contents of containers in an AR-ready database, technicians can make better informed decisions.
@@ -17,10 +19,10 @@ Head mounted displays, handheld devices or stationary cameras can track loading 
 This research topic focuses on documenting use cases for enriching the interactions that AR-enabled technicians, on board, during loading and in port, can have and decisions they may make when receiving and using accurate and up-to-date information about containers and their contents. As the professionals move about within and around containers when loading, inspecting, maintaining or repairing commercial containers, they will be more productive, and security and safety policy compliance can increase.
 
 # Prior Research
-1
+To be determined by FindAR
 
 # Key Words
-Marine, logistics, shipping, freight, cold chain, commercial shipping, containers, tracking, ships, cargo airplanes, technicians, port operations, cargo loading, inspection, safety, security, stowage plan, loading order, weight distribution, track and trace, sensors, data fusion
+marine, logistics, shipping, freight, cold chain, commercial shipping, containers, tracking, ships, cargo airplanes, technicians, port operations, cargo loading, inspection, safety, security, stowage plan, loading order, weight distribution, track and trace, sensors, data fusion
 
 ## FindAR Terms
 cargo, marine, ships, buoyancy, ambient intelligence, mechatronics, internet of things
