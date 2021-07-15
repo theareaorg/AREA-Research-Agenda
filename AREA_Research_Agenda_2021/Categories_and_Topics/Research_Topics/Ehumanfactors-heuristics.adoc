@@ -39,6 +39,6 @@ in a variety of domains and industries to ensure robustness and generalized usef
 
 # Miscellaneous Notes
 Quiñones, D., Rusu, C., & Rusu, V. (2018). A methodology to develop usability/user experience heuristics. Computer standards & interfaces, 59, 109-129.
-
+https://www.sciencedirect.com/science/article/pii/S0920548917303860?casa_token=3VkTKDwrcK4AAAAA:1LFOpw5gArzFMU4jp3lEW-Z_hNIlPvMh7dRdgUEIABZ_mb0QHFLO4EtZ1kysG30yW3bfBnbdLw/[https://www.sciencedirect.com/science/article/pii/S0920548917303860?casa_token=3VkTKDwrcK4AAAAA:1LFOpw5gArzFMU4jp3lEW-Z_hNIlPvMh7dRdgUEIABZ_mb0QHFLO4EtZ1kysG30yW3bfBnbdLw]
 # Author
 ERAU Team

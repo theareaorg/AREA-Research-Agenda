@@ -38,6 +38,6 @@ This topic examines the overall issue of text input using AR experiences and int
 
 # Miscellaneous Notes
 Derby, J. L., Rarick, C. T., & Chaparro, B. S. (2019, November). Text Input Performance with a Mixed Reality Head-Mounted Display (HMD). In Proceedings of the Human Factors and Ergonomics Society Annual Meeting (Vol. 63, No. 1, pp. 1476-1480). Sage CA: Los Angeles, CA: SAGE Publications.
-
+https://journals.sagepub.com/doi/pdf/10.1177/1071181319631279/[https://journals.sagepub.com/doi/pdf/10.1177/1071181319631279]
 # Author
 ERAU Team
