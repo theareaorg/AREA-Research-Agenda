@@ -1,6 +1,6 @@
 [[ra-Iemergency5-thermalvision]]
 
-# Visualization of Temperature Sensor Data for Emergency Response
+# Visualization of Temperature Sensor Data in AR for Emergency Response
 
 # Description
 The use of thermal imaging data from handheld devices for identification of bodies in smoke-filled spaces has been in use to save lives for decades. This topic is not intended to study the use case. Several companies have successfully integrated the thermal imaging sensors into commercial PPE ("smart helmets") worn by emergency responders.
@@ -36,6 +36,7 @@ This topic can be combined with studies of other sensors that permit users to vi
 
 # Miscellaneous Notes
 This topic was the focus of work by students at EPFL (Switzerland) in 2015. The students working on this project https://actu.epfl.ch/news/augmented-reality-for-firefighters/[developed a thermal imaging smart visor] in 2016.
+
 There was also a http://fayez.me/papers/ICIP-2018-Paper.pdf[peer-reviewed journal paper] published by one of the EPFL faculty working on the above project in 2018.
 
 In 2019, Darix, the start-up that was created out of the EPFL research, https://actu.epfl.ch/news/ic-spinoff-darix-acquired-by-bullard/[was acquired by Bullard].
