@@ -3,9 +3,7 @@
 # Factors Influencing Perceptions of Presence in AR
 
 # Description
-Presence is a term used to describe the "feeling of being there" in an environment. It can be cognitive, in that the users' mind is engaged in the content, or it can be perceptual, in that the users' sensory systems perceive the digital assets to be "real."
-
-In VR, the user is immersed into a completely virtual world so presence is likely to be experienced if the content is successfully implemented. In AR, presence is represented by a seamless integration between the physical and virtual worlds.
+Presence is a term used to describe the "feeling of being there" in an environment. It can be cognitive, in that the users' mind is engaged in the content, or it can be perceptual, in that the users' sensory systems perceive the digital assets to be "real." In VR, the user is immersed into a completely virtual world so presence is likely to be experienced if the content is successfully implemented. In AR, presence is represented by a seamless integration between the physical and virtual worlds.
 
 In AR environments, users are exposed to digital assets in addition to their physical surroundings. If a user must switch their attention between the two to complete a task, the result can be disruptive and/or fatiguing due to the lack of presence. If the user can complete the task as if the digital assets are part of the physical world, the result is a seamless, productive experience including presence. It also is possible that lower fidelity serves as a distraction to the user which may result in breaks in immersion and a reminder of artificial nature of the virtual world. This could, in turn, impact their sense of presence. A practical example of this issue is with the use of avatars in collaborative environments. How is presence affected by the appearance and customization of the avatars? If a user pays attention to a particular feature or abnormality due to low fidelity rendering, it may impact their ability to perform the task at hand. Another example may be dynamic elements in the virtual world, such as a bouncing ball or a spinning tire. How distinguishable, in appearance and in behavior, the object is from its physical counterpart may influence the level of reported presence.
 
@@ -41,7 +39,7 @@ This topic is related to other proposed AREA Research Agenda topics on display t
 
 
 # Miscellaneous Notes
-A recently published article related to the amount of physical space in which AR application is 
+A recently published article related to the amount of physical space in which AR application is
 Shin, J. E., Kim, H., Parker, C., Kim, H. I., Oh, S., & Woo, W. (2019, October). Is Any Room Really OK? The Effect of Room Size and Furniture on Presence, Narrative Engagement, and Usability During a Space-Adaptive Augmented Reality Game. In 2019 IEEE International Symposium on Mixed and Augmented Reality (ISMAR) (pp. 135-144). IEEE.
 
 # Author

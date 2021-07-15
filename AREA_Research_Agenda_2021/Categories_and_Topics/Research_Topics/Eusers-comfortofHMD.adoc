@@ -1,11 +1,11 @@
 [[ra-Eusers-comfortofHMD]]
 
-# Understanding Individual Differences and the Impact of HMD Comfort on User Acceptance
+# Impact of Individual Differences and AR Display Comfort on User Acceptance
 
 # Description
-Mixed reality head mounted displays (HMDs) tend to be heavy, cumbersome to don and doff, and hot after extended periods of use. The extent to which this impacts user perceptions varies by individual due to different head sizes, head shape, visual acuity and accommodation, inter-pupillary distance, and the use of corrective lenses or safety glasses/safety helmets. While advances in the technology that accommodate wider ranges of humans are rapidly being deployed, industry adoption can be hampered by poor user acceptance due to general discomfort.
+Head mounted AR display devices are getting lighter and more comfortable, however, users may still perceive the weight on their necks, find the devices cumbersome to don and doff, and hot after extended periods of use.  Due to different head sizes, head shape, visual acuity and accommodation, inter-pupillary distance, and the use of corrective lenses or safety glasses/safety helmets, all effect user's comfort and ease of use. The impact of these factors on user acceptance of AR varies by individual. While advances in the technology that accommodate wider ranges of humans are rapidly being deployed, industry adoption can be hampered by poor user acceptance due to general discomfort.
 
-This research topic involves the examination of individual differences that contribute to user satisfaction and acceptance of a variety of HMD devices and enterprise applications.
+This research topic examines of impacts of individual differences contributing to user satisfaction and acceptance of a variety of HMD devices in the workplace.
 
 # Prior Research
 To be generated via FindAR
@@ -23,7 +23,7 @@ End Users and User Experience, Industries, Technology
 Developers, users, operators, users of AR head mounted displays (HMDs)
 
 # Reasons this topic is important for AREA members
-This topic is of interest to AREA members because it helps to understand the role of HMD comfort on user acceptance of AR in the workplace. It also contributes to our understanding of what factors/individual differences are still not addressed by the various HMD technologies.
+This topic is of interest to AREA members because user acceptance of new form factors in display technologies is critical to AR adoption. Since comfort is known to impact user acceptance of AR in the workplace, all obstacles need to be identified and accommodations made for individual preferences and features. Understanding individual differences also contributes to the understanding of OEM and designers about which differences remain to be addressed by the various HMD technologies.
 
 # Possible Methodologies
 Comfort can be measured both objectively and subjectively. Objective measures include pupil diameter to assess workload or cognitive effort, EEG, and GSR. Subjective measures include Likert scales querying perceived comfort, exertion (i.e., Borg Scale or Perceived Exertion), assessments of HMD weight, thermal comfort, and acceptable length of use, and general acceptance.
