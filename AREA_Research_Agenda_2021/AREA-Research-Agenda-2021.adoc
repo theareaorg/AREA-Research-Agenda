@@ -71,7 +71,7 @@ toc::[]
 
 <<<
 
-include::clause_0_front_material.adoc[]
+////include::clause_0_front_material.adoc[]
 
 include::clause_1_introduction.adoc[]
 
@@ -114,3 +114,5 @@ include::clause_6_looking_ahead.adoc[]
 ////include::annex-glossary.adoc[]
 
 ////include::annex-bibliography.adoc[]
+
+////include::Categories_and_Topics/Research_Topics/BIntegration3-ar2plm.adoc[]

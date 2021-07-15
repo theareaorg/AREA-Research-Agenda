@@ -1,4 +1,35 @@
 [[ra-research-topics-section]]
 
 === Overview
+<<<<<<< Updated upstream
 All AREA Research Agenda topics are listed in the table below. In the Web page for the Research Agenda, the column headings can be used to sort the topics. Once a topic of interest is identified, it can be reached with one click on the topic title.
+=======
+To support a rapid use and navigation, the AREA Research Agenda topic are sorted in three ways:
+
+- Alphabetically by Title and Categories (the topics are rows and the categories are columns)
+- By novelty scores (FindAR similarity rating)
+- By Primary Category
+
+In all the tables, every topic can be reached with one click on the topic title.
+
+[[ra-research-topics-table,Table {counter:table-num}]]
+.Research Topics of the AREA Research Agenda 2021
+[cols="5,2,2",options="headers"]
+|===
+^|*Research Topic* ^|*Primary Category* ^|*Novelty Score*
+|<<SIntegration3-ar2plm#,*Systems Integration between PLM Systems and AR*>> |Business| 0.0
+|<<Bintegration5-connectedtools#,*Visualization of Data About or From Tools in AR Display*>> |Business| 0.0
+|<<Bintegration5-findingpartsinproximity#,*Material Management and/or Supply Chain Flow with Work Orders*>> |Business| 0.0
+|<<BIntegration5-meshnetwork#,*Dynamic Distribution of Sensing and Processing Capacity via a Network of Body-Worn Resources*>> |Business| 0.0
+|<<Bperformance5-formfactors#,*Wearable vs Handheld vs Projection: Methods for Quantifying the Impact of AR Modality on Manual Procedures*>> |Business| 0.0
+|<<Bpolicy5-MultidimensionalPovertyIndex#,*Impact of AR Delivery on People Living in Multidimensional Poverty*>> |Business| 0.0
+|<<Ddisplaytechnology5-videovsopticalsee-through#,*Video Passthrough vs. See-through Optics: Impacts of Display Technology on Peripheral Vision*>> |Display| 0.0
+|<<Denergy5-charging#,*New Power Sources for Wearable AR Displays*>> |Display| 0.0
+|<<Denergy5-dspsforlowpower#,*Low Power Digital Signal Processors for Use in AR Display Devices*>> |Display| 0.0
+|<<Ehuman-computerinteraction5-biofeedback#,*AR Visualization of Body Sensors for Worker Biofeedback*>> |End Users| 0.0
+|<<Ehumanfactors-heuristics#,*Development of Heuristics to Assess AR Application Design and Usability*>> |End Users| 0.0
+|<<Ehumanfactors5-visualencoding#,*Impact of Spatial Vision on Visual Encoding and Memory Anchoring*>> |End Users| 0.0
+|<<Einput-textinput#,*Text Input with AR Head Mounted Displays (HMDs)*>> |End Users| 0.0
+
+|===
+>>>>>>> Stashed changes
