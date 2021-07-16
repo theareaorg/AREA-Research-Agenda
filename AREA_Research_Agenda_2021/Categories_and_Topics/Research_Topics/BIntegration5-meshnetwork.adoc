@@ -1,6 +1,6 @@
 [[ra-BIntegration5-meshnetwork]]
 
-# Dynamic Distribution of Sensing and Processing Capacity via a Network of Body-Worn Resources
+# Dynamic Distribution of Sensing and Processing Capacity via Body-Area Networks
 
 # Description
 Deploying enterprise AR solutions via head-mounted displays is inherently advantageous when simultaneous use of both hands is required. However, currently HMD performance is limited due to technological constraints, such as battery life or heat dissipation needs. One solution is to offload and distribute sensing and processing functions dynamically across other devices worn by the user (smartwatches, exoskeletons, sensing devices etc.) to a network of external but body-worn (wearable) devices and resources.
