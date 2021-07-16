@@ -18,7 +18,7 @@ text entry, text editing, virtual keyboard, trace input
 ## FindAR Terms
 user experience, sensory perception, text analysis, gesture recognition, keyboards, speech-based user interfaces
 
-## Research Agenda Categories
+# Research Agenda Categories
 End Users and User Experience, Display Devices, Technology
 
 # Stakeholders

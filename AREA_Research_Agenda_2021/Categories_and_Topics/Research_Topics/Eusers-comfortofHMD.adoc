@@ -16,7 +16,7 @@ comfort, eye strain, fatigue, simulation sickness, heat tolerance, headgear weig
 ## FindAR Terms
 subjective testing, behavioral research, thermal comfort, environmental factors, comfort
 
-## Research Agenda Categories
+# Research Agenda Categories
 End Users and User Experience, Industries, Technology
 
 # Stakeholders

@@ -1,4 +1,3 @@
-
 [[ra-Bperformance5-formfactors]]
 
 # Wearable vs Handheld vs Projection: Methods for Quantifying the Impact of AR Modality
@@ -19,7 +18,7 @@ To be generated via FindAR
 efficiency, handheld, projection AR, wearable displays, head-mounted displays, usability, user perception, human factors
 
 ## FindAR Terms
-head worn displays, wearable computers, 
+head worn displays, wearable computers,
 
 # Research Agenda Categories
 Display Devices, Business

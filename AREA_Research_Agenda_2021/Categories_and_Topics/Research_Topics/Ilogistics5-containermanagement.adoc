@@ -1,9 +1,7 @@
 
-[[ra-Imarine5-containertechnologies]]
+[[ra-Ilogistics5-containertechnologies]]
 
-# Cargo Container Loading, Inspection and Management with AR 
-
-NOTE: Discuss the possibility of this topic being considered a "logistics" example.
+# Cargo Container Loading, Inspection and Management with AR
 
 # Description
 Containers play an important role in the transportation of goods by sea and air. There are a variety of ways that AR can assist employees to track and manage containers on a vessel, airplane or in port. Where there are risks there are also opportunities. By having information about the status of containers, as well as the weight, shape and type of contents of containers in an AR-ready database, technicians can make better informed decisions.

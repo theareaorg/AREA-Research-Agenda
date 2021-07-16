@@ -12,7 +12,7 @@ This research topic is a concrete example of a more fundamental research topic: 
 1
 
 # Key Words
-Sensors, Human Factors, Environment, Oil and Gas, Chemical, Power and Energy, radiation, hazardous materials, radioactivity, explosives, chemical hazards,
+sensors, human factors, environment, oil and gas, chemical, power and energy, radiation, hazardous materials, radioactivity, explosives, chemical hazards,
 
 ## FindAR Terms
 volatile organic compounds, hazardous materials, aromatic compounds, gases, hydrocarbons, indicators (chemical), radioactivity, chemical hazards, chemical detection, gas sensors

@@ -18,7 +18,7 @@ usability, user experience, heuristics, best practices
 ## FindAR Terms
 product design, software design, user centered design, design, hci design and evaluation methods
 
-## Research Agenda Categories
+# Research Agenda Categories
 End Users and User Experience, Industries, Technology
 
 # Stakeholders
