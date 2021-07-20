@@ -1,10 +1,8 @@
 === Groups of Research Topics
 
-In this section, groups used in the literature classification for the FindAR tool, are defined.
+In order to support users in the study and prioritization of research topics included in the FindAR tool, the Research project team clustered the topics into 63 groups.
 
-==== Definitions
-
-The groups of research topics for the 2021 edition of the Research Agenda are defined in the table below.
+The groups of research topics for the 2021 edition of the FindAR tool and AREA Research Agenda are defined in the table below.
 
 [[ra-research-category-table,Table {counter:table-num}]]
 .Research Categories of the AREA Research Agenda 2021

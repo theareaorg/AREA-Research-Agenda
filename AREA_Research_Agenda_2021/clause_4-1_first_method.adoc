@@ -1,7 +1,7 @@
 [[ra-first-method-section]]
 
 === Meta-Analysis of Related Work
-Since there is insufficient guidance in the research community and from other public resources, the AREA Research Committee developed this methodology as part of the 8th AREA Research Project. The Research Committee will adapt the process and update this section in subsequent editions.
+Since there is insufficient guidance in the research community and from other public resources for how to define and prioritize future research topics, the AREA Research Committee developed this methodology as part of the 8th AREA Research Project. The Research Committee will adapt the process and update this section in subsequent editions.
 
 ////Footnote testfootnote:[The double hail-and-rainbow level makes my toes tingle.]
 
@@ -13,17 +13,17 @@ Since there is insufficient guidance in the research community and from other pu
 [caption="Figure 1: "]
 image::figures/overall_methodology.png[Methodology,800,400]
 
-*Investigating prior published works related to industrial AR*
+*Prior Published Works Relevant to Enterprise AR*
 
-To assemble a research agenda, it is first necessary to properly capture the status quo of on-going and past research across academia and industry.  A key challenge is building a holistic landscape of industrial research activities.  In other words, trends in research and development across industry are difficult to asses with minimal bias since a company's publishing on their latest developments directly conflicts with their competitive advantage.  On the other hand, academic efforts are much easier to track since AR methods and technology developments are reported through academic venues, such as journals and conference proceedings. As a result, we only consider academic work for baselining the current research landscape for industrial AR.
+To assemble a research agenda, it is first necessary to properly capture the status quo of on-going and past research across academia and industry. A key challenge is building a holistic landscape of industrial research activities. In other words, trends in research and development across industry are difficult to asses with minimal bias since a company's publishing on their latest developments directly conflicts with their competitive advantage. On the other hand, academic efforts are much easier to track since AR methods and technology developments are reported through academic venues, such as journals and conference proceedings. As a result, we only consider academic work for baselining the current research landscape for industrial AR.
 
-*Developing a systems boundary for what to consider in academic publications*
+*Developing a Systems Boundary*
 
-As shown in <<img-methodology, Figure 1-1>>, we leverage a well-known technical document search tool, called Engineering Village.  Engineering Village covers "high-quality, relevant and cross-disciplinary content, enabling engineers and researchers to perform thorough and effective literature reviews, analyze the research landscape, and solve problems" cite:[engineeringVillageSite].  For our initial search, we consider journal publications and conference proceedings and exclude standards, patents, books, and engineering dissertations.  We restricted our initial database of work to the last 5 years, i.e., 2017--2021.  If "augmented reality" appeared in any metadata fields, e.g., abstract, keywords, and title, we store records of metadata, including but not limited to a DOI, abstract, set of keywords, publication year, and venue, related to each returned publication.
+As shown in <<img-methodology, Figure 1-1>>, we leverage a well-known technical document search tool, called Engineering Village. Engineering Village covers "high-quality, relevant and cross-disciplinary content, enabling engineers and researchers to perform thorough and effective literature reviews, analyze the research landscape, and solve problems" cite:[engineeringVillageSite]. For our initial search, we considered journal publications and conference proceedings and excluded standards, patents, books, and engineering dissertations. We restricted our database of work to the period beginning in January 2017 and include any works available up to June 2021.  If "augmented reality" appeared in any metadata fields, e.g., abstract, keywords, and title, we store records of metadata, including but not limited to a DOI, abstract, set of keywords, publication year, and venue, related to each returned publication.
 
-*Aligning differences in underlying publication indexing services*
+*Aligning Publication Indexing Services*
 
-Engineering Village leverages existing publication indexing services, most notably Inspec and Compandex.  In the field of Augmented Reality, Inspec and Compandex are by the far the biggest contributors to the publication database.  To align these two databases, we had to adopt a data-driven methodology.
+Engineering Village leverages existing publication indexing services, most notably Inspec and Compandex. In the field of Augmented Reality, Inspec and Compandex are by the far the biggest contributors to the publication database. To align these two databases, we had to adopt a data-driven methodology.
 
 Engineering Village offers three columns of keyword types, including "controlled/subject terms," "uncontrolled terms," and "classification code." We chose to leverage "controlled/subject terms" as the ground truth keywords for the rest of our analysis, since the terms adhere to a term taxonomy defined by the two indexing services (unlike "uncontrolled terms") yet exhibit low-level specificity to delineated critical topics (unlike "classification code").
 

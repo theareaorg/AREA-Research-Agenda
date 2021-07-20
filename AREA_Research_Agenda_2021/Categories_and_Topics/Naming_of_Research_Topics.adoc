@@ -1,8 +1,8 @@
 ==== Naming Convention and Use of Anchors in the Research Agenda
 
-Each research topic is assigned an anchor (enclosed in double brackets). The topic anchor (between double brackets in the list below) will be used to link the title of the topic to a page or a box (in PDF) on or in which additional details compiled in the manner below will appear. The topic titles will be grouped in figures.
+Each AREA Research Agenda topic is described in a separate page. Each page is assigned an anchor (enclosed in double brackets). The topic description's anchor (between double brackets in the list below) is used to link the title of the topic to a page or a box (in PDF) in which additional details compiled in the manner below will appear.
 
-The first letter of the topic's code will be a capital letter (based on the category in which the topic will contribute):
+The first letter of the topic's code is a capital letter (based on the primary category in which the topic will contribute):
 T= Technology
 D= Displays
 I= Industries
@@ -11,8 +11,8 @@ B= Business
 S= Standards
 U= Use Cases
 
-Following the category, there will be lower case letters signifying the group to which the topic belongs.
+Following the category, there are lower case letters signifying the group to which the topic belongs.
 
 These letters will be followed by a number between 1 and 5, where 1=lowest urgency and 5=highest urgency/potential for impact as assigned by the 8th Research Project team.
 
-Finally, the most important word of the topic's title will be part of the topic name.
+Finally, the most important word of the topic's anchor will be part of the topic name. This is a few words taken from the the topic title.

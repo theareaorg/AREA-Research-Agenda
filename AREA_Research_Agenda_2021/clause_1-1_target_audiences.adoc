@@ -2,4 +2,7 @@
 
 === Target Audiences
 
-The target audiences of the AREA Research Agenda are decision makers that are (or will) conduct and/or fund basic and applied research on topics of value to AR in a range of industries and non-commercial entities, and any research organization (in government, academia and private or public sector) which wants to prioritize projects on the basis of enterprise customer requirements.
+The target audiences of the AREA Research Agenda 2021 are decision makers that are (or will):
+
+.  Conduct and/or fund basic and applied research on topics of value to AR in a range of industries and non-commercial entities, and
+. any research organization (in government, academia and private or public sector) which wants to prioritize projects it supports on the basis of enterprise customer requirements.

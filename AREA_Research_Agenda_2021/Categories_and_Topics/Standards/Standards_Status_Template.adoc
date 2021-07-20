@@ -1,0 +1,34 @@
+[[ra-Sxxxxx-xxxxxxxxxxxx]]
+
+# [Spelled out Name of SDO]
+
+# Overview
+This section describes the origins, the community of the SDO, the history and any other relevant information that may assist decision makers.
+
+# Achievements to Date
+Text
+
+.Existing Standards
+[cols="4",options="headers"]
+|===
+^|*Number and Name* ^|*Scope/Relevance for Enterprise AR* ^|*Date Ratified* ^|*Status*
+| first |relevance | date ratified |status
+| second |relevance | date ratified |status
+
+|===
+
+# Currently Under Development
+text
+
+.Emerging Standards
+[cols="4",options="headers"]
+|===
+^|*Number and Name* ^|*Scope/Relevance for Enterprise AR* ^|*Date Begun* ^|*Status*
+| first |relevance | date of approval |status
+| second |relevance | date of approval |status
+|===
+# Date this Information Reviewed and/or Updated
+Date
+
+# Author
+First Name Last Name

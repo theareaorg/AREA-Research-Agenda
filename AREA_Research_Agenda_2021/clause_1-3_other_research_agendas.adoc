@@ -4,7 +4,7 @@ NOTE: Needs to be cleaned up. Bill will help to make the sources cited in this s
 
 Research agendas differ widely in their methodologies, target audiences, scope, depth and the length of time they seek to address or influence.
 
-This section compiles research agendas, related tools and resources which can offer perspectives and insights for those developing policies which will impact AR and funding AR research.
+This section compiles research agendas, related tools and resources identified in the preparation of this resource. They are included to offer perspectives and insights for those developing policies which will impact AR and funding AR research.
 
 2021 April: Ecorys partnered with the XR Association and released the https://xreuropepotential.com/assets/pdf/ecorys-xr-2021-report.pdf[XR in Europe 2021 Report] which includes an assessment of XR developments by region of Europe. It also highlights gaps and areas in need of greater investment.
 
@@ -17,7 +17,6 @@ This section compiles research agendas, related tools and resources which can of
 2017 Oct: 	https://ec.europa.eu/growth/tools-databases/dem/monitor/content/augmented-and-virtual-reality[Digital Transformation Monitor: Augmented and Virtual Reality] Report prepared by the consortium composed of PwC, CARSA, IDATE and ESN under the 		contract Digital Entrepreneurship Monitor (EASME/COSME/2014/004)
 
 2017 May:	https://ec.europa.eu/futurium/en/system/files/ged/vr_ecosystem_eu_report_0.pdf[Virtual reality and its potential for Europe] ECORYS report
-
 
 === European Union
 This report, entitled https://www.standict.eu/sites/default/files/2021-02/McKinsey%20report.pdf[Shaping the Digital Transformation in Europe] (published Sept 2020, prepared by McKinsey & Company), outlines nine actions that set a high bar and that directly address the four objectives for Europe’s digital transformation.

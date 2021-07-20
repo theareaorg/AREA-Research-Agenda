@@ -10,21 +10,30 @@ the AR for Enterprise Alliance, the AREA, AREA Research Committee, AREA Research
 
 [big]*iii.   Preface*
 
-[NOTE]
-====
-Insert Preface Text here. Describe the technical content, reason for document, history of the document and precursors, and plans for future work.
+Members of the https://thearea.org/area-research/[Research Committee of the AR for Enterprise Alliance (AREA)] are uniquely positioned to detect industry needs and identify gaps in prior research. The AREA Research Agenda 2021 edition is the first ever resource of its nature. It is the result of a concerted, team effort to systematically and quantitatively document the gaps to date and, based on those, to recommend topics for future research deemed valuable to the enterprise AR ecosystem.
+
 Attention is drawn to the fact that this document is a work in progress. The AR for Enterprise Alliance shall not be held responsible for risks taken as a result of the information contained in this document.
 
 Recipients of this document are requested to submit, with their comments, notification of any relevant corrections, additions and feedback which they recommend be made in future editions of this document, and to provide supporting documentation.
-====
-[big]*iv.    Attribution (copyright?)*
 
-This document is the property of the AR for Enterprise Alliance (AREA).
+[big]*iv.    Attribution (copyright)*
 
-[big]*v.     Submitters*
+This document is the property of the AR for Enterprise Alliance (AREA). Any use of this document must correctly and explicitly cite the AREA as the source.
 
-The following organizations submitted this document to the AREA as part of the fulfilment of deliverables for the 8th AREA-directed Research Project:
+[big]*v.     Contributors*
 
-Affiliation
+The individuals in the table below contributed to development of this resource for the AREA and the enteprise AR ecosystem as part of the fulfilment of deliverables for the 8th AREA-directed Research Project.
 
-All questions regarding this submission should be directed to the editor or the submitters.
+.The AREA Research Agenda 2021 Team Members
+[cols="2,6",options="headers"]
+|===
+^|*Name* ^|*Organization*
+|mailto:Barbara.chaparro@erau.edu[Barbara Chapparo] | Embry Riddle Aeronautical University
+|mailto:cperey@perey.com[Christine Perey] | PEREY Research & Consulting
+|mailto:DERBYJ1@my.erau.edu[Jessyca Derby] | Embry Riddle Aeronautical University
+|mailto:jenniferwolfrogers@gmail.com[Jennifer Rogers] | Independent
+|mailto:mail@peterorban.com[Peter Orban] | Lenovo
+|mailto:william.bernstein@nist.gov[William Bernstein] | NIST
+
+|===
+All questions regarding this resource should be directed to the Chair of the AREA Research Committee, mailto:cperey@perey.com[Christine Perey].
