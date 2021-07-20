@@ -1,6 +1,6 @@
 [[ra-Tauthentication5-biometric]]
 
-# Biometric identification of Wearable Enterprise AR device users
+# Biometric Identification of Wearable Enterprise AR Device Users
 
 # Description
 New AR display devices encounter significant resistance from enterprise IT teams who consider the new hardware platforms increase security threats, consequently, increasing the need for an elevated security posture.

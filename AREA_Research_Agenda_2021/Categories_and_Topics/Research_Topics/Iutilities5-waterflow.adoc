@@ -5,7 +5,7 @@
 # Description
 Most municipal water supply pipe networks require a manual operation of various control units in case of scheduled maintenance or an emergency. Crews operating gate valves to isolate sections of the network greatly benefit from updated information on the flow and quality of the water in these sections.
 
-This research topic includes a field test of handheld or wearable devices capable of visualizing water flow and water quality  the data received from the control center. It also could be connected to the control room, or substations, where there are multiple water pipes and sensor stations to view.
+This research topic includes a field test of handheld or wearable devices to aid technicians in the field to visualize water flow and water quality data received from the control center. The user's device also could be connected to the control room, or substations, where there are multiple water pipes and sensor stations to view. The scope of the research could include the visualization of interfaces for gate valves and other equipment in the field.
 
 # Prior Research
 To be generated via FindAR
@@ -35,7 +35,7 @@ Medium
 Leakage and issues with obstructed pipes are not unique to utilities. The research techniques developed for this topic can be adapted for use in other industries where resources are sent using linear assets and infrastructure. The research platform could be commercialized into products or services to increase safety, reduce waste and optimize operations of infrastructure.
 
 # Miscellaneous Notes
-
+None
 
 # Authors
 Peter Orban, Christine Perey

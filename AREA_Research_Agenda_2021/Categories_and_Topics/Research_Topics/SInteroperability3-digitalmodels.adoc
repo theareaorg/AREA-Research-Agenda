@@ -27,7 +27,7 @@ Standards, Technology, Industries
 OEM manufacturers, integrated solution and software developers, CAD/CAM providers, engineering design teams
 
 # Reasons this topic is important for AREA members
-Lots of development time and efforts is spent in model translation. If better tools existed for translating native models into AR-ready representations, industrial end-users would benefit directly. The strong design and manufacturing focus of the AREA sit at the center of this potential research area's benefits.
+Translations of 3D models consumes significant time and resources. If better tools existed for translating native models into AR-ready representations, industrial end-users would benefit directly. The strong design and manufacturing focus of the AREA sit at the center of this potential research area's benefits.
 
 # Possible Methodologies
 Existing model translators and standard data representations provide a strong starting point for investigation. Focusing on handling PMI and properly spatially anchoring them in the tessellated model would be a good choice for an initial project.
@@ -39,6 +39,7 @@ Short-term
 This topic would directly benefit construction and manufacturing industries.  Luckily, lots of the existing domain-specific standards cut across these two industries. Working together to develop application domain extensions for AR standards would be a good first step.  This research topic significantly overlaps with https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/Categories_and_Topics/Research_Topics/BIntegration3-ar2plm.adoc[the AR to PLM research topic].  There are distinct in that this research topic is specific to the manufacturing industry.  The other research topic relates to developing a standard data model for ingesting PLM data, such as sustainment data for maintaining digital twins.
 
 # Miscellaneous Notes
+[BB:can you please insert these links into sentences?]
 * https://www.cax-if.org/[https://www.cax-if.org/]
 * https://www.khronos.org/gltf/[https://www.khronos.org/gltf/]
 * https://www.asme.org/topics-resources/content/y14-standards-overview[https://www.asme.org/topics-resources/content/y14-standards-overview]

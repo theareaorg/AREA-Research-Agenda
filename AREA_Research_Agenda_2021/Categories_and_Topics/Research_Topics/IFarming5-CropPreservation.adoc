@@ -24,20 +24,20 @@ United Nations, Sustainable Development Goals, sustainability, policy, education
 social aspects, social and economic effects
 
 # Research Agenda Categories
-Business, End Users, Industry, Policy
+Business, End Users, Industry
 
 # Stakeholders
-Government officials and policymakers in World Bank Group and UN nations, Social Performance/Impact executives in large, global organizations, particularly those with a large social license to operate, Sustainability/innovation groups in large corporations, Agriculture executives and sales teams
+Government officials and policymakers in World Bank Group and UN nations, social performance and impact executives in large, global organizations, particularly those with a large social license to operate, sustainability/innovation groups in large corporations, executives and sales teams in agriculture
 
 # Reasons this topic is important for AREA members
-Food security and crop preservation are important sustainability issues that ultimately contribute to the health of our global economy. AR would provide a vital channel with which to establish a vibrant ecosystem positioned to support and connect rural farmers across the world. Large impact can be made by utilizing existing soil/plant photography databases and AI-driven, AR-facilitated guidance, as well as incorporation of IoT data pertaining to water availability, as many food-insecure nations experience hardship associated with frequent drought. 
+Food security and crop preservation are important sustainability issues that ultimately contribute to the health of our global economy. AR can provide a vital channel with which to establish a vibrant ecosystem positioned to support and connect rural farmers across the world. Large impact can be made by utilizing existing soil/plant photography databases and AI-driven, AR-facilitated guidance, as well as incorporation of IoT data pertaining to water availability, as many food-insecure nations experience hardship associated with frequent drought.
 
-Because AR is a unique delivery format that is highly conducive to providing increased accessibility for remote, rural farmers and lowers traditional barriers associated with varying literacy levels, etc., introduction of the technology opens up a myriad of possibilities with regards to establishing vital ecosystems. There is likely to be substantial interest within local governments as well as amongst corporate entities supporting the UN 2030 Sustainable Development Goals. There is also great potential for interest amongst providers within the broader agriculture value chain.
+Because AR is a unique delivery format that is highly conducive to providing increased accessibility for remote, rural farmers and lowers traditional barriers associated with varying literacy levels, etc. Introduction of AR opens up a myriad of possibilities with regards to establishing and expanding markets. There is likely to be substantial interest within local governments as well as amongst corporate entities supporting the UN 2030 Sustainable Development Goals. There is also great potential for interest amongst providers within the broader agriculture value chain.
 
 # Possible Methodologies
-The proposed research would need to enroll and engage rural farmers in food-insecure areas, preferably those in which there is active remote operating of current crop conditions (e.g. retired mine site, etc.), as well as locate existing photo libraries for local plant and soil conditions (GitHub).
+The proposed research would need to enroll and engage rural farmers in food-insecure areas, preferably those in which there agriculture is practiced in remote locations at risk (e.g. retired mine site, etc.). The research would also need to develop or expand and leverage databases of photos for local plant and soil conditions.
 
-Rural farmers would need to be onboarded into the technology and potential ecosystem partners (e.g. water, fertilizer, etc.) would need to be identified. The principal investigator would develop partnerships with a host corporation and community. Research would include IoT data pre- and post- introduction of AR intervention via A/B trial scenarios, potentially with a few different levels of AR intervention. Then researchers would collect data about post-intervention behaviors and crop status.
+Rural farmers would need to be onboarded into technology pilots and potential ecosystem partners (e.g. water, fertilizer, etc.) would need to be identified. The principal investigator would develop partnerships with a host corporation and community. Research would include IoT data pre- and post- introduction of AR intervention via A/B trial scenarios, potentially with a few different levels of AR intervention. Then researchers would collect data about post-intervention behaviors and crop status.
 
 Post-study outcomes could be analyzed and recommendations developed for future implementation.
 

@@ -29,21 +29,16 @@ Operational excellence professionals, chief operating officers, board of directo
 Automation introduces new workforce compositions and behaviors and, in order to adapt, organizations will need to deploy augmented support for humans in the workforce that encourages higher-level cognitive processes and decision making, in partnership with automated technology and data at the worksite. As data analysis and technological literacy varies greatly among operational workforces globally, some degree of intervention and support will be necessary to ensure that productivity and safety targets are achieved in a new age of work. AR is uniquely positioned to deliver this guidance and development to the workforce in the "flow of work", as it does not require hand-held or mounted displays that compromise safety and efficiency by directing human hands and eyes away from the production cycle itself.+
 
 # Possible Methodologies
-The proposed research would need to identify operational processes for which operational parameters/thresholds have been defined and IoT data is available. +
-Research would include current % of time operational process performs outside of appropriate limits/thresholds and introduction of AR data presentation, analysis, and intervention via A/B trial scenarios, potentially with a few different levels of AR intervention. Observe post-intervention data. +
-Post-study operational process optimization time could be calculated and recommendations developed for future implementation. +
+The proposed research would need to identify operational processes for which operational parameters/thresholds have been defined and IoT data is available. Research would include current % of time operational process performs outside of appropriate limits/thresholds and introduction of AR data presentation, analysis, and intervention via A/B trial scenarios, potentially with a few different levels of AR intervention. Observe post-intervention data. Post-study operational process optimization time could be calculated and recommendations developed for future implementation.
 
 # Expected Impact Timeframe
 Near
 
 # Research Program
-This study could link closely with existing research programs associated with metals and mining, oil and gas, aerospace, manufacturing, and operational excellence in general.
+This study could be combined with existing research programs associated with metals and mining, oil and gas, aerospace, manufacturing, and operational excellence in general.
 
 # Miscellaneous Notes
-References related to automation and necessary upskilling:
-https://www.mckinsey.com/featured-insights/future-of-work/skill-shift-automation-and-the-future-of-the-workforce +
-References related to guidance and learning "in the flow of work":
-https://www2.deloitte.com/us/en/insights/focus/technology-and-the-future-of-work/reskilling-the-workforce.html +
+There are valuable references related to automation and necessary upskilling contained in https://www.mckinsey.com/featured-insights/future-of-work/skill-shift-automation-and-the-future-of-the-workforce[this report published by McKinsey.] https://www2.deloitte.com/us/en/insights/focus/technology-and-the-future-of-work/reskilling-the-workforce.html[This report published by Deloitte] focuses on guidance and learning "in the flow of work."
 
 # Author
 Jennifer Rogers

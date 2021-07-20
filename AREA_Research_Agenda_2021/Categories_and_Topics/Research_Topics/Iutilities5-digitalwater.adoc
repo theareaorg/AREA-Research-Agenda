@@ -1,21 +1,19 @@
 [[ra-Iutilities5-digitalwater]]
 
-# Reconciling Discrepancies between Documented and Actual Locations of Water Pipeline Networks via HMDs
+# Reconciling Discrepancies between Documented and Actual Locations of Pipeline Networks
 
 # Description
-Municipal water systems can be major beneficiaries of Digital Water Services: a combination of source monitoring, production and quality management, leak detection, water balance and network monitoring/modeling and process control. In order to be able to deploy these services, the first step is to create a digital representation of the pipeline network. However, documentation of pipeline networks are not always kept up-to-date, or precise enough, therefore, said documentation must be validated or corrected by physical, on-site measurement and documentation.
+Municipal water systems can be major beneficiaries of Digital Water Services: a combination of source monitoring, production and quality management, leak detection, water balance and network monitoring/modeling and process control. In order to be able to deploy these services at large scale and low cost, the first step is to create a digital representation of the pipeline network. However, documentation of pipeline networks are not always kept up-to-date, or sufficiently precise, therefore, said documentation must be validated or corrected by physical, on-site measurement and documentation.
 
-Largely a manual process of measurement and photographic documentation, this first step represents significant time and human resource investment and is prone to errors.
+Largely a manual process of measurement and photographic documentation, this first step represents significant time and human resource investment and is prone to errors. Head-mounted AR displays equipped with camera systems, SLAM (TOFL/LiDAR) and GPS sensors could speed up the process of documenting pipeline networks by performing volumetric capture of the exposed water network assets and interpolating the underground portions. Using the latest camera technologies on AR devices can validate geographic and dimensional data while eliminating or reducing errors.
 
-Head-mounted AR displays equipped with camera systems, SLAM (TOFL/LiDAR) and GPS sensors could speed up this process by performing volumetric capture of the exposed water network assets, interpolating the underground portions. This can validate geographic and dimensional data while eliminating or reducing errors.
-
-This research explores the use of AR devices mounted with different camera and SLAM sensory systems using manual measurements as a baseline.
+This research explores the use of AR devices mounted with different camera and SLAM sensory systems using manual measurements as a baseline. The focus is not on end users but on the rapid and accurate capture of data about existing infrastructure.
 
 # Prior Research
 To be generated via FindAR
 
 # Key Words
-Volumetric capture, utility asset management, digital water services, predictive water sources management
+volumetric capture, utility asset management, digital water services, predictive water sources management
 
 ## FindAR Terms
 water supply, water treatment, well stimulation, well testing
@@ -27,10 +25,10 @@ Industry, Technology, Use Cases
 This research will be valuable to the operators of municipal water systems, waste management systems and the IT managers, field work force, and partners performing maintenance and repairs of utilities infrastructure.
 
 # Reasons this topic is important for AREA members
-Some AREA members build, operate and manage large public and private infrastructure for clean and waste water. Systemic loss in water networks ranges from 20-90% (globally). Improving the digital representation of these systems with accurate and automatic measurement technologies will reduce loss and create a more sustainable water management system.
+Some AREA members build, operate and manage large public and private infrastructure for clean and waste water. Systemic loss in water networks ranges from 20-90% (globally). Improving the digital representation of these systems with accurate and automatic measurement technologies will reduce costs of measurement and over time, resource loss, and create a more sustainable water management system.
 
 # Possible Methodologies
-Initial lab testing of various volumetric capture solutions will evaluate candidate solutions, followed by in-field  test comparing said solutions with  physical ground truth. This will be supported by test of various data extraction methodologies.
+Initial lab testing of various volumetric capture solutions will evaluate candidate solutions, followed by in-field test comparing said solutions with physical ground truth. This will be supported by test of various data extraction methodologies. 
 
 # Expected Impact Timeframe
 Medium

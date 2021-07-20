@@ -17,7 +17,7 @@ The scope of this research straddles two fields that are not easily combined. Th
 To be generated via FindAR
 
 # Key Words
-Sanitation, clean equipment, access control, user authentication, authorization, biometric, safe display cleaning,
+sanitation, clean equipment, access control, user authentication, authorization, biometric, safe display cleaning,
 
 ## FindAR Terms
 safety, sanitation, access control, data protection, security systems,  authentication, message authentication, authorization

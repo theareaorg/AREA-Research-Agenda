@@ -37,12 +37,12 @@ Near
 This study could link closely with existing research programs associated with remote operations support and decision-making, as well as any programs around business impact and measures. Additionally, it is a fantastic candidate for studies looking at the utilization of Artificial Intelligence/Machine Learning and AI.
 
 # Miscellaneous Notes
-References related to risk appetite matrices:
+References related to risk appetite matrices include:
 https://www.good-governance.org.uk/services/risk-appetite-for-nhs-organisations-a-matrix-to-support-better-risk-sensitivity-in-decision-taking/ +
 http://broadleaf.com.au/resource-material/risk-appetite-is-using-this-concept-worth-the-risk/ +
 https://ppl.app.uq.edu.au/content/1.80.01-enterprise-risk-management +
 https://www.ior-institute.org/wp-content/uploads/2018/11/20180905-Developing-and-Implementing-Effective-OpRisk-Appetite-Framework.pdf +
-References related to HSE scorecard metrics:
+References related to HSE scorecard metrics include:
 http://www.csb.gov/userfiles/file/mackenzie%20presentation.pdf +
 https://bscdesigner.com/safety-kpis.htm +
 https://www.levitt-safety.com/blog/trif-trir-and-dart-whats-the-difference-and-why-do-they-matter/#:~:text=TRIR%20stands%20for%20Total%20Recordable,effectiveness%20of%20safety%20programs%2C%20and +

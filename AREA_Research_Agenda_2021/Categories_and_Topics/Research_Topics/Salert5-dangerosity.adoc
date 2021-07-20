@@ -12,7 +12,7 @@ This research topic will extend the user experiences that are currently provided
 1
 
 # Key Words
-Safety, risk, automated alert, standards, situational awareness, sensors for risk detection, artificial intelligence
+safety, risk, automated alert, standards, situational awareness, sensors for risk detection, artificial intelligence
 
 ## FindAR Terms
 health risks, occupational risks, risk assessment, risk perception, accidents, safety-critical software, occupational health, occupational safety, safety, accident prevention, disaster prevention, electrical safety, health and safety, health hazards, safety devices, safety factor, safety systems, fault detection, monitoring, system monitoring

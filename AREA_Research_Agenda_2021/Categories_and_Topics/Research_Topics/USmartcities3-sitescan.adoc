@@ -13,13 +13,13 @@ By deploying AR glasses it is possible to track the location of the scanning dev
 To be generated via FindAR
 
 # Key Words
-Point cloud, laser scanning, disaster scene, crime scene, law enforcement
+point cloud, laser scanning, disaster scene, crime scene, law enforcement
 
 ## FindAR Terms
 3d models, point clouds, digital twin
 
 # Research Agenda Categories
-Technology, business
+Technology, Business
 
 # Stakeholders
 Public safety agencies such as police crime scene investigators, law enforcement, FEMA, OEM manufacturers. If techniques are widely published, Independent Software Vendors could integrate the capability as a new feature in their existing applications and support more devices.
