@@ -28,7 +28,7 @@ The individuals in the table below contributed to development of this resource f
 [cols="2,6",options="headers"]
 |===
 ^|*Name* ^|*Organization*
-|mailto:Barbara.chaparro@erau.edu[Barbara Chapparo] | Embry Riddle Aeronautical University
+|mailto:Barbara.chaparro@erau.edu[Barbara Chaparro] | Embry Riddle Aeronautical University
 |mailto:cperey@perey.com[Christine Perey] | PEREY Research & Consulting
 |mailto:DERBYJ1@my.erau.edu[Jessyca Derby] | Embry Riddle Aeronautical University
 |mailto:jenniferwolfrogers@gmail.com[Jennifer Rogers] | Independent
