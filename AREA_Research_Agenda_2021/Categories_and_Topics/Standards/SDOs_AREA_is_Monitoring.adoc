@@ -2,7 +2,7 @@
 
 The AREA Interoperability and Standards Program is monitoring many Standards Development Organizations (SDOs) for development of specifications that could impact the adoption of AR in enterprise and industrial settings. In addition to SDOs, there are also industry groups or consortia with tight relationships with one or more SDOs. Such groups can develop and contribute draft standards for review and, if deemed to meet criteria, approval by SDOs.
 
-While some SDOs have both industry-agnostic working groups and industry-specific working groups, most SDOs coordinate experts and publish either industry-agnostic standards or industry (or domain)-specific standards. The tables below serve as an interface for exploring SDOs and their relevant working groups.
+The tables below serve as an interface for exploring SDOs and their relevant working groups. While some SDOs have both industry-agnostic working groups and industry-specific working groups, most SDOs coordinate experts and publish either industry-agnostic standards or industry (or domain)-specific standards.
 
 Clicking on the name of the SDO will take the user to a section of this resource that compiles current information about activities of the SDO that the AREA is monitoring. From the SDO section, the names of relevant working groups contain links to further information.
 
@@ -25,18 +25,19 @@ Clicking on the name of the SDO will take the user to a section of this resource
 | W3C |XXXXX | xxxx |status
 |===
 
+.SDOs Primarily Publishing Industry (Domain) Specific Standards
+[cols="4",options="headers"]
+|===
+^|*SDO* ^|*XXXX* ^|*XXXXX* ^|*Status*
+| ASME |XXXXX | xxxx |status
+| ASTM |XXXXX | xxxx |status
+| DMSC |XXXXX | xxxx |status
+| DTC |XXXXX | xxxx |status
+| IPC |XXXXX | xxxx |status
+| ISA |XXXXX | xxxx |status
+| OAGi |XXXXX | xxxx |status
+| OPC |XXXXX | xxxx |status
+|===
 
-Secondary (Domain Specific?)
-ASME (Bill?)
-ASTM (Bill?)
-DMSC (Bill?)
-DTC (Bill?)
-IPC (Bill?)
-ISA (Bill?)
-MTConnect (now an ISO standard...)
-OAGi (Bill?)
-OPC (Bill?)
-
-MIPI Alliance
 
 Any domain bodies in Power and Energy
