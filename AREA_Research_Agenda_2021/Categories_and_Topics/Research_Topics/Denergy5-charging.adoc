@@ -35,7 +35,7 @@ Long
 This research topic could be studied in different environmental conditions, such as indoors, outdoors and in different temperatures. In addition, there will need to be studies of different use cases in which some users are actively moving throughout a work shift. The results of this research would also be very valuable for non-enterprise users and display devices.
 
 # Miscellaneous Notes
-This field of research is in its infancy, but there are some promising developments such as the electrochemically-driven mechanical device developed at MIT and revealed in 2016 in Nature https://www.nature.com/articles/ncomms10146
+This field of research is in its infancy, but there are some promising developments such as the electrochemically-driven mechanical device developed at MIT and https://www.nature.com/articles/ncomms10146[revealed in 2016 in Nature].
 
 The following articles, published in 2019 describe https://techxplore.com/news/2019-11-harvesting-energy-human-body.html[energy harvesting based on human body movement]; similar studies have been https://www.sciencedaily.com/releases/2019/07/190717122600.htm[reported here.]
 
