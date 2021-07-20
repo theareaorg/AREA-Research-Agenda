@@ -22,7 +22,7 @@ This document is the property of the AR for Enterprise Alliance (AREA). Any use 
 
 [big]*v.     Contributors*
 
-The individuals in the table below contributed to development of this resource for the AREA and the enteprise AR ecosystem as part of the fulfilment of deliverables for the 8th AREA-directed Research Project.
+The individuals in the table below contributed to development of this resource for the AREA and the enterprise AR ecosystem as part of the fulfilment of deliverables for the 8th AREA-directed Research Project.
 
 .The AREA Research Agenda 2021 Team Members
 [cols="2,6",options="headers"]
@@ -36,4 +36,29 @@ The individuals in the table below contributed to development of this resource f
 |mailto:william.bernstein@nist.gov[William Bernstein] | NIST
 
 |===
+[big]*vi.     Acknowledgements*
+
+The AREA Research Agenda Team would like to thank the AREA members recognized in the table below who took their time to review the draft research topic descriptions and provided valuable and detailed feedback. Their input validated the teams' direction and increased the rigor of the results of this process.
+
+.Members of the AREA who Contributed Feedback and Comments
+[cols="2,6",options="headers"]
+|===
+^|*Name* ^|*Organization*
+|Kate Fu | Qualcomm Corporation
+|Rab Scott | AMRC
+|Mike Lewis | AMRC
+|Jeff Fisher | NIAR
+|Gary Smith | Dwr Cymru Welsh Water
+|Dan McPeters | Newport News Shipbuilding
+|Greg Garrett | The Boeing Company
+|Sam Neblett | The Boeing Company
+|Jan Heitger | RE'FLEKT
+|Shelly Bagchi | NIST
+|Scott Ledgerwood | NIST
+|Jim Novack | Talent Swarm
+|Carl Byers | Contextere
+|Berardino Baratta | MxD USA
+|Matt Fleckenstein | Microsoft
+|===
+
 All questions regarding this resource should be directed to the Chair of the AREA Research Committee, mailto:cperey@perey.com[Christine Perey].
