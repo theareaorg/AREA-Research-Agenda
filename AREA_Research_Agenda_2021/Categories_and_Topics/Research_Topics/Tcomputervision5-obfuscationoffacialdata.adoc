@@ -17,7 +17,7 @@ face detection, facial identification, obfuscation of region of interest, person
 biometrics, data security, access protocols
 
 # Research Agenda Categories
-Technology, End Users, Business
+Technology, End User and User Experience, Business
 
 # Stakeholders
 All stakeholders in corporate security organizations including but not limited to privacy managers, workplace policy managers and risk managers. In order for obfuscation to be implemented in commercial systems, the research would need to take into account the requirements of the AR display ecosystem players (e.g., OEMs, solutions providers, system integrators and independent software vendors) who could leverage the results.

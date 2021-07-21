@@ -19,7 +19,7 @@ To be generated via FindAR
 computer human interaction, computer graphics
 
 # Research Agenda Categories
-Technology, End Users
+Technology, End User and User Experience
 
 # Stakeholders
 This research is relevant to designers and managers of enterprise 3D assets, 3D asset platform publishers, AR experience developers, AR program managers, AR authoring platform publishers

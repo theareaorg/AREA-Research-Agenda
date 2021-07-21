@@ -18,7 +18,7 @@ metals and mining, employment, recovery, COVID, crew models, remote operations, 
 human resources, metalworking, ore treatment,
 
 # Research Agenda Categories
-Industry, Business, End Users
+Industries, Business, End User and User Experience
 
 # Stakeholders
 Economists, government officials in countries with heavy mining production, senior executives in metals/mining, HR professionals, social performance professionals, and operational excellence professionals will be impacted by this research.

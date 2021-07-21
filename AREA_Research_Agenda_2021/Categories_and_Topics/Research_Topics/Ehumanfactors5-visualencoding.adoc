@@ -17,7 +17,7 @@ spatial vision, spatial memory, visual encoding, memory anchoring, spatial frequ
 stereo image processing, image coding
 
 # Research Agenda Categories
-Display Devices, Technology, End Users
+Displays, Technology, End User and User Experience
 
 # Stakeholders
 user experience designers, AR experience developers, human resources professionals, AR display designers, AR display manufacturers, researchers studying cognition and performance of users in the workplace

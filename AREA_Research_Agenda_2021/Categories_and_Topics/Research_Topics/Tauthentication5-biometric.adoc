@@ -21,7 +21,7 @@ biometric, palm print, voice print, gait, retina scanning, iris scanning, heartb
 access control, data protection, security systems,  authentication, message authentication, authorization, data security, access protocols
 
 # Research Agenda Categories
-Display Devices, End User, Technology
+Displays, End User and User Experience, Technology
 
 # Stakeholders
 All stakeholder in corporate security organizations but primarily CISOs, CIOs, IT and security managers. On the vendor side, OEMs, solutions providers, system integrators and independent software vendors will be impacted by this research.

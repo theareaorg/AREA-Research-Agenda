@@ -19,7 +19,7 @@ video see-through, video passthrough, field of view, waveguide, birdbath, off-ax
 head-up displays, three-dimensional displays, micro displays, computer displays, liquid crystal displays, display devices, led displays, screens (display), color displays
 
 # Research Agenda Categories
-Display Devices, Technology, End Users
+Displays, Technology, End User and User Experience
 
 # Stakeholders
 Operations leaders, HMD designers, Safety & IT managers, OEM manufacturers, ISVs

@@ -20,7 +20,7 @@ Operational readiness, Operational effectiveness, Research and development, R&D,
 failure, indicators, just in time, mixed realities, optimisation
 
 # Research Agenda Categories
-Business, End Users, Use Cases
+Business, End User and User Experience, Use Cases
 
 # Stakeholders
 This research will provide operational excellence professionals, chief operating officers, safety and risk professionals, and plant managers quantitative information that will permit them to make better decisions about where and how to introduce AR in plants.
@@ -31,7 +31,7 @@ Scalability of technological advancement is highly-dependent upon ability to com
 This is of particular interest in the current scenario, due to limited travel associated with COVID and could be of great significance to increased efforts to scale up vaccine manufacturing operations (and perhaps even distribution) across the globe.
 
 # Possible Methodologies
-The proposed research would need to identify key operational decisions and processes required for transfer from R&D to on-site operations. Research would measure time and cost to site operation with AR-assisted intervention and compare to known historical ramp-up times and costs.  
+The proposed research would need to identify key operational decisions and processes required for transfer from R&D to on-site operations. Research would measure time and cost to site operation with AR-assisted intervention and compare to known historical ramp-up times and costs.
 
 # Expected Impact Timeframe
 Near

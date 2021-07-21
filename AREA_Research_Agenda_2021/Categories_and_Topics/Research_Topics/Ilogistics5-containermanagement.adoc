@@ -26,7 +26,7 @@ marine, logistics, shipping, freight, cold chain, commercial shipping, container
 cargo, marine, ships, buoyancy, ambient intelligence, mechatronics, internet of things
 
 # Research Agenda Categories
-Industry, Business, Technology
+Industries, Business, Technology
 
 # Stakeholders
 Operators of any cargo service including but not limited to shipping services, pilots, naval captains, shipping operations managers, quality managers, security managers, workers performing repair and maintenance on shipping containers, port operations, customs agents

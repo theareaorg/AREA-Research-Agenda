@@ -19,7 +19,7 @@ text entry, text editing, virtual keyboard, trace input
 user experience, sensory perception, text analysis, gesture recognition, keyboards, speech-based user interfaces
 
 # Research Agenda Categories
-End Users and User Experience, Display Devices, Technology
+End User and User Experience, Displays, Technology
 
 # Stakeholders
 Developers, operators of machinery, all users of AR experiences requiring user input of text, performance and quality control managers

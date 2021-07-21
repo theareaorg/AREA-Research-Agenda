@@ -1,9 +1,11 @@
 [[ra-Srobotics5-testingmethods]]
 
-# Title
+# Testing Protocols for AR-Assistend Human-Robot Interaction
 
 # Description
-Text
+In terms of collaborative robotics, the widespread adoption of robots in historically manual manufacturing environments (which are subject to high product turnover, short production runs, and high variability in equipment configurations) is limited by the robots’ inability to effectively and safely integrate and interact with the existing human labor.  Instead, so-called collaborative robots are relegated to secluded operations with minimal contact with the workforce.  The robots’ inability to communicate with, understand the intention of, and establish a mutual understanding of the environment and situation with human coworkers decreases the robots’ usefulness in collaborative teams consisting of both robots and people.  This limitation is driven by both the absence of tools and protocols needed for effectively describing and measuring human-robot interactions, an incomplete collection of metrics for assessing human-robot teaming performance, and insufficient protocols for enabling more intuitive interfacing with robotic tools.
+
+This research opportunity should focus on providing the methods, protocols, and metrics necessary to evaluate the interactive and teaming capabilities of robot systems, and will use a task-driven decomposition of manufacturing processes to assess and assure the safety and effectiveness of human-robot collaborative teams.  This collection of methods, protocols, and metrics will enable integrators and end-users to maximize the effectiveness and efficiency of collaborative human-robot teams in production processes, impacting both large-scale companies designing and repurposing hybrid manufacturing workflows, and smaller companies looking to begin introducing automated tools into manual processes.
 
 # Prior Research
 To be generated via FindAR

@@ -21,7 +21,7 @@ efficiency, handheld, projection AR, wearable displays, head-mounted displays, u
 head worn displays, wearable computers,
 
 # Research Agenda Categories
-Display Devices, Business
+Displays, Business
 
 # Stakeholders
 Operations leaders, financial management, OEM manufacturers, Independent Software Vendors,

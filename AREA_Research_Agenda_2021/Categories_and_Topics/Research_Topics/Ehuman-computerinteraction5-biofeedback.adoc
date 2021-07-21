@@ -17,7 +17,7 @@ Biometrics, body sensors, blood pressure, heart rate, body temperature, body-are
 biofeedback, biometrics, body area network
 
 # Research Agenda Categories
-End Users, Technology
+End User and User Experience, Technology
 
 # Stakeholders
 Companies monitor and manage workplaces for their suitability to employees. This research will be valuable to all workplace health and safety professionals, wellness specialists, human resources managers, user data privacy policy analysts, employees and their managers

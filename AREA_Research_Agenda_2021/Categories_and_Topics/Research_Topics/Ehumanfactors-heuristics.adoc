@@ -19,7 +19,7 @@ usability, user experience, heuristics, best practices
 product design, software design, user centered design, design, hci design and evaluation methods
 
 # Research Agenda Categories
-End Users and User Experience, Industries, Technology
+End User and User Experience, Industries, Technology
 
 # Stakeholders
 Developers, users, operators, users of AR applications

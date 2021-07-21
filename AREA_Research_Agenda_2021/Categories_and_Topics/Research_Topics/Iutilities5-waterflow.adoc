@@ -17,7 +17,7 @@ Data visualization, decision support, utility asset management, digital water se
 water supply, water treatment, well stimulation, well testing
 
 # Research Agenda Categories
-Industry, Technology, Use Cases
+Industries, Technology, Use Cases
 
 # Stakeholders
 This research will be valuable to the operators of municipal or regional water systems, waste management systems and the IT managers, field work force, and partners performing maintenance and repairs of utilities infrastructure.

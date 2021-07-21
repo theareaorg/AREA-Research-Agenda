@@ -22,7 +22,7 @@ presence, immersion, awareness, realism, cognitive tunneling, mental workload, s
 presence, interactive computer graphics, user experience, cognitive systems, sensory perception, avatars, computer graphics, color computer graphics, holographic displays, animation, image quality
 
 # Research Agenda Categories
-End Users and User Experience, Industries, Technology
+End User and User Experience, Industries, Technology
 
 # Stakeholders
 Developers, users, operators, users of collaborative virtual environments

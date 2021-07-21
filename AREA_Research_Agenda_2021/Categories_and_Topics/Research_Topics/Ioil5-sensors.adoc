@@ -18,7 +18,7 @@ sensors, human factors, environment, oil and gas, chemical, power and energy, ra
 volatile organic compounds, hazardous materials, aromatic compounds, gases, hydrocarbons, indicators (chemical), radioactivity, chemical hazards, chemical detection, gas sensors
 
 # Research Agenda Categories
-Industry, Technology
+Industries, Technology
 
 # Stakeholders
 Developers, operators and employees working in places where invisible gases may pose a risk, regulatory agencies, compliance officers

@@ -17,7 +17,7 @@ power use, power consumption, power production, AR device energy sources, energy
 computational efficiency, low power electronics, electric batteries, power consumption, power conversion, power aware computing
 
 # Research Agenda Categories
-Display Devices, Technology
+Displays, Technology
 
 # Stakeholders
 All users of wearable AR display devices and those who manage their use in the workplace will benefit from longer duration between recharges. Introducing or integrating novel power production, transfer or storage technologies will have impacts on the costs of display devices which could effect the number of devices purchased.

@@ -24,7 +24,7 @@ United Nations, Sustainable Development Goals, sustainability, policy, education
 social aspects, social and economic effects
 
 # Research Agenda Categories
-Business, End Users, Industry
+Business, End User and User Experience, Industries
 
 # Stakeholders
 Government officials and policymakers in World Bank Group and UN nations, social performance and impact executives in large, global organizations, particularly those with a large social license to operate, sustainability/innovation groups in large corporations, executives and sales teams in agriculture

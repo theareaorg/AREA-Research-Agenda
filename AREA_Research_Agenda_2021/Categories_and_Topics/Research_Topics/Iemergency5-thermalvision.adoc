@@ -17,7 +17,7 @@ thermal imaging, 3D data visualization, smart helmets, Personal Protective Equip
 couldn't find any
 
 # Research Agenda Categories
-Industry, Display Devices, Technology
+Industries, Displays, Technology
 
 # Stakeholders
 While the emergency responders and military use cases are the clear beneficiaries of this research topic, there are also applications in automotive, such as displaying to a driver moving or stationary wildlife along a road side or forklift drivers "seeing" the thermal image of pedestrians in a warehouse or in a manufacturing environment. Additional imaging could prevent hazardous interactions. Similarly, when mounted in field equipment, the AR display can alert a driver to the presence of people or animals in the path of the equipment. When the technology is miniaturized and highly reliable, it may be used in enterprise AR use cases including but not limited to medical industry or animal husbandry for diagnostics and therapeutics. If the cost and size of the technologies is sufficiently low, the feature could be used for non-industrial applications, such as in games or education.

@@ -17,7 +17,7 @@ comfort, eye strain, fatigue, simulation sickness, heat tolerance, headgear weig
 subjective testing, behavioral research, thermal comfort, environmental factors, comfort
 
 # Research Agenda Categories
-End Users and User Experience, Industries, Technology
+End User and User Experience, Industries, Technology
 
 # Stakeholders
 Developers, users, operators, users of AR head mounted displays (HMDs)

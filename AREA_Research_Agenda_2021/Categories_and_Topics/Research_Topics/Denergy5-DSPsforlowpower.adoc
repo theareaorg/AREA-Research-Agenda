@@ -27,7 +27,7 @@ Low power, power use, power consumption, digital signal processing, DSP, VPU, So
 digital signal processing, low power electronics, heads-up displays, power consumption
 
 # Research Agenda Categories
-Display Devices, Technology
+Displays, Technology
 
 # Stakeholders
 AR display designers, AR display manufacturers, original equipment manufacturers (OEM) of semiconductors for AR displays, AR systems integrators
