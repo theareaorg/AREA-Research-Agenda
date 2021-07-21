@@ -19,7 +19,7 @@ point cloud, large-scale 3D models, polygons, low-poly, high-poly, realistic
 surfaces, finite element method, computer simulation, digital simulation, computational mechanics, computer aided engineering, discrete event simulation, virtualization
 
 # Research Agenda Categories
-Technology, business
+Technology, Business
 
 # Stakeholders
 Operations leaders, financial management, OEM manufacturers, Independent Software Vendors, Cloud Service Providers

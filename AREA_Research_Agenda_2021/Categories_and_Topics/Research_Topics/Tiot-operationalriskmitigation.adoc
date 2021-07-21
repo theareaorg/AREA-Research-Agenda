@@ -20,7 +20,7 @@ Automation, resklling, skill development, augmentation, superjobs, superteams, o
 augmented reality, failure, indicators, just in time, mixed realities, optimization
 
 # Research Agenda Categories
-Business, End Users, Use Cases, Displays
+Business, End User and User Experience, Use Cases, Displays
 
 # Stakeholders
 Operational excellence professionals, chief operating officers, board of directors, safety and risk professionals

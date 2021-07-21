@@ -16,7 +16,7 @@ Operational risk, operational risk management, Lost Time Incident Rate, LTIR, To
 occupational risks, risk assessment, risk perception, accidents, occupational health, occupational safety, safety, health and safety, health hazards, safety devices, safety factor, safety systems, fault detection, monitoring, system monitoring
 
 # Research Agenda Categories
-Industry, Technology, Business
+Industries, Technology, Business
 
 # Stakeholders
 Business and production managers, operational excellence personnel, and HSE professionals in high-risk, high-compliance industries and/or industries where risk tolerance must be low (e.g. aviation and aerospace, healthcare, oil and gas, metals and mining, manufacturing, etc.). It may be helpful to consider individuals in a position to expose the organization to financial, safety, health, environmental, legal or regulatory, social, or reputational risk.

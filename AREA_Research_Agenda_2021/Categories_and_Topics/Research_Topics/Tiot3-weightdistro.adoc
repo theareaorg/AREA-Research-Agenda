@@ -19,7 +19,7 @@ stowage plan, loading order, weight distribution
 ambient intelligence, mechatronics, incandescent lamps, cognitive radio, internet of things, led lamps, industry 4.0
 
 # Research Agenda Categories
-Industry, Technology, Business
+Industries, Technology, Business
 
 # Stakeholders
 Port and shipping managers, IT managers, field work force, ISVs

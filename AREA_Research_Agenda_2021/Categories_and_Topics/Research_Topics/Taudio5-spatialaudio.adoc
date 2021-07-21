@@ -20,7 +20,7 @@ spatial audio, effectiveness, spatial vision, 3D audio
 perception, audio signal processing, acoustic waves, active noise control
 
 # Research Agenda Categories
-Technology, End Users, Displays
+Technology, End User and User Experience, Displays
 
 # Stakeholders
 AR experience designers, developers of integrated sensor and world capture components, human factors researchers

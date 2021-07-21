@@ -21,7 +21,7 @@ public asset management, public services, scanning, smart cities, urbanization
 intelligent buildings, urban growth, town and country planning, urban planning, digital twin, smart cities, street lighting
 
 # Research Agenda Categories
-Technology, business
+Technology, Business
 
 # Stakeholders
 Elected and professional urban leaders: Mayors, CIOs and CISOs of urban infrastructure, Independent Software Vendors, geospatial infrastructure providers, points of interest publishers

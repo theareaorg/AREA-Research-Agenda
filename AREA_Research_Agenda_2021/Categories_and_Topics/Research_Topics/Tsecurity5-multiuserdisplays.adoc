@@ -23,7 +23,7 @@ sanitation, clean equipment, access control, user authentication, authorization,
 safety, sanitation, access control, data protection, security systems,  authentication, message authentication, authorization
 
 # Research Agenda Categories
-Display Devices, End User, Technology
+Displays, End User and User Experience, Technology
 
 # Stakeholders
 Workplace safety managers and officers, IT security managers, employees working in facilities driven by work orders, AR managers, AR experience developers, AR interface designers who would develop prompts and procedures for easy login

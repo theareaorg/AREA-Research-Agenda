@@ -17,7 +17,7 @@ situational awareness, night vision, non-visual scanning in real time, marine, r
 autonomous underwater vehicles, marine navigation, marine radar
 
 # Research Agenda Categories
-Industry, Technology
+Industries, Technology
 
 # Stakeholders
 Developers, operators and owners/users of commercial, private or military water craft

@@ -17,7 +17,7 @@ Hazard detection, hazard management protocol, hazard warning, location-detection
 occupational risks, risk assessment, risk perception, accidents, occupational health, occupational safety, safety, health and safety, health hazards, safety devices, safety factor, safety systems, fault detection, monitoring, system monitoring
 
 # Research Agenda Categories
-Industry, Technology, Business
+Industries, Technology, Business
 
 # Stakeholders
 Safety managers, workplace designers, risk managers
