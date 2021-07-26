@@ -44,8 +44,7 @@ This topic is related to other proposed AREA Research Agenda topics on display t
 
 
 # Miscellaneous Notes
-Interesting article related to the amount of physical space in which AR application is used.
-Shin, J. E., Kim, H., Parker, C., Kim, H. I., Oh, S., & Woo, W. (2019, October). Is Any Room Really OK? The Effect of Room Size and Furniture on Presence, Narrative Engagement, and Usability During a Space-Adaptive Augmented Reality Game. In 2019 IEEE International Symposium on Mixed and Augmented Reality (ISMAR) (pp. 135-144). IEEE.
-https://ieeexplore.ieee.org/document/8943577/[https://ieeexplore.ieee.org/document/8943577]
+An interesting article related to the amount of physical space in which AR application is used can be found https://ieeexplore.ieee.org/document/8943577/[here].
+
 # Author
 ERAU Team

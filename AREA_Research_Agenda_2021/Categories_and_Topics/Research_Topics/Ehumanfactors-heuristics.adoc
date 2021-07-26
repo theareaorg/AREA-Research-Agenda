@@ -38,7 +38,7 @@ This topic is academic in nature though the resulting heuristic checklist should
 in a variety of domains and industries to ensure robustness and generalized usefuless among the wide range of AR applications used in enterprise settings.
 
 # Miscellaneous Notes
-Quiñones, D., Rusu, C., & Rusu, V. (2018). A methodology to develop usability/user experience heuristics. Computer standards & interfaces, 59, 109-129.
-https://www.sciencedirect.com/science/article/pii/S0920548917303860?casa_token=3VkTKDwrcK4AAAAA:1LFOpw5gArzFMU4jp3lEW-Z_hNIlPvMh7dRdgUEIABZ_mb0QHFLO4EtZ1kysG30yW3bfBnbdLw/[https://www.sciencedirect.com/science/article/pii/S0920548917303860?casa_token=3VkTKDwrcK4AAAAA:1LFOpw5gArzFMU4jp3lEW-Z_hNIlPvMh7dRdgUEIABZ_mb0QHFLO4EtZ1kysG30yW3bfBnbdLw]
+Details on how to develop a new set of heuristics for a domain is discussed in work by Quiñones, Rusu, & Rusu (2018) https://www.sciencedirect.com/science/article/pii/S0920548917303860?casa_token=9AqOOBdQFFQAAAAA:cIiacrm7bZ0rsL2UtTdLgQqgF1FnA6KZLknce5cphvYbiPh2fSZeNGoDXldyDpbspVWWD_4HnA/[in this article].
+
 # Author
 ERAU Team
