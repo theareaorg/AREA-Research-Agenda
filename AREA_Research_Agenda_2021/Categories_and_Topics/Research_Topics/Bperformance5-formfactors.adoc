@@ -3,13 +3,13 @@
 # Wearable vs Handheld vs Projection: Methods for Quantifying the Impact of AR Modality
 
 # Description
-Tablets, mobile phones and other handheld devices have been widely deployed in the enterprise, including frontline workers, who use these devices to access contextually-relevant information while executing work procedures.  Although hugely useful, their interaction paradigm forces said workers to choose between carrying out the actual steps of a work procedure or interacting with the device. The choices the user makes can also present safety risks.
+Tablets, mobile phones, and other handheld devices have been widely deployed in enterprise, including among frontline workers who use these devices to access contextually-relevant information while executing work procedures. Although hugely useful, their interaction paradigm forces workers to choose between carrying out the actual steps of a work procedure or interacting with the device. The choices the user makes can also present safety risks.
 
-Commercially-available wearable (head-mounted) displays enable frontline workers to consume context relevant information while executing work procedures using both hands thereby – theoretically – speeding up work. The same could be true for projection-based AR approaches. And both approaches may decrease or completely mitigate safety risks innate to handheld devices. However, there is no independent assessment of the potential economic or safety benefits of the emerging, AR-enriched hands-free modalities.
+Commercially available wearable (head-mounted) displays enable frontline workers to consume context-relevant information while executing work procedures using both hands thereby – theoretically – speeding up work. The same could be true for projection-based AR approaches. And both approaches may decrease or completely mitigate safety risks innate to handheld devices. However, there is no independent assessment of the potential economic or safety benefits of the emerging, AR-enriched hands-free modalities.
 
-This research topic focuses on the development of methodologies for performing objective, quantitative assessments of the impact of wearable and projection-based AR approaches compared to work procedures assisted by AR delivered using handheld devices. Measurement methods would be developed to ensure accuracy with 95% Confidence Interval. The assessment methodology could include user acceptance of different modalities.
+This research topic focuses on the development of methodologies for performing objective, quantitative assessments of the impact of wearable and projection-based AR approaches compared to work procedures assisted by AR delivered using handheld devices. Measurement methods would be developed to ensure accuracy with a 95% confidence interval. The assessment methodology could include user acceptance of different modalities.
 
-The research scope could be expanded to include performing comparative studies measuring the exact impact of wearable or projection AR modality vs the handheld baseline across industries, use cases and horizontal use case categories.
+The research scope could be expanded to include performing comparative studies measuring the exact impact of wearable or projection AR modality vs. the handheld baseline across industries, use cases, and horizontal use case categories.
 
 # Prior Research
 To be generated via FindAR
@@ -27,18 +27,18 @@ Displays, Business
 Operations leaders, financial management, OEM manufacturers, Independent Software Vendors,
 
 # Reasons this topic is important for AREA members
-Wearable AR displays provide frontline workers in AREA member companies with information without requiring the user to hold a display in their hands or look away from their tasks while obtaining instructions. However, deploying display devices with entirely different form factors than those widely adopted, developing and deploying appropriate software, integrating and training users on the new devices introduces time and expenses – particularly if handhelds have been well integrated in the current procedures.
+Wearable AR displays provide frontline workers in AREA member companies with information without requiring the user to hold a display in their hands or look away from their tasks while obtaining instructions. However, deploying display devices with entirely different form factors than those widely adopted, developing and deploying appropriate software, and integrating and training users on the new devices introduces time and expenses – particularly if handhelds have been well-integrated in the current procedures.
 
 The AREA members need ways to measure and/or to calculate the investments and benefits of using different form factors in the workplace.
 
 # Possible Methodologies
-The research will contribute to development of tools to accurately, impartially measure the differences between the handheld and wearable displays. The measurement methods will be used on groups of users sufficiently large in number and diverse in profiles to allow projection across various attributes (e.g. time saved, quality improved, error eliminated, etc). The research tools can include time-motion studies using standardized, public and well-documented processes typical of industry verticals, use cases and horizontal use case categories.
+The research will contribute to development of tools to accurately, impartially measure the differences between handheld and wearable displays. The measurement methods will be used on groups of users sufficiently large in number and diverse in profile to allow projection across various attributes (e.g. time saved, quality improved, error eliminated, etc.). The research tools can include time-motion studies using standardized, public, well-documented processes typical of industry verticals, use cases, and horizontal use case categories.
 
 # Expected Impact Timeframe
 Near
 
 # Research Program
-This research can be combined with and/or extended to include different wearable form factors including but not limited to monocular displays, binocular or holographic displays. The research scope may also be expanded to apply the same methods to study the return on investment of emerging use cases and AR in industries that have not been well documented.
+This research can be combined with or extended to include different wearable form factors, including but not limited to monocular displays and binocular or holographic displays. The research scope may also be expanded to apply the same methods to study the return on investment of emerging use cases and AR in industries that have not been well documented.
 
 # Miscellaneous Notes
 The AREA RoI calculator is a starting point for quantifying the economic impacts of AR in repair and maintenance use cases. This research topic could contribute to the expansion of the AREA RoI calculator.
