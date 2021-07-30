@@ -37,7 +37,7 @@ Medium
 This topic examines the overall issue of text input using AR experiences and interfaces with a wearable AR display device. It is expected that researchers will examine one of the aforementioned methodologies and not all in a single study. The research is best done in controlled environments to determine optimal performance before generalizing to applied settings. Time and motion studies could be employed for performance assessment/metrics. Interviews and surveys are needed to explore user acceptance of different text input options.
 
 # Miscellaneous Notes
-Derby, J. L., Rarick, C. T., & Chaparro, B. S. (2019, November). Text Input Performance with a Mixed Reality Head-Mounted Display (HMD). In Proceedings of the Human Factors and Ergonomics Society Annual Meeting (Vol. 63, No. 1, pp. 1476-1480). Sage CA: Los Angeles, CA: SAGE Publications.
-https://journals.sagepub.com/doi/pdf/10.1177/1071181319631279/[https://journals.sagepub.com/doi/pdf/10.1177/1071181319631279]
+User performance and subjective data of text input using a HoloLens device can be seen in https://journals.sagepub.com/doi/pdf/10.1177/1071181319631279/[this article].
+
 # Author
 ERAU Team
