@@ -1,7 +1,7 @@
 [[ra-first-method-section]]
 
 === Meta-Analysis of Related Work
-Since there is insufficient guidance in the research community and from other public resources for how to define and prioritize future research topics, the AREA Research Committee developed this methodology as part of the 8th AREA Research Project. The Research Committee will adapt the process and update this section in subsequent editions.
+Since there is insufficient guidance in the research community and from other public resources for how to define and prioritize future research topics, the AREA Research Committee developed this own methodology as part of the 8th AREA Research Project. The Research Committee will adapt the process and update this section in subsequent editions.
 
 ////Footnote testfootnote:[The double hail-and-rainbow level makes my toes tingle.]
 
@@ -17,7 +17,7 @@ image::figures/overall_methodology.png[Methodology,800,400]
 
 To assemble a research agenda, it is first necessary to properly capture the status quo of on-going and past research across academia and industry. A key challenge is building a holistic landscape of industrial research activities. In other words, trends in research and development across industry are difficult to asses with minimal bias since a company's publishing on their latest developments directly conflicts with their competitive advantage. On the other hand, academic efforts are much easier to track since AR methods and technology developments are reported through academic venues, such as journals and conference proceedings. As a result, we only consider academic work for baselining the current research landscape for industrial AR.
 
-*Developing a Systems Boundary*
+*Developing a System Boundary*
 
 As shown in <<img-methodology, Figure 1-1>>, we leverage a well-known technical document search tool, called Engineering Village. Engineering Village covers "high-quality, relevant and cross-disciplinary content, enabling engineers and researchers to perform thorough and effective literature reviews, analyze the research landscape, and solve problems" cite:[engineeringVillageSite]. For our initial search, we considered journal publications and conference proceedings and excluded standards, patents, books, and engineering dissertations. We restricted our database of work to the period beginning in January 2017 and include any works available up to June 2021.  If "augmented reality" appeared in any metadata fields, e.g., abstract, keywords, and title, we store records of metadata, including but not limited to a DOI, abstract, set of keywords, publication year, and venue, related to each returned publication.
 
@@ -33,7 +33,7 @@ As shown in <<img-methodology, Figure 1-2>>, our team manually created aliasing 
 
 The final stage of <<img-methodology, Figure 1-2>> is the bucketing of terms within "groups" and "categories." Further discussion about https://github.com/theareaorg/AREA-Research-Agenda/blob/main/Documentation/About-Low-Level-Terms.adoc[machine-generated terms], https://github.com/theareaorg/AREA-Research-Agenda/blob/main/Documentation/About-Mid-And-High-Level-Terms.adoc[groups and categories] can be found here.
 
-Our team collaboratively assigned each machine-generated term to a one group.  Note that we restrict to one-to-one mappings between terms and groups to simplify this particular task.  We then assigned each group to seven high-level categories: Technology, Industries, End Users and User Experience, Use Cases, Displays, Industries, and Standards.  All publication records that do not have any machine-assigned terms after employing deletion rules are placed in the "other" group and category.
+Our team collaboratively assigned each machine-generated term to one group.  We then assigned each group to seven high-level categories: Technology, Industries, End Users and User Experience, Use Cases, Displays, Industries, and Standards.  All publication records that do not have any machine-assigned terms after employing deletion rules are placed in the "other" group and category. Note that we restrict to one-to-one mappings between terms and groups as well as groups to categories to simplify this particular task.
 
 *Frequency and co-occurrence charts based on term hierarchy*
 
@@ -41,7 +41,7 @@ Indicated by <<img-methodology, Figure 1-3>>, after the machine-assigned terms a
 
 *Network-based understanding of terms*
 
-Based on the co-occurrence values for each two-term pairing, we constructed a graph that represents term-term relationships.  In this graph, each node represents a term and each edge represents a co-occurrence.  Leveraging spatial layout algorithms, we can then understand closeness of term clusters based on node and cluster proximity.  We used https://gephi.org/[Gephi], an open graphic visualization platform, to manipulate the graphs, create sub-graphs, and encode different visual variables, including hue and color, on the nodes and edges to enhance sense-making.  In doing so, we created graphs that serve as an alternative view of the dataset compared with the barcharts.
+Based on the co-occurrence values for each two-term pairing, we constructed a graph that represents term-to-term relationships.  In this graph, each node represents a term and each edge represents a co-occurrence.  Leveraging spatial layout algorithms, we can then understand closeness of term clusters based on node and cluster proximity.  We used https://gephi.org/[Gephi], an open graphic visualization platform, to manipulate the graphs, create sub-graphs, and encode different visual variables, including hue and color, on the nodes and edges to enhance sense-making.  In doing so, we created graphs that serve as an alternative view of the dataset compared with the barcharts.
 
 *Identifying research opportunities*
 
@@ -49,7 +49,7 @@ Based on the barcharts and graph visualizations, our team identified research ga
 
 *Vectorizing records language through natural language processing*
 
-Natural language represents most of the data in our dataset, including publication titles, abstracts, and keywords.  To draw insights across publication records, we deploy common natural language techniques.  The foundation for these techniques is term frequency-inverse document frequency (TF-IDF).  TF-IDF is a statistical measure that evaluates the importance of a word with respect to a record within a collection of records.  TF-IDF takes into account the prevalence of a particular word within a record of interest and also the importance of that same word across the entirety of all the records.
+Natural language represents most of the data in our dataset, including publication titles, abstracts, and author-assigned keywords.  To draw insights across publication records, we deploy common natural language processing (NLP) techniques.  The foundation for these techniques is term frequency-inverse document frequency (TF-IDF).  TF-IDF is a statistical measure that evaluates the importance of a word with respect to a record within a collection of records.  TF-IDF takes into account the prevalence of a particular word within a record of interest and also the importance of that same word across the entirety of all the records.
 
 .Schematic and example of how TF-IDF transforms natural language into numerical vectors
 [#img-tfidf]
@@ -77,7 +77,7 @@ With the TF-IDF vectorization of the concatenation of the clean abstract and hyp
 
 *Ranking research opportunities based on amount of relevant prior art*
 
-After the research topics were written up, we used the same cosine similarity-based technique to judge the similarity of the research topic write-ups against all records in the publication dataset.  We then build a distribution of those similarity scores to judge the basis of prior art.  STILL NEED TO FINISH
+After the research topics were written up, we used the same cosine similarity-based technique to judge the similarity of the research topic write-ups against all records in the publication dataset.  More information about the scoring method can be found here[https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/rt_score_explanation.adoc]
 
 *Bibliography*
 
