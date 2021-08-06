@@ -27,7 +27,10 @@ Displays, End User and User Experience, Technology
 All stakeholder in corporate security organizations but primarily CISOs, CIOs, IT and security managers. On the vendor side, OEMs, solutions providers, system integrators and independent software vendors will be impacted by this research.
 
 # Reasons this topic is important for AREA members
-Securing endpoints in the enterprise is a critical step in preventing compromised security of enterprise systems. Therefore, the appearance of a new device class and new, highly personal modalities of authentication raise legitimate authentication, human factors and privacy concerns. These issues must be measured and best practices developed to reduce the negative impacts of slow and unreliable user authentication and inputs.
+- Securing endpoints in the enterprise is a critical step in preventing compromised security of enterprise systems.
+- Highly personal modalities of authentication raise legitimate authentication, human factors and privacy concerns.
+- Implementing best practices reduce the negative impacts of slow and unreliable user authentication and inputs.
+
 
 # Possible Methodologies
 This research will require rigorous laboratory tests, deployed via multiple cells of different modalities. This will be followed by human factors and security research, culminating in field trials. Once baselines are available and validated, best practices can be established.
@@ -43,3 +46,6 @@ The field of biometric authentication in cybersecurity is vast and there are man
 
 # Author
 Peter Orban
+
+# History
+This research topic was published on August 30, 2021.
