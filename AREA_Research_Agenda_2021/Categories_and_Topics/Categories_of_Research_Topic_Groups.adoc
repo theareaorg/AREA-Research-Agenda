@@ -5,7 +5,7 @@ Categories are the highest level of the AREA Research Agenda organizational stru
 NOTE: Create and insert here a figure showing the three levels of the hierarchy.
 
 ==== Definitions
-The objective of the category structure is to define research themes of approximately equal importance or value to growth of a strong enterprise AR ecosystem. If and when any category is less well studied than others, it represents a potential need for investment. Although any group in this research agenda is assigned to only one category, it is inaccurate to describe categories as mutually exclusive; some topics could in multiple groups, some groups could be in multiple categories.
+The objective of the category structure is to define research themes of approximately equal importance or value to growth of a strong enterprise AR ecosystem. If and when any category is less well studied than others, it represents a potential need for investment. Although any group in this research agenda is assigned to only one category, it is inaccurate to describe categories as mutually exclusive; some topics could fit in multiple groups, some groups could be included in multiple categories.
 
 The categories for the 2021 edition of the Research Agenda appear in the table below.
 
