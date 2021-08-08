@@ -1,25 +1,30 @@
 [[ra-rt-score-explanation]]
 
-For each research topic, we compute a similarity score that represents the commonality between (1) the writing of the research topic itself including its identified keywords and (2) the 5000+ publication records in the FindAR database.  To do so, we first had to establish a corpus per research topic to compare against research paper abstracts and titles.  We concatenated all fields that include natural language in the research topic write-ups, which included the following:
+For each research topic, we use natural language processing to compute a similarity score that represents the degree of commonality between:
+
+- the writing of the research topic itself including keywords assigned by its author, and
+- all the publication records in the FindAR database.
+
+To generate the similarity score, we begin by generating a corpus based on research topic descriptions to compare against research paper abstracts and titles. The corpus contains all fields that include natural language in the research topic descriptions, namely:
 - Title
 - Description
 - Potential stakeholders
-- Reasons why the topic is Importantly
+- Reasons why the topic is important
 - Possible methodologies
 - Research program
 
-After a natural corpus was captured for each research topic, we then removed all "stop words" and punctuation to create a bag of words.
+All "stop words" and punctuation in each research topic corpus were removed to create a bag of words.
 
-We also added more structured language to each corpus from the following:
-- Keywords, that are defined by each topic's author(s)
-- Terms that are specific to the FindAR heirarchy
+We also added structured language to each corpus from the following topic description fields:
+- Keywords chosen by each topic's author(s)
+- Terms that are specific to the FindAR hierarchy
 - Research Agenda categories
 
-Note that the cleaning process of the natural and structure language was the same as the method used for understanding the publication recrods. We then computed cosine similarties of each research topic corpus against every publicaiton record.  To be clear, after this step, the code generates 5000+ cosine similarity metrics.
+The cleaning process of the natural and structured language corpus was identical to the method used for understanding the publication records in FindAR. Using the bags of words, cosine similarities of each research topic corpus against every publication record were computed. This step generates over 5000 cosine similarity metrics per research topic.
 
-Note that this list of scores comprises of singificant noise and can not be used directly.  In other words, if one was to compare a corpus of random words against a publication record, the algorithm would still return a non-zero output.  As a result, we had to "filter" the small values so that we only compare meaningful results from the algorithm.  To do so, we used a set of http://www.thegrammarlab.com/?nor-portfolio=1000000-word-sample-corpora[baseline corpuses] that represent 1,000 "random" word chucks of both academic and fiction literature.  We then computed cosine similarity scores for each random word chuck against all publication records.  We then extracted the cosine simiarity score that sits at the 95% probabiltiy discrubtion function for both datasets, i.e., the academic baseline corpus and the fiction baseline corpus. The resulting academic baseline score at the 95% confidence setting was 0.0588.  We then cycled through all cosine similarity scores for each record and removed any values under 0.0588 as we considered it noise.
+If one were to compare a corpus of random words against a publication record, the algorithm would still return a non-zero output. In order to detect only significant similarity scores and generate meaningful results, the raw values were converted. The conversion process uses a set of http://www.thegrammarlab.com/?nor-portfolio=1000000-word-sample-corpora[baseline corpuses] that represent 1,000 "random" word chunks of both academic and fiction literature. With the  computed cosine similarity scores for each random word chunk against all publication records, the cosine similarity score that sits at the 95% probability distribution function for both datasets, i.e., the academic baseline corpus and the fiction baseline corpus, was extracted. The resulting academic baseline score at the 95% confidence setting was 0.0588. All the cosine similarity scores for each record were tested and any values under 0.0588 were considered noise and removed.
 
-After the cosine similarty scores for each research topic was filtered, we then bucketed each similarity score into a point system that follows the following value counting method.
+After the cosine similarity scores for each research topic was generated, each similarity score was converted into a point system that follows the following value counting method.
 - If a score was less than 0.075, we added 1 to the absolute score of the research topic.
 - If a score was more than or equal to 0.075 and less than 0.100, we added 2 to the absolute score of the research topic.
 - If a score was more than or equal to 0.100 and less than 0.125, we added 3 to the absolute score of the research topic.
@@ -31,4 +36,4 @@ After the cosine similarty scores for each research topic was filtered, we then 
 - If a score was more than or equal to 0.250 and less than 0.275, we added 9 to the absolute score of the research topic.
 - If a score was more than or equal to 0.275, we added 10 to the absolute score of the research topic.
 
-Based on the results of each absolute similarity score, we normalzied the results to report the final similarity score of a value between 0 and 5.  If a research topic received a score of 5, it signals that the research topic scored the highest level of similarity across the publication dataset compared with all other reearch topic description.
+Based on the results of each absolute similarity score, the results were normalized to report the final similarity score of a value between 0 and 5. If a research topic received a score of 5, it signals that the research topic scored the highest level of similarity across the publication dataset compared with all other research topic descriptions.
