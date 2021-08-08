@@ -3,11 +3,11 @@
 # Text Input with AR Head Mounted Displays
 
 # Description
-Most AR experiences developed for mixed reality head mounted displays require some level of user interaction, such as text input, gestures, and/or voice input. While voice is the quickest method for a user to control and interact with digital assets, it is prone to error with varying speaking styles, accents, and emotion. It is also not well suited to noisy industrial environments. Text input is typically conducted through hand/finger gestures or a handheld clicker with a virtual QWERTY keyboard. Research examining user performance reveals that both methods are cumbersome with an average 5-6 WPM. (For comparison, typical typing speeds on mobile devices range from 30-50 WPM.) This performance level is unacceptable for continued and effective use in the workplace. In addition, users may feel fatigued after holding their arm/hand in compromising positions for extended periods of time.
+Most AR experiences developed for mixed-reality head-mounted displays require some level of user interaction, such as text input, gestures, or voice input. While voice is the quickest method for a user to control and interact with digital assets, it is prone to error thanks to varying speaking styles, accents, and emotions. It is also not well suited to noisy industrial environments. Text input is typically conducted through hand or finger gestures or a handheld clicker with a virtual QWERTY keyboard. Research examining user performance reveals that both methods are cumbersome, with an average of 5-6 WPM. (For comparison, typical typing speeds on mobile devices range from 30 to 50 WPM.) This performance level is unacceptable for continued and effective use in the workplace. In addition, users may feel fatigued after holding their arm in compromising positions for extended periods of time.
 
-User acceptance and satisfaction is critical and a common struggle among developers of alternate keyboard design, even outside of the HMD/AR domain. The QWERTY keyboard, for example, has been shown to result in slower performance than alternative designs but the general public is unwilling to relearn a new method.
+User acceptance and satisfaction is critical and a common struggle among developers of alternate keyboard design, even outside of the HMD/AR domain. The QWERTY keyboard, for example, has been shown to result in slower performance than alternative designs, but the general public is unwilling to relearn a new method.
 
-This research topic involves the study of alternate methods of text input to develop methods with higher performance and user satisfaction. The approaches to be studied include the design of a virtual keyboard, advancing the algorithms behind the keyboard predictive text functionality, or the user interaction (i.e., tap gesturing vs trace, eye gaze input).
+This research topic involves the study of alternate methods of text input to develop methods with higher performance and user satisfaction. The approaches to be studied include the design of a virtual keyboard and advancing the algorithms behind the keyboard predictive text functionality and user interaction (i.e., tap gesturing vs trace, eye gaze input).
 
 # Prior Research
 To be generated via FindAR
@@ -25,7 +25,7 @@ End User and User Experience, Displays, Technology
 Developers, operators of machinery, all users of AR experiences requiring user input of text, performance and quality control managers
 
 # Reasons this topic is important for AREA members
-Almost all AR experiences used with wearable displays require some level of user input of alphanumeric informaiton. Improving input methods to increase the speed and quality of input so that it is easy to use, efficient, and not prone to error will provide for better user experiences and widespread AR acceptance.
+Almost all AR experiences used with wearable displays require some level of user input of alphanumeric informaiton. Improving input methods to increase the speed and quality of input so that it is easy to use, efficient, and not prone to error will provide for better user experiences and more widespread AR acceptance.
 
 # Possible Methodologies
 Researchers interested in this topic may examine the efficacy of the virtual keyboard design itself, the method of user interaction (speech, gesture type), or the predictive text algorithms used. A combination of objective measures (e.g., time (WPM), error rates) as well as subjective measures (e.g., user satisfaction, acceptance, preference among methods, likelihood to use) should be examined.
