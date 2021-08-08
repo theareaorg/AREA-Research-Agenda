@@ -35,16 +35,16 @@ If, when and where the research is conducted with the support of public funding 
 
 NOTE: Do the next two paragraphs say the same thing (repeat the same ideas)? Is there another order that would improve the flow?
 
-A “Research Agenda” is a living resource that focuses the attention of stakeholders and helps to establish priorities for research organizations, governmental and non-governmental funding organizations and planners who serve research stakeholders in other capacities. Once published, it can be maintained and/or used to measure progress against stakeholder-generated issues and gaps in knowledge or tools that can be addressed through research.
+A “Research Agenda” is a living resource that focuses the attention of stakeholders and helps to establish priorities for research organizations, governmental and non-governmental funding organizations and planners who serve research stakeholders in other capacities. Once published, it should be maintained and/or used to measure progress against stakeholder-generated issues and gaps in knowledge or tools that can be addressed through research.
 
 A Research Agenda is a framework to guide research priorities and funding so that these focus on the most urgent needs of the greatest communities and target the obstacles to meet goals of those communities. Most researchers would prefer to address the “pain points” of customers or future customers than to invent new approaches or shed light on solutions to problems of their own invention. By providing curated descriptions of an ecosystem’s needs based on gaps and assessments compiled using objective methodologies research agendas can reduce the time required to align resources to needs and reduce the risks of making poorly-informed choices.
 
-=== Organization of this resource
+=== Organization of This Resource
 
-Prose sections of this public resource provide context and background for those who may wish to:
+This public resource provides context and background for those who may wish to:
 
-. learn about research agendas in general,
-. understand the target audiences for this work, and/or
-. study and reproduce or comment on the methodologies used in preparation of the AREA's Research Agenda 2021.
+. Learn about research agendas in general,
+. Understand the target audiences for this work, and/or
+. Study and reproduce or comment on the methodologies used in preparation of the AREA's Research Agenda 2021.
 
-At its core, the AREA Research Agenda 2021 is a set of research topic descriptions developed to guide research priorities. A simple table with support for column sorting serves as the principle navigational interface to access the topic descriptions.
+At its core, the AREA Research Agenda 2021 is a set of research topic descriptions developed to guide research priorities. An interactive dashboard with support for column sorting serves as the principle navigational interface to access the topic descriptions.

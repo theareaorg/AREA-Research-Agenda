@@ -1,8 +1,6 @@
 [[ra-methodology-section]]
 == Methodology
 
-////NOTE: Introduction to the section saying that there are many ways to develop research agendas.
-
 There is not a single widely-accepted or standard method or protocol for developing a research agenda. Each institution can develop its own methods or adapt methods used by others. Some may find it valuable to learn about the principles of research agenda development by perusing https://www.google.com/search?q=research+agenda+purpose+and+structure&tbm=isch&source=univ&sa=X&ved=2ahUKEwip1P2GlZrgAhUFGewKHTNZBTQQsAR6BAgGEAE&biw=1918&bih=961#imgrc=gt2OdYGnFtia1M[figures describing different approaches others have used.]
 
 One particularly useful figure is from the https://www.researchgate.net/profile/Bert-J-Groenewoudt/publication/321882122_Groenewoudt_BJ_MC_Eerden_T_de_Groot_EM_Theunissen_2017_Answers_to_questions_The_new_National_Archaeological_Research_Agenda_of_the_Netherlands/links/5a37c068a6fdccdd41fdb740/Groenewoudt-BJ-MC-Eerden-T-de-Groot-EM-Theunissen-2017-Answers-to-questions-The-new-National-Archaeological-Research-Agenda-of-the-Netherlands.pdf[Dutch Archeological Research Agenda] published in 2017. Figure 4 in this report, appears below.
@@ -24,4 +22,4 @@ AREA members may find it difficult to separate the development of the research a
 === Core Principles
 It is the goal of the https://thearea.org/area-research/[AREA Research Committee] to emphasize values of openness, collaboration and participation in the development process. The AREA methodology is also recursive (views itself as part of the methodology).
 
-The AREA Research Committee has also developed and proposes best practices for enterprise AR research. 
+The AREA Research Committee has also developed and proposes best practices for enterprise AR research.
