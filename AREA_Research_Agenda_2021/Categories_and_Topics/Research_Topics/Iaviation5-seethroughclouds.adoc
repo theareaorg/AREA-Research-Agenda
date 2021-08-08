@@ -23,7 +23,7 @@ Industries, Displays, Technology
 AR experience developers, operators and owners/users of commercial, private or military aircraft
 
 # Reasons this topic is important for AREA members
-AREA members with use cases in industries that could use AR in environments with low visibility are not currently able to. Almost all existing AR products for outdoor situational awareness rely on RGB or RGBD cameras for real-time environment acquisition, yet the visualization of obstacles or other salient features of the physical world  in atmospheric conditions unsuitable to vision-based sensors wculd serve as the basis for decision making for users when operating equipment.
+AREA members with use cases in industries that could use AR in environments with low visibility are not currently able to. Almost all existing AR products for outdoor situational awareness rely on RGB or RGBD cameras for real-time environment acquisition, yet the visualization of obstacles or other salient features of the physical world  in atmospheric conditions unsuitable to vision-based sensors would serve as the basis for decision making for users when operating equipment.
 
 # Possible Methodologies
 Acquisition and/or development of lightweight and power-efficient infrared sensors that are effective as alternatives to cameras and existing vision-based environmental capture. Testing and development of 3D interaction modes when user's natural vision is impaired. This research topic could explore IR sensors (which measure differences in temperature, also known as "thermal imaging"), as well as new alternatives.
