@@ -1,17 +1,17 @@
 [[ra-Srobotics5-testingmethods]]
 
-# Testing Protocols for AR-Assistend Human-Robot Interaction
+# Testing Protocols for AR-assisted Human-Robot Interaction
 
 # Description
-In terms of collaborative robotics, the widespread adoption of robots in historically manual manufacturing environments (which are subject to high product turnover, short production runs, and high variability in equipment configurations) is limited by the robots’ inability to effectively and safely integrate and interact with the existing human labor.  Instead, so-called collaborative robots are relegated to secluded operations with minimal contact with the workforce.  The robots’ inability to communicate with, understand the intention of, and establish a mutual understanding of the environment and situation with human coworkers decreases the robots’ usefulness in collaborative teams consisting of both robots and people.  This limitation is driven by both the absence of tools and protocols needed for effectively describing and measuring human-robot interactions, an incomplete collection of metrics for assessing human-robot teaming performance, and insufficient protocols for enabling more intuitive interfacing with robotic tools. These challenges are compoudned when augmented reality technologies are used at the interface between the robotcs and human workers.
+In terms of collaborative robotics, the widespread adoption of robots in historically manual manufacturing environments (which are subject to high product turnover, short production runs, and high variability in equipment configurations) is limited by the robots’ inability to effectively and safely integrate and interact with the existing human labor.  Instead, so-called collaborative robots are relegated to secluded operations with minimal contact with the workforce.  The robots’ inability to communicate with, understand the intention of, and establish a mutual understanding of the environment and situation with human coworkers decreases the robots’ usefulness in collaborative teams consisting of both robots and people.  This limitation is driven by both the absence of tools and protocols needed for effectively describing and measuring human-robot interactions, an incomplete collection of metrics for assessing human-robot teaming performance, and insufficient protocols for enabling more intuitive interfacing with robotic tools. These challenges are compoudned when augmented reality technologies are used at the interface between the robotics and human workers.
 
-This research opportunity should focus on providing the methods, protocols, and metrics necessary to evaluate the interactive and teaming capabilities of robot systems, and will use a task-driven decomposition of manufacturing processes to assess and assure the safety and effectiveness of human-robot collaborative teams.
+This research topic focuses on providing the methods, protocols, and metrics necessary to evaluate the interactive and teaming capabilities of robot systems. It uses a task-driven decomposition of manufacturing processes to assess and assure the safety and effectiveness of human-robot collaborative teams.
 
 # Prior Research
 To be generated via FindAR
 
 # Key Words
-robotics, human-robot interaction, human-computer intaction, remote monitoring, remote control, collaborative robots
+robotics, human-robot interaction, human-computer interaction, remote monitoring, remote control, collaborative robots
 
 ## FindAR Terms
 autonomous agents, communication, computer vision, control systems, cooperative systems, grippers, human factors, human-robot interaction, industrial robots,	industry 4.0, intelligent robots, multi-robot systems, occupational safety, robotics, safety
@@ -20,10 +20,12 @@ autonomous agents, communication, computer vision, control systems, cooperative 
 Standards, Technology, End User and User Experience
 
 # Stakeholders
-Manufacturers will benefit from the products generated as a result from this research project.  Robotics providers can also benefit in that standard testing prototcols for human-robot interaction will generate new sales tactics. End users will benefit in that the end state will be much safer in complex manufacturing environments.
+Manufacturers will benefit from the products generated as a result from this research project.  Robotics providers can also benefit in that standard testing protocols for human-robot interaction will generate new sales tactics. End users will benefit in that the end state will be much safer in complex manufacturing environments.
 
 # Reasons this topic is important for AREA members
-Robotics are pervasive in manufacturing, a key area of AREA members. However, safety concerns in collaborative robotics scnearios have curbed overal use.  AR-enabled communication between humans and robots can create a much safer environment.
+- Robotics are pervasive in manufacturing, a key area of AREA members
+- However, safety concerns in collaborative robotics scenarios have curbed overall use.
+- AR-enabled communication between humans and robots can create a much safer environment.
 
 # Possible Methodologies
 This collection of methods, protocols, and metrics will enable integrators and end-users to maximize the effectiveness and efficiency of collaborative human-robot teams in production processes, impacting both large-scale companies designing and repurposing hybrid manufacturing workflows, and smaller companies looking to begin introducing automated tools into manual processes.
@@ -32,10 +34,13 @@ This collection of methods, protocols, and metrics will enable integrators and e
 Long-term
 
 # Research Program
-This research topic mirrors https://www.nist.gov/programs-projects/performance-human-robot-interaction[an existing project at NIST].  Inspiration can be driven from the existing work generated by that team.  Furthermore, IEEE is a leader in curating academic work in this area.  Refer to https://www.ieee-ras.org/conferences-workshops[IEEE RAS] for related publication venues, including https://www.ieee-ras.org/conferences-workshops/fully-sponsored/case[IEEE CASE], https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra[IEEE ICRA], and https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros[IEEE IROS].
+This research topic mirrors https://www.nist.gov/programs-projects/performance-human-robot-interaction[an existing project at NIST]. Inspiration can be driven from the existing work generated by that team. Furthermore, IEEE is a leader in curating academic work in this area. Refer to https://www.ieee-ras.org/conferences-workshops[IEEE RAS] for related publication venues, including https://www.ieee-ras.org/conferences-workshops/fully-sponsored/case[IEEE CASE], https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra[IEEE ICRA], and https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros[IEEE IROS].
 
 # Miscellaneous Notes
-This topic requires significant hardware, middleware, and software integration.  One open source framework is https://rosindustrial.org/[ROS-Industrial]
+This topic requires significant hardware, middleware, and software integration. One open source framework is https://rosindustrial.org/[ROS-Industrial]
 
 # Author
 Bill Bernstein
+
+# History
+This research topic was published on August 30, 2021.

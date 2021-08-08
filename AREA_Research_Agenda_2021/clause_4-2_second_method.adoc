@@ -1,18 +1,14 @@
 [[ra-second-method-section]]
 === Research Agenda Preparation
 
-NOTE: this section describes how the AREA Research Agenda was developed.
-
 The analyses described in the previous section produced a ranking of the groups of topics in each of seven categories. Topics in the lowest frequency groups were examined and some were designated as having high relevance to enterprise AR adoption.
 
-SHOULD WE INSERT THE SEVEN BAR GRAPHS HERE or in the INTRODUCTION SECTION OF RESEARCH TOPICS (Next section)?
+# AREA Member Topics
+Since January 2017 AREA members have responded to nine calls for research project topics. The topics submitted were reviewed and some of those were captured as inputs for this research agenda. In addition, AREA members were involved in the validation of the first forty topics.
 
-## AREA Member Topics
-Since January 2017 AREA members have responded to nine calls for research project topics. The topics submitted were reviewed and five of those were captured as inputs for this research agenda. In addition, AREA members were involved in the validation of the first forty topics.
+In parallel with the publication of this research agenda, members are solicited to complete a simple Web form with additional research topics. During conference calls among AREA members, additional topics or inputs are continually identified.
 
-In parallel with the publication of this research agenda, members are solicited to complete a simple Web form with additional research topics. During conference calls among AREA members, additional topics or inputs were identified.
-
-==== Other sources
+////
 Other potential topics of importance:
 
 . AR and 5G, Edge-computing
@@ -110,3 +106,4 @@ NOTE: INSERT path to the sections in "documentation" folder
 
 ==== Publication
 The AREA Research Agendas are published on the Web (in HTML) and in PDF.
+///
