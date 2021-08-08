@@ -3,7 +3,7 @@
 # AR Visualization of Body Sensors for Worker Biofeedback
 
 # Description
-During the performance of tasks or fulfilment of roles, an employee may be unaware of changes in their involuntary bodily functions such as blood pressure and heart rate. When aware of any unusual metrics, the user can choose or be prompted to take appropriate actions. Visual and/or auditory information captured in real time by body-worn sensors (e.g., watches) could capture posture, head flexion and extension, whether the arms are above the shoulders, aand possibly even squatting. The system could provide feedback on static posture duration and/or frequency and suggest postural changes or breaks based on criteria that increase the risk of muscular skeletal disorders.
+During the performance of tasks or fulfilment of roles, an employee may be unaware of changes in their involuntary bodily functions such as blood pressure and heart rate. When aware of any unusual metrics, the user can choose or be prompted to take appropriate actions. Visual and/or auditory information captured in real time by body-worn sensors (e.g., watches) could capture posture, head flexion and extension, whether the arms are above the shoulders, and possibly even squatting. The system could provide feedback on static posture duration and/or frequency and suggest postural changes or breaks based on criteria that increase the risk of muscular skeletal disorders.
 
 The sensor data can be provided to the AR display through a body-area network. This topic focuses on the low-latency transmission and processing of observations from body-worn sensors to the user's AR display and the presentation of data and recommendations in a compact and actionable manner. The system design research should explore both automated modes (which are triggered upon the user's functions reaching a threshold) as well as manually controlled modes (e.g., enabled by a user seeking to obtain vital statistics). There must also be research to ensure that any AR visualization system is secure and upholds all relevant user data privacy protection policies.
 
@@ -37,7 +37,7 @@ This research topic can be combined with other topics pertaining to automated al
 # Miscellaneous Notes
 A peer-reviewed study of a biofeedback system combined with a VR display for managing emotional states was https://dl.acm.org/doi/abs/10.1145/3089269.3089273[published in SIGGRAPH '17 proceedings]. As documented in this https://res.mdpi.com/d_attachment/applsci/applsci-09-03248/article_deploy/applsci-09-03248.pdf[2019 review of the state of the art of body-area network usage in healthcare], the technology is maturing. Combining body-area networks and AR in professional domains is an unexplored field that has high potential for impact.
 
-Similarly, biometrics and the use of biofeedback in the workplace are very large and active fields of research. However, to date, their intersection with augmented reality has not been documented in the peer-reviewed literature.
+Similarly, biometrics and the use of biofeedback in the workplace are very large and active fields of research. However, to date, their intersection with Augmented Reality has not been documented in the peer-reviewed literature.
 
 # Author
 Christine Perey
