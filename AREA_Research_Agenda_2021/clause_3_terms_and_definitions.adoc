@@ -1,60 +1,25 @@
 [[ra_terms-and-definitions_section]]
 == Terms and Definitions
 
-NOTE: Some terms that are specific to the AREA research agenda: machine-assigned terms, groups, categories, research topic, research program (these are used in the research topic descriptions). See About Low-Level Terms for more details...
+For the purposes of the AREA Enterprise AR Research Agenda, the following terms are defined.
 
-NOTE: Need to define what is meant by short, medium and long-term time frames in the research topic descriptions.
+*Categories* +
+the highest level organizational system for all research topics. These are designated by the AREA Research Agenda team for the purpose of navigating the FindAR database and are carried into the analyses performed for knowledege gap identification. There are seven categories about which more information is found Documentation/About-Mid-And-High-Level-Terms.adoc[here]
 
-For the purposes of this document, the following additional terms and definitions apply.
+*Groups* +
+buckets of machine-generated terms that broadly describe a research domain. Currently, there exist 61 groups, which were agreed upon by subject matter experts. More information about groups is found in Documentation/About-Mid-And-High-Level-Terms.adoc[here]
 
-NOTE: This clause currently contains some placeholders that remain from the template on which this document is based (OGC CityGML Users Guide). As part of the development of the Research Agenda, we will remove the placeholders and define all the mid-level and high-level terms created for the FindAR tool and used as the basis for analyses generating the thought leadership in the AREA Research Agenda.
+*Long Term* +
+a time frame of more than 5 years when the results of a research project may be expected to yield results of value to the enterprise AR ecosystem
 
-Comment from Carl Byers: One thing I noted when going through the research topics is the ‘flexibility’ of the definition of ‘research’. Some topics are very applied (more like prototype demonstrations and testbeds) while others are much more emergent. Maybe that is captured in your ‘position on X-Y axes entry? If not, some rating to character the research on a spectrum would be useful.
+*Machine-generated Terms* +
+controlled keywords from two literature databases, namely Inspec and Compandex. More information about machine generated terms is found in About-Low-Level-Terms.adoc[here]
 
+*Medium Term* +
+a time frame of more than 2 and less than 5 years when the results of a research project may be expected to yield results of value to the enterprise AR ecosystem
 
-[[d2d-data-definition]]
-*2D data* +
-geometry of features is represented in a two-dimensional space +
-NOTE In other words, the geometry of 2D data is given using (X,Y) coordinates. +
-{blank}[INSPIRE D2.8.III.2, definition 1]
+*Research Program* +
+an organizational model to cluster the research topic with other topics that could, together, make broader contributions to the industry
 
-[[d2-5d-data-definition]]
-*2.5D data* +
-geometry of features is represented in a three-dimensional space with the constraint that, for each (X,Y) position, there is only one Z +
-{blank}[INSPIRE D2.8.III.2, definition 2]
-
-[[d3d-data-definition]]
-*3D data* +
-Geometry of features is represented in a three-dimensional space. +
-NOTE In other words, the geometry of 2D data is given using (X,Y,Z) coordinates without any constraints. +
-{blank}[INSPIRE D2.8.III.2, definition 3]
-
-[[application-schema-definition]]
-*application schema* +
-A set of <<conceptual-schema-definition,conceptual schema>> for data required by one or more applications. An application schema contains selected parts of the base schemas presented in the ORM Information Viewpoint. Designers of application schemas may extend or restrict the types defined in the base schemas to define appropriate types for an application domain. Application schemas are information models for a specific information community. +
-{blank}OGC Definitions Register at link:http://www.opengis.net/def/glossary/term/ApplicationSchema[]
-
-[[codelist-definition]]
-*codelist* +
-A value domain including a code for each permissible value.
-
-[[conceptual-model-definition]]
-*conceptual model* +
-model that defines concepts of a universe of discourse +
-{blank}[ISO 19101-1:2014, 4.1.5]
-
-[[conceptual-schema-definition]]
-*conceptual schema*
-
-. formal description of a <<conceptual-model-definition,conceptual model>> +
-{blank}[ISO 19101-1:2014, 4.1.6]
-. base schema. Formal description of the model of any geospatial information. <<application-schema-definition,Application schemas>> are built from conceptual schemas. +
-{blank}OGC Definitions Register at link:http://www.opengis.net/def/glossary/term/ConceptualSchema[]
-
-[[implementation-specification-definition]]
-*Implementation Specification* +
-Specified on the OGC Document Types Register at link:http://www.opengis.net/def/doc-type/is[]
-
-
-
-NOTE: Notice that each definition has an anchor. Anchor text would also be a good idea which we may include later. Terms used within a definition should be cross-linked to their definition if it is included in this document (see <<application-schema-definition,Application Schema>> for an example.
+*Short Term* +
+a time frame of less than 2 years when the results of a research project may be expected to yield results of value to the enterprise AR ecosystem

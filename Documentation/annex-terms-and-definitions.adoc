@@ -1,9 +1,0 @@
-# Terms and Definitions
-
-The terms used in the AREA Research Agendas will be listed and definitions provided in this annex.
-
-The terms and definitions contained in this file will be used in the terms and definitions clause of each edition of the Research Agenda issued by the AREA.
-
-*this is a term* +
-This is the definition+
-{blank}[source]

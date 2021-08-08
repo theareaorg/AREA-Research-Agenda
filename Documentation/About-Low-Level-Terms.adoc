@@ -1,7 +1,7 @@
 # About Machine-Generated Terms
 
 ## What are Machine-Generated Terms?
-In this work, we define *machine-generated terms* as controlled keywords from two literature databases, namely Inspec and Compandex.  The basis of machine-generated terms are "controlled vocabulary" from Engineering Village, a commercial publication querying tool.  The controlled vocabulary presented in the Engineering Village tool is defined as a taxonomy of terms based on Inspec and Compandex.  These terms are not curated by the authors or venues of the papers, but rather a commonized taxonomy per indexing service.
+In this work, we define *machine-generated terms* as controlled keywords from two literature databases, namely Inspec and Compandex. The basis of machine-generated terms are "controlled vocabulary" from Engineering Village, a commercial publication querying tool. The controlled vocabulary presented in the Engineering Village tool is defined as a taxonomy of terms based on Inspec and Compandex. These terms are not curated by the authors or venues of the papers, but rather a commonized taxonomy per indexing service.
 
 Note that Inspec and Compandex have different taxonomies to define their controlled keywords.  This in itself triggers significant challenges for commonizing records for query and analysis.
 

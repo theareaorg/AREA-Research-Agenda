@@ -1,5 +1,3 @@
-# Processes for Validating AREA Research Agendas
+# Exploring AREA Research Agenda Topics
 
-Title of research topics will be put in tables and organized in graphical ways to illustrate chains/sequence to view in different order/priorities. Each title will be an anchor/link to a single Web page or a box in PDF with additional details on the topic. 
-
-AREA Sponsor members will be invited to review the Research Agenda and to offer feedback.
+Title of research topics can be shown in an interactive dashboard. Each research topic title is an anchor/link to a single Web page or a box in PDF with additional details on the topic.
