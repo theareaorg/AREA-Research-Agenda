@@ -18,7 +18,7 @@ To be generated via FindAR
 biometric, palm print, voice print, gait, retina scanning, iris scanning, heartbeat detection, skin conductivity
 
 ## FindAR Terms
-access control, data protection, security systems,  authentication, message authentication, authorization, data security, access protocols
+access control, data protection, security systems, authentication, message authentication, authorization, data security, access protocols
 
 # Research Agenda Categories
 Displays, End User and User Experience, Technology
