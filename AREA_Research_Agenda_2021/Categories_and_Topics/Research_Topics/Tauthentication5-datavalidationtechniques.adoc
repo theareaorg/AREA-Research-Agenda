@@ -10,7 +10,7 @@ Depending on use cases or publishers, the level of confidence about accuracy and
 This research topic focuses on development of ontologies, protocols and/or standards to ensure and to  communicate to or between enterprise systems and users in workplaces that data delivered for use in AR experiences is from an authorized source. In parallel, the research will study or develop on-device authentication systems to validate that data which is added to a pooled (cloud-based) data repository during an AR experience (e.g. tagging information and placing information) is authoritative and the source traceable.
 
 # Prior Research
-To be generated via FindAR
+4.70
 
 # Key Words
 data capture, data streaming, security, authentication, author, authorship, publication, ownership, remote data repositories, AR cloud, edge computing, spatial computing

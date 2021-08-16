@@ -8,7 +8,7 @@ In terms of collaborative robotics, the widespread adoption of robots in histori
 This research topic focuses on providing the methods, protocols, and metrics necessary to evaluate the interactive and teaming capabilities of robot systems. It uses a task-driven decomposition of manufacturing processes to assess and assure the safety and effectiveness of human-robot collaborative teams.
 
 # Prior Research
-To be generated via FindAR
+1.16
 
 # Key Words
 robotics, human-robot interaction, human-computer interaction, remote monitoring, remote control, collaborative robots

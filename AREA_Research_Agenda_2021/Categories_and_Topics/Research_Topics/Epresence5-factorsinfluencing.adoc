@@ -16,7 +16,7 @@ The main research question in this area is "How much virtual information of what
 This research topic involves the examination of AR environments with differing amounts of virtual elements at different levels of fidelity and the measurement of presence among users.
 
 # Prior Research
-To be generated via FindAR
+4.07
 
 # Key Words
 presence, immersion, awareness, realism, cognitive tunneling, mental workload, seamless experience, high fidelity, low fidelity, realism, avatars, object interaction, display technology
@@ -29,8 +29,6 @@ End User and User Experience, Industries, Technology
 
 # Stakeholders
 Developers, users, operators, users of collaborative virtual environments
-
-# Position on X and Y axes (1-5)
 
 # Reasons this topic is important for AREA members
 - AREA members will benefit from having new ways to define effective AR application environments from the end user perspective.

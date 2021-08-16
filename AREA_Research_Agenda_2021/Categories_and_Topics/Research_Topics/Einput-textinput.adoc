@@ -10,7 +10,7 @@ User acceptance and satisfaction is critical and a common struggle among develop
 This research topic involves the study of alternate methods of text input to develop methods with higher performance and user satisfaction. The approaches to be studied include the design of a virtual keyboard and advancing the algorithms behind the keyboard predictive text functionality and user interaction (i.e., tap gesturing vs trace, eye gaze input).
 
 # Prior Research
-To be generated via FindAR
+3.84
 
 # Key Words
 text entry, text editing, virtual keyboard, trace input

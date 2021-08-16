@@ -12,7 +12,7 @@ Biometric identification methods, ranging from palm-prints, voice-prints, iris s
 This research topic compares different modalities of biometric identification and classifies them based on accuracy, cost and ease-of-use.
 
 # Prior Research
-To be generated via FindAR
+1.58
 
 # Key Words
 biometric, palm print, voice print, gait, retina scanning, iris scanning, heartbeat detection, skin conductivity

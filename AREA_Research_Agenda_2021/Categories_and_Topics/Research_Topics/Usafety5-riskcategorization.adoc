@@ -7,7 +7,7 @@
 While it is widely believed that the use of AR has vast potential in operational contexts, particularly those in which large amounts of risk are present, it is thus far difficult for senior stakeholders to narrow down operational processes and scenarios that stand to receive the largest benefit from the introduction of AR technology. Being able to clearly define and target specific opportunities for not only significant process improvement, but also tangible reductions in Lost Time Incident Rate (LTIR) and Total Recordable Incident Rate (TRIR), due to safe and effective operations.  It is quite standard in high-risk, high-compliance industries to operate under what is typically called a Risk Appetite Matrix, which considers risk type, projected impact, and projected likelihood to determine risk appetite and inform specific mitigation strategies. Because this determination is a human one and involves a series of factors, AR may even prove helpful around remote collaboration/guidance to operators as they make these decisions. Furthermore, the assignment of AR as PPE to particular workplace operations prone to higher risk should clearly demonstrate ROI that would warrant scalable and wide-spread adoption worldwide.
 
 # Prior Research
-1
+0.83
 
 # Key Words
 Operational risk, operational risk management, Lost Time Incident Rate, LTIR, Total Recordable Incident Rate, TRIR, safety, compliance, hazard identification

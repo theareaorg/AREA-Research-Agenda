@@ -11,7 +11,7 @@ Increasingly, industries are collecting mass amounts of operational data and par
 This study would aim to specifically measure the tangible operational processes proactively improved by human intervention to a process prompted by a connected AR headset, providing data insights, as well as prompting appropriate proactive human behavior to maintain operational parameters/limits. +
 
 # Prior Research
-1
+1.60
 
 # Key Words
 Automation, resklling, skill development, augmentation, superjobs, superteams, operational excellence, IoT, process improvement, augmented reality

@@ -14,7 +14,7 @@ The second issue that presents a barrier is the extension of mobile device manag
 The scope of this research straddles two fields that are not easily combined. The two topics could be studied separately.
 
 # Prior Research
-To be generated via FindAR
+4.19
 
 # Key Words
 sanitation, clean equipment, access control, user authentication, authorization, biometric, safe display cleaning,

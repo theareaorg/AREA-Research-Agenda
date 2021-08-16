@@ -8,7 +8,7 @@ In many industries, workplaces contain a plethora of hazards. When known or anti
 Through data collected by user location sensing technologies on devices, and potentially on users' PPE, as well as maps of known hazards, data generated from sensors on stationary or moving machines, and other methods, artificial intelligence algorithms could be used to continuously maintain and monitor a dynamic 3D map of hazards in a user's proximity. The user may be provided the hazard proximity map at intervals or request to visualize hazards in proximity. When the user reaches conditions with respect to the hazard that suggests appropriate actions are needed, an alert on an AR device can spatially anchor the source of risk or hazard in the user's perception (see Automated Alert to Dangerous Settings [[ra-Salert5-dangerosity]]). If and when needed, guidance for risk mitigation can be provided.
 
 # Prior Research
-1
+1.83
 
 # Key Words
 Hazard detection, hazard management protocol, hazard warning, location-detection, 3D spatial mapping, artificial intelligence, user interface, user experience, risk assessment, risk management, situational awareness

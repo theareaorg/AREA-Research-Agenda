@@ -8,7 +8,7 @@ AR Cloud technologies are emerging as part of a broader, 3D “spatial computing
 This research project will focus on definition of requirements and development of prototypes of devices and network technologies that are not tied to any single vendor's device and network offerings. The results will permit enterprises to evaluate and quantify the benefits of distributed AR Cloud architectures without limiting options for multi-vendor networks. Edge computing technologies will also be essential components.
 
 # Prior Research
-To be generated via FindAR
+5.00
 
 # Key Words
 edge computing, spatial computing, AR cloud, cloud computing, 3D mapping, computer vision, object tracking, localization, relocalization

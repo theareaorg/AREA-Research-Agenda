@@ -8,7 +8,7 @@ As the complexity and computational requirements of world capture, world analysi
 Specifically, the proposed topic will research, build, and test implementations of new methods of energy harvesting from sources that have not been used in prior wearable AR display systems. There will need to be studies of human movement (steps, arms, hands), solar sources for users that are outdoors, and chemical reactions that release energy. This topic will span a wide range of technologies, including analysis of the power requirements of each individual AR display component.
 
 # Prior Research
-To be generated via FindAR
+2.45
 
 # Key Words
 power use, power consumption, power production, AR device energy sources, energy capture, energy production, AR device energy transfer, energy consumption, energy management, electromechanical, solar energy, friction, power storage for AR displays, human factors, weight, usability, portability

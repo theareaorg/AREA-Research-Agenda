@@ -8,7 +8,7 @@ In or in proximity of an AR-enabled user's workplace, and in the field of view o
 This research topic includes using automatic detection of faces in an AR camera's field of view, determining if the detected facial features are among those of people who have granted their permission to be tracked, and if the face does not match any in the database of those who have granted permission, to automatically and continuously obfuscate the features.
 
 # Prior Research
-To be generated via FindAR
+3.34
 
 # Key Words
 face detection, facial identification, obfuscation of region of interest, personal information, privacy, privacy protection, security, compliance

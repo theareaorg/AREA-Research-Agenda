@@ -8,7 +8,7 @@ Some complex instructions and illustrations used in training or on the job requi
 This research topic focuses on measuring the impact of binocular (vs monocular) vision on short- and long-term memory encoding (i.e., the process of changing sensory inputs into forms that are stored in the brain and anchored in such a way that enables effective retrieval).
 
 # Prior Research
-To be generated via FindAR
+1.74
 
 # Key Words
 spatial vision, spatial memory, visual encoding, memory anchoring, spatial frequency, receptive Field, modulation transfer function, high spatial frequency, threshold contrast, spatial strategies, spatial orientation, object location

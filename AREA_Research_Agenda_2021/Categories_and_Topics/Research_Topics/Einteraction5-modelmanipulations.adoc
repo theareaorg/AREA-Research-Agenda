@@ -10,7 +10,7 @@ Unfortunately, the tools (e.g., pointing devices) and conventions (e.g., gesture
 This research topic focuses on the design, development, and evaluation of computer-human interactions and computer graphic techniques to improve the ease-of-use of 3D models in AR experiences. When research results are published in peer-reviewed journals, there will be greater diversity in solutions and more innovation based on a deeper understanding of the options and trade-offs involved.
 
 # Prior Research
-To be generated via FindAR
+4.00
 
 # Key Words
 3D models, selection, manipulation, anchors, labels, handles, rotation, scale, attach, human computer interaction, computer human interaction, computer graphics

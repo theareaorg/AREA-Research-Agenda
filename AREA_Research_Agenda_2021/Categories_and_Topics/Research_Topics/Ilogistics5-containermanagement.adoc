@@ -17,7 +17,7 @@ Head mounted displays, handheld devices or stationary cameras can track loading 
 This research topic focuses on documenting use cases for enriching the interactions that AR-enabled technicians, on board, during loading and in port, can have and decisions they may make when receiving and using accurate and up-to-date information about containers and their contents. As the professionals move about within and around containers when loading, inspecting, maintaining or repairing commercial containers, they will be more productive, and security and safety policy compliance can increase.
 
 # Prior Research
-To be determined by FindAR
+0.38
 
 # Key Words
 marine, logistics, shipping, freight, cold chain, commercial shipping, containers, tracking, ships, cargo airplanes, technicians, port operations, cargo loading, inspection, safety, security, stowage plan, loading order, weight distribution, track and trace, sensors, data fusion

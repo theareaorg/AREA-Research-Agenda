@@ -10,7 +10,7 @@ Using AR connected to 5G networks, it is possible to stream these models to a de
 The research scope should include comparative studies measuring the exact impact of automatic model and point cloud simplification due to streaming, possibly expressed by the decrease in polygon count vs the time required and error rates achieved in a particular operations. Measurement methods would be developed to ensure accuracy within 5% margin of error.
 
 # Prior Research
-To be generated via FindAR
+1.12
 
 # Key Words
 point cloud, large-scale 3D models, polygons, low-poly, high-poly, realistic

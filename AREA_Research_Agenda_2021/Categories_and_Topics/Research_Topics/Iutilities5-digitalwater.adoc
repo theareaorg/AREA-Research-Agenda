@@ -10,7 +10,7 @@ Largely a manual process of measurement and photographic documentation, this fir
 This research explores the use of AR devices mounted with different camera and SLAM sensory systems using manual measurements as a baseline. The focus is not on end users but on the rapid and accurate capture of data about existing infrastructure.
 
 # Prior Research
-To be generated via FindAR
+1.21
 
 # Key Words
 volumetric capture, utility asset management, digital water services, predictive water sources management

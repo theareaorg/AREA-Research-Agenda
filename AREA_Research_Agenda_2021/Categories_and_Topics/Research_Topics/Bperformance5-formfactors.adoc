@@ -12,7 +12,7 @@ This research topic focuses on the development of methodologies for performing o
 The research scope could be expanded to include performing comparative studies measuring the exact impact of wearable or projection AR modality vs. the handheld baseline across industries, use cases, and horizontal use case categories.
 
 # Prior Research
-To be generated via FindAR
+2.98
 
 # Key Words
 efficiency, handheld, projection AR, wearable displays, head-mounted displays, usability, user perception, human factors

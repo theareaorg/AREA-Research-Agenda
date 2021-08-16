@@ -10,7 +10,7 @@ Traffic information from smart phone users contributes to calculations of routes
 For example, in factories or warehouses, workers need to avoid moving through zones where robots are operating, where materials they are transporting do not fit through openings or through any space that is secure and requires credentials for entry/exit. Often the professional is expected to travel to a place which is unfamiliar/to which they have never been. Studies that train, with machine learning, algorithms to detect and use real world conditions would be highly beneficial. A professional may avoid unsafe or impassible routes.
 
 # Prior Research
-To be generated via FindAR
+3.54
 
 # Key Words
 geospatial AR, GPS, global positioning system, location, position, orientation, route, route optimization, navigation, planning, guidance, routing

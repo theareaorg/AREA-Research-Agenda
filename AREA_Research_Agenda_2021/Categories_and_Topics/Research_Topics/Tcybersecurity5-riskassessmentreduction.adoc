@@ -9,7 +9,7 @@ Sensitive enterprise or customer data could be exposed to threats from hostile a
 Approaches to reducing risk and increasing resilience of AR display devices can be tested and industry guidelines and best practices published by and for cybersecurity experts. The scope of the research could include comparisons of device vs wireless network security.
 
 # Prior Research
-FindAR generated value
+2.40
 
 # Key Words
 Cybersecurity, risk, encryption, distributed ledger technologies, integration, data interception

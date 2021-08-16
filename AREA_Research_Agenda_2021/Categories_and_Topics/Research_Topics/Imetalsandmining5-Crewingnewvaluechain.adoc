@@ -9,7 +9,7 @@ As an industry that has thus far been slower to adapt to automation, mining find
 This research topic aims to describe the manner in which employment and crew models can be reconstructed to reduce risk to the overall mining value chain and preserve operational targets so as to prevent wide-scale economic impact to the world economy.
 
 # Prior Research
-1
+0.14
 
 # Key Words
 metals and mining, employment, recovery, COVID, crew models, remote operations, risk reduction

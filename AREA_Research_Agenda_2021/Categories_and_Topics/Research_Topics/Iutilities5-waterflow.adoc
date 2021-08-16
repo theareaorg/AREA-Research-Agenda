@@ -8,7 +8,7 @@ Most municipal water supply pipe networks require a manual operation of various 
 This research topic includes a field test of handheld or wearable devices to aid technicians in the field to visualize water flow and water quality data received from the control center. The user's device also could be connected to the control room, or substations, where there are multiple water pipes and sensor stations to view. The scope of the research could include the visualization of interfaces for gate valves and other equipment in the field.
 
 # Prior Research
-To be generated via FindAR
+0.67
 
 # Key Words
 Data visualization, decision support, utility asset management, digital water services,

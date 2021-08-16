@@ -11,7 +11,7 @@ Leveraging advancements in Digital Signal Processing (DSP) and audiology, a new 
 The scope of this topic includes measurement of the spatial audio technology resource requirements and impacts of combining visual cues with spatial audio on user performance. Comparative studies of human cognitive performance aided by varying blends of spatial technology ranging from “audio-only” to “video-only” and various combinations of both are also in scope.
 
 # Prior Research
-To be generated via FindAR
+3.33
 
 # Key Words
 spatial audio, effectiveness, spatial vision, 3D audio

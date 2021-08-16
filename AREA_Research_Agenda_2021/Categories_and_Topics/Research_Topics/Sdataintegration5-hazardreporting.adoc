@@ -12,7 +12,7 @@ This research topic contributes technical requirements and potential solutions t
 The topic includes definition of automatic AR-assisted or enabled capture technology types suitable for hazardous incident reporting, resolutions of and compression rates for video and audio, data types to be captured (e.g., location data, temporal parameters, identities of nearby people and other), local and remote security to comply with anti-tampering precautions, and other relevant parameters, regardless of the maker of the AR display devices used.
 
 # Prior Research
-1
+2.02
 
 # Key Words
 Standards requirements, standard specifications, hazard management, risk management, safety management, data capture, data integration, data encryption, cybersecurity

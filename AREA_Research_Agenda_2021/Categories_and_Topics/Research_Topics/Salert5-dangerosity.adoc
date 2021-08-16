@@ -9,7 +9,7 @@ Many industries require that employees work in high risk environments. For this 
 This research topic will extend the user experiences that are currently provided on smartphones in the workplace. It will also need to clarify when and how existing alert systems prioritize the messaging to users and test usability and benefit of having the alerts appear in AR view.
 
 # Prior Research
-1
+0.93
 
 # Key Words
 safety, risk, automated alert, standards, situational awareness, sensors for risk detection, artificial intelligence

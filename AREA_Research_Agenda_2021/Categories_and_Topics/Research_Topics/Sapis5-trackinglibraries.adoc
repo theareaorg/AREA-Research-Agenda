@@ -12,7 +12,7 @@ As AR experiences become more complex and suitable for use in more environments 
 This research topic will explore requirements of AR experiences and the attributes of common and future tracking libraries for AR and, based on use cases and requirements, develop one or more application programming interfaces that can be implemented and submitted to an appropriate organization for standardization.
 
 # Prior Research
-To be generated via FindAR
+3.69
 
 # Key Words
 application programming interface, APIs, Tracking Library, AR Experience Software, Interoperability, Multi-Library support,

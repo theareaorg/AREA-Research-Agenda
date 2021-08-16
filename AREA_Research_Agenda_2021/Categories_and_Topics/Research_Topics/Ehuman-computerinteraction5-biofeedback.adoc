@@ -8,7 +8,7 @@ During the performance of tasks or fulfilment of roles, an employee may be unawa
 The sensor data can be provided to the AR display through a body-area network. This topic focuses on the low-latency transmission and processing of observations from body-worn sensors to the user's AR display and the presentation of data and recommendations in a compact and actionable manner. The system design research should explore both automated modes (which are triggered upon the user's functions reaching a threshold) as well as manually controlled modes (e.g., enabled by a user seeking to obtain vital statistics). There must also be research to ensure that any AR visualization system is secure and upholds all relevant user data privacy protection policies.
 
 # Prior Research
-To be generated via FindAR
+2.41
 
 # Key Words
 Biometrics, body sensors, blood pressure, heart rate, body temperature, body-area network, biofeedback, user data privacy protection, visualisation, alerts

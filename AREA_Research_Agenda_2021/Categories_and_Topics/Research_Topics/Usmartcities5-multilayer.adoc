@@ -12,7 +12,7 @@ Following proper authorization, head mounted displays or handheld devices can un
 This research topic also includes architecting a multipurpose Digital Twin of a set of assets, associating them with various layers of value and examining modalities of consumption from a human factors perspective.
 
 # Prior Research
-To be generated via FindAR
+0.22
 
 # Key Words
 public asset management, public services, scanning, smart cities, urbanization

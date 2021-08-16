@@ -8,7 +8,7 @@ Head-mounted AR display devices are getting lighter and more comfortable. Howeve
 This research topic examines impacts of individual differences on user satisfaction and acceptance of a variety of HMD devices in the workplace.
 
 # Prior Research
-To be generated via FindAR
+2.39
 
 # Key Words
 comfort, eye strain, fatigue, simulation sickness, heat tolerance, headgear weight tolerance

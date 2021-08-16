@@ -12,7 +12,7 @@ When an AR-assisted user is made aware of status of materials in the supply chai
 This research topic explores different approaches to communicating and visualizing levels of materials in an IIoT context to study usability and impacts on worker productivity and satisfaction. It also examines integration of data from connected pallets and packaging and users' devices with operational software to automatically track processes, check in/check out, and make recommendations for users and managers.
 
 # Prior Research
-To be generated via FindAR
+2.64
 
 # Key Words
 logistics data processing, materials management, supply chain management, logistics, asset tracing, asset tracking, asset management, Industrial Internet of Things (IIoT), usability, perception, work orders, productivity, navigation

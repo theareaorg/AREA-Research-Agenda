@@ -9,7 +9,7 @@ Existing AR display devices do not have sensors to detect gases, radiation or ot
 This research topic is a concrete example of a more fundamental research topic: the detection of an AR system user's context beyond what can be done with existing sensors (cameras, microphone, IMU, etc). The scope of this research can be narrow or large, depending on the support provided from commercial or public agencies.
 
 # Prior Research
-1
+1.48
 
 # Key Words
 sensors, human factors, environment, oil and gas, chemical, power and energy, radiation, hazardous materials, radioactivity, explosives, chemical hazards,

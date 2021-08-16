@@ -10,7 +10,7 @@ As peripheral vision is important for user safety, maintaining partial or full p
 This research topic focuses on determining the minimum FoV required for wearable video see-through AR display devices to meet workplace safety requirements. The result will provide HMD designers guidance with respect to the minimum FoV (possibly foveated) that must be supported in video see-through in order to provide user experience comparable to the best-in-class optical see-through AR displays.
 
 # Prior Research
-To be generated via FindAR
+3.22
 
 # Key Words
 video see-through, video passthrough, field of view, waveguide, birdbath, off-axis, light field, foveated rendering, human eye resolution

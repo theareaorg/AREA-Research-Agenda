@@ -8,7 +8,7 @@ The use of thermal imaging data from handheld devices for identification of bodi
 This research topic will instead focus on advancing the state of the art of thermal vision. There could be extension of the types and size of thermal imaging technology suitable for including in AR-assisted emergency responses equipment. Currently, thermal imaging produces data in only 2D. Research into visualizing the heat source in 3D will be beneficial. In addition, the research should explore different methods for users to interact with the data displayed on their helmets, new and novel methods of distinguishing between heat-emitting sources detected using thermal imaging and combining the information about a building's floor plan with the thermal imaging to trace safe routes to use when reaching targets under time constraints.
 
 # Prior Research
-To be generated via FindAR
+2.57
 
 # Key Words
 thermal imaging, 3D data visualization, smart helmets, Personal Protective Equipment, fire fighting, route tracing, 3D data interaction, public safety

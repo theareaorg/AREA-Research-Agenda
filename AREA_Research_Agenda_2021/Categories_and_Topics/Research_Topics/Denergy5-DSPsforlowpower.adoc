@@ -12,7 +12,7 @@ To reduce total display power usage and increase the time between charges, funda
 This research needs to be performed without interference with existing patents and be published and available to component manufacturers and AR display manufacturers without license or fees in order to accelerate the development of new DSPs and to reduce the cost of high-performance enterprise AR display devices and other mobile hardware.
 
 # Prior Research
-To be generated via FindAR
+3.69
 
 # Key Words
 Low power, power use, power consumption, digital signal processing, DSP, VPU, SoC, AR display hardware

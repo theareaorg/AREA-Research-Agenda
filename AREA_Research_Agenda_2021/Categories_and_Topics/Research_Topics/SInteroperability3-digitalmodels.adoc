@@ -12,7 +12,7 @@ There is a research opportunity for leveraging existing industrial data standard
 Additional work is required in fundamental mappings between standard data representations, both from the domain perspective such as manufacturing and the AR standard community such as glTF animations.  In general, such work has been characterized as standards harmonization.
 
 # Prior Research
-TBD
+2.20
 
 # Key Words
 digital enterprise, model translation, interoperability, product manufacturing information, geometric dimensioning and tolerancing, assembly animation, engineering change management, updatable AR, maintainable AR, transferrable AR, agile AR

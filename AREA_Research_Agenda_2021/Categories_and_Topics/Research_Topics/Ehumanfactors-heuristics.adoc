@@ -10,7 +10,7 @@ While there are several general usability heuristics available for software inte
 This research topic involves the development of a new heuristic checklist for enterprise AR experience developers and practitioners to use to evaluate the usability of AR experiences and accompanying hardware.
 
 # Prior Research
-To be generated via FindAR
+2.65
 
 # Key Words
 usability, user experience, heuristics, best practices

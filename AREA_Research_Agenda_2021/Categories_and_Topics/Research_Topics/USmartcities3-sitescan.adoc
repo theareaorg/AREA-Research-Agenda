@@ -10,7 +10,7 @@ Deploying laser scanners to capture crime scenes and other relevant real world s
 By deploying AR glasses it is possible to track the location of the scanning device and combine it with its effective scanning range at every stage to create a visual representation of the scanning footprint. This could yield an effective “coverage map” visible via smart glasses that would help the operator spot under-scanned areas. This topic includes a detailed examination of scanning footprint detected via smart glasses, in comparison to the 3D scene captured by the actual point cloud.
 
 # Prior Research
-To be generated via FindAR
+0.51
 
 # Key Words
 point cloud, laser scanning, disaster scene, crime scene, law enforcement

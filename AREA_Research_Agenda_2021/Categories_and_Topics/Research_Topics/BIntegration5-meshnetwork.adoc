@@ -12,7 +12,7 @@ The inputs from more and more varied sensors should be studied for new opportuni
 This topic will include in its scope defining and testing different approaches to distributed sensors on the user's body and distributing processing capacity and assessing their impacts if any on device safety, weight, size, power consumption and cost, as well as calculating the utility/benefit ratio of different architectures.
 
 # Prior Research
-To be generated via FindAR
+2.17
 
 # Key Words
 distributed computing architecture, body-worn mesh networks, body area network, sensor configuration, sensor control, head-mounted display device, wearables, cloud computing, sensor fusion, optimization, body area networks, off-display sensors, off-display processing
