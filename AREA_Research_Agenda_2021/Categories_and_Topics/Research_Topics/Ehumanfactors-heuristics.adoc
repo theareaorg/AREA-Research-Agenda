@@ -43,3 +43,6 @@ Details on how to develop a new set of heuristics for a domain are discussed in 
 
 # Author
 ERAU Team
+
+# Last Published (yyyy-mm-dd)
+2021-08-31

@@ -42,3 +42,6 @@ Microsoft has published several papers and best practices on this for HoloLens, 
 
 # Author
 Christine Perey
+
+# Last Published (yyyy-mm-dd)
+2021-08-31

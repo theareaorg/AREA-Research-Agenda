@@ -54,3 +54,6 @@ An interesting article related to the amount of physical space in which AR appli
 
 # Author
 ERAU Team
+
+# Last Published (yyyy-mm-dd)
+2021-08-31

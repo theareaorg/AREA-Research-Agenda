@@ -24,7 +24,7 @@ AR experience developers, operators and owners/users of commercial, private or m
 
 # Reasons this topic is important for AREA members
 - Almost all existing AR products for outdoor situational awareness rely on RGB or RGBD cameras for real-time environment acquisition, yet the visualization of obstacles or other salient features of the physical world in atmospheric conditions unsuitable to vision-based sensors cannot serve as the basis for decision making for users.
-- AREA members with use cases in industries that could use AR in environments with low visibility are not currently able to reliably deploy the technology. 
+- AREA members with use cases in industries that could use AR in environments with low visibility are not currently able to reliably deploy the technology.
 
 # Possible Methodologies
 Acquisition and/or development of lightweight and power-efficient infrared sensors that are effective as alternatives to cameras and existing vision-based environmental capture. Testing and development of 3D interaction modes when user's natural vision is impaired. This research topic could explore IR sensors (which measure differences in temperature, also known as "thermal imaging"), as well as new alternatives.
@@ -40,3 +40,6 @@ The use of night vision technologies is widespread in the military/defense indus
 
 # Author
 Christine Perey
+
+# Last Published (yyyy-mm-dd)
+2021-08-31

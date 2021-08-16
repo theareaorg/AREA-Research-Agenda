@@ -47,4 +47,4 @@ The field of biometric authentication in cybersecurity is vast and there are man
 Peter Orban
 
 # Last Published (yyyy-mm-dd)
-2021-08-15
+2021-08-31

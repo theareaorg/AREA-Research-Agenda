@@ -42,5 +42,5 @@ This topic requires significant hardware, middleware, and software integration. 
 # Author
 Bill Bernstein
 
-# History
-This research topic was published on August 30, 2021.
+# Last Published (yyyy-mm-dd)
+2021-08-31

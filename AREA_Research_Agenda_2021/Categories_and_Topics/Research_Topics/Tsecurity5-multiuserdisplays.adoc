@@ -48,3 +48,6 @@ In July 2021, https://cyberbytesfoundation.org/news/cyber-bytes-foundation-annou
 
 # Author
 Christine Perey
+
+# Last Published (yyyy-mm-dd)
+2021-08-31

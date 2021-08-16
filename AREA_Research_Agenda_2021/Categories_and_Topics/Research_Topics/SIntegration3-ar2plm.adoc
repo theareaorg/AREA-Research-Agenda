@@ -43,3 +43,6 @@ There exist resources to help position research efforts.  For example, the https
 
 # Authors
 Bill Bernstein
+
+# Last Published (yyyy-mm-dd)
+2021-08-31

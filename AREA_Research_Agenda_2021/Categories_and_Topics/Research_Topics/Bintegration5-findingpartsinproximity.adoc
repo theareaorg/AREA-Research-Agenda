@@ -44,7 +44,8 @@ This research topic can be combined with studies of AR-enabled guidance, 3D user
 # Miscellaneous Notes
 Three non-commercial AREA members with financial support from both industry and government [MxD (in US), the Manufacturing Technology Center (The MTC, in UK) and the Advanced Manufacturing Research Center with Boeing (AMRC in UK)] have the required experimental environments and have already begun studying the approaches in this topic.
 
-
-
 # Author
 Christine Perey
+
+# Last Published (yyyy-mm-dd)
+2021-08-31

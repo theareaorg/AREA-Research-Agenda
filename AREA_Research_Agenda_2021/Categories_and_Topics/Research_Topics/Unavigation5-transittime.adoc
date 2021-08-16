@@ -45,3 +45,6 @@ In March 2021, Google https://www.theverge.com/2021/3/30/22357528/google-maps-di
 
 # Author
 Christine Perey
+
+# Last Published (yyyy-mm-dd)
+2021-08-31

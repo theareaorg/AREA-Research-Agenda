@@ -45,3 +45,6 @@ The AREA RoI calculator is a starting point for quantifying the economic impacts
 
 # Authors
 Peter Orban, Christine Perey
+
+# Last Published (yyyy-mm-dd)
+2021-08-31

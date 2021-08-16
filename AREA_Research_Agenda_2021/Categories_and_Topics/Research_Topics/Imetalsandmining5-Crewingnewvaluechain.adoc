@@ -41,3 +41,6 @@ From the IGF report, "Large-scale mining plays a critical economic and social ro
 
 # Author
 Jennifer Rogers
+
+# Last Published (yyyy-mm-dd)
+2021-08-31

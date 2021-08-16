@@ -41,3 +41,6 @@ The study and testing of AR cloud technologies in enterprise use cases and netwo
 
 # Author
 Christine Perey
+
+# Last Published (yyyy-mm-dd)
+2021-08-31

@@ -46,3 +46,6 @@ https://apnews.com/press-release/pr-newswire/business-technology-lifestyle-produ
 
 # Author
 Jennifer Rogers
+
+# Last Published (yyyy-mm-dd)
+2021-08-31

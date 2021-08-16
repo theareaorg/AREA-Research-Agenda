@@ -47,3 +47,6 @@ This is a https://community.arm.com/innovation/b/blog/posts/maximizing-the-syste
 
 # Author
 Christine Perey
+
+# Last Published (yyyy-mm-dd)
+2021-08-31

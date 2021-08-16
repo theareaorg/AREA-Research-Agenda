@@ -48,3 +48,6 @@ The https://illixr.org/[ILLIXR Consortium] is developing a platform which, if ex
 
 # Authors
 Peter Orban, Christine Perey
+
+# Last Published (yyyy-mm-dd)
+2021-08-31

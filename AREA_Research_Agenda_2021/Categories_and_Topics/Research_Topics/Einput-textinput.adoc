@@ -41,3 +41,6 @@ User performance and subjective data of text input using a HoloLens device can b
 
 # Author
 ERAU Team
+
+# Last Published (yyyy-mm-dd)
+2021-08-31

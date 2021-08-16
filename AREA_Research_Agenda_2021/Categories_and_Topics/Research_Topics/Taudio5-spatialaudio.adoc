@@ -47,3 +47,6 @@ A peer-reviewed article http://www.aes.org/e-lib/browse.cfm?elib=15891[presentin
 
 # Authors
 Peter Orban, Christine Perey
+
+# Last Published (yyyy-mm-dd)
+2021-08-31

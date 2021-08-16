@@ -44,3 +44,6 @@ There are valuable references related to automation and necessary upskilling con
 
 # Author
 Jennifer Rogers
+
+# Last Published (yyyy-mm-dd)
+2021-08-31

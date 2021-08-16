@@ -46,3 +46,6 @@ Longan Vision, another company in this field, has been https://spectrum.ieee.org
 
 # Author
 Christine Perey
+
+# Last Published (yyyy-mm-dd)
+2021-08-31
