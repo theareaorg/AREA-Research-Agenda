@@ -45,7 +45,7 @@ In 2016, the Sound of Vision consortium, which focuses on the construction of a 
 
 A peer-reviewed article http://www.aes.org/e-lib/browse.cfm?elib=15891[presenting a novel technique for reproducing coherent audio visual images for multiple users], only wearing 3D glasses and without utilizing head tracking was published in 2011 in the Journal of The Audio Engineering Society.
 
-# Authors
+# Author
 Peter Orban, Christine Perey
 
 # Last Published (yyyy-mm-dd)

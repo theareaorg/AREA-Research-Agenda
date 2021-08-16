@@ -32,16 +32,15 @@ OEM manufacturers, integrated solution and software developers, CAD/CAM provider
 This research topics could focus on testing existing PLM platforms and their AR-related competencies.  Reporting on gaps bewteen the interfaces across related software tools will be a strong contribution. Existing standard data representations provide a strong starting point for investigation. Focusing on dealing with sustainment for digital twin models would cover lots of the use cases.
 
 # Expected Impact Timeframe
-Short-term
+Near
 
 # Research Program
 OEMs with complex and heavily distributed supply chains should be a center point for the project. Program managers and technical advisors in such organizations understand the issue of cumbersome technical data packages.  This research topic significantly overlaps with https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/Categories_and_Topics/Research_Topics/SInteroperability3-digialmodels.adoc[the Digital Model Interoperability research topic]. [BB: issue with sentence grammar] There are distinct in that this research topic is specific to the manufacturing industry. The https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/Categories_and_Topics/Research_Topics/SInteroperability3-digialmodels.adoc[Digital Model Interoperability research topic] relates more generally to 3D asset translation and can be applied to other domains, such as construction.
 
 # Miscellaneous Notes
-
 There exist resources to help position research efforts.  For example, the https://www.cax-if.org/[CAx Implementor Forum] provides a number of test cases. The Khronos Group is continously updating https://www.khronos.org/gltf/[glTF], the latest de-facto standard for lightweight model presentation. https://www.asme.org/topics-resources/content/y14-standards-overview[ASME Y14] is a working group that focuses on the standard presentaiton of GD&T annotations.
 
-# Authors
+# Author
 Bill Bernstein
 
 # Last Published (yyyy-mm-dd)

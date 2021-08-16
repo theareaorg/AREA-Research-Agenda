@@ -38,7 +38,7 @@ Leakage and issues with obstructed pipes are not unique to utilities. The resear
 # Miscellaneous Notes
 None
 
-# Authors
+# Author
 Peter Orban, Christine Perey
 
 # Last Published (yyyy-mm-dd)

@@ -44,7 +44,7 @@ Although quite dated by today's stamdards, one of the https://www.researchgate.n
 The topic of mitigating parallax-related registration errors is a highly active field of study, as demonstrated by
 https://www.frontiersin.org/articles/10.3389/frobt.2020.572001/full[this article published in December 2020] in the Frontiers in Robotics and AI journal.
 
-# Authors
+# Author
 Peter Orban, Christine Perey
 
 # Last Published (yyyy-mm-dd)

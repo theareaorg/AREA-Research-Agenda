@@ -36,7 +36,7 @@ HMD manufacturers, AR display device designers, sensor developers, body area net
 Studies of wearable sensors, low-latency body area network technologies, and sensor fusion processors and their synchronization will be necessary to examine all aspects of this research topic. A research platform composed of configurable head-mounted AR display components could be designed. Sensor data tracing systems may need to be tested or developed to provide a complete understanding of architectural choices.
 
 # Expected Impact Timeframe
-Long-term
+Long
 
 # Research Program
 This topic is at the intersection of multiple domains including but not limited to sensor configuration and control, sensor registrations, data filtering, sensor fusion, user context capture, and body area networks. The result could contribute to design of new HMD architectures, high-performance, and network-based resources and services (eg., 5G).
@@ -46,7 +46,7 @@ Studies of optical and IMU sensor fusion for AR HMDs date have been published as
 
 The https://illixr.org/[ILLIXR Consortium] is developing a platform which, if extended to include body area networks, could be appropriate for experimentation with different architectures.
 
-# Authors
+# Author
 Peter Orban, Christine Perey
 
 # Last Published (yyyy-mm-dd)

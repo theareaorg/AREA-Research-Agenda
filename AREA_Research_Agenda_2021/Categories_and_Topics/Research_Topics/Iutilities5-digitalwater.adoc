@@ -40,7 +40,7 @@ Leakage and issues with obstructed pipes are not unique to water utilities. The 
 # Miscellaneous Notes
 In October 2019, research about an subset of this topic https://www.researchgate.net/publication/336238139_DEVELOPMENT_OF_AUGMENTED_REALITY_PIPELINE_VISUALISER_ARPV_APPLICATION_FOR_VISUALISING_UNDERGROUND_WATER_PIPELINE[has been published in the International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences].
 
-# Authors
+# Author
 Peter Orban, Christine Perey
 
 # Last Published (yyyy-mm-dd)

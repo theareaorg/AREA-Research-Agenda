@@ -44,10 +44,8 @@ Presence tends to be a self-reported measure assessed by means of a questionnair
 # Expected Impact Timeframe
 Medium
 
-
 # Research Program
 This topic is related to other proposed AREA Research Agenda topics on display technology and user perceptions and satisfaction.
-
 
 # Miscellaneous Notes
 An interesting article related to the amount of physical space in which AR application is used can be found https://ieeexplore.ieee.org/document/8943577/[here].

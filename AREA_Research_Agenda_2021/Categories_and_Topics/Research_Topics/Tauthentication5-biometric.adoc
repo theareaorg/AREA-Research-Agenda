@@ -35,7 +35,7 @@ All stakeholder in corporate security organizations but primarily CISOs, CIOs, I
 This research will require rigorous laboratory tests, deployed via multiple cells of different modalities. This will be followed by human factors and security research, culminating in field trials. Once baselines are available and validated, best practices can be established.
 
 # Expected Impact Timeframe
-medium-term
+Medium
 
 # Research Program
 This topic is closely related to another proposed AREA Research Agenda topic on cleaning and authenticating multi-user devices end user [ra-Tsecurity5-multiuserdisplays]. The topics could be combined with other AR security topics to develop a broader research program. In addition, the topic could be expanded to use the sensors on devices of other AR users in a workplace to confirm user identities.

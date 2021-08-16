@@ -35,7 +35,7 @@ OEM manufacturers, integrated solution and software developers, CAD/CAM provider
 Existing model translators and standard data representations provide a strong starting point for investigation. Focusing on handling PMI and properly spatially anchoring them in the tessellated model would be a good choice for an initial project.
 
 # Expected Impact Timeframe
-Short-term
+Near
 
 # Research Program
 This topic would directly benefit construction and manufacturing industries.  Luckily, lots of the existing domain-specific standards cut across these two industries. Working together to develop application domain extensions for AR standards would be a good first step.  This research topic significantly overlaps with https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/Categories_and_Topics/Research_Topics/BIntegration3-ar2plm.adoc[the AR to PLM research topic].  There are distinct in that this research topic is specific to the manufacturing industry.  The other research topic relates to developing a standard data model for ingesting PLM data, such as sustainment data for maintaining digital twins.
@@ -43,7 +43,7 @@ This topic would directly benefit construction and manufacturing industries.  Lu
 # Miscellaneous Notes
 There exist resources to help position research efforts.  For example, the https://www.cax-if.org/[CAx Implementor Forum] provides a number of test cases. The Khronos Group is continously updating https://www.khronos.org/gltf/[glTF], the latest de-facto standard for lightweight model presentation. https://www.asme.org/topics-resources/content/y14-standards-overview[ASME Y14] is a working group that focuses on the standard presentaiton of GD&T annotations.
 
-# Authors
+# Author
 Bill Bernstein
 
 # Last Published (yyyy-mm-dd)

@@ -35,7 +35,7 @@ The AREA members need ways to validate, when creating point clouds, that investi
 This research project will make a statistically-significant number of comparisons between point clouds and their respective scanner location tracking information of the same site with the purpose of creating a regression model that accounts for measurement errors in the independent variables.
 
 # Expected Impact Timeframe
-medium
+Medium
 
 # Research Program
 This research topic can be combined with other projects examining the tradeoffs between fidelity and function of large-scale 3D models.

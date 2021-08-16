@@ -32,7 +32,7 @@ Companies monitor and manage workplaces for their suitability to employees. This
 Research on this topic includes testing and studying the features of body-worn biometric devices in professional settings. It will be necessary to design and build a body-area network supporting existing standards in order to interface with radios and technologies on AR display devices. The research will also require designing and studying the usability, efficacy, and performance of AR-enriched user interfaces for providing a user with only pertinent biometric data via an AR display.
 
 # Expected Impact Timeframe
-Middle
+Medium
 
 # Research Program
 This research topic can be combined with other topics pertaining to automated alerting of users to risk conditions using the AR display. It can also extend research on biometrics, biofeedback, and behavior modification therapies.

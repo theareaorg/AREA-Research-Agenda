@@ -43,7 +43,7 @@ This research can be combined with or extended to include different wearable for
 # Miscellaneous Notes
 The AREA RoI calculator is a starting point for quantifying the economic impacts of AR in repair and maintenance use cases. This research topic could contribute to the expansion of the AREA RoI calculator.
 
-# Authors
+# Author
 Peter Orban, Christine Perey
 
 # Last Published (yyyy-mm-dd)

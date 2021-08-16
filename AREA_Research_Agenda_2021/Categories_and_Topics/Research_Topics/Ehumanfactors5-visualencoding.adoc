@@ -41,7 +41,7 @@ There has been research published on the topics of https://www.sciencedirect.com
 
 https://www.frontiersin.org/articles/10.3389/fnhum.2019.00113/full[This 2019 article published in Frontiers in Human Neuroscience] reports on research conducted using AR to assess the impact of gender on spatial vision and anxiety.
 
-# Authors
+# Author
 Peter Orban, Christine Perey
 
 # Last Published (yyyy-mm-dd)

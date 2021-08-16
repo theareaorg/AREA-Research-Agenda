@@ -32,7 +32,7 @@ Developers, operators and employees working in places where invisible gases may 
 A laboratory would need to be developed for controlled exposure to chemicals and radiation sources. The lab and platform for testing will have off-the-shelf sensors and/or the project may require development of lightweight and power efficient sensors that are effective as alternatives to cameras and existing vision-based environmental capture. The testing and development of 3D interaction modes when user's environmental sensors detect unsafe conditions is a fundamental part of this research domain.
 
 # Expected Impact Timeframe
-medium
+Medium
 
 # Research Program
 This topic or theme of research overlap with the topic of visualizing conditions in the direction or on the path of any moving object in atmosphere that is opaque or under water. The outcomes of this research could also be applied in non-industrial use cases (e.g., pollution sensing). The same research topic could be combined with study of user interfaces and interaction paradigms for the visually-impaired community.

@@ -32,10 +32,8 @@ Comfort can be measured both objectively and subjectively. Objective measures in
 # Expected Impact Timeframe
 Medium
 
-
 # Research Program
 This topic is potentially related to another proposed AREA Research Agenda topic on Users and User Experience [Einput-textinput] in that comfort is a key component to user acceptance of various text input methods. The topics could be combined with other AR End User and User Experience topics to develop a full research program.
-
 
 # Miscellaneous Notes
 An interesting article regarding the design decisions of the HoloLens 1 to accommodate individual differences https://sid.onlinelibrary.wiley.com/doi/pdf/10.1002/sdtp.11586?casa_token=i1x9dRJa2tAAAAAA%3AmnQU3ckNbdunIDNe4G8uxoLfe87YwzEpS7Ti1G0N9L76PgNLHarmCNusU9C9U9ucswKxB3wtRUFUdyM/[can be found here].
