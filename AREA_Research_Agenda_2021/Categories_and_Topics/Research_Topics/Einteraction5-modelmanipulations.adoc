@@ -25,7 +25,8 @@ Technology, End User and User Experience
 This research is relevant to designers and managers of enterprise 3D assets, 3D asset platform publishers, AR experience developers, AR program managers, and AR authoring platform publishers.
 
 # Reasons this topic is important for AREA members
-AR experience developers and employees in AREA customer segment companies will have many use cases involving the selection and manipulation of 3D models. However, the acceptance and value of 3D models will be low until there are improvements in how models are prepared, presented and manipulated during AR experiences. The proposed research topic will benefit AREA members by increasing 3D model usability, lowering cognitive load, and increasing the impact of 3D models in the workplace.
+- AR experience developers and employees in AREA customer segment companies will have many use cases involving the selection and manipulation of 3D models. However, the acceptance and value of 3D models will be low until there are improvements in how models are prepared, presented and manipulated during AR experiences.
+- The proposed research topic will benefit AREA members by increasing 3D model usability, lowering cognitive load, and increasing the impact of 3D models in the workplace.
 
 # Possible Methodologies
 The research will build and publish a set of 3D models that objectively represent what would be used in workplace settings where AR is used. The models will be designed with features such as anchors and handles. Studies will compare approaches developed in commercial software for 2D screens with those proposed in AR and VR game engines and experience authoring platforms. In laboratory settings, users will be given tasks to perform with 3D models while using different models of wearable AR displays. In addition to time-motion studies and ergonomics, user testing will measure strain and cognitive effort when performing tasks that require model selection and manipulation.

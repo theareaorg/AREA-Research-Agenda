@@ -29,9 +29,11 @@ Business, End User and User Experience, Industries
 Government officials and policymakers in World Bank Group and UN nations, social performance and impact executives in large, global organizations, particularly those with a large social license to operate, sustainability/innovation groups in large corporations, executives and sales teams in agriculture
 
 # Reasons this topic is important for AREA members
-Food security and crop preservation are important sustainability issues that ultimately contribute to the health of our global economy. AR can provide a vital channel with which to establish a vibrant ecosystem positioned to support and connect farmers across the world. Large impact can be made by utilizing existing soil/plant photography databases and AI-driven, AR-facilitated guidance, as well as incorporation of IoT data pertaining to water availability, as many food-insecure nations experience hardship associated with frequent drought.
-
-Because AR is a unique delivery format that is highly conducive to providing increased accessibility for remote, rural farmers and lowers traditional barriers associated with varying literacy levels, etc., introduction of AR opens up a myriad of possibilities with regards to establishing and expanding markets. There is likely to be substantial interest within local governments as well as amongst corporate entities supporting the UN 2030 Sustainable Development Goals. There is also great potential for interest amongst providers within the broader agriculture value chain.
+- AR can provide a vital channel with which to establish a vibrant food production ecosystem positioned to support and connect farmers across the world.
+- Large impact can be made by utilizing existing soil/plant photography databases and AI-driven, AR-facilitated guidance, as well as incorporation of IoT data pertaining to water availability, as many food-insecure nations experience hardship associated with frequent drought.
+- AR is a unique delivery format that is highly conducive to providing increased accessibility for remote, rural farmers and lowers traditional barriers associated with varying literacy levels, etc.,
+- Introduction of AR opens up a myriad of possibilities with regards to establishing and expanding markets.
+- There is likely to be substantial interest within local governments as well as amongst corporate entities supporting the UN 2030 Sustainable Development Goals. There is also great potential for interest amongst providers within the broader agriculture value chain.
 
 # Possible Methodologies
 The proposed research would need to enroll and engage rural farmers in food-insecure areas, preferably those in which agriculture is practiced in remote or at-risk locations (e.g. retired mine site, etc.). The research would also need to develop or expand and leverage databases of photos for local plant and soil conditions.

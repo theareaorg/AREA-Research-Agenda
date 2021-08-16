@@ -29,7 +29,10 @@ Displays, End User and User Experience, Technology
 Workplace safety managers and officers, IT security managers, employees working in facilities driven by work orders, AR managers, AR experience developers, AR interface designers who would develop prompts and procedures for easy login
 
 # Reasons this topic is important for AREA members
-Enterprises cannot purchase sufficient AR display hardware to have every employee have their own, personal device for a full shift. AREA members will be looking for ways to distribute display hardware across multiple users. They will need systems to reduce risk of contamination and transmission of skin or respiratory conditions between users. Further, they must provide a way for users to reliably, easily and quickly log into their personal account. Very little is known or documented about possible impacts of the issues around these topics.
+- Enterprises cannot purchase sufficient AR display hardware to have every employee have their own, personal device for a full shift.
+- AREA members will be looking for ways to distribute display hardware across multiple users.
+- They will need systems to reduce risk of contamination and transmission of skin or respiratory conditions between users.
+- AREA members must provide a way for users to reliably, easily and quickly log into their personal account. Very little is known or documented about possible impacts of the issues around these topics.
 
 # Possible Methodologies
 This project will require laboratory or bench studies with different sanitation systems, then microbiological studies to determine effectiveness of different procedures. For the authentication and log in systems, development of biometric identification systems would be valuable. These could be compared with commercial log-in interfaces to manage user identification. Further, after the tests in laboratories, there should be research on the use of these approaches with end users for acceptance.

@@ -23,7 +23,8 @@ End User and User Experience, Industries, Technology
 Developers, users, operators, users of AR head mounted displays (HMDs)
 
 # Reasons this topic is important for AREA members
-This topic is of interest to AREA members because user acceptance of new form factors in display technologies is critical to AR adoption. Since comfort is known to impact user acceptance of AR in the workplace, all obstacles need to be identified and accommodations made for individual preferences and features. Understanding individual differences also contributes to the understanding of OEM and designers about which differences remain to be addressed by the various HMD technologies.
+- User acceptance of new form factors in display technologies is critical to AR adoption. Since comfort is known to impact user acceptance of AR in the workplace, all obstacles need to be identified and accommodations made for individual preferences and features.
+- Understanding individual differences also contributes to the understanding of OEM and designers about which differences remain to be addressed by the various HMD technologies.
 
 # Possible Methodologies
 Comfort can be measured both objectively and subjectively. Objective measures include pupil diameter to assess workload or cognitive effort, EEG, and GSR. Subjective measures include Likert scales querying perceived comfort, exertion (i.e., Borg Scale or Perceived Exertion), assessments of HMD weight, thermal comfort, acceptable length of use, and general acceptance.

@@ -25,7 +25,8 @@ Technology
 Network operators, network managers, enterprise IT managers, AR experience publishers, AR experience authoring platforms, AR developers
 
 # Reasons this topic is important for AREA members
-Before introducing data from remote sources to users in their networks or from users' AR devices into their data management systems, AREA member organizations must ensure that the data source is authenticated and any metadata associated with it can be used regardless of the choice of display or data architectures. The members need to better understand the potential risks and opportunities of introducing AR Cloud for real world capture and data delivery in enterprise networks.
+- Before introducing data from remote sources to users in their networks or from users' AR devices into their data management systems, AREA member organizations must ensure that the data source is authenticated and any metadata associated with it can be used regardless of the choice of display or data architectures.
+- The members need to better understand the potential risks and opportunities of introducing AR Cloud for real world capture and data delivery in enterprise networks.
 
 # Possible Methodologies
 The research will focus on device encoding and edge computing technologies from multiple suppliers that can support distributed AR architectures. Studies will evaluate use of encryption and authentication technologies on device for suitability in distributed computing. Laboratory-based studies in controlled environments will measure and compare different approaches to data authentication and metadata authoring.

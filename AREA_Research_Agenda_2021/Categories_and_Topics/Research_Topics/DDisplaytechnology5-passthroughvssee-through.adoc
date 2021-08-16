@@ -25,7 +25,9 @@ Displays, Technology, End User and User Experience
 Operations leaders, HMD designers, Safety & IT managers, OEM manufacturers, ISVs
 
 # Reasons this topic is important for AREA members
-Most of the leading AR display component and system manufacturers are AREA members. Video passthrough displays using existing technologies for graphics overlay on video are less expensive to develop than optical see-through displays. AREA members would benefit from having objectively defined measures of the impact of head-worn video see-through displays on the user's peripheral vision.
+- Most of the leading AR display component and system manufacturers are AREA members.
+- Video passthrough displays using existing technologies for graphics overlay on video are less expensive to develop than optical see-through displays.
+- AREA members would benefit from having objectively defined measures of the impact of head-worn video see-through displays on the user's peripheral vision.
 
 # Possible Methodologies
 Studies of human peripheral vision requirements and sensitivities to FoV constraints will need to be performed in highly controlled research conditions. A research platform composed of configurable head-mounted AR display components could be designed. The video passthrough experiences designed for the study will need to have the same level of latency as an optical see-through display and their weight and other ergonomic factors would need to be identical in order to study only the impact of the technology on user's vision. Eye-tracking data could be used to measure the user's gaze and extensive user interviews or other measurement systems would be needed to capture the impacts of the options on eye fatigue, cognition, and task performance.

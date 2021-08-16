@@ -26,9 +26,9 @@ Business, End User and User Experience, Use Cases
 This research will provide operational excellence professionals, chief operating officers, safety and risk professionals, and plant managers quantitative information that will permit them to make better decisions about where and how to introduce AR in plants.
 
 # Reasons this topic is important for AREA members
-Scalability of technological advancement is highly dependent upon ability to commercialize and deploy innovation in areas in which production/labor cost is low, which in many cases does not correspond to the areas in which R&D hubs are located. Providing real-time support around decision-making associated with plant design and start-up via AR should decrease time to productive and safe operational ramp-up, while making possible global commercialization at a lower cost than traditional methods that rely heavily upon SME travel, availability, and familiarity with local languages, customs, and practices.
-
-This is of particular interest in the current scenario, due to limited travel associated with COVID, and could be of great significance to increased efforts to scale up vaccine manufacturing operations (and perhaps even distribution) across the globe.
+- Providing real-time support around decision-making associated with plant design and start-up via AR could decrease time to productivity and safe operational ramp-up.
+- AR-enabled plant design systems could increase global commercialization of new technologies at a lower cost than traditional methods that rely heavily upon travel and availability of subject-matter experts and these experts must have familiarity with local languages, customs, and practices.
+- Due to limited travel associated with COVID this is of particularly high interest, and could be of great significance to increased efforts to scale up vaccine manufacturing operations (and perhaps even distribution) across the globe.
 
 # Possible Methodologies
 The proposed research would need to identify key operational decisions and processes required for transfer from R&D to on-site operations. Research would measure time and cost to site operation with AR-assisted intervention and compare to known historical ramp-up times and costs.

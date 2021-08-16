@@ -25,7 +25,8 @@ Standards, Technology, Industries
 OEM manufacturers, integrated solution and software developers, CAD/CAM providers, engineering design teams, PLM software publishers
 
 # Reasons this topic is important for AREA members
-Product design and manufacturing is the focus of many AREA customer segment members. Resources invested in connecting domain-specific models, such as those stored with PLM systems, to proprietary AR engines and presentation systems increase cost and the time to reaching positive RoI on AR investments in manufacturing. If a standard data model to represent AR-related data in manufacturing for use in PLM were adopted, systems integrators would increase use of AR in their solutions and members would have lower risk and investment to re-use existing or new engineering assets in AR experience.
+- Product design and manufacturing is the focus of many AREA customer segment members.
+- Resources invested in connecting domain-specific models, such as those stored with PLM systems, to proprietary AR engines and presentation systems increase cost and the time to reaching positive RoI on AR investments in manufacturing. - If a standard data model to represent AR-related data in manufacturing for use in PLM were adopted, systems integrators would increase use of AR in their solutions and members would have lower risk and investment to re-use existing or new engineering assets in AR experience.
 
 # Possible Methodologies
 This research topics could focus on testing existing PLM platforms and their AR-related competencies.  Reporting on gaps bewteen the interfaces across related software tools will be a strong contribution. Existing standard data representations provide a strong starting point for investigation. Focusing on dealing with sustainment for digital twin models would cover lots of the use cases.

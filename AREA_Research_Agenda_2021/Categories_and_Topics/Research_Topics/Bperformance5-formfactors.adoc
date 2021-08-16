@@ -27,9 +27,9 @@ Displays, Business
 Operations leaders, financial management, OEM manufacturers, Independent Software Vendors,
 
 # Reasons this topic is important for AREA members
-Wearable AR displays provide frontline workers in AREA member companies with information without requiring the user to hold a display in their hands or look away from their tasks while obtaining instructions. However, deploying display devices with entirely different form factors than those widely adopted, developing and deploying appropriate software, and integrating and training users on the new devices introduces time and expenses – particularly if handhelds have been well-integrated in the current procedures.
-
-The AREA members need ways to measure and/or to calculate the investments and benefits of using different form factors in the workplace.
+- Wearable AR displays provide frontline workers in AREA member companies with information without requiring the user to hold a display in their hands or look away from their tasks while obtaining instructions.
+- However, deploying display devices with entirely different form factors than those widely adopted, developing and deploying appropriate software, and integrating and training users on the new devices introduces time and expenses – particularly if handheld displays have been well-integrated in the current procedures.
+- The AREA members need ways to measure and/or to calculate the investments and benefits of using different form factors in the workplace.
 
 # Possible Methodologies
 The research will contribute to development of tools to accurately, impartially measure the differences between handheld and wearable displays. The measurement methods will be used on groups of users sufficiently large in number and diverse in profile to allow projection across various attributes (e.g. time saved, quality improved, error eliminated, etc.). The research tools can include time-motion studies using standardized, public, well-documented processes typical of industry verticals, use cases, and horizontal use case categories.

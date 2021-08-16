@@ -27,7 +27,8 @@ Technology, Business
 Elected and professional urban leaders: Mayors, CIOs and CISOs of urban infrastructure, Independent Software Vendors, geospatial infrastructure providers, points of interest publishers
 
 # Reasons this topic is important for AREA members
-According to the UN, 68% of the world population projected to live in urban areas by 2050. This will put an increased strain on most public assets to optimizing how to unlock their value will be critical for resident quality of life and visitor experiences. Best practices developed in urban design, information architecture and human factors will be extended by the results of this research.
+- According to the UN, 68% of the world population projected to live in urban areas by 2050. This will put an increased strain on most public assets to optimizing how to unlock their value will be critical for resident quality of life and visitor experiences.
+- Best practices developed in urban design, information architecture and human factors will be extended by the results of this research.
 
 # Possible Methodologies
 This research will require scanning and associating data with urban assets and developing methodologies to test different use cases and scenarios. User satisfaction and productivity studies in field trials will contribute to development of best practices for specific industries.

@@ -27,7 +27,10 @@ Displays, Standards, Business, Technology
 HMD manufacturers, AR display device designers, sensor developers, body area network manufacturers, OEM manufacturers, integrated solution and software developers
 
 # Reasons this topic is important for AREA members
-Employees in AREA member companies frequently need simultaneous use of both their hands. Use of head-mounted displays represents a significant productivity improvement for those who need to use both hands and require contextually-positioned information to perform complex tasks. This research topic will contribute new knowledge aimed at addressing current limitations of head-mounted displays and will increase the quality of contextual data about the user and environment. The outcomes will reduce the barriers to AR display device integration with other devices and increase use of computational resources on and near the user. More flexible and distributed architectures are likely to reduce the HMD price and increase time between battery charges, and these benefits will increase adoption in the enterprise.
+- Employees in AREA member companies frequently need simultaneous use of both their hands. Use of head-mounted displays represents a significant productivity improvement for those who need to use both hands and require contextually-positioned information to perform complex tasks.
+- This research topic will contribute new knowledge aimed at addressing current limitations of head-mounted displays and will increase the quality of contextual data about the user and environment.
+- The outcomes will reduce the barriers to AR display device integration with other devices and increase use of computational resources on and near the user.
+- More flexible and distributed architectures are likely to reduce the HMD price and increase time between battery charges, and these benefits will increase adoption in the enterprise.
 
 # Possible Methodologies
 Studies of wearable sensors, low-latency body area network technologies, and sensor fusion processors and their synchronization will be necessary to examine all aspects of this research topic. A research platform composed of configurable head-mounted AR display components could be designed. Sensor data tracing systems may need to be tested or developed to provide a complete understanding of architectural choices.

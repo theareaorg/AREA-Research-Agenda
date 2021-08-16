@@ -23,7 +23,7 @@ Standards, Technology, End User and User Experience
 Manufacturers will benefit from the products generated as a result from this research project.  Robotics providers can also benefit in that standard testing protocols for human-robot interaction will generate new sales tactics. End users will benefit in that the end state will be much safer in complex manufacturing environments.
 
 # Reasons this topic is important for AREA members
-- Robotics are pervasive in manufacturing, a key area of AREA members
+- Robotics are pervasive in manufacturing, a key area for many AREA members.
 - However, safety concerns in collaborative robotics scenarios have curbed overall use.
 - AR-enabled communication between humans and robots can create a much safer environment.
 

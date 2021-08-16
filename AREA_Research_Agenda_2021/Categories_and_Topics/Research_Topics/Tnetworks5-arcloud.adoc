@@ -23,7 +23,9 @@ Technology
 Network operators, network managers, enterprise IT managers, AR display designers, AR display manufacturers, AR experience authoring platforms, AR developers
 
 # Reasons this topic is important for AREA members
-Before introducing new architectures in their networks, AREA member organizations must understand the potential benefits and ensure that they are not locked into one vendor's vertically-integrated technology silo. The members need to better understand the potential risks and opportunities of introducing AR Cloud in enterprise networks. In addition AREA members seek research that will develop practical guidelines and permit them to keep up with and evaluate this trend over the coming months and years.
+- Before introducing new architectures in their networks, AREA member organizations must understand the potential benefits and ensure that they are not locked into one vendor's vertically-integrated technology silo.
+- AREA members need to better understand the potential risks and opportunities of introducing AR Cloud in enterprise networks.
+- In addition, AREA members seek research that will develop practical guidelines and permit them to keep up with and evaluate this trend over the coming months and years.
 
 # Possible Methodologies
 The research will focus on edge computing technologies from multiple suppliers that can support distributed AR architectures. Studies will compare the components of AR experience delivery that are suited to distributed computing. Laboratory-based studies in controlled environments will measure performance characteristics across different scenarios. There will also need to be study of network-based storage of world maps and the use of these 3d models for real-time object identification, device and object tracking, and localization of devices and objects. End user satisfaction studies can also be used for this research.

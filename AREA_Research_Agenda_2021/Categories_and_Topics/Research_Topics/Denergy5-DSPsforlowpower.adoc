@@ -3,12 +3,6 @@
 # Low Power Digital Signal Processors for Use in AR Display Devices
 
 # Description
-All aspects of AR displays must be very efficient in their use of computational resources and power. As their adoption in IoT systems increases, technologies for sensing real-world features have been the focus of public and private research programs. Consequently, techniques to greatly reduce sensor size and power usage are well-known, and costs for these components are dropping. Object recognition, tracking, and registration in real time are other technological barriers that have received considerable research attention, and, increasingly, the AI systems for computer vision are implemented on digital signal processors (DSPs). There remain many other components in AR displays that must be studied in order to follow the same trend as sensors and vision-based simultaneous mapping and location.
-
-While enterprise AR display power storage capacities have in recent years significantly increased, with head-worn computers (e.g., HoloLens2) having greater size and being balanced on the user's head in a more distributed form factor, there remains a great deal of room for improvement in many domains.
-
-NOTE: The above paragraphs could be the introduction for the Display Category research topics.
-
 While the data about the user's context is captured, fused, and filtered in one digital signal processor (DSP), vision processing units (VPUs) are analyzing individual and fused data signals to detect key features (e.g., objects) of the real world. Audio processing also requires computing resources. At the precise moment when AR experiences are delivered to users, power is needed for the rendering computations. This power usage must not compete with the power necessary for the optics, auditory, or other real time processes to produce digital assets visible to the user.
 
 DSPs are common components of AR Systems-on-Chips (SoCs) in displays. The DSPs accelerate the classes of computational tasks required for optimal performance of AR systems. They can be configured and optimized to specific parameters, matching the sensors that capture the real world tasks that they perform and even the use case or user's requirements.
@@ -33,7 +27,9 @@ Displays, Technology
 AR display designers, AR display manufacturers, original equipment manufacturers (OEM) of semiconductors for AR displays, AR systems integrators
 
 # Reasons this topic is important for AREA members
-Most of the leading AR display component and system manufacturers are AREA members. While their research in this topic has certainly led to substantial improvements in performance, there has been a lack of peer-reviewed literature published on the topic. There must be greater research investment and publication of results focused on the challenges of power consumption and computational complexity in order to create new business opportunities that can benefit all AR display manufacturers. AREA customer segment members will also benefit from lower cost, less power-intensive systems and integrated AR display devices as a result of advancements in this field.
+- Most of the leading AR display component and system manufacturers are AREA members. While their research in this topic has certainly led to substantial improvements in performance, there has been a lack of peer-reviewed literature published on the topic.
+- There must be greater research investment and publication of results focused on the challenges of power consumption and computational complexity in order to create new business opportunities that can benefit all AR display manufacturers.
+- AREA customer segment members will also benefit from lower cost, less power-intensive systems and integrated AR display devices as a result of advancements in this field.
 
 # Possible Methodologies
 Semiconductor and DSP designers can collaborate with other AR ecosystem segments to increase their understanding of the diversity of real world requirements. Using machine learning and artificial intelligence, designers will optimize new DSP architectures for AR-specific functions.

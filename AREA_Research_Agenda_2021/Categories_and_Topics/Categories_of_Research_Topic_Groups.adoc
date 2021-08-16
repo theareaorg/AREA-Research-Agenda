@@ -20,6 +20,13 @@ The categories for the 2021 edition of the Research Agenda appear in the table b
 |<<Industries-section,*Industries*>> |[[industries-concept]]Twenty industries where studies about the introduction and adoption of Augmented Reality has been published in peer-reviewed literature including Automotive, Aviation and Aerospace, Chemical, Construction, Consumer Products, Cultural Heritage, Education, Emergency Response, Farming and Natural Sciences, Government, Industrial Equipment, Liberal Arts, Manufacturing, Marine, Medical, Metals and Mining, Oil and Gas, Power and Energy, Telecommunications, Transportation, Utilities
 
 /// The above Industries are not 100% aligned with the industries that are provided for the AREA Marketplace project.
+
+All aspects of AR displays must be very efficient in their use of computational resources and power. As their adoption in IoT systems increases, technologies for sensing real-world features have been the focus of public and private research programs. Consequently, techniques to greatly reduce sensor size and power usage are well-known, and costs for these components are dropping. Object recognition, tracking, and registration in real time are other technological barriers that have received considerable research attention, and, increasingly, the AI systems for computer vision are implemented on digital signal processors (DSPs). There remain many other components in AR displays that must be studied in order to follow the same trend as sensors and vision-based simultaneous mapping and location.
+
+While enterprise AR display power storage capacities have in recent years significantly increased, with head-worn computers (e.g., HoloLens2) having greater size and being balanced on the user's head in a more distributed form factor, there remains a great deal of room for improvement in many domains.
+
+NOTE: The above paragraphs could be the introduction for the Display Category research topics.
+
 ///
 
 |<<Standards-section,*Standards*>> |[[standards-concept]]Groups of topics about business and technical standards to address interoperability and conventions for AR adoption in enterprises or industries

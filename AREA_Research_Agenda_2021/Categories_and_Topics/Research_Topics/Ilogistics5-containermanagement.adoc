@@ -32,7 +32,9 @@ Industries, Business, Technology
 Operators of any cargo service including but not limited to shipping services, pilots, naval captains, shipping operations managers, quality managers, security managers, workers performing repair and maintenance on shipping containers, port operations, customs agents
 
 # Reasons this topic is important for AREA members
-Many AREA customer segment members produce and distribute products globally. Some products are sensitive and must be shipped under controlled conditions. Other AREA members build and/or operate fleets of vessels (air, sea and land) and have operational responsibilities for the containers and their contents. Finally, AREA provider segment members producing software and display devices may wish to expand their offerings, based on precise use cases and requirements, in markets where the potential to impact safety, security and quality are high.
+- Many AREA customer segment members produce and distribute products globally. Some products are sensitive and must be shipped under controlled conditions.
+- Other AREA members build and/or operate fleets of vessels (air, sea and land) and have operational responsibilities for the containers and their contents.
+- AREA provider segment members producing software and display devices may wish to expand their offerings, based on precise use cases and requirements, in markets where the potential to impact safety, security and quality are high.
 
 # Possible Methodologies
 This research requires a team of experts intimately familiar with all aspects of the transportation of goods. The study of regional as well as global shipping patterns and technologies will be followed by development of prototypes and testing in a variety of settings. In field usability trials, with service professionals can reveal new requirements and opportunities for AR-assisted and IoT connected containers to reduce risk and increase productivity.

@@ -27,7 +27,8 @@ Standards, Technology
 Standards bodies, end users, AR experience developers, AR authoring platform publishers, AR tracking library developers, computer vision scientists and developers
 
 # Reasons this topic is important for AREA members
-AR experience developers and the users of those are unable to specify all future use conditions. If and when conditions change in user contexts or tasks, or new vision tracking libraries are published, the process of changing libraries requires returning to the beginning of the authoring. The proposed research and resulting standard would make it possible for developers to switch between different library quickly, perhaps automatically, and with confidence that the libraries are available when needed.
+- AR experience developers and the users of those are unable to specify all future use conditions. If and when conditions change in user contexts or tasks, or new vision tracking libraries are published, the process of changing libraries requires returning to the beginning of the authoring.
+- The proposed research and resulting standard would make it possible for developers to switch between different libraries quickly, perhaps automatically, and with confidence that the libraries are available when needed.
 
 # Possible Methodologies
 The research will focus on tracking library characteristics and the authoring platforms. There will also need to be study of run-time systems for analyzing the real world features and matching the tracking library with the user contexts for the AR experiences to be provided. The research will also require working with open and consensus-based Standards Development processes.

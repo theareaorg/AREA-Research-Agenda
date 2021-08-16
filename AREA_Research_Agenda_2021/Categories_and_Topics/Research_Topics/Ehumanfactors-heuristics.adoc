@@ -25,7 +25,9 @@ End User and User Experience, Industries, Technology
 Developers, users, operators, users of AR applications
 
 # Reasons this topic is important for AREA members
-This topic is of interest to AREA members because it helps to define best practices for AR application design. The outcomes of this effort will allow providers of enterprise platforms to more quickly and reliably assess usability and UX, which in turn will facilitate informed iterative design/development, resulting in more satisfying, efficient, and effective solutions. It is important to note that this checklist will complement user testing – it is not a replacement by any means.
+- This topic is of interest to AREA members because it helps to define best practices for AR application design.
+- The outcomes of this effort will allow providers of enterprise platforms to more quickly and reliably assess usability and UX, which in turn will facilitate informed iterative design/development, resulting in more satisfying, efficient, and effective solutions.
+- It is important to note that this checklist will complement user testing – it is not a replacement by any means.
 
 # Possible Methodologies
 Quiñones, Rusu, & Rusu (2018) outline a formal methodology for developing usability/user experience heuristics. The method has been applied in a number of domains outside of enterprise AR and validated by experts. This method involves a systematic literature review, examination of the experimental literature, detailed analyses of the characteristics heuristics should have in the domain, and three levels of validation.

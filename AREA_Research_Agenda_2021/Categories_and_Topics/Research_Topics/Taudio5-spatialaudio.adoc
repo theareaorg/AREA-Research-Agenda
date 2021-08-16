@@ -26,7 +26,10 @@ Technology, End User and User Experience, Displays
 AR experience designers, developers of integrated sensor and world capture components, human factors researchers
 
 # Reasons this topic is important for AREA members
-Spatial vision makes instinctive sense in a number of situations but it is not always as practical, comfortable or affordable way to produce AR experiences that help reach use case objectives. If performance requirements on vision-based AR delivery can be reduced using spatial audio components or solutions, enterprises may have more options and greater flexibility when sourcing their AR experience delivery devices. In addition, spatial audio-based solutions may lower total resourcing needs, reducing the financial barriers of enterprise adoption. It may also increase the impact of AR experiences in which there is interference or occlusion of the user's vision.
+Spatial vision is not always as practical, comfortable or affordable way to produce AR experiences that help reach use case objectives.
+- If performance requirements on vision-based AR delivery can be reduced using spatial audio components or solutions, enterprises may have more options and greater flexibility when sourcing their AR experience delivery devices.
+- Adopting spatial audio-based solutions may lower total resourcing needs, reducing the financial barriers of enterprise adoption.
+- Spatial audio may also increase the impact of AR experiences in which there is possibility of visual AR interference or occlusion of the user's vision.
 
 # Possible Methodologies
 This research topic will require development of visual and audio AR experiences to be produced in a highly controlled laboratory environment within which a series of experiments can be conducted and reproduced. Studies will compare spatial audio requirements to vision-only AR experiences on the basis of accuracy, speed, battery life, bandwidth requirements, processor performance, wearer comfort and pricing. In addition to user perception assessments through surveys and interviews, methods could be expanded to include time-motion studies using standardized, public and well-documented processes typical of industry verticals, use cases and horizontal use case categories.

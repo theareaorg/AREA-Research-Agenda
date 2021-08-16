@@ -24,7 +24,9 @@ Standards, Technology
 Standards bodies, Safety officers, employees working in high risk jobs
 
 # Reasons this topic is important for AREA members
-Saving lives and reducing risk to which employees are exposed is a high priority and represents a significant cost to operations. Reducing the risk through technology use brings immediate return on investments, in many industries. The specification of AI systems connected to AR displays for risk detection, and the sequence of triggers leading to an alert being provided to the user, is valuable regardless of the manufacturer of the sensors or AR display.
+- Saving lives and reducing risk to which employees are exposed is a high priority and represents a significant cost to operations.
+- Reducing the risk through technology use brings immediate return on investments, in many industries.
+- The specification of AI systems connected to AR displays for risk detection, and the sequence of triggers leading to an alert being provided to the user, is valuable regardless of the manufacturer of the sensors or AR display.
 
 # Possible Methodologies
 This topic requires consensus building by working with safety officers, and new approaches to create and codify use of AI (and train the AI) to detect high risk context and circumstances, and to immediately alert the AR user. The research could also study different types of alerts for different industries, their effectiveness and recommend protocols that all devices and AR-based systems could adopt.

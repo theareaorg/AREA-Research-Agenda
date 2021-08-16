@@ -23,7 +23,7 @@ Industries, Technology, Business
 Safety managers, workplace designers, risk managers
 
 # Reasons this topic is important for AREA members
-This research will provide AREA members insights into the workplace of industrial employees and could furnish protocols to include in AR systems when integrating with enterprise safety and risk management systems.
+- This research will provide AREA members insights into the workplace of industrial employees and could furnish protocols to include in AR systems when integrating with enterprise safety and risk management systems.
 
 # Possible Methodologies
 This research can include studying appropriate definitions of proximity and risk in diverse industries and workplaces and/or using existing risk management tools, capturing data sets and training algorithms for types of hazards and testing reliability of AI in diverse conditions. The study of user interface and user experience for hazard notification systems will contribute to this field. Further, user studies will be required to measure cognitive load and user responsiveness to notifications of hazardous or potentially hazardous circumstances.

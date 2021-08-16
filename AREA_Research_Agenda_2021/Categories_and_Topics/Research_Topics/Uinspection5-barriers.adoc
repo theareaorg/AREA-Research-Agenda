@@ -23,7 +23,8 @@ Industries, Use Cases
 Business and production managers in any industry where inspections are performed for review and confirmation of meeting any quality and/or safety policies, Safety managers, compliance managers, quality managers
 
 # Reasons this topic is important for AREA members
-Research in this area wold permit effectively transferring or adapting existing AR procedures and technologies from existing use cases to AR-assisted inspection. This would leverage existing infrastructure investments and knowledge about AR implementation (increase AR ROI) and reduce time and costs of existing inspection processes to increase compliance and ability to document compliance in the workplace
+- Research in this area will permit effectively transferring or adapting existing AR procedures and technologies from existing use cases to AR-assisted inspection.
+- This would leverage existing infrastructure investments and knowledge about AR implementation (increase AR ROI) and reduce time and costs of existing inspection processes to increase compliance and ability to document compliance in the workplace
 
 # Possible Methodologies
 Interviews with business and production managers in any industry where inspections are performed for review and confirmation of meeting any quality and/or safety policies, safety managers, compliance managers, quality managers will need to be conducted and their KPIs documented.
