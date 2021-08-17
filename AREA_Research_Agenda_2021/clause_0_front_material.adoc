@@ -31,6 +31,7 @@ The individuals in the table below contributed to development of this resource f
 |mailto:Barbara.chaparro@erau.edu[Barbara Chaparro] | Embry Riddle Aeronautical University
 |mailto:cperey@perey.com[Christine Perey] | PEREY Research & Consulting
 |mailto:DERBYJ1@my.erau.edu[Jessyca Derby] | Embry Riddle Aeronautical University
+|mailto:SHELSTAW@my.erau.edu[William Shelstad] | Embry Riddle Aeronautical University
 |mailto:jenniferwolfrogers@gmail.com[Jennifer Rogers] | Independent
 |mailto:mail@peterorban.com[Peter Orban] | Lenovo
 |mailto:william.bernstein@nist.gov[William Bernstein] | NIST
