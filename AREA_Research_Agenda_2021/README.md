@@ -15,4 +15,4 @@ To produce the HTML of the Research Agenda 2021 run `asciidoctor -r asciidoctor-
 AREA-Research-Agenda-2021.html AREA-Research-Agenda-2021.adoc`
 
 To produce the PDF of the Research Agenda 2021 run `asciidoctor-pdf --safe -o
-AREA-Research-Agenda-2021.html AREA-Research-Agenda-2021.adoc`
+AREA-Research-Agenda-2021.pdf AREA-Research-Agenda-2021.adoc`

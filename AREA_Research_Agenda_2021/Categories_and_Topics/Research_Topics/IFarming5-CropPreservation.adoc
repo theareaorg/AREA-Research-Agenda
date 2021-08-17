@@ -2,7 +2,7 @@
 
 # AR for Crop Preservation in Food-Insecure Countries
 
-# Description
+## Description
 Food and nutrition security remains a huge challenge across the globe, particularly as the frequency of extreme climate events increases. The Integrated Food Security Phase Classification (IPC) indicates the level of hunger/starvation present in a particular country or region due to insufficient crop supply. The Food Security and Sustainable Agriculture (FSSA) "resilience-building thematic mechanism aims to ensure the complementarity of instruments for high-impact aid. It had an indicative budget of €525 million over the 2014-2020 period." Additionally, "sustainable food security" remains a priority for the world economy, with the EU Project Horizon 2020 work programme identifying the following immediate needs for further research and innovation:
 - Identification of tools and methods, mainly at the farm level for soil remediation and balanced fertilizers application;  +
 - Identification of agricultural system approach that can enhance quality of soils for food production; +
@@ -13,46 +13,46 @@ This research topic focuses on how AR can be used to permit farmers to investiga
 
 This study would aim to specifically measure the impact of data-informed AR on crop preservation, particularly in food-insecure countries.
 
-# Prior Research
+## Prior Research
 1.42
 
-# Key Words
+## Key Words
 United Nations, Sustainable Development Goals, sustainability, policy, education, skill development, socio-economic effects, artificial intelligence, IoT, crop preservation, farming, agriculture, water preservation
 
-## FindAR Terms
+### FindAR Terms
 social aspects, social and economic effects
 
-# Research Agenda Categories
+## Research Agenda Categories
 Business, End User and User Experience, Industries
 
-# Stakeholders
+## Stakeholders
 Government officials and policymakers in World Bank Group and UN nations, social performance and impact executives in large, global organizations, particularly those with a large social license to operate, sustainability/innovation groups in large corporations, executives and sales teams in agriculture
 
-# Reasons this topic is important for AREA members
+## Reasons this topic is important for AREA members
 - AR can provide a vital channel with which to establish a vibrant food production ecosystem positioned to support and connect farmers across the world.
 - Large impact can be made by utilizing existing soil/plant photography databases and AI-driven, AR-facilitated guidance, as well as incorporation of IoT data pertaining to water availability, as many food-insecure nations experience hardship associated with frequent drought.
 - AR is a unique delivery format that is highly conducive to providing increased accessibility for remote, rural farmers and lowers traditional barriers associated with varying literacy levels, etc.,
 - Introduction of AR opens up a myriad of possibilities with regards to establishing and expanding markets.
 - There is likely to be substantial interest within local governments as well as amongst corporate entities supporting the UN 2030 Sustainable Development Goals. There is also great potential for interest amongst providers within the broader agriculture value chain.
 
-# Possible Methodologies
+## Possible Methodologies
 The proposed research would need to enroll and engage rural farmers in food-insecure areas, preferably those in which agriculture is practiced in remote or at-risk locations (e.g. retired mine site, etc.). The research would also need to develop or expand and leverage databases of photos for local plant and soil conditions.
 
 Rural farmers would need to be onboarded into technology pilots, and potential ecosystem partners (e.g. water providers, fertilizer providers, etc.) would need to be identified. The principal investigator would develop partnerships with a host corporation and community. Research would include IoT data pre- and post- introduction of AR intervention via A/B trial scenarios, potentially with a few different levels of AR intervention. Then researchers would collect data about post-intervention behaviors and crop status.
 
 Post-study outcomes could be analyzed and recommendations developed for future implementation.
 
-# Expected Impact Timeframe
+## Expected Impact Timeframe
 Near
 
-# Research Program
+## Research Program
 This study could also be extended to explore benefits in the mining industry, when mine sites are retired, as AR could help companies ensure that the communities in the process of transitioning to different revenue sources have the tools that they need to ensure the sustainability of the land post-asset. Additionally the research methods could be extended or support other research programs associated with metals and mining, water preservation, education, policy, upskilling, and sustainability.
 
-# Miscellaneous Notes
+## Miscellaneous Notes
 https://ec.europa.eu/research/participants/data/ref/h2020/wp/2018-2020/main/h2020-wp1820-energy_en.pdf[Crop preservation research recommendations] published by the European Union provide support for this research topic.
 
-# Author
+## Author
 Jennifer Rogers
 
-# Last Published (yyyy-mm-dd)
+## Last Published (yyyy-mm-dd)
 2021-08-31

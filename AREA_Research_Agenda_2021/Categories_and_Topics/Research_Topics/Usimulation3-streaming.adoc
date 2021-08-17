@@ -2,46 +2,46 @@
 
 # Minimum Useful Fidelity of Streamed Large-scale 3D Models over 5G
 
-# Description
+## Description
 Large scale 3D models and point clouds play an important role in many fields ranging from simulation to Product Lifecycle Management to digital twins deployed on a plethora of AR-capable devices. However, due to systems or resource limitations, these models are not always as close to the reality as they purport to be.
 
 Using AR connected to 5G networks, it is possible to stream these models to a device to assist processes performed by human operators or technicians. Generally speaking, the simpler the model (i.e. the lower the fidelity), the less resource is required for streaming. However, if simplification goes too far, utility suffers, possibly preventing the operator from performing the intended task.
 
 The research scope should include comparative studies measuring the exact impact of automatic model and point cloud simplification due to streaming, possibly expressed by the decrease in polygon count vs the time required and error rates achieved in a particular operations. Measurement methods would be developed to ensure accuracy within 5% margin of error.
 
-# Prior Research
+## Prior Research
 1.12
 
-# Key Words
+## Key Words
 point cloud, large-scale 3D models, polygons, low-poly, high-poly, realistic
 
-## FindAR Terms
+### FindAR Terms
 surfaces, finite element method, computer simulation, digital simulation, computational mechanics, computer aided engineering, discrete event simulation, virtualization
 
-# Research Agenda Categories
+## Research Agenda Categories
 Technology, Business
 
-# Stakeholders
+## Stakeholders
 Operations leaders, financial management, OEM manufacturers, Independent Software Vendors, Cloud Service Providers
 
-# Reasons this topic is important for AREA members
+## Reasons this topic is important for AREA members
 - Large-scale models play an increasingly important role across various verticals of interest and importance to AREA members, requiring the justification of the investment at one or more levels.
 - AREA members will benefit from having ways to manage this investment by cross-optimizing model fidelity and utility delivering model quality that is fit for the purpose but not better.
 
-# Possible Methodologies
+## Possible Methodologies
 This research project will make a statistically significant number of comparisons between versions of different fidelity of the same large-scale 3D model and point clouds and will examine their impact on the performance aided by said models. Examining the relationship between model fidelity and human performance will inform the investment process for large-scale 3D models. New methods could be developed to compare usefulness at different levels of fidelity in various industries to clarify why some industries require different levels of fidelity to meet their objectives.
 
-# Expected Impact Timeframe
+## Expected Impact Timeframe
 Medium
 
-# Research Program
+## Research Program
 This research topic can be combined with other projects examining the tradeoffs between fidelity and function of large-scale 3D models.
 
-# Miscellaneous Notes
+## Miscellaneous Notes
 Several AREA members are already working in this field and the 7th AREA research project performed a comparison of commercial solutions available for model decimation although did not study the streaming aspect of this research topic. The MxD is interested in collaborating to use its mmWave 5G infrastructure in a factory setting to study this topic further.
 
-# Author
+## Author
 Peter Orban
 
-# Last Published (yyyy-mm-dd)
+## Last Published (yyyy-mm-dd)
 2021-08-31

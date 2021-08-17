@@ -2,7 +2,7 @@
 
 # What Factors Influence Perceptions of Presence?
 
-# Description
+## Description
 Presence is a term used to describe the "feeling of being there" in a virtual environment. It can be cognitive, in that the user's mind is engaged in the virtual content, or it can be perceptual, in that the user's sensory systems perceive the virtual environment to be "real." In Augmented Reality (AR), this is represented by a seamless integration between the physical and virtual worlds.
 
 A question that arises in this area of research is what factors of the virtual environment influence the perceptions of presence? Is there a minimum amount of virtual information needed in an AR environment? Does the level of fidelity of the virtual elements influence the reported experience of presence? For example, will an application that uses realistic 3D models result in higher levels of presence than lower fidelity (i.e., cartoon) 3D models?
@@ -15,41 +15,41 @@ The main research question in this area is "How much virtual information of what
 
 This research topic involves the examination of AR environments with differing amounts of virtual elements at different levels of fidelity and the measurement of presence among users.
 
-# Prior Research
+## Prior Research
 4.07
 
-# Key Words
+## Key Words
 presence, immersion, awareness, realism, cognitive tunneling, mental workload, seamless experience, high fidelity, low fidelity, realism, avatars, object interaction, display technology
 
-## FindAR Terms
+### FindAR Terms
 presence, interactive computer graphics, user experience, cognitive systems, sensory perception, avatars, computer graphics, color computer graphics, holographic displays, animation, image quality
 
-# Research Agenda Categories
+## Research Agenda Categories
 End User and User Experience, Industries, Technology
 
-# Stakeholders
+## Stakeholders
 Developers, users, operators, users of collaborative virtual environments
 
-# Reasons this topic is important for AREA members
+## Reasons this topic is important for AREA members
 - AREA members will benefit from having new ways to define effective AR application environments from the end user perspective.
 - Deeper understanding of presence and when immersion is broken will reduce how frequently an operator must shift their attention, which may cause cognitive tunneling associated with decreased awareness of critical elements in either environment, higher perceptions of mental workload, safety issues, and decreased productivity.
 - Understanding the level of fidelity necessary to achieve optimal presence will help AR developers know the appropriate effort and resources to invest in specific use cases.
 - The research will also assess if and how impact of fidelity may also be task dependent. For simple assembly tasks, for example, the level of fidelity may matter less than for collaboration tasks where several avatars work together to solve a problem.
 
-# Possible Methodologies
+## Possible Methodologies
 Presence tends to be a self-reported measure assessed by means of a questionnaire. Physiological measures also may be explored to correlate with reported presence, engagement, and satisfaction. These measures could be systematically compared across environments of varying complexity in terms of number of virtual stimuli for a variety of tasks.
 
-# Expected Impact Timeframe
+## Expected Impact Timeframe
 Medium
 
-# Research Program
+## Research Program
 This topic is related to other proposed AREA Research Agenda topics on display technology and user perceptions and satisfaction.
 
-# Miscellaneous Notes
+## Miscellaneous Notes
 An interesting article related to the amount of physical space in which AR application is used can be found https://ieeexplore.ieee.org/document/8943577/[here].
 
-# Author
+## Author
 ERAU Team
 
-# Last Published (yyyy-mm-dd)
+## Last Published (yyyy-mm-dd)
 2021-08-31

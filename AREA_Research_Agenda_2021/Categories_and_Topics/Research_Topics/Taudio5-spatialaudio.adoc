@@ -3,50 +3,50 @@
 
 # Trade-off and Substitution: Stereoscopic Vision for Spatial Audio
 
-# Description
+## Description
 Stereoscopic vision has long been considered the best type of visualization in terms of matching physical and simulated realities. While stereoscopic vision is the goal, producing a perfect 3D visualization and registration of AR assets is difficult using current technologies. Addressing the shortcomings of current AR displays will be prohibitively high and present a financial barrier to AR adoption in enterprises.
 
 Leveraging advancements in Digital Signal Processing (DSP) and audiology, a new class of devices are emerging. Spatially-aware audio transducers can help determine the exact position and posture/pose of the wearer as well as generate a simulated sound field that matches the physical environment. Such systems could be combined with existing vision-centric displays for high fidelity enterprise AR experiences.
 
 The scope of this topic includes measurement of the spatial audio technology resource requirements and impacts of combining visual cues with spatial audio on user performance. Comparative studies of human cognitive performance aided by varying blends of spatial technology ranging from “audio-only” to “video-only” and various combinations of both are also in scope.
 
-# Prior Research
+## Prior Research
 3.33
 
-# Key Words
+## Key Words
 spatial audio, effectiveness, spatial vision, 3D audio
 
-## FindAR Terms
+### FindAR Terms
 perception, audio signal processing, acoustic waves, active noise control
 
-# Research Agenda Categories
+## Research Agenda Categories
 Technology, End User and User Experience, Displays
 
-# Stakeholders
+## Stakeholders
 AR experience designers, developers of integrated sensor and world capture components, human factors researchers
 
-# Reasons this topic is important for AREA members
+## Reasons this topic is important for AREA members
 Spatial vision is not always as practical, comfortable or affordable way to produce AR experiences that help reach use case objectives.
 - If performance requirements on vision-based AR delivery can be reduced using spatial audio components or solutions, enterprises may have more options and greater flexibility when sourcing their AR experience delivery devices.
 - Adopting spatial audio-based solutions may lower total resourcing needs, reducing the financial barriers of enterprise adoption.
 - Spatial audio may also increase the impact of AR experiences in which there is possibility of visual AR interference or occlusion of the user's vision.
 
-# Possible Methodologies
+## Possible Methodologies
 This research topic will require development of visual and audio AR experiences to be produced in a highly controlled laboratory environment within which a series of experiments can be conducted and reproduced. Studies will compare spatial audio requirements to vision-only AR experiences on the basis of accuracy, speed, battery life, bandwidth requirements, processor performance, wearer comfort and pricing. In addition to user perception assessments through surveys and interviews, methods could be expanded to include time-motion studies using standardized, public and well-documented processes typical of industry verticals, use cases and horizontal use case categories.
 
-# Expected Impact Timeframe
+## Expected Impact Timeframe
 Medium
 
-# Research Program
+## Research Program
 This topic is at the intersection of both 3D visualization and 3D audio. The methodologies and tools developed for this research could be used in the study of perception, presence, and lead to new guidelines for AR developers and manufacturers of HMDs for enterprise AR.
 
-# Miscellaneous Notes
+## Miscellaneous Notes
 In 2016, the Sound of Vision consortium, which focuses on the construction of a new prototype electronic travel aids for the blind https://www.researchgate.net/publication/304822071_Sound_of_Vision_-_Spatial_Audio_Output_and_Sonification_Approaches[published a report] about audio-assisted vision.
 
 A peer-reviewed article http://www.aes.org/e-lib/browse.cfm?elib=15891[presenting a novel technique for reproducing coherent audio visual images for multiple users], only wearing 3D glasses and without utilizing head tracking was published in 2011 in the Journal of The Audio Engineering Society.
 
-# Author
+## Author
 Peter Orban, Christine Perey
 
-# Last Published (yyyy-mm-dd)
+## Last Published (yyyy-mm-dd)
 2021-08-31

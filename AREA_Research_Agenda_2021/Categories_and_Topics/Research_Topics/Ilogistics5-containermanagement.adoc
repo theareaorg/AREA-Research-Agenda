@@ -3,7 +3,7 @@
 
 # Cargo Container Loading, Inspection and Management with AR
 
-# Description
+## Description
 Containers play an important role in the transportation of goods by sea and air. There are a variety of ways that AR can assist employees to track and manage containers on a vessel, airplane or in port. Where there are risks there are also opportunities. By having information about the status of containers, as well as the weight, shape and type of contents of containers in an AR-ready database, technicians can make better informed decisions.
 
 An example of this is cold chain management. Containers with climate control are used to preserve and to extend and ensure the shelf life of products, such as fresh agricultural produce, frozen food, chemicals, and pharmaceutical products. Depending on the specific product, other physical parameters of the chain may also be regulated, (e.g. CO2/oxygen level, humidity and others).
@@ -16,40 +16,40 @@ Head mounted displays, handheld devices or stationary cameras can track loading 
 
 This research topic focuses on documenting use cases for enriching the interactions that AR-enabled technicians, on board, during loading and in port, can have and decisions they may make when receiving and using accurate and up-to-date information about containers and their contents. As the professionals move about within and around containers when loading, inspecting, maintaining or repairing commercial containers, they will be more productive, and security and safety policy compliance can increase.
 
-# Prior Research
+## Prior Research
 0.38
 
-# Key Words
+## Key Words
 marine, logistics, shipping, freight, cold chain, commercial shipping, containers, tracking, ships, cargo airplanes, technicians, port operations, cargo loading, inspection, safety, security, stowage plan, loading order, weight distribution, track and trace, sensors, data fusion
 
-## FindAR Terms
+### FindAR Terms
 cargo, marine, ships, buoyancy, ambient intelligence, mechatronics, internet of things
 
-# Research Agenda Categories
+## Research Agenda Categories
 Industries, Business, Technology
 
-# Stakeholders
+## Stakeholders
 Operators of any cargo service including but not limited to shipping services, pilots, naval captains, shipping operations managers, quality managers, security managers, workers performing repair and maintenance on shipping containers, port operations, customs agents
 
-# Reasons this topic is important for AREA members
+## Reasons this topic is important for AREA members
 - Many AREA customer segment members produce and distribute products globally. Some products are sensitive and must be shipped under controlled conditions.
 - Other AREA members build and/or operate fleets of vessels (air, sea and land) and have operational responsibilities for the containers and their contents.
 - AREA provider segment members producing software and display devices may wish to expand their offerings, based on precise use cases and requirements, in markets where the potential to impact safety, security and quality are high.
 
-# Possible Methodologies
+## Possible Methodologies
 This research requires a team of experts intimately familiar with all aspects of the transportation of goods. The study of regional as well as global shipping patterns and technologies will be followed by development of prototypes and testing in a variety of settings. In field usability trials, with service professionals can reveal new requirements and opportunities for AR-assisted and IoT connected containers to reduce risk and increase productivity.
 
-# Expected Impact Timeframe
+## Expected Impact Timeframe
 Medium
 
-# Research Program
+## Research Program
 This topic or theme of research overlaps with other topics pertaining to management of goods and services and use cases that benefit from users being able to quickly obtain information about any closed but connected container on land or sea. Research can be combined with assessments of accuracy at a distance from the target. The study of AR in commercial ports could have impacts on customs clearance and compliance with regulatory policy (e.g., safety, duties, etc).
 
-# Miscellaneous Notes
+## Miscellaneous Notes
 Western Container Sales, a container retailer, https://westerncontainersales.com/augmented-reality-shipping-container/[offers AR experiences for prospective customers].
 
-# Author
+## Author
 Christine Perey, Peter Orban
 
-# Last Published (yyyy-mm-dd)
+## Last Published (yyyy-mm-dd)
 2021-08-31

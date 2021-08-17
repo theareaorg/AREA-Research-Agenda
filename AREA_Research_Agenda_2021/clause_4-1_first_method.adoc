@@ -3,11 +3,6 @@
 === Meta-Analysis of Related Work
 Since there is insufficient guidance in the research community and from other public resources for how to define and prioritize future research topics, the AREA Research Committee developed its own methodology as part of the 8th AREA Research Project. The Research Committee will adapt the process and update this section in subsequent editions.
 
-////Footnote testfootnote:[The double hail-and-rainbow level makes my toes tingle.]
-
-////Author-year references can use different styles such as: cite:[Feynman1963118] or
-////citenp:[palmarini2018systematic].
-
 .Overall methodology of deriving decisions from a broad publication dataset
 [#img-methodology]
 [caption="Figure 1: "]
@@ -87,7 +82,3 @@ With the TF-IDF vectorization of the concatenation of the clean abstract and hyp
 *Ranking Research Opportunities based on Amount of Relevant Prior Art*
 
 After the research topics were written up, we used the same cosine similarity-based technique to quantify the similarity of the research topic descriptions against all records in the publication dataset. More information about the scoring method is found here[https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/rt_score_explanation.adoc]
-
-*Bibliography*
-
-bibliography::[]

@@ -2,7 +2,7 @@
 
 # Harmonization of Standard Industrial Data with Lightweight 3D Models
 
-# Description
+## Description
 Computer-aided design (CAD) platforms provide a broad suite of tools for constructing highly precise digital three-dimensional (3D) representations of parts, assemblies, and structures. Many engineering teams and organizations adhere to a single CAD platform for formally representing geometric dimensioning and tolerancing (GD&T) requirements, optimizing design performance through detailed simulations, and developing initial process plans for manufacturing the parts. With the increasing emphasis on model-based engineering across industry, more value is embedded in these digital models every day.
 
 To allow for native 3D models to be displayed on AR modalities, model translation is necessary into more efficient digital models.  Previous work has focused on model tessellation and decimation to make sure that the models are perceptually accurate. Inherently, there is a loss in geometry and topology precision in the translation process.  However, for most AR use cases, there is no need for such a high level of accuracy in the presentation of part and assembly geometries. These translation methods do not currently port supporting information, such as GD&T and other Product Manufacturing Information (PMI), in a platform-agnostic manner.
@@ -11,40 +11,40 @@ There is a research opportunity for leveraging existing industrial data standard
 
 Additional work is required in fundamental mappings between standard data representations, both from the domain perspective such as manufacturing and the AR standard community such as glTF animations.  In general, such work has been characterized as standards harmonization.
 
-# Prior Research
+## Prior Research
 2.20
 
-# Key Words
+## Key Words
 digital enterprise, model translation, interoperability, product manufacturing information, geometric dimensioning and tolerancing, assembly animation, engineering change management, updatable AR, maintainable AR, transferrable AR, agile AR
 
-## FindAR Terms
+### FindAR Terms
 knowledge representation, ontologies (artificial intelligence), information management, production planning, metadata, application programming interfaces, systems engineering, cad/cam, cad, computer aided design, integration, industry 4.0, 3d modeling, assembly, manufacturing data processing, product life cycle management, computer aided engineering, Interoperability, standardization, protocols
 
-# Research Agenda Categories
+## Research Agenda Categories
 Standards, Technology, Industries
 
-# Stakeholders
+## Stakeholders
 OEM manufacturers, integrated solution and software developers, CAD/CAM providers, engineering design teams
 
-# Reasons this topic is important for AREA members
+## Reasons this topic is important for AREA members
 - Translations of 3D models consumes significant time and resources.
 - If better tools existed for translating native models into AR-ready representations, industrial end-users would benefit directly.
 - The strong design and manufacturing focus of the AREA sit at the center of this potential research area's benefits.
 
-# Possible Methodologies
+## Possible Methodologies
 Existing model translators and standard data representations provide a strong starting point for investigation. Focusing on handling PMI and properly spatially anchoring them in the tessellated model would be a good choice for an initial project.
 
-# Expected Impact Timeframe
+## Expected Impact Timeframe
 Near
 
-# Research Program
+## Research Program
 This topic would directly benefit construction and manufacturing industries.  Luckily, lots of the existing domain-specific standards cut across these two industries. Working together to develop application domain extensions for AR standards would be a good first step.  This research topic significantly overlaps with https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/Categories_and_Topics/Research_Topics/BIntegration3-ar2plm.adoc[the AR to PLM research topic].  There are distinct in that this research topic is specific to the manufacturing industry.  The other research topic relates to developing a standard data model for ingesting PLM data, such as sustainment data for maintaining digital twins.
 
-# Miscellaneous Notes
+## Miscellaneous Notes
 There exist resources to help position research efforts.  For example, the https://www.cax-if.org/[CAx Implementor Forum] provides a number of test cases. The Khronos Group is continously updating https://www.khronos.org/gltf/[glTF], the latest de-facto standard for lightweight model presentation. https://www.asme.org/topics-resources/content/y14-standards-overview[ASME Y14] is a working group that focuses on the standard presentaiton of GD&T annotations.
 
-# Author
+## Author
 Bill Bernstein
 
-# Last Published (yyyy-mm-dd)
+## Last Published (yyyy-mm-dd)
 2021-08-31

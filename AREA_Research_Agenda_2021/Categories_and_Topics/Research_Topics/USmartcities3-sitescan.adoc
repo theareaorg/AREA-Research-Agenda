@@ -2,49 +2,49 @@
 
 # Rapid QA of Forensics and Public Safety 3D Scanning Outputs
 
-# Description
+## Description
 Accurately capturing accident, crime or crash scenes, and other scenes relevant from a Public Safety standpoint is of utmost importance for law enforcement or other government agencies. This tedious and error-prone work has tremendously benefitted from the adoption of laser scanners made by OEMs like Faro, Leica and others.
 
 Deploying laser scanners to capture crime scenes and other relevant real world situations generates a complex point clouds which requires extensive post processing before the final models are constructed – a process that takes place offsite after scanning. Therefore, potential errors of over or under scanning - which can significantly deteriorate the quality of the model – is difficult to detect on location. This is of particular concern when the use of scanning equipment is not frequent, e.g. a small town police department or large-scale disaster event.
 
 By deploying AR glasses it is possible to track the location of the scanning device and combine it with its effective scanning range at every stage to create a visual representation of the scanning footprint. This could yield an effective “coverage map” visible via smart glasses that would help the operator spot under-scanned areas. This topic includes a detailed examination of scanning footprint detected via smart glasses, in comparison to the 3D scene captured by the actual point cloud.
 
-# Prior Research
+## Prior Research
 0.51
 
-# Key Words
+## Key Words
 point cloud, laser scanning, disaster scene, crime scene, law enforcement
 
-## FindAR Terms
+### FindAR Terms
 3d models, point clouds, digital twin
 
-# Research Agenda Categories
+## Research Agenda Categories
 Technology, Business
 
-# Stakeholders
+## Stakeholders
 Public safety agencies such as police crime scene investigators, law enforcement, FEMA, OEM manufacturers. If techniques are widely published, Independent Software Vendors could integrate the capability as a new feature in their existing applications and support more devices.
 
-# Reasons this topic is important for AREA members
+## Reasons this topic is important for AREA members
 - Laser scanning plays an important role in preserving the physical reality in a digital format, which in turn can inform critical legal decisions or strategic plans. However, any error in the scanning process could significantly deteriorate its utility or render it completely useless.
 - It is important to ascertain the quality of a scan even before the point cloud itself gets processed offsite.
 
 The AREA members need ways to validate, when creating point clouds, that investing in using spatial tracking (as a proxy for point cloud quality) delivers an appropriate result in eliminating scanning errors.
 
 
-# Possible Methodologies
+## Possible Methodologies
 This research project will make a statistically-significant number of comparisons between point clouds and their respective scanner location tracking information of the same site with the purpose of creating a regression model that accounts for measurement errors in the independent variables.
 
-# Expected Impact Timeframe
+## Expected Impact Timeframe
 Medium
 
-# Research Program
+## Research Program
 This research topic can be combined with other projects examining the tradeoffs between fidelity and function of large-scale 3D models.
 
-# Miscellaneous Notes
+## Miscellaneous Notes
 There's an ISMAR 2019 paper about how to use AR device to track the viewpoint of the scanner to ensure that an object is fully scanned in 3D. This research topic could be an extension to the prior published research.
 
-# Author
+## Author
 Peter Orban
 
-# Last Published (yyyy-mm-dd)
+## Last Published (yyyy-mm-dd)
 2021-08-31

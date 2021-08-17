@@ -2,7 +2,7 @@
 
 # Safe and Secure Multi-User Wearable AR Display Management Systems
 
-# Description
+## Description
 Wearable AR displays are expensive to purchase and, once they are tested and configured for AR experiences in the enterprise, they are highly valuable, limited resources. One of the issues AR managers encounter when seeking funding to purchase wearable AR displays is that no single user needs to have the display for all their tasks during a shift. In fact, until many more AR experiences are published and accepted, display devices are in use for only a fraction of a work day.
 
 In principle, different workplace roles could use the same AR display during different parts of a process or a shift, thereby distributing the fixed cost of the hardware across multiple users and procedures, and ensuring that the system is not idle for significant time.
@@ -13,41 +13,41 @@ The second issue that presents a barrier is the extension of mobile device manag
 
 The scope of this research straddles two fields that are not easily combined. The two topics could be studied separately.
 
-# Prior Research
+## Prior Research
 4.19
 
-# Key Words
+## Key Words
 sanitation, clean equipment, access control, user authentication, authorization, biometric, safe display cleaning,
 
-## FindAR Terms
+### FindAR Terms
 safety, sanitation, access control, data protection, security systems,  authentication, message authentication, authorization
 
-# Research Agenda Categories
+## Research Agenda Categories
 Displays, End User and User Experience, Technology
 
-# Stakeholders
+## Stakeholders
 Workplace safety managers and officers, IT security managers, employees working in facilities driven by work orders, AR managers, AR experience developers, AR interface designers who would develop prompts and procedures for easy login
 
-# Reasons this topic is important for AREA members
+## Reasons this topic is important for AREA members
 - Enterprises cannot purchase sufficient AR display hardware to have every employee have their own, personal device for a full shift.
 - AREA members will be looking for ways to distribute display hardware across multiple users.
 - They will need systems to reduce risk of contamination and transmission of skin or respiratory conditions between users.
 - AREA members must provide a way for users to reliably, easily and quickly log into their personal account. Very little is known or documented about possible impacts of the issues around these topics.
 
-# Possible Methodologies
+## Possible Methodologies
 This project will require laboratory or bench studies with different sanitation systems, then microbiological studies to determine effectiveness of different procedures. For the authentication and log in systems, development of biometric identification systems would be valuable. These could be compared with commercial log-in interfaces to manage user identification. Further, after the tests in laboratories, there should be research on the use of these approaches with end users for acceptance.
 
-# Expected Impact Timeframe
+## Expected Impact Timeframe
 Near
 
-# Research Program
+## Research Program
 This topic is closely related to another proposed AREA Research Agenda topic on end user biometric authentication for security purposes [Tauthentication5-biometric]. The topics could be combined with other AR security topics to develop a full research program.
 
-# Miscellaneous Notes
+## Miscellaneous Notes
 In July 2021, https://cyberbytesfoundation.org/news/cyber-bytes-foundation-announces-grant-award/[NIST’s Public Safety Communications Research Division has awarded a $1M grant to CyberBytes Foundation (CBF) and XR Saftey Initiative (XRSI)] to study feasibility and develop natural AR device user authentication methods that do not require users to perform specific actions (typing passwords, swiping ID cards). XRSI Privacy & Safety Framework will be used as a tool to assess natural AR Authentication methods by first responders and others working in public safety organizations.
 
-# Author
+## Author
 Christine Perey
 
-# Last Published (yyyy-mm-dd)
+## Last Published (yyyy-mm-dd)
 2021-08-31

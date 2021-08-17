@@ -2,7 +2,7 @@
 
 # Multi-layered Approach to Public Asset Utilization in Smart Cities
 
-# Description
+## Description
 There is a wide range of assets in urban environments: public spaces, buildings, concentrations of demography, utilities, history, movement of people and objects and so on. These assets carry significant value for all those interacting with them but the nature and manifestation of the value depends on the context and the use case.
 
 The nature of value associated with the same asset depends on the nature of the interaction: occupancy for a realtor, history for a tourist, compliance for the Code Enforcement employee and so on – all built around the same digital twin of the host city.
@@ -11,39 +11,39 @@ Following proper authorization, head mounted displays or handheld devices can un
 
 This research topic also includes architecting a multipurpose Digital Twin of a set of assets, associating them with various layers of value and examining modalities of consumption from a human factors perspective.
 
-# Prior Research
+## Prior Research
 0.22
 
-# Key Words
+## Key Words
 public asset management, public services, scanning, smart cities, urbanization
 
-## FindAR Terms
+### FindAR Terms
 intelligent buildings, urban growth, town and country planning, urban planning, digital twin, smart cities, street lighting
 
-# Research Agenda Categories
+## Research Agenda Categories
 Technology, Business
 
-# Stakeholders
+## Stakeholders
 Elected and professional urban leaders: Mayors, CIOs and CISOs of urban infrastructure, Independent Software Vendors, geospatial infrastructure providers, points of interest publishers
 
-# Reasons this topic is important for AREA members
+## Reasons this topic is important for AREA members
 - According to the UN, 68% of the world population projected to live in urban areas by 2050. This will put an increased strain on most public assets to optimizing how to unlock their value will be critical for resident quality of life and visitor experiences.
 - Best practices developed in urban design, information architecture and human factors will be extended by the results of this research.
 
-# Possible Methodologies
+## Possible Methodologies
 This research will require scanning and associating data with urban assets and developing methodologies to test different use cases and scenarios. User satisfaction and productivity studies in field trials will contribute to development of best practices for specific industries.
 
-# Expected Impact Timeframe
+## Expected Impact Timeframe
 Long
 
-# Research Program
+## Research Program
 This topic is a good fit with most topics focused on Smart Cities and long-range outdoor positioning.
 
-# Miscellaneous Notes
+## Miscellaneous Notes
 The UN has published https://www.un.org/development/desa/en/news/population/2018-revision-of-world-urbanization-prospects.html#:~:text=News-,68%25%20of%20the%20world%20population%20projected%20to%20live%20in,areas%20by%202050%2C%20says%20UN&text=Today%2C%2055%25%20of%20the%20world's,increase%20to%2068%25%20by%202050[reports about urbanization and the challenges it raises for those managing urban data].
 
-# Author
+## Author
 Peter Orban
 
-# Last Published (yyyy-mm-dd)
+## Last Published (yyyy-mm-dd)
 2021-08-31

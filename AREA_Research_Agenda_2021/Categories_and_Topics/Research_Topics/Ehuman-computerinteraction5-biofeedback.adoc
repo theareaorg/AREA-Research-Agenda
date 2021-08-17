@@ -2,48 +2,48 @@
 
 # AR Visualization of Body Sensors for Worker Biofeedback
 
-# Description
+## Description
 During the performance of tasks or fulfilment of roles, an employee may be unaware of changes in their involuntary bodily functions such as blood pressure and heart rate. When aware of any unusual metrics, the user can choose or be prompted to take appropriate actions. Visual and/or auditory information captured in real time by body-worn sensors (e.g., watches) could capture posture, head flexion and extension, whether the arms are above the shoulders, and possibly even squatting. The system could provide feedback on static posture duration and/or frequency and suggest postural changes or breaks based on criteria that increase the risk of muscular skeletal disorders.
 
 The sensor data can be provided to the AR display through a body-area network. This topic focuses on the low-latency transmission and processing of observations from body-worn sensors to the user's AR display and the presentation of data and recommendations in a compact and actionable manner. The system design research should explore both automated modes (which are triggered upon the user's functions reaching a threshold) as well as manually controlled modes (e.g., enabled by a user seeking to obtain vital statistics). There must also be research to ensure that any AR visualization system is secure and upholds all relevant user data privacy protection policies.
 
-# Prior Research
+## Prior Research
 2.41
 
-# Key Words
+## Key Words
 Biometrics, body sensors, blood pressure, heart rate, body temperature, body-area network, biofeedback, user data privacy protection, visualisation, alerts
 
-## FindAR Terms
+### FindAR Terms
 biofeedback, biometrics, body area network
 
-# Research Agenda Categories
+## Research Agenda Categories
 End User and User Experience, Technology
 
-# Stakeholders
+## Stakeholders
 Companies monitor and manage workplaces for their suitability to employees. This research will be valuable to all workplace health and safety professionals, wellness specialists, human resources managers, user data privacy policy analysts, employees, and managers.
 
-# Reasons this topic is important for AREA members
+## Reasons this topic is important for AREA members
 - Employees of AREA members may work in conditions that are highly stressful and/or require postures that introduce risk of injuries. Others must concentrate while working in environmental conditions that are known or anticipated to produce risks to employee well-being (e.g., around vibrations or loud machines). Body-worn sensors can detect abnormal behaviors in the workers' involuntary bodily functions, postures, and use of body parts.
 - The implementation of body-worn sensors could be controversial if their ability to protect user data privacy is not clearly demonstrated.
 - By using a body-area network and connecting it with their AR display, an employee will be able to see any anomalies in their real time and historical biometrics without distracting them from their task or releasing their personal data.
 - With biometric information in their field of view, the AREA employee can modify their behaviors (e.g., reduce stress, change posture, or make other adjustments to manage their body's response to conditions in their workplace).
 
-# Possible Methodologies
+## Possible Methodologies
 Research on this topic includes testing and studying the features of body-worn biometric devices in professional settings. It will be necessary to design and build a body-area network supporting existing standards in order to interface with radios and technologies on AR display devices. The research will also require designing and studying the usability, efficacy, and performance of AR-enriched user interfaces for providing a user with only pertinent biometric data via an AR display.
 
-# Expected Impact Timeframe
+## Expected Impact Timeframe
 Medium
 
-# Research Program
+## Research Program
 This research topic can be combined with other topics pertaining to automated alerting of users to risk conditions using the AR display. It can also extend research on biometrics, biofeedback, and behavior modification therapies.
 
-# Miscellaneous Notes
+## Miscellaneous Notes
 A peer-reviewed study of a biofeedback system combined with a VR display for managing emotional states was https://dl.acm.org/doi/abs/10.1145/3089269.3089273[published in SIGGRAPH '17 proceedings]. As documented in this https://res.mdpi.com/d_attachment/applsci/applsci-09-03248/article_deploy/applsci-09-03248.pdf[2019 review of the state of the art of body-area network usage in healthcare], the technology is maturing. Combining body-area networks and AR in professional domains is an unexplored field that has high potential for impact.
 
 Similarly, biometrics and the use of biofeedback in the workplace are very large and active fields of research. However, to date, their intersection with Augmented Reality has not been documented in the peer-reviewed literature.
 
-# Author
+## Author
 Christine Perey
 
-# Last Published (yyyy-mm-dd)
+## Last Published (yyyy-mm-dd)
 2021-08-31

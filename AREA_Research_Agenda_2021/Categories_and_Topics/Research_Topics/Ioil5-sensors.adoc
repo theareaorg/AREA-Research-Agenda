@@ -3,47 +3,47 @@
 
 # Chemical and Radiation Sensors for AR Devices
 
-# Description
+## Description
 Existing AR display devices do not have sensors to detect gases, radiation or other elements in the user's environment. For many use cases of interest to the oil and gas industry as well as, mining, emergency responder and chemical industries, there needs to be research into the types and integration of existing chemical sensing technologies with the AR display or wearable computing system or to develop standard interfaces with IoT sensors to display readings in real time.
 
 This research topic is a concrete example of a more fundamental research topic: the detection of an AR system user's context beyond what can be done with existing sensors (cameras, microphone, IMU, etc). The scope of this research can be narrow or large, depending on the support provided from commercial or public agencies.
 
-# Prior Research
+## Prior Research
 1.48
 
-# Key Words
+## Key Words
 sensors, human factors, environment, oil and gas, chemical, power and energy, radiation, hazardous materials, radioactivity, explosives, chemical hazards,
 
-## FindAR Terms
+### FindAR Terms
 volatile organic compounds, hazardous materials, aromatic compounds, gases, hydrocarbons, indicators (chemical), radioactivity, chemical hazards, chemical detection, gas sensors
 
-# Research Agenda Categories
+## Research Agenda Categories
 Industries, Technology
 
-# Stakeholders
+## Stakeholders
 Developers, operators and employees working in places where invisible gases may pose a risk, regulatory agencies, compliance officers
 
-# Reasons this topic is important for AREA members
+## Reasons this topic is important for AREA members
 - Real time display of IoT sensor readings provide user context, beyond those that rely on RGB or RGBD cameras for real time environment acquisition.
 - The lack of connection with sensors measuring gas or radiation represents a gap which can be addressed through research and could contribute to the development of standards.
 - The visualization of gases and other salient chemical or radioactive features of the physical world are important and would serve as the basis for decision making for users when operating equipment in conditions unsuitable to vision-based sensors.
 
-# Possible Methodologies
+## Possible Methodologies
 A laboratory would need to be developed for controlled exposure to chemicals and radiation sources. The lab and platform for testing will have off-the-shelf sensors and/or the project may require development of lightweight and power efficient sensors that are effective as alternatives to cameras and existing vision-based environmental capture. The testing and development of 3D interaction modes when user's environmental sensors detect unsafe conditions is a fundamental part of this research domain.
 
-# Expected Impact Timeframe
+## Expected Impact Timeframe
 Medium
 
-# Research Program
+## Research Program
 This topic or theme of research overlap with the topic of visualizing conditions in the direction or on the path of any moving object in atmosphere that is opaque or under water. The outcomes of this research could also be applied in non-industrial use cases (e.g., pollution sensing). The same research topic could be combined with study of user interfaces and interaction paradigms for the visually-impaired community.
 
-# Miscellaneous Notes
+## Miscellaneous Notes
 In 2012, the U.S. Department of Energy Office of Scientific and Technical Information (OSTI) funded research conducted at Department of Nuclear Engineering & Radiological Sciences, University of Michigan, on this topic. Preliminary results were reported in a https://www.osti.gov/servlets/purl/1405263[poster about visualization of radiation in AR].
 
 A https://indico.cern.ch/event/717796/contributions/2949592/attachments/1715219/2766824/PresentationGoriniSchool_MeasurementsForRobotics.pdf[2017 presentation about research on related topics conducted at CERN] using HoloLens in particle accelerator environments is also relevant.
 
-# Author
+## Author
 Christine Perey
 
-# Last Published (yyyy-mm-dd)
+## Last Published (yyyy-mm-dd)
 2021-08-31

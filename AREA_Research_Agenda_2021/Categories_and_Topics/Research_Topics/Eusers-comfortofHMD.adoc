@@ -2,44 +2,44 @@
 
 # Impact of Individual Differences and AR Display Comfort on User Acceptance
 
-# Description
+## Description
 Head-mounted AR display devices are getting lighter and more comfortable. However, users may still perceive the weight on their necks and find the devices cumbersome to don and doff, as well as finding them hot after extended periods of use. Head sizes, head shapes, visual acuity, inter-pupillary distance, and the use of corrective lenses or safety glasses/safety helmets all affect users' comfort and ease of use. While advances in the technology that accommodate wider ranges of users are rapidly being deployed, industry adoption can be hampered by poor user acceptance due to general discomfort.
 
 This research topic examines impacts of individual differences on user satisfaction and acceptance of a variety of HMD devices in the workplace.
 
-# Prior Research
+## Prior Research
 2.39
 
-# Key Words
+## Key Words
 comfort, eye strain, fatigue, simulation sickness, heat tolerance, headgear weight tolerance
 
-## FindAR Terms
+### FindAR Terms
 subjective testing, behavioral research, thermal comfort, environmental factors, comfort
 
-# Research Agenda Categories
+## Research Agenda Categories
 End User and User Experience, Industries, Technology
 
-# Stakeholders
+## Stakeholders
 Developers, users, operators, users of AR head mounted displays (HMDs)
 
-# Reasons this topic is important for AREA members
+## Reasons this topic is important for AREA members
 - User acceptance of new form factors in display technologies is critical to AR adoption. Since comfort is known to impact user acceptance of AR in the workplace, all obstacles need to be identified and accommodations made for individual preferences and features.
 - Understanding individual differences also contributes to the understanding of OEM and designers about which differences remain to be addressed by the various HMD technologies.
 
-# Possible Methodologies
+## Possible Methodologies
 Comfort can be measured both objectively and subjectively. Objective measures include pupil diameter to assess workload or cognitive effort, EEG, and GSR. Subjective measures include Likert scales querying perceived comfort, exertion (i.e., Borg Scale or Perceived Exertion), assessments of HMD weight, thermal comfort, acceptable length of use, and general acceptance.
 
-# Expected Impact Timeframe
+## Expected Impact Timeframe
 Medium
 
-# Research Program
+## Research Program
 This topic is potentially related to another proposed AREA Research Agenda topic on Users and User Experience [Einput-textinput] in that comfort is a key component to user acceptance of various text input methods. The topics could be combined with other AR End User and User Experience topics to develop a full research program.
 
-# Miscellaneous Notes
+## Miscellaneous Notes
 An interesting article regarding the design decisions of the HoloLens 1 to accommodate individual differences https://sid.onlinelibrary.wiley.com/doi/pdf/10.1002/sdtp.11586?casa_token=i1x9dRJa2tAAAAAA%3AmnQU3ckNbdunIDNe4G8uxoLfe87YwzEpS7Ti1G0N9L76PgNLHarmCNusU9C9U9ucswKxB3wtRUFUdyM/[can be found here].
 
-# Author
+## Author
 ERAU Team
 
-# Last Published (yyyy-mm-dd)
+## Last Published (yyyy-mm-dd)
 2021-08-31

@@ -2,45 +2,45 @@
 
 # Text Input with AR Head Mounted Displays
 
-# Description
+## Description
 Most AR experiences developed for mixed-reality head-mounted displays require some level of user interaction, such as text input, gestures, or voice input. While voice is the quickest method for a user to control and interact with digital assets, it is prone to error thanks to varying speaking styles, accents, and emotions. It is also not well suited to noisy industrial environments. Text input is typically conducted through hand or finger gestures or a handheld clicker with a virtual QWERTY keyboard. Research examining user performance reveals that both methods are cumbersome, with an average of 5-6 WPM. (For comparison, typical typing speeds on mobile devices range from 30 to 50 WPM.) This performance level is unacceptable for continued and effective use in the workplace. In addition, users may feel fatigued after holding their arm in compromising positions for extended periods of time.
 
 User acceptance and satisfaction is critical and a common struggle among developers of alternate keyboard design, even outside of the HMD/AR domain. The QWERTY keyboard, for example, has been shown to result in slower performance than alternative designs, but the general public is unwilling to relearn a new method.
 
 This research topic involves the study of alternate methods of text input to develop methods with higher performance and user satisfaction. The approaches to be studied include the design of a virtual keyboard and advancing the algorithms behind the keyboard predictive text functionality and user interaction (i.e., tap gesturing vs trace, eye gaze input).
 
-# Prior Research
+## Prior Research
 3.84
 
-# Key Words
+## Key Words
 text entry, text editing, virtual keyboard, trace input
 
-## FindAR Terms
+### FindAR Terms
 user experience, sensory perception, text analysis, gesture recognition, keyboards, speech-based user interfaces
 
-# Research Agenda Categories
+## Research Agenda Categories
 End User and User Experience, Displays, Technology
 
-# Stakeholders
+## Stakeholders
 Developers, operators of machinery, all users of AR experiences requiring user input of text, performance and quality control managers
 
-# Reasons this topic is important for AREA members
+## Reasons this topic is important for AREA members
 - Almost all AR experiences used with wearable displays require some level of user input of alphanumeric information. - - Improving input methods to increase the speed and quality of input so that it is easy to use, efficient, and not prone to error will provide for better user experiences and more widespread AR acceptance.
 
-# Possible Methodologies
+## Possible Methodologies
 Researchers interested in this topic may examine the efficacy of the virtual keyboard design itself, the method of user interaction (speech, gesture type), or the predictive text algorithms used. A combination of objective measures (e.g., time (WPM), error rates) as well as subjective measures (e.g., user satisfaction, acceptance, preference among methods, likelihood to use) should be examined.
 
-# Expected Impact Timeframe
+## Expected Impact Timeframe
 Medium
 
-# Research Program
+## Research Program
 This topic examines the overall issue of text input using AR experiences and interfaces with a wearable AR display device. It is expected that researchers will examine one of the aforementioned methodologies and not all in a single study. The research is best done in controlled environments to determine optimal performance before generalizing to applied settings. Time and motion studies could be employed for performance assessment/metrics. Interviews and surveys are needed to explore user acceptance of different text input options.
 
-# Miscellaneous Notes
+## Miscellaneous Notes
 User performance and subjective data of text input using a HoloLens device can be seen in https://journals.sagepub.com/doi/pdf/10.1177/1071181319631279/[this article].
 
-# Author
+## Author
 ERAU Team
 
-# Last Published (yyyy-mm-dd)
+## Last Published (yyyy-mm-dd)
 2021-08-31

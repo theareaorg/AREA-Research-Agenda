@@ -2,7 +2,7 @@
 
 # Common APIs for Tracking Libraries for Vision-based AR
 
-# Description
+## Description
 Tracking and registering the position and orientation of the user's camera in real-time is a fundamental functionality for Augmented Reality. For enterprise use cases, the environment cannot always have markers for tracking. There are vision-based tracking libraries using markers and natural feature recognition technologies available as open source libraries as well as under license from commercial sources. In the future, there will likely be many tracking libraries, each optimized for specific contexts and tasks.
 
 When designing AR experiences, developers using existing AR authoring platforms are either forced to use the publisher's own tracking library, or, under the best of circumstances, may choose tracking libraries which will be compiled into the final experience. The developer's choice will depend on the use case requirements. However, when authoring AR experiences, the developer does not have full control or perfect knowledge (for training purposes) of all the environments and features that will be in the user camera's field of view.
@@ -11,39 +11,39 @@ As AR experiences become more complex and suitable for use in more environments 
 
 This research topic will explore requirements of AR experiences and the attributes of common and future tracking libraries for AR and, based on use cases and requirements, develop one or more application programming interfaces that can be implemented and submitted to an appropriate organization for standardization.
 
-# Prior Research
+## Prior Research
 3.69
 
-# Key Words
+## Key Words
 application programming interface, APIs, Tracking Library, AR Experience Software, Interoperability, Multi-Library support,
 
-## FindAR Terms
+### FindAR Terms
 Interoperability, application programming interface (api)
 
-# Research Agenda Categories
+## Research Agenda Categories
 Standards, Technology
 
-# Stakeholders
+## Stakeholders
 Standards bodies, end users, AR experience developers, AR authoring platform publishers, AR tracking library developers, computer vision scientists and developers
 
-# Reasons this topic is important for AREA members
+## Reasons this topic is important for AREA members
 - AR experience developers and the users of those are unable to specify all future use conditions. If and when conditions change in user contexts or tasks, or new vision tracking libraries are published, the process of changing libraries requires returning to the beginning of the authoring.
 - The proposed research and resulting standard would make it possible for developers to switch between different libraries quickly, perhaps automatically, and with confidence that the libraries are available when needed.
 
-# Possible Methodologies
+## Possible Methodologies
 The research will focus on tracking library characteristics and the authoring platforms. There will also need to be study of run-time systems for analyzing the real world features and matching the tracking library with the user contexts for the AR experiences to be provided. The research will also require working with open and consensus-based Standards Development processes.
 
-# Expected Impact Timeframe
+## Expected Impact Timeframe
 Medium
 
-# Research Program
+## Research Program
 This research topic could be part of a program developing more "fine tuned" tracking libraries for specific enterprise workplaces, environments and tasks. The results would also benefit non-enterprise users who also change their needs and use cases without wanting to download new or update their AR experiences.
 
-# Miscellaneous Notes
+## Miscellaneous Notes
 API development for more flexible architectures when authoring with or using vision-based tracking libraries was proposed as an AREA-directed research project topic in January 2020.
 
-# Author
+## Author
 Christine Perey
 
-# Last Published (yyyy-mm-dd)
+## Last Published (yyyy-mm-dd)
 2021-08-31

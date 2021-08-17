@@ -2,50 +2,50 @@
 
 # New Power Sources for Wearable AR Displays
 
-# Description
+## Description
 As the complexity and computational requirements of world capture, world analysis, scene management, rendering, and human interactions with AR experiences increase, a delicate balance must be struck so as to ensure that the useful life of a device between recharges is not too low. Power management may be addressed through a combination of different approaches, including increase in use of low power DSPs, off-loading some computational tasks to the edge of the network (off-device services), and increasing power storage capacity. There is another potentially powerful resource to address the duration of wearable AR display usage. This topic focuses on the research and development of novel methods to capture power from the user or the environment that could be transferred to the power storage system.
 
 Specifically, the proposed topic will research, build, and test implementations of new methods of energy harvesting from sources that have not been used in prior wearable AR display systems. There will need to be studies of human movement (steps, arms, hands), solar sources for users that are outdoors, and chemical reactions that release energy. This topic will span a wide range of technologies, including analysis of the power requirements of each individual AR display component.
 
-# Prior Research
+## Prior Research
 2.45
 
-# Key Words
+## Key Words
 power use, power consumption, power production, AR device energy sources, energy capture, energy production, AR device energy transfer, energy consumption, energy management, electromechanical, solar energy, friction, power storage for AR displays, human factors, weight, usability, portability
 
-## FindAR Terms
+### FindAR Terms
 computational efficiency, low power electronics, electric batteries, power consumption, power conversion, power aware computing
 
-# Research Agenda Categories
+## Research Agenda Categories
 Displays, Technology
 
-# Stakeholders
+## Stakeholders
 All users of wearable AR display devices and those who manage their use in the workplace will benefit from longer duration between recharges. Introducing or integrating novel power production, transfer, and storage technologies will have impacts on display costs, which could affect the number of devices purchased.
 
-# Reasons this topic is important for AREA members
+## Reasons this topic is important for AREA members
 - Most of the leading AR display component and system manufacturers are AREA members.
 - Use of wearable AR displays in AREA member settings is limited by many factors, one of which is the size and weight of the display needed in order to store sufficient energy to power the computational processing requirements of AR experiences.
 - The issues of power storage to deliver energy for a full work shift can be addressed through reducing local (on-device) processing and power requirements, and increasing storage capacity.
 - Having continuously generated power from a source such as the movements or environment of the user is an approach that has not received extensive study but could introduce an attractive alternative to removing a device from use for charging.
 
-# Possible Methodologies
+## Possible Methodologies
 The research will be leveraging developments in physics, chemistry, and other sciences pertaining to energy production and combining those with deeper studies of wearable AR display device power use. In addition to theoretical calculations, there will need to be prototypes developed and tested to measure the efficacy and efficiencies of power capture, storage, and use with AR displays. Finally, the introduction of new energy production, transfer, and storage methods or systems will need to be carefully studied for their safety in the workplace.
 
-# Expected Impact Timeframe
+## Expected Impact Timeframe
 Long
 
-# Research Program
+## Research Program
 This research topic could be studied in different environmental conditions, such as indoors, outdoors, and in different temperatures. In addition, there will need to be studies of different use cases in which some users are actively moving throughout a work shift. The results of this research would also be very valuable for non-enterprise users and display devices.
 
-# Miscellaneous Notes
+## Miscellaneous Notes
 This field of research is in its infancy, but there are some promising developments such as the electrochemically driven mechanical device developed at MIT and https://www.nature.com/articles/ncomms10146[revealed in 2016 in Nature].
 
 The following articles, published in 2019 describe https://techxplore.com/news/2019-11-harvesting-energy-human-body.html[energy harvesting based on human body movement]; similar studies have been https://www.sciencedaily.com/releases/2019/07/190717122600.htm[reported here.]
 
 This study of https://res.mdpi.com/d_attachment/energies/energies-13-03871/article_deploy/energies-13-03871-v2.pdf[measurement of the power produced] was published in 2020.
 
-# Author
+## Author
 Christine Perey
 
-# Last Published (yyyy-mm-dd)
+## Last Published (yyyy-mm-dd)
 2021-08-31
