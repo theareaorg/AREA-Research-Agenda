@@ -1,0 +1,50 @@
+[[ra-Unavigation5-routesriskstransittime]]
+
+# Visualization of Routes, Risks and Transit Time in AR
+
+## Description
+Efficient navigation between locations is a challenge encountered in many use cases. Routing and guidance to a location is a killer app for smartphones. Using context to help users navigate to their destinations will also be valuable for AR users but more research is needed to integrate real time data in route calculation and further study on user interfaces will also benefit this use case.
+
+Traffic information from smart phone users contributes to calculations of routes for drivers. At a finer grain, real time data from captured video (e.g., on users and their devices) and stationary or mobile sensors could further improve route planning. Route planning could be made more efficient in workplaces and to remote locations. Visualizing routes and transit times in a wearable AR display permits the user to use both hands and avoids the user needing to look away from the objects and possible obstacles in the vicinity.
+
+For example, in factories or warehouses, workers need to avoid moving through zones where robots are operating, where materials they are transporting do not fit through openings or through any space that is secure and requires credentials for entry/exit. Often the professional is expected to travel to a place which is unfamiliar/to which they have never been. Studies that train, with machine learning, algorithms to detect and use real world conditions would be highly beneficial. A professional may avoid unsafe or impassible routes.
+
+## Prior Research
+3.54
+
+## Key Words
+geospatial AR, GPS, global positioning system, location, position, orientation, route, route optimization, navigation, planning, guidance, routing
+
+### FindAR Terms
+computerised navigation, global positioning system, navigation, navigation systems
+
+## Research Agenda Categories
+Use Cases, End User and User Experience
+
+## Stakeholders
+Many use cases include the need for a user to walk or drive between locations. When conditions are apt to change between locations or the exact destination is new each time, an automatic, real-time and AR-enabled navigation support technology can ensure the most efficient and safest routes are followed. Visualization in AR removes the need to look at another device for route information. When small incremental improvements in efficiency are compounded over thousands of users, following optimized routes can impact workforce productivity and lower risk.
+
+## Reasons this topic is important for AREA members
+- AREA customer segment organizations have large workforces with diverse needs for movement.
+- Reducing transit times while also increasing safety are ways to improve operational efficiencies.
+- AR providers could integrate navigation support into other use cases, permitting the user to receive value from the wearable AR device investment between other stationary/non-mobile activities and use cases.
+
+## Possible Methodologies
+Visualizing route, risk and transit time in AR requires use of geospatial positioning and orientation and will build upon existing navigation technologies and extending technologies already in use (e.g., smart phones) in a variety of environmental conditions (e.g., low and bright light). Indoor navigation technologies (without use of GPS) can build upon use of beacons and other types of landmarks that can be detected using an AR-enabled device. Extensive user testing with diverse user interfaces is required to develop options that meet the needs of different use cases.
+
+## Expected Impact Timeframe
+Medium
+
+## Research Program
+Visualization of routes, risks and transit time is a use case based on real time data and AI, and can be combined with studies of AR-enhanced use cases, such as situational awareness and simulation. It also can be combined with research into and contributions to the field of technology for error and risk detection.
+
+## Miscellaneous Notes
+This topic has been studied in many dimensions and in conjunction with other services. In 2015, https://www.researchgate.net/publication/272760699_Location-Based_Augmented_Reality_Information_for_Bus_Route_Planning_System[a study demonstrated that AR could help users of public transportation by putting destinations and other information on municipal buses].
+
+In March 2021, Google https://www.theverge.com/2021/3/30/22357528/google-maps-directions-indoor-ar-live-view-fuel-efficient-weather-air-quality-layer[announced that it would provide live AR view of route and guidance] using Google Maps for pedestrians in airports, transit stations, and malls.
+
+## Author
+Christine Perey
+
+## Last Published (yyyy-mm-dd)
+2021-08-31

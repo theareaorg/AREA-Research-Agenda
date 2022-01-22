@@ -1,0 +1,52 @@
+[[ra-Denergy5-dspsforlowpower]]
+
+# Low Power Digital Signal Processors for Use in AR Display Devices
+
+## Description
+While the data about the user's context is captured, fused, and filtered in one digital signal processor (DSP), vision processing units (VPUs) are analyzing individual and fused data signals to detect key features (e.g., objects) of the real world. Audio processing also requires computing resources. At the precise moment when AR experiences are delivered to users, power is needed for the rendering computations. This power usage must not compete with the power necessary for the optics, auditory, or other real time processes to produce digital assets visible to the user.
+
+DSPs are common components of AR Systems-on-Chips (SoCs) in displays. The DSPs accelerate the classes of computational tasks required for optimal performance of AR systems. They can be configured and optimized to specific parameters, matching the sensors that capture the real world tasks that they perform and even the use case or user's requirements.
+
+To reduce total display power usage and increase the time between charges, fundamental research needs to advance the state of the art in design and production of low-power DSPs dedicated to every computationally intensive component of enterprise AR displays and delivery systems.
+
+This research needs to be performed without interference with existing patents and be published and available to component manufacturers and AR display manufacturers without license or fees in order to accelerate the development of new DSPs and to reduce the cost of high-performance enterprise AR display devices and other mobile hardware.
+
+## Prior Research
+3.69
+
+## Key Words
+Low power, power use, power consumption, digital signal processing, DSP, VPU, SoC, AR display hardware
+
+### FindAR Terms
+digital signal processing, low power electronics, heads-up displays, power consumption
+
+## Research Agenda Categories
+Displays, Technology
+
+## Stakeholders
+AR display designers, AR display manufacturers, original equipment manufacturers (OEM) of semiconductors for AR displays, AR systems integrators
+
+## Reasons this topic is important for AREA members
+- Most of the leading AR display component and system manufacturers are AREA members. While their research in this topic has certainly led to substantial improvements in performance, there has been a lack of peer-reviewed literature published on the topic.
+- There must be greater research investment and publication of results focused on the challenges of power consumption and computational complexity in order to create new business opportunities that can benefit all AR display manufacturers.
+- AREA customer segment members will also benefit from lower cost, less power-intensive systems and integrated AR display devices as a result of advancements in this field.
+
+## Possible Methodologies
+Semiconductor and DSP designers can collaborate with other AR ecosystem segments to increase their understanding of the diversity of real world requirements. Using machine learning and artificial intelligence, designers will optimize new DSP architectures for AR-specific functions.
+
+## Expected Impact Timeframe
+Long
+
+## Research Program
+This research can be combined with fresh research approaches to create new power capture and power storage technologies for use in AR display designs.
+
+## Miscellaneous Notes
+A 2018 https://www.qualcomm.com/media/documents/files/the-mobile-future-of-augmented-reality.pdf[Qualcomm Technologies presentation] describes important computing tasks and functions of signal processors in advanced AR display devices.
+
+This is a https://community.arm.com/innovation/b/blog/posts/maximizing-the-system-efficiency-of-augmented-reality-devices[blog post] published June 2020 on the ARM community web site about this research topic.
+
+## Author
+Christine Perey
+
+## Last Published (yyyy-mm-dd)
+2021-08-31

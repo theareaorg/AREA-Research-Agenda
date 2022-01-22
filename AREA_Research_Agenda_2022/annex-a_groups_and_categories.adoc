@@ -1,0 +1,6 @@
+[appendix]
+:appendix-caption: Annex
+== This is a placeholder for the first appendix
+
+[NOTE]
+this is where the note for this appendix appears

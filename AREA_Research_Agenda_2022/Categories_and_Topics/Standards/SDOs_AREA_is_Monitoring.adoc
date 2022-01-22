@@ -1,0 +1,43 @@
+# Standards Development Organizations of Potential Impact on Enterprise AR
+
+The AREA Interoperability and Standards Program is monitoring many Standards Development Organizations (SDOs) for development of specifications that could impact the adoption of AR in enterprise and industrial settings. In addition to SDOs, there are also industry groups or consortia with tight relationships with one or more SDOs. Such groups can develop and contribute draft standards for review and, if deemed to meet criteria, approval by SDOs.
+
+The tables below serve as an interface for exploring SDOs and their relevant working groups. While some SDOs have both industry-agnostic working groups and industry-specific working groups, most SDOs coordinate experts and publish either industry-agnostic standards or industry (or domain)-specific standards.
+
+Clicking on the name of the SDO will take the user to a section of this resource that compiles current information about activities of the SDO that the AREA is monitoring. From the SDO section, the names of relevant working groups contain links to further information.
+
+
+.SDOs Primarily Publishing Technology Standards
+[cols="4",options="headers"]
+|===
+^|*SDO* ^|*XXXX* ^|*XXXXX* ^|*Status*
+| 3GPP |XXXXX | xxxx |status
+| BSI |XXXXX | xxxx |status
+| ETSI |XXXXX | xxxx |status
+| IEEE SA |XXXXX | xxxx |status
+| ISO/IEC |XXXXX | xxxx |status
+| ISO/IEC JTC1 |XXXXX | xxxx |status
+| Khronos Group |XXXXX | xxxx |status
+| OMG |XXXXX | xxxx |status
+| Open Geospatial Consortium |XXXXX | xxxx |status
+| SAE |XXXXX | xxxx |status
+| UL |XXXXX | xxxx |status
+| W3C |XXXXX | xxxx |status
+|===
+
+.SDOs Primarily Publishing Industry (Domain) Specific Standards
+[cols="4",options="headers"]
+|===
+^|*SDO* ^|*XXXX* ^|*XXXXX* ^|*Status*
+| ASME |XXXXX | xxxx |status
+| ASTM |XXXXX | xxxx |status
+| DMSC |XXXXX | xxxx |status
+| DTC |XXXXX | xxxx |status
+| IPC |XXXXX | xxxx |status
+| ISA |XXXXX | xxxx |status
+| OAGi |XXXXX | xxxx |status
+| OPC |XXXXX | xxxx |status
+|===
+
+
+Any domain bodies in Power and Energy

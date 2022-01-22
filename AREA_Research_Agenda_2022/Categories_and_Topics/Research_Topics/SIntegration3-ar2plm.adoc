@@ -1,0 +1,47 @@
+[[ra-SIntegration5-ar2plm]]
+
+# Systems Integration between PLM Systems and AR
+
+## Description
+Significant AR experience development effort and time is dedicated to linking domain-specific data to AR engines and presentation systems. While many industries invest in AR scene development, the need is especially high in the manufacturing industry. Product Lifecycle Management (PLM) software systems curate design, manufacturing, and sustainment information related to a product system (ideally) throughout its entire lifecycle.
+
+Leveraging such data across PLM systems for industrial AR has mainly become a platform-specific exercise. Commercial PLM software vendors provide industrial AR solutions that leverage their application programming interfaces (APIs) to help establish AR scenes. However, most large original equipment manufacturers (OEMs) operate in complex, global, and heavily distributed supply chains. In other words, in many cases, OEMs subscribe to every major commercial PLM software platform to handle the variety of data representations provided by their suppliers. This is especially important if the developers aim to truly create a digital twin of a product or production system.
+
+This research topic will develop and test a standard data model that permits the vendor-neutral exchange of AR-critical data to produce updatable, sustainable, and maintainable AR scenes. One particular area of interest is understanding the proper handling of industrial animations.  Though AR standards provide representations for presenting animations within AR scenes, for example, they do not directly relate to product system animations stored within PLM systems. Rather than relying on a particular PLM platform's data representations, if such a data model was successfully developed, software developers would be able to exchange data across PLM software and to platform-agnostic AR engines more readily.
+
+## Prior Research
+2.89
+
+## Key Words
+standards, data interoperability, digital twin, product lifecycle management, platform-agnostic AR solutions, application programming interfaces, distributed supply chains, manufacturing, sustainment, industrial Internet of Things, IIoT
+
+### FindAR Terms
+ontologies (artificial intelligence), cost engineering, knowledge engineering, information management, project management, supply chains, team working, asset management, metadata, application programming interfaces, open source software, design engineering, systems engineering, cad/cam, quality management, supply chain management, manufacturing industries, product life cycle management, standardization, interoperability
+
+## Research Agenda Categories
+Standards, Technology, Industries
+
+## Stakeholders
+OEM manufacturers, integrated solution and software developers, CAD/CAM providers, engineering design teams, PLM software publishers
+
+## Reasons this topic is important for AREA members
+- Product design and manufacturing is the focus of many AREA customer segment members.
+- Resources invested in connecting domain-specific models, such as those stored with PLM systems, to proprietary AR engines and presentation systems increase cost and the time to reaching positive RoI on AR investments in manufacturing. - If a standard data model to represent AR-related data in manufacturing for use in PLM were adopted, systems integrators would increase use of AR in their solutions and members would have lower risk and investment to re-use existing or new engineering assets in AR experience.
+
+## Possible Methodologies
+This research topics could focus on testing existing PLM platforms and their AR-related competencies.  Reporting on gaps bewteen the interfaces across related software tools will be a strong contribution. Existing standard data representations provide a strong starting point for investigation. Focusing on dealing with sustainment for digital twin models would cover lots of the use cases.
+
+## Expected Impact Timeframe
+Near
+
+## Research Program
+OEMs with complex and heavily distributed supply chains should be a center point for the project. Program managers and technical advisors in such organizations understand the issue of cumbersome technical data packages.  This research topic significantly overlaps with https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/Categories_and_Topics/Research_Topics/SInteroperability3-digialmodels.adoc[the Digital Model Interoperability research topic]. [BB: issue with sentence grammar] There are distinct in that this research topic is specific to the manufacturing industry. The https://github.com/theareaorg/AREA-Research-Agenda/blob/main/AREA_Research_Agenda_2021/Categories_and_Topics/Research_Topics/SInteroperability3-digialmodels.adoc[Digital Model Interoperability research topic] relates more generally to 3D asset translation and can be applied to other domains, such as construction.
+
+## Miscellaneous Notes
+There exist resources to help position research efforts.  For example, the https://www.cax-if.org/[CAx Implementor Forum] provides a number of test cases. The Khronos Group is continously updating https://www.khronos.org/gltf/[glTF], the latest de-facto standard for lightweight model presentation. https://www.asme.org/topics-resources/content/y14-standards-overview[ASME Y14] is a working group that focuses on the standard presentaiton of GD&T annotations.
+
+## Author
+Bill Bernstein
+
+## Last Published (yyyy-mm-dd)
+2021-08-31

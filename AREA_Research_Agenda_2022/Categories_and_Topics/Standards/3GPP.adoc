@@ -1,0 +1,47 @@
+[[ra-Sxxxxx-xxxxxxxxxxxx]]
+
+# 3rd Generation Partnership Project (3GPP)
+
+# Overview
+3GPP is a consortium with seven national or regional telecommunication standards organizations as primary members ("organizational partners") and a variety of other organizations as associate members ("market representation partners"). The 3GPP organizes its work into three different streams: Radio Access Networks, Services and Systems Aspects, and Core Network and Terminals.
+
+The project was established in December 1998 with the goal of developing a specification for a 3G mobile phone system based on the 2G GSM system, within the scope of the International Telecommunication Union's International Mobile Telecommunications-2000, hence the name 3GPP. It should not be confused with 3rd Generation Partnership Project 2 (3GPP2), which developed a competing 3G system, CDMA2000.
+
+The 3GPP headquarters (known as the "Mobile Competence Centre") is located at the European Telecommunications Standards Institute headquarters in the Sophia Antipolis technology park in France.
+
+The 3GPP TSG SA WG4 (SA4) is the Working Group of greatest relevance to AR. The SA4 is responsible for the specifications of codecs for speech, audio, video, graphics and other media types related to emerging services such as extended realities (XR) and gaming.
+
+# Achievements to Date
+The best known work of the 3GPP is the development and maintenance of:
+
+. GSM and related 2G and 2.5G standards, including GPRS and EDGE
+. UMTS and related 3G standards, including HSPA and HSPA+
+. LTE and related 4G standards, including LTE Advanced and LTE Advanced Pro
+. 5G NR and related 5G standards, and
+. An evolved IP Multimedia Subsystem (IMS) developed in an access independent manner.
+
+At this time the 3GPP SA4 has released one Technical Report which is considered relevant for enterprise AR.
+
+.Existing Technical Reports
+[cols="4",options="headers"]
+|===
+^|*Number and Name* ^|*Scope/Relevance for Enterprise AR* ^|*Date Ratified* ^|*Status*
+| TR26.928 Extended Reality (XR) in 5G |Defines use cases for AR in 5G which are then to be used as the basis for development of standards in Rel 17 | December 2020 |final
+|===
+
+# Currently Under Development
+The 3PGG SA4 Working Group is developing a technical report that is highly relevant to the AR ecosystem. The scope of TR26.998, entitled "Support of 5G glass-type Augmented Reality / Mixed Reality (AR/MR) devices," is to document the following aspects:
+
+* Formal definitions for three functional structures of AR glasses, including their capabilities and constraints
+* Core use cases for AR services over 5G and defining relevant processing functions and reference architectures
+* Media exchange formats and profiles relevant to the core use cases
+* Content delivery transport protocols and capability exchange mechanisms, as well as suitable 5G system functionalities (including device, edge, and network) and required QoS (including radio access and core network technologies)
+* Key performance indicators and quality of experience factors
+* Relevant radio and system parameters (required bitrates, latencies, loss rates, range, etc.) to support the identified AR use cases and the required QoE
+* A detailed overall power analysis for media AR related processing and communication
+
+## Date this Information Reviewed and/or Updated
+July 21, 2021
+
+## Author
+Christine Perey

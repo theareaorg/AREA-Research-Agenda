@@ -1,0 +1,51 @@
+
+[[ra-Iindustrialequipment-newplantdesign]]
+
+# Remote Plant Design and Onboarding with AR
+
+## Description
+As research and development centers increasingly focus on implementing scalable industrial solutions on a global scale, it is difficult to ensure that, once new technologies are created and tested in a constrained environment, subject-matter experts can always travel to all the required plant locations.
+
+Remote assistance or collaboration with AR-enhanced local technicians permits subject-matter experts to view a new installation and to support local staff with operation of new technology onsite. Remote experts may advise local users and, where necessary, support specific operational decisions that must be taken rapidly due to the specific site configuration and requirements (e.g. best equipment layout to drive operational efficiency, adjustments due to specific environmental requirements or regulations, etc.).
+
+This research topic seeks to specifically measure time and cost benefits to new site operational readiness, as well as initial operational effectiveness, associated with AR- and non-AR assisted technology commercialization projects.
+
+## Prior Research
+1.73
+
+## Key Words
+Operational readiness, Operational effectiveness, Research and development, R&D, cost effectiveness, cost reduction, industrial research. technology, remote operations, decision support systems
+
+### FindAR Terms
+failure, indicators, just in time, mixed realities, optimisation
+
+## Research Agenda Categories
+Business, End User and User Experience, Use Cases
+
+## Stakeholders
+This research will provide operational excellence professionals, chief operating officers, safety and risk professionals, and plant managers quantitative information that will permit them to make better decisions about where and how to introduce AR in plants.
+
+## Reasons this topic is important for AREA members
+- Providing real-time support around decision-making associated with plant design and start-up via AR could decrease time to productivity and safe operational ramp-up.
+- AR-enabled plant design systems could increase global commercialization of new technologies at a lower cost than traditional methods that rely heavily upon travel and availability of subject-matter experts and these experts must have familiarity with local languages, customs, and practices.
+- Due to limited travel associated with COVID this is of particularly high interest, and could be of great significance to increased efforts to scale up vaccine manufacturing operations (and perhaps even distribution) across the globe.
+
+## Possible Methodologies
+The proposed research would need to identify key operational decisions and processes required for transfer from R&D to on-site operations. Research would measure time and cost to site operation with AR-assisted intervention and compare to known historical ramp-up times and costs.
+
+## Expected Impact Timeframe
+Near
+
+## Research Program
+This study could link closely with existing research programs associated with metals and mining, oil and gas, aerospace, manufacturing, and operational excellence in general.
+
+## Miscellaneous Notes
+Example of use cases:
+https://www.cidrap.umn.edu/news-perspective/2021/02/who-pushes-covid-vaccine-production-scale-more-sharing +
+https://apnews.com/press-release/pr-newswire/business-technology-lifestyle-products-and-services-jewelry-0c4c7956edd2d3f918f330a29ef59567 +
+
+## Author
+Jennifer Rogers
+
+## Last Published (yyyy-mm-dd)
+2021-08-31

@@ -1,0 +1,50 @@
+[[ra-Tauthentication5-biometric]]
+
+# Biometric Identification of Wearable Enterprise AR Device Users
+
+## Description
+New AR display devices encounter significant resistance from enterprise IT teams who consider the new hardware platforms increase security threats, consequently, increasing the need for an elevated security posture.
+
+Driven by a human-centric approach, a critical step in ensuring compliance with existing security policies and systems is to balance the security with accurate and rapid user authentication and ultra-low-friction user input.
+
+Biometric identification methods, ranging from palm-prints, voice-prints, iris scanning, gait to heartbeat detection offer a plethora of opportunities for identification of wearable enterprise AR device users before providing access to enterprise work orders and data.
+
+This research topic compares different modalities of biometric identification and classifies them based on accuracy, cost and ease-of-use.
+
+## Prior Research
+1.58
+
+## Key Words
+biometric, palm print, voice print, gait, retina scanning, iris scanning, heartbeat detection, skin conductivity
+
+### FindAR Terms
+access control, data protection, security systems, authentication, message authentication, authorization, data security, access protocols
+
+## Research Agenda Categories
+Displays, End User and User Experience, Technology
+
+## Stakeholders
+All stakeholder in corporate security organizations but primarily CISOs, CIOs, IT and security managers. On the vendor side, OEMs, solutions providers, system integrators and independent software vendors will be impacted by this research.
+
+## Reasons this topic is important for AREA members
+- Securing endpoints in the enterprise is a critical step in preventing compromised security of enterprise systems.
+- Highly personal modalities of authentication raise legitimate authentication, human factors and privacy concerns.
+- Implementing best practices reduce the negative impacts of slow and unreliable user authentication and inputs.
+
+## Possible Methodologies
+This research will require rigorous laboratory tests, deployed via multiple cells of different modalities. This will be followed by human factors and security research, culminating in field trials. Once baselines are available and validated, best practices can be established.
+
+## Expected Impact Timeframe
+Medium
+
+## Research Program
+This topic is closely related to another proposed AREA Research Agenda topic on cleaning and authenticating multi-user devices end user [ra-Tsecurity5-multiuserdisplays]. The topics could be combined with other AR security topics to develop a broader research program. In addition, the topic could be expanded to use the sensors on devices of other AR users in a workplace to confirm user identities.
+
+## Miscellaneous Notes
+The field of biometric authentication in cybersecurity is vast and there are many highly reputable research centers that could contribute to this research. Hundreds of publications appear each year in journals and proceedings. https://www.heinz.cmu.edu/~acquisti/papers/AcquistiGrossStutzman-JPC-2014.pdf[This paper describes results of studies to connect AR users with sensitive personal information derived from on-line platforms and use of these data to predict AR user interests and preferences.] In the https://dl.acm.org/doi/proceedings/10.1145/3457339[proceedings of the 7th ACM on Cyber-Physical System Security Workshop] (May 2021) https://dl.acm.org/doi/pdf/10.1145/3457339.3457983[an article compiles recently published work on this topic and describes MoveAR.] The goal of MoveAR is to distinguish between a legitimate user and potential adversaries based on the signatures detected by the on-device sensors as the user interacts with an augmented reality environment.
+
+## Author
+Peter Orban
+
+## Last Published (yyyy-mm-dd)
+2021-08-31

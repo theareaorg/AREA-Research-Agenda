@@ -1,0 +1,47 @@
+[[ra-Sxxxxx-xxxxxxxxxxxx]]
+# The American Society of Mechanical Engineers (ASME)
+
+# Overview
+From Wikipedia web page, the ASME is an American professional association that, in its own words, "promotes the art, science, and practice of multidisciplinary engineering and allied sciences around the globe" via "continuing education, training and professional development, codes and standards, research, conferences and publications, government relations, and other forms of outreach."
+
+ASME is thus an engineering society, a standards organization, a research and development organization, an advocacy organization, a provider of training and education, and a nonprofit organization. Founded as an engineering society focused on mechanical engineering in North America, ASME is today multidisciplinary and global.
+
+ASME has over 110,000 members in more than 150 countries worldwide.
+
+# Achievements to Date
+The largest ASME standard, both in size and in the number of volunteers involved in its preparation, is the ASME Boiler and Pressure Vessel Code (BPVC). The BPVC provides rules for the design, fabrication, installation, inspection, care, and use of boilers, pressure vessels, and nuclear components. The code also includes standards on materials, welding and brazing procedures and qualifications, nondestructive examination, and nuclear in-service inspection.
+
+Other areas in which the ASME has standards include:
+
+. Elevators and Escalators (A17 Series),
+. Overhead and Mobile Cranes and related lifting and rigging equipment (B30 Series),
+. Piping and Pipelines (B31 Series),
+. Bio-processing Equipment (BPE),
+. Valves Flanges,
+. Fittings and Gaskets (B16),
+. Nuclear Components and Processes Performance Test Codes.
+
+.Existing Standards
+[cols="4",options="headers"]
+|===
+^|*Number and Name* ^|*Scope/Relevance for Enterprise AR* ^|*Date Ratified* ^|*Status*
+| first |relevance | date ratified |status
+| second |relevance | date ratified |status
+
+|===
+
+# Currently Under Development
+text
+
+.Emerging Standards
+[cols="4",options="headers"]
+|===
+^|*Number and Name* ^|*Scope/Relevance for Enterprise AR* ^|*Date Begun* ^|*Status*
+| first |relevance | date of approval |status
+| second |relevance | date of approval |status
+|===
+# Date this Information Reviewed and/or Updated
+Date
+
+# Author
+First Name Last Name

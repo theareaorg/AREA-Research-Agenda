@@ -1,0 +1,45 @@
+[[ra-Iutilitiesg-waterflow]]
+
+# Visualizing Water Flow and Quality in Municipal Water Networks
+
+## Description
+Most municipal water supply pipe networks require a manual operation of various control units in case of scheduled maintenance or an emergency. Crews operating gate valves to isolate sections of the network greatly benefit from updated information on the flow and quality of the water in these sections.
+
+This research topic includes a field test of handheld or wearable devices to aid technicians in the field to visualize water flow and water quality data received from the control center. The user's device also could be connected to the control room, or substations, where there are multiple water pipes and sensor stations to view. The scope of the research could include the visualization of interfaces for gate valves and other equipment in the field.
+
+## Prior Research
+0.67
+
+## Key Words
+Data visualization, decision support, utility asset management, digital water services,
+
+### FindAR Terms
+water supply, water treatment, well stimulation, well testing
+
+## Research Agenda Categories
+Industries, Technology, Use Cases
+
+## Stakeholders
+This research will be valuable to the operators of municipal or regional water systems, waste management systems and the IT managers, field work force, and partners performing maintenance and repairs of utilities infrastructure.
+
+## Reasons this topic is important for AREA members
+- Some AREA members build, operate and manage large public and private infrastructure for clean and waste water. Systemic loss in water networks ranges from 20-90% (globally).
+- Improving the digital representation of these systems with accurate and automatic measurement technologies will reduce loss and create a more sustainable water management system.
+
+## Possible Methodologies
+To model and visualize the behavior of liquid inside the pipeline, computational fluid dynamic simulations will be employed. Using areas that have reliable, manually measured flow parameters, the AR-enabled prototype system will be tested in the field. Various data extraction methodologies are used to compare the AR-assisted platforms with ground truth.
+
+## Expected Impact Timeframe
+Medium
+
+## Research Program
+Leakage and issues with obstructed pipes are not unique to utilities. The research techniques developed for this topic can be adapted for use in other industries where resources are sent using linear assets and infrastructure. The research platform could be commercialized into products or services to increase safety, reduce waste and optimize operations of infrastructure.
+
+## Miscellaneous Notes
+None
+
+## Author
+Peter Orban, Christine Perey
+
+## Last Published (yyyy-mm-dd)
+2021-08-31

@@ -1,0 +1,51 @@
+[[ra-Bintegration5-findingpartsinproximity]]
+
+# AR for Material Management and/or Supply Chain Flow with Work Orders
+
+## Description
+Many industries track supply chains and juggle limited supplies of components, ingredients, or materials while planning work orders in a system. Combining data with AR displays could provide up-to-date information to users while on the job and assist in distributing human resources according to availability of materials. In the Industrial Internet of Things (IIoT), a facility or job site that is nearing the end of materials or has just received a shipment of materials can bring this status information into the AR-assisted user's field of view with updated work orders, reducing delays and optimizing use of resources and distribution of workers.
+
+This topic explores how to better share information about materials, equipment, and tools tracked in operations management software, and, when there are mission critical updates, how to display to a user current information about materials. The user may receive a new work order, be warned about material shortages, or be notified of a new assignment to move materials between locations, for instance. In the latter use case, the user may receive AR-assisted navigation support.
+
+When an AR-assisted user is made aware of status of materials in the supply chain, they are prepared to adapt and feel more satisfied. In addition, there is the potential for back-end IIoT systems to track the user's location before sending instructions with respect to material availabilities.
+
+This research topic explores different approaches to communicating and visualizing levels of materials in an IIoT context to study usability and impacts on worker productivity and satisfaction. It also examines integration of data from connected pallets and packaging and users' devices with operational software to automatically track processes, check in/check out, and make recommendations for users and managers.
+
+## Prior Research
+2.64
+
+## Key Words
+logistics data processing, materials management, supply chain management, logistics, asset tracing, asset tracking, asset management, Industrial Internet of Things (IIoT), usability, perception, work orders, productivity, navigation
+
+### FindAR Terms
+interactive systems and tools, Internet of Things, supply chain, time difference of arrival, warehouse automation, logistics data processing, pallets, supply chain management, manufacturing, mapping
+
+## Research Agenda Categories
+Business, Technology, Use Cases, End User and User Experience
+
+## Stakeholders
+operators of manufacturing, repair, employees and technicians in manufacturing facilities or on sites where parts and materials are distributed, maintenance managers, quality managers, managers of factories, providers of repair and maintenance services, supply chain managers
+
+## Reasons this topic is important for AREA members
+- AREA members with manufacturing facilities for assembly, those providing repair or maintenance services, and those providing field services where materials must be combined with a worker's skills and availabilities need better ways to visualize data in situ and predict and plan work accordingly.
+- Traditional ERP solutions for supply chain and work order management do not alert users to status updates in their visual field, so while they may provide real-time information, the technician must get information from other sources to act upon the change in status.
+- AR systems connected to data processing for parts and supplies on a work site could provide instantaneous status information and guidance, and even navigation, to users.
+- By immediately visualizing where materials are to be found and whether they are limited, the system will allow the user to waste less time waiting for materials and allow them to move parts or supplies to their optimal positions.
+
+## Possible Methodologies
+An experimental environment using a range of manufacturing conditions, materials, and procedures is the suitable environment for this research. Users of any tools or assembly systems located in facilities with limited ability to store local components will perform tasks under controlled conditions. Alerts will be introduced when supplies are nearly exhausted and when new shipments or orders arrive, along with other relevant real time information. Motion and time studies, quality inspection, and other measurements of performance will be used to quantify impacts. Users will complete surveys about satisfaction and feedback on various visualizations.
+
+## Expected Impact Timeframe
+Medium
+
+## Research Program
+This research topic can be combined with studies of AR-enabled guidance, 3D user interfaces, live sensor visualization for other use cases in factory and field settings, visualization of connected objects (e.g., tools), and IoT data streams.
+
+## Miscellaneous Notes
+Three non-commercial AREA members with financial support from both industry and government [MxD (in US), the Manufacturing Technology Center (The MTC, in UK) and the Advanced Manufacturing Research Center with Boeing (AMRC in UK)] have the required experimental environments and have already begun studying the approaches in this topic.
+
+## Author
+Christine Perey
+
+## Last Published (yyyy-mm-dd)
+2021-08-31

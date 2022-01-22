@@ -1,0 +1,122 @@
+# Research Topic Write-Ups: Targets for March 11 meeting
+
+On March 4, the team reviewed six of the seven the Frequency Bar Charts in the https://github.com/theareaorg/AREA-Research-Agenda/tree/main/AREA_Research_Agenda_2021/figures[2021 Research Agenda Figures folder] and developed preliminary targets for remaining effort levels in each of the categories.
+
+This document captures the proposed targets (goals) for new research topics to be developed (written) in one week and the categories and groups to which members volunteered to invest of their time and efforts.
+
+This file was updated on March 17.
+
+## Past Member-Proposed Topics
+Two past member-proposed topics have been captured:
+
+. Barriers to Adoption of AR for Inspection Use Cases (Use Cases) [DONE]
+. 3D Capture Standards to Streamline AR Authoring (Standards) [DONE]
+
+In addition, Christine will write up at least the following past member-proposed topics:
+
+. Common interface to swap out AR tracking libraries (Standards) [DONE]
+. Secure Identity and Authentication Management for Shareable (Multi-User) Wearable AR Displays [DONE]
+. AR Cloud in Enterprise [DONE]
+. Facilitated User Interactions for Selecting and Manipulating Virtual Models in Augmented Reality [DONE]
+. Standards for multi-user shared holograms (Standards)
+
+If she has time, Barb could write up:
+
+. User Experience Evaluation of Industrial Augmented Reality Applications
+
+## Business Category
+
+Would be valuable to develop two research topics that target the "Logistics" Group in this Category. No one was assigned these topics.
+
+UPDATE on March 15: The connected shipping container management topic could be a Logistics group example.
+
+## Displays Category
+
+Christine will complete one Display Device Energy Management topic [DONE] and write up one more [DONE].
+
+If he has time, Peter could write up another Display research topic [DONE].
+
+## End User Category
+
+Barb and ERAU team will propose/write up topics pertaining to "Presence" Group, [TWO ARE DONE] and we have not yet addressed/assigned development of at least 3-4 "User" Group topics. Could this be where one of Jennifer's topics fit?
+
+## Industries Category
+
+Anything in Industrial Equipment or below is fair game. Try to find topics that are unique to the vertical (industry) rather than use cases that are horizontal.
+
+Christine will write up 3 topics in Emergency Response and Government [one is DONE], and one for Marine [DONE]. All marine topics will be reviewed ("sanity checked") by NNS.
+
+Jennifer will write up two topics in Marine, two in Oil and Gas, one on Industrial Equipment and one on Farming. Is there another one in Metals and Mining?
+
+Peter will write up two on in Utilities [DONE](if possible, check with John Simmins) and I'm not sure which other industry he has an affinity for.
+
+## Technology Category
+
+Peter Orban will write up one topic in IoT [DONE], one for security group [DONE], and perhaps one about video over 5G (Verizon).
+
+Jennifer also will write up one topic on IoT.
+
+Christine will write up two topics pertaining to Web services and one other (TBD based on Bill's figures, in the lower frequency groups).
+
+## Use Cases Category
+
+Jennifer Rogers will do Collaboration and Simulation.
+
+Peter Orban will do Smart Cities [DONE].
+
+Christine will write up two topics fitting in the navigation use case group.
+
+# View of Assignments by Author
+
+## Christine Perey (14-2-2-3=7 remaining)
+
+* Four past member-proposed topics:
+
+. Common interface to swap out AR tracking libraries (Standards) [DONE]
+. Secure Identity and Authentication Management for Shareable (Multi-User) Wearable AR Displays [DONE]
+. AR Cloud in Enterprise [DONE]
+. Standards for multi-user shared holograms (Standards)
+
+* Two topics fitting in the "navigation" group (Use Case Category):
+. 3D maps and AR Cloud
+. Ask Marco Tillman
+
+* Finish preliminary Display Device Energy Management topic [DONE] and write up one more in same group [DONE]
+
+* Three topics in Emergency Response and Government [ONE DONE], and one for Marine (Industries)[DONE]
+
+* Two topics pertaining to Web services (chat with Trevor Flowers)
+
+* One other Group in Technology Category (Group TBD based on Bill's data)
+
+## Barb and ERAU team (6 or more)
+* Past member-proposed topic:
+
+** User Experience Evaluation of Industrial Augmented Reality Applications
+
+* Five (or as many as you can) topics pertaining to "Presence" Group (End User Category)
+
+## Peter Orban (8-6=2)
+
+* One or more in Display category (one of the groups with low count). [DONE, heavily edited by Christine]
+* Two topics in Utilities (and I'm not sure which other industry you have an affinity for?).[DONE, heavily edited by Christine]
+* One topic in IoT (Technology Category) [DONE, heavily edited by Christine]
+* One topic for security group,(Technology Category) [DONE, heavily edited by Christine]
+* Perhaps one topic about video over 5G
+* Two or more topics in Smart Cities Group (Use Cases). [One is Looking Good!]
+
+## Jennifer Rogers (8+)
+
+* One topic on IoT Group (Technology)
+* As many as you can think of in Collaboration and Simulation (Use Cases)
+* Two topics in Marine (Industries)
+* Two (or more) in Oil and Gas (Industries)
+* One on Industrial Equipment (Industries)
+* Q: Is there another one in Metals and Mining?
+
+## Orphans
+Would be valuable to develop two research topics that target the "Logistics" Group (Business Category).
+
+Need at least 3-4 "User" Group topics (End Users Category)
+
+Standards Category is wide open (Bill?)

@@ -1,0 +1,25 @@
+[[ra_terms-and-definitions_section]]
+== Terms and Definitions
+
+For the purposes of the AREA Enterprise AR Research Agenda, the following terms are defined.
+
+*Categories* +
+the highest level organizational system for all research topics. These are designated by the AREA Research Agenda team for the purpose of navigating the FindAR database and are carried into the analyses performed for knowledege gap identification. There are seven categories about which more information is found Documentation/About-Mid-And-High-Level-Terms.adoc[here]
+
+*Groups* +
+buckets of machine-generated terms that broadly describe a research domain. Currently, there exist 61 groups, which were agreed upon by subject matter experts. More information about groups is found in Documentation/About-Mid-And-High-Level-Terms.adoc[here]
+
+*Long Term* +
+a time frame of more than 5 years when the results of a research project may be expected to yield results of value to the enterprise AR ecosystem
+
+*Machine-generated Terms* +
+controlled keywords from two literature databases, namely Inspec and Compandex. More information about machine generated terms is found in About-Low-Level-Terms.adoc[here]
+
+*Medium Term* +
+a time frame of more than 2 and less than 5 years when the results of a research project may be expected to yield results of value to the enterprise AR ecosystem
+
+*Research Program* +
+an organizational model to cluster the research topic with other topics that could, together, make broader contributions to the industry
+
+*Short Term* +
+a time frame of less than 2 years when the results of a research project may be expected to yield results of value to the enterprise AR ecosystem

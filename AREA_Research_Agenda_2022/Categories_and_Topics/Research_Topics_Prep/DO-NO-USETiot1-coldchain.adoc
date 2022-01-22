@@ -1,0 +1,46 @@
+[[ra-Tiot5-coldchain]
+
+NOTE: DO NOT USE THIS. The text of the description and the keywords have been moved over to Imarine5-containermanagement.adoc
+
+# Identification of Cold Chain Governance using AR
+
+# Description
+Cold chains used to preserve and to extend and ensure the shelf life of products, such as fresh agricultural produce, frozen food, chemicals, and pharmaceutical products. Depending on the specific product, other physical parameters of the chain may also be regulated, e.g. CO2/oxygen level, humidity and others.
+
+Cold chain governance requires data loggers and/or RFID tags document the temperature history down to the container level. If a cold chain breaks, it is paramount to identify effected cargo as such and remove it from further shipping as soon as possible.
+Head mounted displays, or handheld devices can track unloading cargo and - pulling the data from the container’s data logger - visually identify non-compliant containers. This visualization allows for an efficient way of isolating non-compliance or other mismatches.
+
+This research topics includes creating digital representations of a cargo vessel and field test of HMD headsets integrated with port and ship maritime systems.
+
+# Prior Research
+To be generated via FindAR
+
+# Key Words
+cold chain, data-loggers, shipping, chain of custody,
+
+## FindAR Terms
+ambient intelligence, mechatronics, incandescent lamps, cognitive radio, internet of things, led lamps, industry 4.0
+
+# Research Agenda Categories
+Industries, Technology, Business
+
+# Stakeholders
+Port and shipping managers, Air cargo forwarding managers, IT managers, field work force, ISVs
+
+# Reasons this topic is important for AREA members
+Securing the safety of global freight is important and every measure aiming to decrease risk can lead to a decrease in insurance and shipping costs.
+
+# Possible Methodologies
+Largely in-field comparative testing supported by lab tests of various data extraction methodologies.
+
+# Expected Impact Timeframe
+Medium-Terms
+
+# Research Program
+Text
+
+# Miscellaneous Notes
+Text
+
+# Author
+Peter Orban

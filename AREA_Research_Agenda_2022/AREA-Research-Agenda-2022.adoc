@@ -1,0 +1,188 @@
+:Title: AREA Research Agenda 2021
+:titletext: {Title}
+:doctype: book
+:encoding: utf-8
+:lang: en
+:toc:
+:toc-placement!:
+:toclevels: 3
+:numbered:
+:sectanchors:
+:sectnums:
+:bibliography-database: references.bib
+:bibliography-style: apa
+<<<
+[cols = ">",frame = "none",grid = "none"]
+|===
+|{set:cellbgcolor:#FFFFFF}
+|[big]*AR for Enterprise Alliance*
+|Approval Date:   <2021-mm-dd>
+|Publication Date:   <2021-mm-dd>
+|External identifier of this AREA(R) document: http://www.theAREA.org/{researchagenda}/{m.n}
+|Version: n.n
+|Category: AREA(R) Research Agenda
+|Editor:   <Name(s) of Editor or Editors>
+|===
+
+[cols = "^", frame = "none"]
+|===
+|[big]*{titletext}*
+|===
+
+[cols = "^", frame = "none", grid = "none"]
+|===
+|*Copyright notice*
+|Copyright (C) 2021 AR for Enterprise Alliance
+|To obtain additional rights of use, visit http://www.theAREA.org/legal/
+|===
+
+[cols = "^", frame = "none"]
+|===
+|*Warning*
+|===
+
+This document provides guidance about topics for future research. It is based on insights and opinions of the members of the AR for Enterprise. T
+
+[width = "50%", grid = "none"]
+|===
+|Document type:   	Report
+|Document subtype:
+|Document stage:   	Draft
+|Document language: 	English
+|===
+
+<<<
+License Agreement
+
+[small]#Permission is hereby granted by the AR for Enterprise Alliance (ask Mark if we should have the correct legal name of the AREA appear here), ("Licensor"), free of charge and subject to the terms set forth below, to any person obtaining a copy of this Intellectual Property and any associated documentation, to deal in the Intellectual Property without restriction (except as set forth below), including without limitation the rights to implement, use, copy, modify, merge, publish, distribute, and/or sublicense copies of the Intellectual Property, and to permit persons to whom the Intellectual Property is furnished to do so, provided that all copyright notices on the intellectual property are retained intact and that each person to whom the Intellectual Property is furnished agrees to the terms of this Agreement.#
+
+[small]#If you modify the Intellectual Property, all copies of the modified Intellectual Property must include, in addition to the above copyright notice, a notice that the Intellectual Property includes modifications that have not been approved or adopted by LICENSOR.#
+
+[small]#THIS LICENSE IS A COPYRIGHT LICENSE ONLY, AND DOES NOT CONVEY ANY RIGHTS UNDER ANY PATENTS THAT MAY BE IN FORCE ANYWHERE IN THE WORLD.#
+
+[small]#THE INTELLECTUAL PROPERTY IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT OF THIRD PARTY RIGHTS. THE COPYRIGHT HOLDER OR HOLDERS INCLUDED IN THIS NOTICE DO NOT WARRANT THAT THE FUNCTIONS CONTAINED IN THE INTELLECTUAL PROPERTY WILL MEET YOUR REQUIREMENTS OR THAT THE OPERATION OF THE INTELLECTUAL PROPERTY WILL BE UNINTERRUPTED OR ERROR FREE. ANY USE OF THE INTELLECTUAL PROPERTY SHALL BE MADE ENTIRELY AT THE USER’S OWN RISK. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR ANY CONTRIBUTOR OF INTELLECTUAL PROPERTY RIGHTS TO THE INTELLECTUAL PROPERTY BE LIABLE FOR ANY CLAIM, OR ANY DIRECT, SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY DAMAGES WHATSOEVER RESULTING FROM ANY ALLEGED INFRINGEMENT OR ANY LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR UNDER ANY OTHER LEGAL THEORY, ARISING OUT OF OR IN CONNECTION WITH THE IMPLEMENTATION, USE, COMMERCIALIZATION OR PERFORMANCE OF THIS INTELLECTUAL PROPERTY.#
+
+[small]#This license is effective until terminated. You may terminate it at any time by destroying the Intellectual Property together with all copies in any form. The license will also terminate if you fail to comply with any term or condition of this Agreement. Except as provided in the following sentence, no such termination of this license shall require the termination of any third party end-user sublicense to the Intellectual Property which is in force as of the date of notice of such termination. In addition, should the Intellectual Property, or the operation of the Intellectual Property, infringe, or in LICENSOR's sole opinion be likely to infringe, any patent, copyright, trademark or other right of a third party, you agree that LICENSOR, in its sole discretion, may terminate this license without any compensation or liability to you, your licensees or any other party. You agree upon termination of any kind to destroy or cause to be destroyed the Intellectual Property together with all copies in any form, whether held by you or by any third party.#
+
+[small]#Except as contained in this notice, the name of LICENSOR or of any other holder of a copyright in all or part of the Intellectual Property shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Intellectual Property without prior written authorization of LICENSOR or such copyright holder. LICENSOR is and shall at all times be the sole entity that may authorize you or any third party to use certification marks, trademarks or other special designations to indicate compliance with any LICENSOR standards or specifications. This Agreement is governed by the laws of the Commonwealth of Massachusetts. The application to this Agreement of the United Nations Convention on Contracts for the International Sale of Goods is hereby expressly excluded. In the event any provision of this Agreement shall be deemed unenforceable, void or invalid, such provision shall be modified so as to make it valid and enforceable, and as so modified the entire Agreement shall remain in full force and effect. No decision, action or inaction by LICENSOR shall be construed to be a waiver of any rights or remedies available to it.#
+
+<<<
+toc::[]
+<<<
+
+include::clause_0_front_material.adoc[]
+
+include::clause_1_introduction.adoc[]
+
+include::clause_1-1_target_audiences.adoc[]
+
+include::clause_1-2_usage.adoc[]
+
+include::clause_1-3_other_research_agendas.adoc[]
+
+include::clause_1-4_research_quality.adoc[]
+
+include::clause_2_scope.adoc[]
+
+include::clause_3_terms_and_definitions.adoc[]
+
+include::clause_4_methodology.adoc[]
+
+include::clause_4-1_first_method.adoc[]
+
+include::clause_4-2_second_method.adoc[]
+
+<<<
+include::Categories_and_Topics/Research_Topics/Bintegration5-connectedtools.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Bintegration5-findingpartsinproximity.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/BIntegration5-meshnetwork.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Bperformance5-formfactors.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Bpolicy5-multidimensionalpovertyindex.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/DDisplaytechnology5-passthroughvssee-through.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Denergy5-charging.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Denergy5-DSPsforlowpower.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Ehuman-computerinteraction5-biofeedback.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Ehumanfactors5-visualencoding.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Ehumanfactors-heuristics.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Einput-textinput.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Einteraction5-modelmanipulations.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Epresence5-factorsinfluencing.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Eusers-comfortofHMD.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Iaviation5-seethroughclouds.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Iemergency5-thermalvision.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/IFarming5-CropPreservation.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Iindustrialequipment_newplantdesign.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Ilogistics5-containermanagement.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Imarine5-seethroughwater.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Imetalsandmining5-Crewingnewvaluechain.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Ioil5-sensors.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Iutilities5-digitalwater.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Iutilities5-waterflow.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/S3Dcapture5-streamlineauthoring.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Salert5-dangerosity.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Sapis5-trackinglibraries.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Sdataintegration5-hazardreporting.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/SIntegration3-ar2plm.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/SInteroperability3-digitalmodels.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Srobotics5-testingmethods.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Taudio5-spatialaudio.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Tauthentication5-biometric.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Tauthentication5-datavalidationtechniques.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Tcomputervision5-obfuscationoffacialdata.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Tcybersecurity5-riskassessmentreduction.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Tiot-operationalriskmitigation.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Tnetworks5-arcloud.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Tsecurity5-multiuserdisplays.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Uinspection5-barriers.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Unavigation5-transittime.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Usafety5-hazardsinproximity.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Usafety5-riskcategorization.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Usimulation3-streaming.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/USmartcities3-sitescan.adoc[leveloffset=2]
+<<<
+include::Categories_and_Topics/Research_Topics/Usmartcities5-multilayer.adoc[leveloffset=2]

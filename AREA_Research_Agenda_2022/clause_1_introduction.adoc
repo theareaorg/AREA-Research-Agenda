@@ -1,0 +1,50 @@
+[[ra_introduction_section]]
+= AREA Research Agenda 2021
+
+== Introduction
+
+In many settings and use cases, enterprise AR is gaining traction. Business line leaders in large enterprises are partnering with their innovation and IT departments to evaluate AR-enabling technologies in controlled settings such as a laboratory and training center. As experience with AR increases, customers seek to expand the range of AR use cases they may evaluate, streamline time- and labor-intensive phases and increase ROI.
+
+While AR shows promise, adoption continues to face many challenges. It is difficult for customers to develop solutions to address their specific challenges. Customers must choose to:
+
+. invest internally (company resources) to address their challenges,
+. outsource custom research on specific areas to third parties (e.g., engineering firms),
+. rely on the suppliers of commercial solutions to address the challenges for all their customers, or
+. look for “seeds” of future solutions (with potentially low technology readiness) from academic centers, private research institutes or projects conducted by public/private partnerships.
+
+A combination of these approaches is often used to reduce risk of relying on any one strategy.
+
+=== Motivations for this Research Agenda
+Engineering organizations, commercial AR technology and solution providers and research groups in public and privately funded institutions who seek to address enterprise AR challenges through basic or applied research lack specific guidance from customers encountering challenges to real world adoption.
+
+Research about topics pertaining to Augmented Reality adoption conducted in academia is often driven by a doctoral candidate’s choice of novel domains or methodology and a group’s need to quickly generate many peer-reviewed journal publications.
+
+Industrial research institutes or groups within commercial product companies choose research topics based on their predicted revenue potential (ROI). The result is that many are working from the “bottom up,” rather than having clear data-driven vision guiding investments in research.
+
+While all researchers and engineering firms would prefer to respond to the “pain points” of customers (or future customers), there is not an objectively compiled, curated description of customer and ecosystem needs.
+
+The lack of overarching principles and absence of data-driven gap and needs analyses to guide researchers and research funding organizations has the following impacts:
+
+. those funding the research cannot use science and data to choose those projects most likely to result in addressing large enterprise AR customer needs and driving adoption,
+. Researchers and research funding organizations cannot contribute directly to one or more overarching, multi-project vision and roadmap.
+
+=== Private or Public Resources
+In cases where investment to study the research topics identified in this Research Agenda is using corporate funding or investors seeking to gain a return on their investments, results of research could yield significant commercial advantage. Companies that study impacts of barriers and build new value that addresses the challenges facing enterprise AR adoption will be able to promote their offerings and command higher prices.
+
+If, when and where the research is conducted with the support of public funding sources (e.g., NSF, DoD, European Commission), the intellectual properties generated as part of the research may be released for the benefit of the enterprise AR ecosystem. Even when public funding sources are used for research, the agency may not mandate a full release of research results to the public domain. In these circumstances, some implementation details or intellectual properties may be protected and the basis for innovative new products and services.
+
+NOTE: Do the next two paragraphs say the same thing (repeat the same ideas)? Is there another order that would improve the flow?
+
+A “Research Agenda” is a living resource that focuses the attention of stakeholders and helps to establish priorities for research organizations, governmental and non-governmental funding organizations and planners who serve research stakeholders in other capacities. Once published, it should be maintained and/or used to measure progress against stakeholder-generated issues and gaps in knowledge or tools that can be addressed through research.
+
+A Research Agenda is a framework to guide research priorities and funding so that these focus on the most urgent needs of the greatest communities and target the obstacles to meet goals of those communities. Most researchers would prefer to address the “pain points” of customers or future customers than to invent new approaches or shed light on solutions to problems of their own invention. By providing curated descriptions of an ecosystem’s needs based on gaps and assessments compiled using objective methodologies research agendas can reduce the time required to align resources to needs and reduce the risks of making poorly-informed choices.
+
+=== Organization of This Resource
+
+This public resource provides context and background for those who may wish to:
+
+. Learn about research agendas in general,
+. Understand the target audiences for this work, and/or
+. Study and reproduce or comment on the methodologies used in preparation of the AREA's Research Agenda 2021.
+
+At its core, the AREA Research Agenda 2021 is a set of research topic descriptions developed to guide research priorities. An interactive dashboard with support for column sorting serves as the principle navigational interface to access the topic descriptions.

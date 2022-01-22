@@ -1,0 +1,48 @@
+[[ra-Ehumanfactors-heuristics]]
+
+# Development of Heuristics to Assess Enterprise AR Experience Design and Usability
+
+## Description
+Usability heuristics are lists of design guidelines that developers and practitioners can use to evaluate the usability of applications in the design and development process. A heuristic evaluation is an activity conducted by a usability expert that involves a checklist of best practices. Applications are judged on their adherence to the checklist items, and the results are used to refine the application design so that it better meets the end user's needs.
+
+While there are several general usability heuristics available for software interfaces (e.g., Nielsen’s 10 Usability Heuristics for User Interface Design, Schneiderman’s Eight Golden Rules of Interface Design), there have been no heuristic checklists developed specifically to assess AR experiences for the workplace. Using a heuristic checklist targeted to enterprise AR reveals aspects beyond the general best practices that are unique to AR environments. This includes characteristics such as safety, comfort, user interaction methods, hardware setup and capabilities, and privacy.
+
+This research topic involves the development of a new heuristic checklist for enterprise AR experience developers and practitioners to use to evaluate the usability of AR experiences and accompanying hardware.
+
+## Prior Research
+2.65
+
+## Key Words
+usability, user experience, heuristics, best practices
+
+### FindAR Terms
+product design, software design, user centered design, design, hci design and evaluation methods
+
+## Research Agenda Categories
+End User and User Experience, Industries, Technology
+
+## Stakeholders
+Developers, users, operators, users of AR applications
+
+## Reasons this topic is important for AREA members
+- This topic is of interest to AREA members because it helps to define best practices for AR application design.
+- The outcomes of this effort will allow providers of enterprise platforms to more quickly and reliably assess usability and UX, which in turn will facilitate informed iterative design/development, resulting in more satisfying, efficient, and effective solutions.
+- It is important to note that this checklist will complement user testing – it is not a replacement by any means.
+
+## Possible Methodologies
+Quiñones, Rusu, & Rusu (2018) outline a formal methodology for developing usability/user experience heuristics. The method has been applied in a number of domains outside of enterprise AR and validated by experts. This method involves a systematic literature review, examination of the experimental literature, detailed analyses of the characteristics heuristics should have in the domain, and three levels of validation.
+
+## Expected Impact Timeframe
+Medium
+
+## Research Program
+This topic is academic in nature though the resulting heuristic checklist should be validated with many AREA stakeholders in a variety of domains and industries to ensure robustness and generalized usefuless among the wide range of AR applications used in enterprise settings.
+
+## Miscellaneous Notes
+Details on how to develop a new set of heuristics for a domain are discussed in work by Quiñones, Rusu, & Rusu (2018) https://www.sciencedirect.com/science/article/pii/S0920548917303860?casa_token=9AqOOBdQFFQAAAAA:cIiacrm7bZ0rsL2UtTdLgQqgF1FnA6KZLknce5cphvYbiPh2fSZeNGoDXldyDpbspVWWD_4HnA/[in this article].
+
+## Author
+ERAU Team
+
+## Last Published (yyyy-mm-dd)
+2021-08-31

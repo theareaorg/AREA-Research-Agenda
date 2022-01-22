@@ -1,0 +1,47 @@
+[[ra-Tauthentication5-datavalidationtechniques]]
+
+# Authoritative Information and Source Validation in AR
+
+## Description
+In many use cases and network architectures, data requested by and provided to an AR user for an experience is not pre-loaded on the users device. For a variety of reasons and through a range of technologies, information is streaming from the cloud or edge to the AR device in real time. The reverse is also happening. Sensors on an AR user's device are capturing the real world and can send during or after world capture salient features or any combination of data (e.g., point clouds, video, audio, etc) to a safe and high capacity storage resource in the cloud or on the edge. Users may also need to use an AR device to annotate, confirm ground truth or add information about the real world to the cloud-based databases. During data creation (annotation) or transfer, there may be opportunities for agents to insert inaccurate or false information, or for corruption.
+
+Depending on use cases or publishers, the level of confidence about accuracy and authorship of information consumed from or added to a remote source will vary. In enterprise or industrial use cases, details about asset authenticity, ownership or conditions for use must be associated with the AR asset in metadata.
+
+This research topic focuses on development of ontologies, protocols and/or standards to ensure and to  communicate to or between enterprise systems and users in workplaces that data delivered for use in AR experiences is from an authorized source. In parallel, the research will study or develop on-device authentication systems to validate that data which is added to a pooled (cloud-based) data repository during an AR experience (e.g. tagging information and placing information) is authoritative and the source traceable.
+
+## Prior Research
+4.70
+
+## Key Words
+data capture, data streaming, security, authentication, author, authorship, publication, ownership, remote data repositories, AR cloud, edge computing, spatial computing
+
+### FindAR Terms
+access control, data protection, security systems,  authentication, message authentication, authorization, data security, access protocols
+
+## Research Agenda Categories
+Technology
+
+## Stakeholders
+Network operators, network managers, enterprise IT managers, AR experience publishers, AR experience authoring platforms, AR developers
+
+## Reasons this topic is important for AREA members
+- Before introducing data from remote sources to users in their networks or from users' AR devices into their data management systems, AREA member organizations must ensure that the data source is authenticated and any metadata associated with it can be used regardless of the choice of display or data architectures.
+- The members need to better understand the potential risks and opportunities of introducing AR Cloud for real world capture and data delivery in enterprise networks.
+
+## Possible Methodologies
+The research will focus on device encoding and edge computing technologies from multiple suppliers that can support distributed AR architectures. Studies will evaluate use of encryption and authentication technologies on device for suitability in distributed computing. Laboratory-based studies in controlled environments will measure and compare different approaches to data authentication and metadata authoring.
+
+## Expected Impact Timeframe
+Medium
+
+## Research Program
+This research topic could be part of a program studying the potential benefits of AR Cloud and 5G networks which provide low-latency and high bandwidth connectivity between cloud, edge and AR devices. Other topics such as cloud-based rendering of 3D graphics, discovery of AR experiences and security could be combined with this topic.
+
+## Miscellaneous Notes
+There is work in the W3C, IETF, IEEE, OMG and other standards bodies on related topics that could contribute to development of best practices and standards for enterprise data management systems.
+
+## Author
+Christine Perey
+
+## Last Published (yyyy-mm-dd)
+2021-08-31
