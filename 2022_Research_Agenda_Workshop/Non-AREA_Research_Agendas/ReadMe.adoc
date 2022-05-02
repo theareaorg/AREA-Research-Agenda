@@ -1,2 +1,6 @@
 = ReadMe
 This directory contains research agendas published by third parties.
+
+We can either link to research agendas that are publshed on the Web or upload the files into this directory.
+
+We will need to create a table of contents or some other means to track what we have already captured.
