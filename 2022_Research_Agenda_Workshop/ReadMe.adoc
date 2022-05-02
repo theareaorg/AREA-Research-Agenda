@@ -1,5 +1,5 @@
 = ReadMe
 
-This directory contains materials for collaboration with members and authors of other AR research agendas before, during and after development of the AREA Enterprise AR Research Agenda.
+This directory contains materials for collaboration with members and authors of other AR research agendas before, during and after development of the AREA 2022 Enterprise AR Research Agenda.
 
 We are exploring the possibility of conducting a workshop.
