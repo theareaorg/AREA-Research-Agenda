@@ -2,4 +2,4 @@
 
 There will be a list of sources studied and cited by the documentation.
 
-This is text
+This is text.
