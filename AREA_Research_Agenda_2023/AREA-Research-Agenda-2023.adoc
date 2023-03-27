@@ -1,4 +1,4 @@
-:Title: AREA Research Agenda 2021
+:Title: AREA Research Agenda 2023
 :titletext: {Title}
 :doctype: book
 :encoding: utf-8
